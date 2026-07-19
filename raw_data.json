@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T10:57:42.994330Z",
+  "generated_at": "2026-07-19T20:31:57.740137Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,31 @@
     ],
     "markets": [
       {
+        "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
+        "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+        "published": "Sun, 19 Jul 2026 19:06:00 GMT"
+      },
+      {
+        "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
+        "link": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
+        "published": "Sun, 19 Jul 2026 15:43:00 GMT"
+      },
+      {
+        "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
+        "link": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
+        "published": "Sun, 19 Jul 2026 14:45:00 GMT"
+      },
+      {
+        "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+        "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
+        "published": "Sun, 19 Jul 2026 12:30:00 GMT"
+      },
+      {
+        "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
+        "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+        "published": "Sun, 19 Jul 2026 11:30:00 GMT"
+      },
+      {
         "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
         "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
         "published": "Sun, 19 Jul 2026 09:20:00 GMT"
@@ -121,34 +146,34 @@
         "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
         "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
         "published": "Sat, 18 Jul 2026 19:00:00 GMT"
-      },
-      {
-        "title": "Netflix is spending big money on sports. Is the company making the right bets?",
-        "link": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
-        "published": "Sat, 18 Jul 2026 18:54:00 GMT"
-      },
-      {
-        "title": "Your Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
-        "link": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
-        "published": "Sat, 18 Jul 2026 18:49:00 GMT"
-      },
-      {
-        "title": "These are the obstacles still keeping women from retirement security",
-        "link": "https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories",
-        "published": "Sat, 18 Jul 2026 18:48:00 GMT"
-      },
-      {
-        "title": "The World Cup–winning side will make $50 million — and the IRS gets a cut",
-        "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
-        "published": "Sat, 18 Jul 2026 18:32:00 GMT"
-      },
-      {
-        "title": "I’m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?",
-        "link": "https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories",
-        "published": "Sat, 18 Jul 2026 18:30:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "The GENIUS Act turns 1: State of Crypto",
+        "link": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
+        "published": "Sun, 19 Jul 2026 18:30:00 +0000"
+      },
+      {
+        "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
+        "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
+        "published": "Sun, 19 Jul 2026 15:19:21 +0000"
+      },
+      {
+        "title": "AI is destroying the internet. Math is our only hope.",
+        "link": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
+        "published": "Sun, 19 Jul 2026 14:00:00 +0000"
+      },
+      {
+        "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+        "link": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
+        "published": "Sun, 19 Jul 2026 13:00:00 +0000"
+      },
+      {
+        "title": "Kraken says simpler options can unlock crypto's next derivatives market",
+        "link": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
+        "published": "Sun, 19 Jul 2026 13:00:00 +0000"
+      },
       {
         "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
         "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
@@ -163,31 +188,6 @@
         "title": "France orders country's internet service providers to block Polymarket",
         "link": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
         "published": "Sat, 18 Jul 2026 21:52:18 +0000"
-      },
-      {
-        "title": "Crypto executives say digital native generations may never need a bank account",
-        "link": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
-        "published": "Sat, 18 Jul 2026 18:30:00 +0000"
-      },
-      {
-        "title": "DOG Mode explains Bitcoin's next governance fight",
-        "link": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
-        "published": "Sat, 18 Jul 2026 17:00:00 +0000"
-      },
-      {
-        "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-        "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
-        "published": "Sat, 18 Jul 2026 16:09:59 +0000"
-      },
-      {
-        "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
-        "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
-        "published": "Sat, 18 Jul 2026 15:50:31 +0000"
-      },
-      {
-        "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
-        "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
-        "published": "Sat, 18 Jul 2026 14:15:15 +0000"
       }
     ]
   }
