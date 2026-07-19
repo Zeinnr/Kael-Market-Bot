@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T10:57:46.363647Z",
-  "raw_economic_data": {
+  "generated_at": "2026-07-19T10:57:42.994330Z",
+  "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
       "date": "2026-06-01",
@@ -58,7 +58,7 @@
       "change_pct": 1.41
     }
   },
-  "raw_news": {
+  "news": {
     "global_economy": [
       {
         "error": "<urlopen error [Errno -2] Name or service not known>"
@@ -190,8 +190,5 @@
         "published": "Sat, 18 Jul 2026 14:15:15 +0000"
       }
     ]
-  },
-  "analysis": {
-    "error": "ANTHROPIC_API_KEY belum diset"
   }
 }
