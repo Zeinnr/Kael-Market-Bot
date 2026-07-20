@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T13:23:24.866361Z",
+  "generated_at": "2026-07-20T21:50:24.531482Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-07-16",
-      "value": 4.57,
-      "previous_value": 4.55,
-      "change_pct": 0.44
+      "date": "2026-07-17",
+      "value": 4.55,
+      "previous_value": 4.57,
+      "change_pct": -0.44
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -65,6 +65,11 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "China’s AI models have Trump’s AI world at war with itself",
+        "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+        "published": "Mon, 20 Jul 2026 18:00:00 +0000"
+      },
       {
         "title": "The Download: AI hiring biases, and weather data sabotage",
         "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
@@ -99,63 +104,73 @@
         "title": "Why heat pumps are still so hot in the US",
         "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
         "published": "Thu, 16 Jul 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-        "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-        "published": "Wed, 15 Jul 2026 17:09:37 +0000"
       }
     ],
     "markets": [
       {
-        "title": "This may be the real reason USDA made a huge revision to its beef-export sales data",
-        "link": "https://www.marketwatch.com/story/this-may-be-the-real-reason-usda-made-a-huge-revision-to-its-beef-export-sales-data-8abfba78?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 12:54:00 GMT"
+        "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
+        "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 21:44:00 GMT"
       },
       {
-        "title": "World Cup champion Spain just won $50 million — and the IRS gets a cut",
-        "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 12:49:00 GMT"
-      },
-      {
-        "title": "Oil prices reverse lower after report of new Iran cease-fire proposal",
+        "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge",
         "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 12:37:00 GMT"
+        "published": "Mon, 20 Jul 2026 21:11:00 GMT"
       },
       {
-        "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-        "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 12:30:00 GMT"
+        "title": "Lumentum’s stock just got a lot more interesting — and Barclays has turned bullish",
+        "link": "https://www.marketwatch.com/story/lumentums-stock-just-got-a-lot-more-interesting-and-barclays-has-turned-bullish-e00e3395?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 21:05:00 GMT"
       },
       {
-        "title": "Scared of the AI trade? Here are three investment themes Goldman Sachs is offering instead.",
-        "link": "https://www.marketwatch.com/story/scared-of-the-ai-trade-here-are-three-investment-themes-instead-says-goldman-sachs-e620a510?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 11:42:00 GMT"
+        "title": "Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market",
+        "link": "https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 20:55:00 GMT"
       },
       {
-        "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
-        "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 10:30:00 GMT"
+        "title": "SpaceX gave investors intense FOMO. Now the decade’s hottest IPO represents a brutal reality check.",
+        "link": "https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 20:39:00 GMT"
       },
       {
-        "title": "Why it’s time to retire the Magnificent Seven as a stock-market talking point, say these strategists",
-        "link": "https://www.marketwatch.com/story/no-one-talks-about-faang-anymore-now-its-time-to-retire-magnificent-seven-as-well-citigroup-argues-ddf312c5?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 10:02:00 GMT"
+        "title": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
+        "link": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 20:38:00 GMT"
       },
       {
-        "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
-        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 10:00:00 GMT"
+        "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
+        "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 20:37:00 GMT"
+      },
+      {
+        "title": "SpaceX slides further down the ranks of large companies as it’s overtaken by Meta",
+        "link": "https://www.marketwatch.com/story/spacex-flirts-with-a-further-decline-down-the-market-cap-ranks-e539799e?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 20:24:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
+        "link": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
+        "published": "Mon, 20 Jul 2026 14:31:23 +0000"
+      },
+      {
+        "title": "Exodus to cut 25% of global workforce in payments shift",
+        "link": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
+        "published": "Mon, 20 Jul 2026 13:53:08 +0000"
+      },
+      {
+        "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
+        "link": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
+        "published": "Mon, 20 Jul 2026 13:49:24 +0000"
+      },
       {
         "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
         "link": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
         "published": "Mon, 20 Jul 2026 12:55:36 +0000"
       },
       {
-        "title": "Saylor's Strategy raises cash reserves to $3.225 billion, leaving bitcoin holdings unchanged",
+        "title": "Saylor's Strategy raises cash reserves to $3.2 billion, leaving bitcoin holdings unchanged",
         "link": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
         "published": "Mon, 20 Jul 2026 12:35:02 +0000"
       },
@@ -173,25 +188,63 @@
         "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
         "link": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
         "published": "Mon, 20 Jul 2026 11:10:07 +0000"
-      },
-      {
-        "title": "Crypto market slips even as equities advance. Pump surges on social-media chatter",
-        "link": "https://www.coindesk.com/markets/2026/07/20/crypto-market-slips-even-as-equities-advance-pump-surges-on-social-media-chatter",
-        "published": "Mon, 20 Jul 2026 10:33:14 +0000"
-      },
-      {
-        "title": "Hyperliquid plans to add decentralized prediction markets in upgrade to HIP-4",
-        "link": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
-        "published": "Mon, 20 Jul 2026 10:04:25 +0000"
-      },
-      {
-        "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
-        "link": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
-        "published": "Mon, 20 Jul 2026 09:31:22 +0000"
       }
     ]
   },
   "analysis": {
-    "error": "Gagal parse JSON: Expecting ',' delimiter: line 28 column 6 (char 3320). Raw text: {\n  \"headline\": \"10Y yield naik ke 4.57% di tengah data inflasi yang saling kontradiksi (CPI turun, PCE naik) dan payrolls nyaris stagnan — pasar dihadapkan pada sinyal makro campur aduk sementara crypto justru melemah saat equities menguat, indikasi decoupling yang perlu diwaspadai.\",\n  \"economic_summary\": \"CPI headline turun -0.42% MoM (332.57 vs 333.98) tapi PCE — indikator favorit Fed — justru naik +0.45% MoM, sinyal inflasi yang tidak konsisten. Payrolls nyaris flat (+0.04%, ~57rb net jobs)"
+    "headline": "Data tenaga kerja AS melemah tajam (payrolls nyaris flat +0.04%) berbenturan dengan sinyal inflasi yang saling kontradiktif (CPI turun -0.42% tapi PCE naik +0.45%), sementara lonjakan harga minyak akibat risiko Iran-Houthi mengancam menghidupkan kembali narasi stagflasi di tengah geliat institusional crypto yang mulai ragu-ragu.",
+    "economic_summary": "Payrolls nyaris stagnan (+0.04% m/m, hanya +57k), namun unemployment rate turun ke 4.2% dari 4.3% — kombinasi ini mengindikasikan kemungkinan penurunan labor force participation, bukan penguatan pasar kerja riil. CPI index turun -0.42% m/m sementara PCE price index (indikator favorit Fed) justru naik +0.45% m/m — kontradiksi ini signifikan dan tidak bisa diabaikan. Fed Funds rate tetap di 3.63% (unchanged), GDP tumbuh +1.41% q/q, retail sales +0.22%, dan 10Y yield turun tipis ke 4.55% dari 4.57%.",
+    "correlation_analysis": [
+      {
+        "trigger": "Payrolls nyaris flat (+0.04%) + yield 10Y turun ke 4.55%",
+        "mechanism": "Data jobs lemah → market re-price probabilitas Fed cut lebih tinggi → yield jangka panjang turun → discount rate untuk growth stock & crypto turun → valuasi aset berduration panjang (AI stocks, BTC/ETH) berpotensi terangkat. Namun sinyal ini lemah karena unemployment turun bersamaan, kemungkinan bias dari partisipasi angkatan kerja, bukan pelonggaran riil.",
+        "affected_assets": [
+          "equities (growth/AI stocks)",
+          "crypto (BTC/ETH)",
+          "bonds"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "Divergensi CPI (-0.42%) vs PCE (+0.45%)",
+        "mechanism": "Fed secara resmi menggunakan PCE sebagai acuan utama, bukan CPI — jika PCE riil naik sementara CPI turun, ini bisa berarti mispricing sementara di CPI basket (mis. shelter/energy lag) yang akan tertangkap di rilis berikutnya. Ini membuat ekspektasi rate-cut path jadi ambigu, dan repricing yield bisa berbalik cepat jika PCE dikonfirmasi naik konsisten.",
+        "affected_assets": [
+          "bonds (10Y yield)",
+          "USD",
+          "gold"
+        ],
+        "confidence": "low"
+      },
+      {
+        "trigger": "Harga minyak global naik ke level tertinggi 1 bulan akibat ancaman blokade Houthi ke Saudi Arabia & proposal gencatan senjata Iran yang rapuh",
+        "mechanism": "Supply shock energi → tekanan naik pada komponen energi CPI/PCE bulan berikutnya → risiko re-akselerasi inflasi → Fed berpotensi menunda cut lebih lama dari ekspektasi pasar saat ini → yield naik kembali → tekanan balik ke growth stock & crypto yang sensitif discount rate. Ini bertentangan langsung dengan narasi dovish dari data jobs, sehingga pasar berada di persimpangan.",
+        "affected_assets": [
+          "commodities (oil)",
+          "equities (growth)",
+          "crypto",
+          "USD"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "Institusi crypto-treasury (Bitmine memperlambat pembelian ETH sambil buyback saham $86jt; Strategy/Saylor menaikkan cash reserve ke $3.2B tanpa menambah BTC) + indikator 'volmageddon' bitcoin",
+        "mechanism": "Ketika entitas publik yang selama ini jadi marginal buyer BTC/ETH menahan akumulasi dan justru buyback saham sendiri, ini sinyal bahwa mereka menilai saham sendiri undervalued relatif ke aset kripto yang dipegang — bisa juga indikasi mereka mengantisipasi volatilitas turun (menjelaskan indikator volmageddon: compressed implied vol yang biasanya mendahului breakout tajam). Perlu diwaspadai potensi manipulasi sentimen lewat narrative treasury holding untuk menopang harga saham proxy (MSTR, BMNR) yang sudah trade di premium terhadap NAV crypto underlying.",
+        "affected_assets": [
+          "BTC",
+          "ETH",
+          "crypto-treasury equities (MSTR, BMNR)"
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "ai_tech_summary": "Narasi AI bifurkasi jadi dua kutub: 'bull vs bear case' Wall Street soal keberlanjutan capex AI, sementara SpaceX (IPO terpanas dekade ini) alami reality check valuasi dan tergeser Meta dari ranking market cap — sinyal awal bahwa euforia AI/space mulai dites pasar. Di sisi lain, infrastruktur compute AI tetap solid secara riil: Hut 8 & IREN (miner crypto yang pivot ke AI) mendapat kontrak senilai $9.8B, menunjukkan permintaan compute AI masih strukturaL, bukan hanya hype. Ketegangan AI China vs AI Barat (model China vs kebijakan Trump) menambah risiko geopolitik-regulasi pada supply chain compute global.",
+    "global_summary": "Risiko geopolitik Timur Tengah meningkat: blokade Houthi terhadap Saudi Arabia berbarengan dengan proposal gencatan senjata Iran yang belum solid, mendorong harga minyak ke level tertinggi sebulan — pasar tetap on edge karena ketidakpastian implementasi ceasefire. Data ekonomi global lain tidak tersedia (fetch error), sehingga assessment makro non-AS terbatas pada spillover dari harga energi.",
+    "risk_flags": [
+      "Kontradiksi CPI vs PCE harus dikonfirmasi rilis berikutnya sebelum menyimpulkan arah inflasi — jangan ambil posisi besar berdasarkan satu data point yang ambigu ini",
+      "Oil price spike dari risiko Houthi-Iran berpotensi membalikkan narasi dovish Fed dalam 1-2 rilis CPI/PCE mendatang — risiko stagflasi harus dimonitor ketat",
+      "Bitcoin 'volmageddon' indicator mengindikasikan compressed volatility yang secara historis mendahului breakout tajam (arah belum jelas) — hindari over-leverage jangka pendek",
+      "Perlambatan akumulasi BTC/ETH oleh entitas treasury publik (Strategy, Bitmine) bisa jadi leading indicator melemahnya marginal demand institusional, bukan noise — perhatikan apakah pola ini menyebar ke treasury company lain",
+      "Valuasi AI-related equities (SpaceX, index fund AI-heavy) mulai dites pasar — konsentrasi ETF pasif pada nama AI besar meningkatkan risiko sistemik jika sentimen berbalik"
+    ]
   }
 }
