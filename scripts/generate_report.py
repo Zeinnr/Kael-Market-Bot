@@ -29,6 +29,9 @@ Aturan ketat:
   dipaksakan jadi kesimpulan pasti.
 - Highlight risiko institutional/manipulation angle kalau relevan (terutama untuk
   data yang berkaitan dengan crypto/ETF flows).
+- Tulis ringkas dan padat. Setiap field summary maksimal 3-4 kalimat.
+  correlation_analysis maksimal 4 item paling penting saja — jangan lebih,
+  supaya output tidak terpotong.
 - Output HARUS format JSON valid, tanpa markdown fence, dengan struktur:
 {
   "headline": "satu kalimat ringkasan paling penting hari ini",
@@ -54,7 +57,7 @@ def call_claude(raw_data: dict) -> dict:
 
     body = json.dumps({
         "model": "claude-sonnet-5",
-        "max_tokens": 2000,
+        "max_tokens": 4096,
         "system": SYSTEM_PROMPT,
         "messages": [{"role": "user", "content": user_content}],
     }).encode("utf-8")
