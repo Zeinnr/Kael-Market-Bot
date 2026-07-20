@@ -3,7 +3,7 @@ generate_report.py
 Mengirim raw_data.json ke Claude API, minta dianalisis dengan framing korelasi
 lintas aset (equities, crypto, real estate, commodities) sesuai gaya "Kael".
 
-Output: report.json (dibaca oleh dashboard/index.html)
+Output: report.json (dibaca oleh docs/index.html)
 """
 
 import os
@@ -97,7 +97,7 @@ def main():
         "analysis": analysis,
     }
 
-    out_path = os.path.join(base_dir, "dashboard", "report.json")
+    out_path = os.path.join(base_dir, "docs", "report.json")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(report, f, indent=2, ensure_ascii=False)
 
