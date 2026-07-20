@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T20:32:00.301774Z",
+  "generated_at": "2026-07-20T09:24:14.264147Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "AI is more likely than humans to form biases when hiring",
+        "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+        "published": "Mon, 20 Jul 2026 08:39:01 +0000"
+      },
+      {
         "title": "The Download: perimenopause misinformation and China’s latest AI leap",
         "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
         "published": "Fri, 17 Jul 2026 12:10:00 +0000"
@@ -99,14 +104,39 @@
         "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
         "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
         "published": "Wed, 15 Jul 2026 12:10:00 +0000"
-      },
-      {
-        "title": "The Download: Claude’s inner workings, and the future of world models",
-        "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-        "published": "Tue, 14 Jul 2026 12:10:00 +0000"
       }
     ],
     "markets": [
+      {
+        "title": "If history is a guide, there’s still another week before earnings will start to move the stock market",
+        "link": "https://www.marketwatch.com/story/if-history-is-a-guide-theres-still-another-week-before-earnings-will-start-to-move-the-stock-market-52baccad?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 09:18:00 GMT"
+      },
+      {
+        "title": "No one talks about FAANG anymore. Now, it’s time to retire Magnificent Seven as well, Citigroup argues",
+        "link": "https://www.marketwatch.com/story/no-one-talks-about-faang-anymore-now-its-time-to-retire-magnificent-seven-as-well-citigroup-argues-ddf312c5?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 09:18:00 GMT"
+      },
+      {
+        "title": "Sean ‘Diddy’ Combs sells $55 million Miami mansion he tried to use for bail",
+        "link": "https://www.marketwatch.com/story/sean-diddy-combs-sells-55-million-miami-mansion-he-tried-to-use-for-bail-3cd2cb02?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 09:02:00 GMT"
+      },
+      {
+        "title": "‘Full House’ creator Jeff Franklin relists $45 million Beverly Hills home built on site of Manson murders",
+        "link": "https://www.marketwatch.com/story/full-house-creator-jeff-franklin-relists-45-million-beverly-hills-home-built-on-site-of-manson-murders-4d6a3f07?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 08:59:00 GMT"
+      },
+      {
+        "title": "Oil prices climb as U.S. and Iran continue to fight",
+        "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+        "published": "Mon, 20 Jul 2026 08:07:00 GMT"
+      },
+      {
+        "title": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
+        "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+        "published": "Sun, 19 Jul 2026 22:29:00 GMT"
+      },
       {
         "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
         "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
@@ -116,39 +146,39 @@
         "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
         "link": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
         "published": "Sun, 19 Jul 2026 15:43:00 GMT"
-      },
-      {
-        "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
-        "link": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
-        "published": "Sun, 19 Jul 2026 14:45:00 GMT"
-      },
-      {
-        "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-        "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-        "published": "Sun, 19 Jul 2026 12:30:00 GMT"
-      },
-      {
-        "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
-        "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
-        "published": "Sun, 19 Jul 2026 11:30:00 GMT"
-      },
-      {
-        "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
-        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-        "published": "Sun, 19 Jul 2026 09:20:00 GMT"
-      },
-      {
-        "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
-        "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
-        "published": "Sat, 18 Jul 2026 19:16:00 GMT"
-      },
-      {
-        "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-        "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-        "published": "Sat, 18 Jul 2026 19:00:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
+        "link": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
+        "published": "Mon, 20 Jul 2026 08:57:53 +0000"
+      },
+      {
+        "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
+        "link": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
+        "published": "Mon, 20 Jul 2026 08:10:34 +0000"
+      },
+      {
+        "title": "Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000",
+        "link": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
+        "published": "Mon, 20 Jul 2026 07:15:47 +0000"
+      },
+      {
+        "title": "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin",
+        "link": "https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin",
+        "published": "Mon, 20 Jul 2026 07:08:07 +0000"
+      },
+      {
+        "title": "Bitcoin ETFs see new money again, but inflows remain ‘peanuts’ relative to the recent exodus",
+        "link": "https://www.coindesk.com/markets/2026/07/20/bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-recent-exodus",
+        "published": "Mon, 20 Jul 2026 05:46:36 +0000"
+      },
+      {
+        "title": "Bitcoin flat near $64,000 as oil hits a one-month high and Kimi AI selloff lingers",
+        "link": "https://www.coindesk.com/markets/2026/07/20/bitcoin-flat-near-usd64-000-as-oil-hits-a-one-month-high-and-kimi-ai-selloff-lingers",
+        "published": "Mon, 20 Jul 2026 05:31:43 +0000"
+      },
       {
         "title": "The GENIUS Act turns 1: State of Crypto",
         "link": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
@@ -158,40 +188,10 @@
         "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
         "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
         "published": "Sun, 19 Jul 2026 15:19:21 +0000"
-      },
-      {
-        "title": "AI is destroying the internet. Math is our only hope.",
-        "link": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
-        "published": "Sun, 19 Jul 2026 14:00:00 +0000"
-      },
-      {
-        "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
-        "link": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
-        "published": "Sun, 19 Jul 2026 13:00:00 +0000"
-      },
-      {
-        "title": "Kraken says simpler options can unlock crypto's next derivatives market",
-        "link": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
-        "published": "Sun, 19 Jul 2026 13:00:00 +0000"
-      },
-      {
-        "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
-        "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
-        "published": "Sun, 19 Jul 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-        "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
-        "published": "Sun, 19 Jul 2026 05:37:34 +0000"
-      },
-      {
-        "title": "France orders country's internet service providers to block Polymarket",
-        "link": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
-        "published": "Sat, 18 Jul 2026 21:52:18 +0000"
       }
     ]
   },
   "analysis": {
-    "error": "ANTHROPIC_API_KEY belum diset"
+    "error": "Expecting value: line 1 column 1 (char 0)"
   }
 }
