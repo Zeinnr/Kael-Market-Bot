@@ -7,9 +7,11 @@ Output: report.json (dibaca oleh docs/index.html)
 """
 
 import os
+import re
 import json
 import datetime
 import urllib.request
+import urllib.error
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 API_URL = "https://api.anthropic.com/v1/messages"
@@ -70,15 +72,39 @@ def call_claude(raw_data: dict) -> dict:
 
     try:
         with urllib.request.urlopen(req, timeout=60) as resp:
-            data = json.loads(resp.read().decode())
-        text = "".join(
-            block.get("text", "") for block in data.get("content", [])
-            if block.get("type") == "text"
-        )
-        cleaned = text.strip().removeprefix("```json").removesuffix("```").strip()
-        return json.loads(cleaned)
+            raw_body = resp.read().decode()
+    except urllib.error.HTTPError as e:
+        error_body = e.read().decode(errors="replace")
+        return {"error": f"HTTP {e.code}: {error_body[:500]}"}
     except Exception as e:
-        return {"error": str(e)}
+        return {"error": f"Request gagal: {e}"}
+
+    try:
+        data = json.loads(raw_body)
+    except Exception:
+        return {"error": f"Response bukan JSON valid. Raw response: {raw_body[:500]}"}
+
+    if data.get("type") == "error":
+        return {"error": f"API error: {data.get('error', {}).get('message', 'unknown')}"}
+
+    text = "".join(
+        block.get("text", "") for block in data.get("content", [])
+        if block.get("type") == "text"
+    )
+
+    if not text.strip():
+        return {"error": f"Claude tidak mengembalikan teks. Full response: {json.dumps(data)[:500]}"}
+
+    # Cari blok JSON pertama ({ ... }) di dalam teks, jaga-jaga kalau ada
+    # penjelasan tambahan di luar instruksi meskipun sudah diminta JSON murni.
+    match = re.search(r"\{.*\}", text, re.DOTALL)
+    if not match:
+        return {"error": f"Tidak ditemukan JSON dalam respons. Raw text: {text[:500]}"}
+
+    try:
+        return json.loads(match.group(0))
+    except Exception as e:
+        return {"error": f"Gagal parse JSON: {e}. Raw text: {text[:500]}"}
 
 
 def main():
