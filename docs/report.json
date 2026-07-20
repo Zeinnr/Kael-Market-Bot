@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T09:42:14.401279Z",
+  "generated_at": "2026-07-20T09:49:38.960647Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -192,6 +192,55 @@
     ]
   },
   "analysis": {
-    "error": "Tidak ditemukan JSON dalam respons. Raw text: {\n  \"headline\": \"Yield 10Y naik ke 4.57% di tengah divergensi CPI (-0.42%) vs PCE (+0.45%) menciptakan kebingungan arah Fed, sementara oil melonjak akibat eskalasi US-Iran dan AI selloff China menyeret bitcoin ke bawah $64k — pasar sedang dihajar dari tiga arah sekaligus tanpa narasi tunggal yang koheren.\",\n  \"economic_summary\": \"CPI MoM turun -0.42% (332.57 vs 333.98) tapi PCE Price Index — indikator favorit Fed — justru naik +0.45% (131.53 vs 130.94), sebuah divergensi yang tidak bisa diabaika"
+    "headline": "CPI turun tapi PCE naik dan yield 10Y malah menguat — sinyal inflasi ambigu, sementara AI China (Kimi/Moonshot) memicu selloff serentak di crypto dan saham teknologi AS.",
+    "economic_summary": "CPI MoM turun -0.42% (332.57 vs 333.98) tapi PCE — indikator favorit Fed — justru naik +0.45% (131.53 vs 130.94), menciptakan sinyal inflasi yang saling bertentangan. Payrolls nyaris stagnan (+0.04%, hanya +57rb), unemployment turun ke 4.2%, GDP tumbuh solid +1.41% QoQ, tapi Fed Funds tetap flat di 3.63%. Yield 10Y justru naik ke 4.57% (+0.44%) di tengah data yang campur aduk, kemungkinan didorong kekhawatiran suplai/geopolitik bukan ekspektasi The Fed melunak.",
+    "correlation_analysis": [
+      {
+        "trigger": "Oil melonjak akibat eskalasi konflik AS-Iran, bersamaan dengan Goldman menyebut 'inflation is broadening out'",
+        "mechanism": "Oil naik → biaya energi & input cost naik → ekspektasi inflasi ke depan naik meski CPI headline turun → The Fed tetap hawkish, tidak buru-buru cut → yield 10Y naik (sudah terkonfirmasi di data, +0.44%) → discount rate naik → tekanan ke growth stocks & crypto, sementara komoditas energi dan gold diuntungkan sebagai hedge",
+        "affected_assets": [
+          "equities (growth/tech)",
+          "crypto (BTC)",
+          "commodities (oil, gold)"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "Divergensi CPI (-0.42%) vs PCE (+0.45%) — dua indikator inflasi utama bergerak berlawanan arah",
+        "mechanism": "Sinyal ambigu ini membuat The Fed kemungkinan menahan rate cut (Fed Funds tetap 3.63%) sampai ada konfirmasi arah yang jelas → market tidak bisa price-in easing agresif → bond yield tetap tertekan naik → cost of capital tinggi menekan valuasi aset berisiko tinggi termasuk crypto & small-cap growth",
+        "affected_assets": [
+          "equities (small-cap/growth)",
+          "crypto",
+          "bonds"
+        ],
+        "confidence": "low"
+      },
+      {
+        "trigger": "Rilis AI China (Moonshot Kimi, Alibaba) yang dianggap kompetitif terhadap model AS memicu 'AI selloff' yang menyeret bitcoin di bawah $64,000",
+        "mechanism": "Narasi dominasi AI AS terancam → keraguan terhadap ROI capex AI raksasa teknologi AS → selloff di saham chip/Mag7 → spillover ke crypto karena BTC masih berkorelasi tinggi sebagai proxy risk-on/high-beta tech → tekanan turun serentak di kedua kelas aset",
+        "affected_assets": [
+          "equities (chip stocks, Mag7)",
+          "crypto (BTC)"
+        ],
+        "confidence": "high"
+      },
+      {
+        "trigger": "Bitcoin ETF inflows kembali positif tapi disebut 'peanuts' dibanding exodus sebelumnya",
+        "mechanism": "Minat institusional masih sangat tipis dibanding capital yang sudah keluar → likuiditas pasar BTC didominasi retail/leverage → struktur pasar rapuh sehingga shock negatif (seperti AI selloff) berdampak lebih besar dari biasanya karena tidak ada institutional buffer/support level yang kuat",
+        "affected_assets": [
+          "crypto (BTC, ETF-linked products)"
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "ai_tech_summary": "OpenAI merilis GPT-Red, model internal untuk stress-test keamanan model lain — langkah defensif di tengah tekanan kompetitif. Sementara itu Moonshot AI (Kimi) dan Alibaba merilis model baru yang cukup kuat hingga memicu selloff di aset terkait AI termasuk bitcoin, menandakan pasar mulai mempertanyakan premium valuasi AI AS. Citigroup bahkan menyarankan 'pensiunkan' istilah Magnificent Seven — sinyal dispersi mulai muncul di dalam grup mega-cap tech yang tadinya bergerak monolitik.",
+    "global_summary": "Konflik militer AS-Iran meningkat dan mendorong harga oil ke level tertinggi sebulan terakhir, menambah risiko inflasi dari sisi supply-side di tengah data inflasi domestik yang sudah ambigu. Tidak ada data ekonomi global lain yang berhasil diambil (error retrieval), sehingga gambaran risiko geopolitik di luar AS-Iran belum lengkap — perlu diwaspadai gap informasi ini.",
+    "risk_flags": [
+      "Divergensi CPI vs PCE bisa membuat The Fed mengambil sikap yang salah arah — jangan asumsikan rate cut akan datang cepat hanya karena CPI headline turun",
+      "Payrolls nyaris flat (+0.04%) di balik unemployment rate yang turun — cek apakah ini karena partisipasi tenaga kerja turun, bukan job creation riil",
+      "BTC ETF inflow yang 'peanuts' menunjukkan institutional confidence belum pulih — rally BTC saat ini rentan terhadap reversal cepat jika sentiment risk-off berlanjut",
+      "Flash loan exploit di Allbridge ($1.65M) — reminder risiko keamanan DeFi tetap tinggi, cross-chain bridge masih jadi titik lemah struktural",
+      "Eskalasi AS-Iran adalah wildcard: jika memburuk, oil shock bisa membalikkan seluruh narasi disinflasi CPI dalam hitungan minggu"
+    ]
   }
 }
