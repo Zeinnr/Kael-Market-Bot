@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:50:24.531482Z",
+  "generated_at": "2026-07-21T12:10:02.351906Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "Advancing next-gen AI with materials science innovation",
+        "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+        "published": "Tue, 21 Jul 2026 10:37:34 +0000"
+      },
+      {
         "title": "China’s AI models have Trump’s AI world at war with itself",
         "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
         "published": "Mon, 20 Jul 2026 18:00:00 +0000"
@@ -99,152 +104,145 @@
         "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
         "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
         "published": "Thu, 16 Jul 2026 12:10:00 +0000"
-      },
-      {
-        "title": "Why heat pumps are still so hot in the US",
-        "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-        "published": "Thu, 16 Jul 2026 10:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
-        "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 21:44:00 GMT"
+        "title": "Alphabet is pouring record cash into data centers, and earnings will show if that’s paying off",
+        "link": "https://www.marketwatch.com/story/alphabet-is-pouring-record-cash-into-data-centers-and-earnings-will-show-if-thats-paying-off-fad38a2c?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 12:06:00 GMT"
       },
       {
-        "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge",
-        "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 21:11:00 GMT"
+        "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
+        "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 11:53:00 GMT"
       },
       {
-        "title": "Lumentum’s stock just got a lot more interesting — and Barclays has turned bullish",
-        "link": "https://www.marketwatch.com/story/lumentums-stock-just-got-a-lot-more-interesting-and-barclays-has-turned-bullish-e00e3395?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 21:05:00 GMT"
+        "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he’s putting his money now.",
+        "link": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 11:47:00 GMT"
       },
       {
-        "title": "Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market",
-        "link": "https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 20:55:00 GMT"
+        "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
+        "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 11:15:00 GMT"
       },
       {
-        "title": "SpaceX gave investors intense FOMO. Now the decade’s hottest IPO represents a brutal reality check.",
-        "link": "https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 20:39:00 GMT"
+        "title": "China has been buying the gold dip, and these analysts say a comeback is brewing",
+        "link": "https://www.marketwatch.com/story/china-has-been-buying-the-gold-dip-and-these-analysts-say-a-comeback-is-brewing-6b0400d3?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 11:06:00 GMT"
       },
       {
-        "title": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
-        "link": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 20:38:00 GMT"
+        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+        "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 11:00:00 GMT"
       },
       {
-        "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
-        "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 20:37:00 GMT"
+        "title": "Adobe stock has been crushed by AI fears. Now Morgan Stanley has cut its rating to underweight.",
+        "link": "https://www.marketwatch.com/story/adobe-stock-has-been-crushed-by-ai-fears-now-morgan-stanley-has-cut-its-rating-to-underweight-38378183?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 10:58:00 GMT"
       },
       {
-        "title": "SpaceX slides further down the ranks of large companies as it’s overtaken by Meta",
-        "link": "https://www.marketwatch.com/story/spacex-flirts-with-a-further-decline-down-the-market-cap-ranks-e539799e?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 20:24:00 GMT"
+        "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+        "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 10:31:00 GMT"
       }
     ],
     "crypto": [
       {
+        "title": "Bitcoin rally has broad-based support as institutions, whales, options traders pile in",
+        "link": "https://www.coindesk.com/daybook-us/2026/07/21/bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pile-in",
+        "published": "Tue, 21 Jul 2026 11:37:22 +0000"
+      },
+      {
+        "title": "Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal",
+        "link": "https://www.coindesk.com/markets/2026/07/21/clarity-act-odds-jump-11-points-on-polymarket-after-reports-trump-agreed-to-ethics-deal",
+        "published": "Tue, 21 Jul 2026 11:19:18 +0000"
+      },
+      {
+        "title": "Crypto markets rally on Clarity progress report, Asian chip-stock rebound",
+        "link": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
+        "published": "Tue, 21 Jul 2026 11:02:48 +0000"
+      },
+      {
+        "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
+        "link": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
+        "published": "Tue, 21 Jul 2026 07:21:04 +0000"
+      },
+      {
+        "title": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
+        "link": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
+        "published": "Tue, 21 Jul 2026 06:42:52 +0000"
+      },
+      {
+        "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
+        "link": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
+        "published": "Tue, 21 Jul 2026 06:15:26 +0000"
+      },
+      {
+        "title": "Bitcoin hits one-month high above $66,000 as the chip trade turns back into a tailwind",
+        "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
+        "published": "Tue, 21 Jul 2026 05:34:00 +0000"
+      },
+      {
         "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
         "link": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
         "published": "Mon, 20 Jul 2026 14:31:23 +0000"
-      },
-      {
-        "title": "Exodus to cut 25% of global workforce in payments shift",
-        "link": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
-        "published": "Mon, 20 Jul 2026 13:53:08 +0000"
-      },
-      {
-        "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
-        "link": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
-        "published": "Mon, 20 Jul 2026 13:49:24 +0000"
-      },
-      {
-        "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
-        "link": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
-        "published": "Mon, 20 Jul 2026 12:55:36 +0000"
-      },
-      {
-        "title": "Saylor's Strategy raises cash reserves to $3.2 billion, leaving bitcoin holdings unchanged",
-        "link": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
-        "published": "Mon, 20 Jul 2026 12:35:02 +0000"
-      },
-      {
-        "title": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
-        "link": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
-        "published": "Mon, 20 Jul 2026 12:02:28 +0000"
-      },
-      {
-        "title": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
-        "link": "https://www.coindesk.com/daybook-us/2026/07/20/a-bitcoin-volmageddon-may-be-brewing-key-indicator-suggests",
-        "published": "Mon, 20 Jul 2026 11:15:57 +0000"
-      },
-      {
-        "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
-        "link": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
-        "published": "Mon, 20 Jul 2026 11:10:07 +0000"
       }
     ]
   },
   "analysis": {
-    "headline": "Data tenaga kerja AS melemah tajam (payrolls nyaris flat +0.04%) berbenturan dengan sinyal inflasi yang saling kontradiktif (CPI turun -0.42% tapi PCE naik +0.45%), sementara lonjakan harga minyak akibat risiko Iran-Houthi mengancam menghidupkan kembali narasi stagflasi di tengah geliat institusional crypto yang mulai ragu-ragu.",
-    "economic_summary": "Payrolls nyaris stagnan (+0.04% m/m, hanya +57k), namun unemployment rate turun ke 4.2% dari 4.3% — kombinasi ini mengindikasikan kemungkinan penurunan labor force participation, bukan penguatan pasar kerja riil. CPI index turun -0.42% m/m sementara PCE price index (indikator favorit Fed) justru naik +0.45% m/m — kontradiksi ini signifikan dan tidak bisa diabaikan. Fed Funds rate tetap di 3.63% (unchanged), GDP tumbuh +1.41% q/q, retail sales +0.22%, dan 10Y yield turun tipis ke 4.55% dari 4.57%.",
+    "headline": "Data tenaga kerja lemah (payrolls hanya +57rb) plus penurunan yield 10Y menyalakan ekspektasi Fed lebih dovish, memicu rally serentak di Bitcoin dan risk assets — tapi sinyal inflasi CPI vs PCE saling bertentangan sehingga arah Fed sebenarnya masih ambigu.",
+    "economic_summary": "CPI index turun -0.42% MoM ke 332.568, tapi PCE (indikator favorit Fed) justru naik +0.45% MoM ke 131.527 — dua ukuran inflasi memberi sinyal berlawanan. Payrolls nyaris flat (+0.04%, ~57rb jobs), unemployment turun ke 4.2%, Fed Funds tetap di 3.63%. Yield 10Y turun tipis ke 4.55%, retail sales masih positif +0.22%, GDP QoQ +1.41% — ekonomi masih tumbuh tapi momentum tenaga kerja jelas melambat.",
     "correlation_analysis": [
       {
-        "trigger": "Payrolls nyaris flat (+0.04%) + yield 10Y turun ke 4.55%",
-        "mechanism": "Data jobs lemah → market re-price probabilitas Fed cut lebih tinggi → yield jangka panjang turun → discount rate untuk growth stock & crypto turun → valuasi aset berduration panjang (AI stocks, BTC/ETH) berpotensi terangkat. Namun sinyal ini lemah karena unemployment turun bersamaan, kemungkinan bias dari partisipasi angkatan kerja, bukan pelonggaran riil.",
+        "trigger": "Payrolls MoM nyaris nol (+0.04%) + yield 10Y turun ke 4.55%",
+        "mechanism": "Labor market melambat → pasar naikkan probabilitas Fed cut lanjutan → yield turun → discount rate untuk aset growth/duration panjang turun → crypto (BTC) dan growth stock jadi lebih menarik secara relatif, tercermin di ETF inflow 5 hari beruntun dan rally BTC ke $66rb",
         "affected_assets": [
-          "equities (growth/AI stocks)",
-          "crypto (BTC/ETH)",
-          "bonds"
+          "Bitcoin",
+          "growth stocks",
+          "US Treasuries"
+        ],
+        "confidence": "high"
+      },
+      {
+        "trigger": "CPI turun -0.42% tapi PCE naik +0.45% MoM pada bulan berdekatan",
+        "mechanism": "Sinyal inflasi yang saling bertentangan membuat Fed path tidak jelas — kalau PCE Juni nanti konfirmasi tren naik, ekspektasi cut bisa dibatalkan mendadak → yield bisa reversal naik → tekanan balik ke crypto & growth stock yang sudah re-price dovish scenario",
+        "affected_assets": [
+          "Bitcoin",
+          "Nasdaq/growth equities",
+          "US Treasuries"
         ],
         "confidence": "medium"
       },
       {
-        "trigger": "Divergensi CPI (-0.42%) vs PCE (+0.45%)",
-        "mechanism": "Fed secara resmi menggunakan PCE sebagai acuan utama, bukan CPI — jika PCE riil naik sementara CPI turun, ini bisa berarti mispricing sementara di CPI basket (mis. shelter/energy lag) yang akan tertangkap di rilis berikutnya. Ini membuat ekspektasi rate-cut path jadi ambigu, dan repricing yield bisa berbalik cepat jika PCE dikonfirmasi naik konsisten.",
+        "trigger": "Polymarket odds Clarity Act naik ke 43% atas rumor unverified ethics deal Trump",
+        "mechanism": "Ekspektasi kejelasan regulasi crypto (bukan data makro) mendorong institutional/whale/options positioning naik → ETF inflow berlanjut dan altcoin (XRP +4%) ikut rally — tapi ini rally berbasis rumor politik yang belum terverifikasi, rawan reversal cepat kalau berita ternyata salah",
         "affected_assets": [
-          "bonds (10Y yield)",
-          "USD",
-          "gold"
-        ],
-        "confidence": "low"
-      },
-      {
-        "trigger": "Harga minyak global naik ke level tertinggi 1 bulan akibat ancaman blokade Houthi ke Saudi Arabia & proposal gencatan senjata Iran yang rapuh",
-        "mechanism": "Supply shock energi → tekanan naik pada komponen energi CPI/PCE bulan berikutnya → risiko re-akselerasi inflasi → Fed berpotensi menunda cut lebih lama dari ekspektasi pasar saat ini → yield naik kembali → tekanan balik ke growth stock & crypto yang sensitif discount rate. Ini bertentangan langsung dengan narasi dovish dari data jobs, sehingga pasar berada di persimpangan.",
-        "affected_assets": [
-          "commodities (oil)",
-          "equities (growth)",
-          "crypto",
-          "USD"
+          "Bitcoin",
+          "XRP",
+          "crypto ETF flows"
         ],
         "confidence": "medium"
       },
       {
-        "trigger": "Institusi crypto-treasury (Bitmine memperlambat pembelian ETH sambil buyback saham $86jt; Strategy/Saylor menaikkan cash reserve ke $3.2B tanpa menambah BTC) + indikator 'volmageddon' bitcoin",
-        "mechanism": "Ketika entitas publik yang selama ini jadi marginal buyer BTC/ETH menahan akumulasi dan justru buyback saham sendiri, ini sinyal bahwa mereka menilai saham sendiri undervalued relatif ke aset kripto yang dipegang — bisa juga indikasi mereka mengantisipasi volatilitas turun (menjelaskan indikator volmageddon: compressed implied vol yang biasanya mendahului breakout tajam). Perlu diwaspadai potensi manipulasi sentimen lewat narrative treasury holding untuk menopang harga saham proxy (MSTR, BMNR) yang sudah trade di premium terhadap NAV crypto underlying.",
+        "trigger": "Rebound chip stocks Asia setelah anjlok 20%, dibarengi capex besar Alphabet ke data center dan downgrade Adobe akibat AI disruption",
+        "mechanism": "Narasi AI capex jadi proxy risk sentiment bersama — saat chip stock rebound, crypto ikut naik (disebut eksplisit di berita sebagai 'tailwind'), menunjukkan beta crypto-tech makin menyatu; sebaliknya kalau earnings Alphabet/hyperscaler gagal tunjukkan ROI AI capex, koreksi bisa menular ke seluruh risk complex termasuk crypto",
         "affected_assets": [
-          "BTC",
-          "ETH",
-          "crypto-treasury equities (MSTR, BMNR)"
+          "semiconductor stocks",
+          "Bitcoin",
+          "AI-linked mega cap tech"
         ],
         "confidence": "medium"
       }
     ],
-    "ai_tech_summary": "Narasi AI bifurkasi jadi dua kutub: 'bull vs bear case' Wall Street soal keberlanjutan capex AI, sementara SpaceX (IPO terpanas dekade ini) alami reality check valuasi dan tergeser Meta dari ranking market cap — sinyal awal bahwa euforia AI/space mulai dites pasar. Di sisi lain, infrastruktur compute AI tetap solid secara riil: Hut 8 & IREN (miner crypto yang pivot ke AI) mendapat kontrak senilai $9.8B, menunjukkan permintaan compute AI masih strukturaL, bukan hanya hype. Ketegangan AI China vs AI Barat (model China vs kebijakan Trump) menambah risiko geopolitik-regulasi pada supply chain compute global.",
-    "global_summary": "Risiko geopolitik Timur Tengah meningkat: blokade Houthi terhadap Saudi Arabia berbarengan dengan proposal gencatan senjata Iran yang belum solid, mendorong harga minyak ke level tertinggi sebulan — pasar tetap on edge karena ketidakpastian implementasi ceasefire. Data ekonomi global lain tidak tersedia (fetch error), sehingga assessment makro non-AS terbatas pada spillover dari harga energi.",
+    "ai_tech_summary": "Alphabet menggenjot capex data center besar-besaran, earnings minggu ini jadi ujian apakah spending itu menghasilkan ROI nyata — kalau tidak, valuasi AI infra bisa dikoreksi. Adobe di-downgrade Morgan Stanley karena disrupsi AI generatif ke software tradisional, sinyal bahwa AI mulai memakan incumbent bukan cuma boost infra players. Persaingan model AI China vs ekosistem AI Trump mengeras, menambah risiko geopolitik-tech ke rantai pasok chip.",
+    "global_summary": "China dilaporkan aktif membeli dip emas — indikasi diversifikasi cadangan menjauh dari dolar, konsisten dengan tren de-dollarization jangka menengah. Gasoline naik lebih cepat dari crude karena crack spread melebar, artinya tekanan inflasi di level konsumen (pompa bensin) bisa muncul terpisah dari harga minyak mentah itu sendiri — berpotensi bikin CPI headline bulan depan naik meski crude stabil. Berita ekonomi global lain tidak tersedia karena error fetch data.",
     "risk_flags": [
-      "Kontradiksi CPI vs PCE harus dikonfirmasi rilis berikutnya sebelum menyimpulkan arah inflasi — jangan ambil posisi besar berdasarkan satu data point yang ambigu ini",
-      "Oil price spike dari risiko Houthi-Iran berpotensi membalikkan narasi dovish Fed dalam 1-2 rilis CPI/PCE mendatang — risiko stagflasi harus dimonitor ketat",
-      "Bitcoin 'volmageddon' indicator mengindikasikan compressed volatility yang secara historis mendahului breakout tajam (arah belum jelas) — hindari over-leverage jangka pendek",
-      "Perlambatan akumulasi BTC/ETH oleh entitas treasury publik (Strategy, Bitmine) bisa jadi leading indicator melemahnya marginal demand institusional, bukan noise — perhatikan apakah pola ini menyebar ke treasury company lain",
-      "Valuasi AI-related equities (SpaceX, index fund AI-heavy) mulai dites pasar — konsentrasi ETF pasif pada nama AI besar meningkatkan risiko sistemik jika sentimen berbalik"
+      "Sinyal inflasi CPI vs PCE saling kontradiktif — jangan asumsikan Fed pasti dovish, tunggu konfirmasi data berikutnya sebelum menaruh keyakinan tinggi pada narasi rate cut",
+      "Rally crypto sebagian didorong rumor politik unverified (Clarity Act ethics deal) di Polymarket — risiko reversal tajam kalau berita terbukti salah atau tidak terkonfirmasi resmi",
+      "Crypto rally disebut 'broad-based' dengan whale & options traders masuk — perlu waspada leverage buildup yang bisa memperbesar volatilitas turun kalau sentiment berbalik",
+      "Chip stock baru saja anjlok 20% sebelum rebound — insider (co-founder Stocktwits) sudah keluar duluan, sinyal smart money defensif meski harga rebound; earnings Alphabet & hyperscaler AI jadi katalis besar minggu ini yang bisa memicu risk-off luas jika kecewakan pasar"
     ]
   }
 }

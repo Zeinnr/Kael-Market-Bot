@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:49:32.052819Z",
+  "generated_at": "2026-07-21T12:09:10.284626Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "Advancing next-gen AI with materials science innovation",
+        "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+        "published": "Tue, 21 Jul 2026 10:37:34 +0000"
+      },
+      {
         "title": "China’s AI models have Trump’s AI world at war with itself",
         "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
         "published": "Mon, 20 Jul 2026 18:00:00 +0000"
@@ -99,95 +104,90 @@
         "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
         "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
         "published": "Thu, 16 Jul 2026 12:10:00 +0000"
-      },
-      {
-        "title": "Why heat pumps are still so hot in the US",
-        "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-        "published": "Thu, 16 Jul 2026 10:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
-        "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 21:44:00 GMT"
+        "title": "Alphabet is pouring record cash into data centers, and earnings will show if that’s paying off",
+        "link": "https://www.marketwatch.com/story/alphabet-is-pouring-record-cash-into-data-centers-and-earnings-will-show-if-thats-paying-off-fad38a2c?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 12:06:00 GMT"
       },
       {
-        "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge",
-        "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 21:11:00 GMT"
+        "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
+        "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 11:53:00 GMT"
       },
       {
-        "title": "Lumentum’s stock just got a lot more interesting — and Barclays has turned bullish",
-        "link": "https://www.marketwatch.com/story/lumentums-stock-just-got-a-lot-more-interesting-and-barclays-has-turned-bullish-e00e3395?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 21:05:00 GMT"
+        "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he’s putting his money now.",
+        "link": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 11:47:00 GMT"
       },
       {
-        "title": "Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market",
-        "link": "https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 20:55:00 GMT"
+        "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
+        "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 11:15:00 GMT"
       },
       {
-        "title": "SpaceX gave investors intense FOMO. Now the decade’s hottest IPO represents a brutal reality check.",
-        "link": "https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 20:39:00 GMT"
+        "title": "China has been buying the gold dip, and these analysts say a comeback is brewing",
+        "link": "https://www.marketwatch.com/story/china-has-been-buying-the-gold-dip-and-these-analysts-say-a-comeback-is-brewing-6b0400d3?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 11:06:00 GMT"
       },
       {
-        "title": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
-        "link": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 20:38:00 GMT"
+        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+        "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 11:00:00 GMT"
       },
       {
-        "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
-        "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 20:37:00 GMT"
+        "title": "Adobe stock has been crushed by AI fears. Now Morgan Stanley has cut its rating to underweight.",
+        "link": "https://www.marketwatch.com/story/adobe-stock-has-been-crushed-by-ai-fears-now-morgan-stanley-has-cut-its-rating-to-underweight-38378183?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 10:58:00 GMT"
       },
       {
-        "title": "SpaceX slides further down the ranks of large companies as it’s overtaken by Meta",
-        "link": "https://www.marketwatch.com/story/spacex-flirts-with-a-further-decline-down-the-market-cap-ranks-e539799e?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 20:24:00 GMT"
+        "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+        "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 10:31:00 GMT"
       }
     ],
     "crypto": [
       {
+        "title": "Bitcoin rally has broad-based support as institutions, whales, options traders pile in",
+        "link": "https://www.coindesk.com/daybook-us/2026/07/21/bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pile-in",
+        "published": "Tue, 21 Jul 2026 11:37:22 +0000"
+      },
+      {
+        "title": "Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal",
+        "link": "https://www.coindesk.com/markets/2026/07/21/clarity-act-odds-jump-11-points-on-polymarket-after-reports-trump-agreed-to-ethics-deal",
+        "published": "Tue, 21 Jul 2026 11:19:18 +0000"
+      },
+      {
+        "title": "Crypto markets rally on Clarity progress report, Asian chip-stock rebound",
+        "link": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
+        "published": "Tue, 21 Jul 2026 11:02:48 +0000"
+      },
+      {
+        "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
+        "link": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
+        "published": "Tue, 21 Jul 2026 07:21:04 +0000"
+      },
+      {
+        "title": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
+        "link": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
+        "published": "Tue, 21 Jul 2026 06:42:52 +0000"
+      },
+      {
+        "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
+        "link": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
+        "published": "Tue, 21 Jul 2026 06:15:26 +0000"
+      },
+      {
+        "title": "Bitcoin hits one-month high above $66,000 as the chip trade turns back into a tailwind",
+        "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
+        "published": "Tue, 21 Jul 2026 05:34:00 +0000"
+      },
+      {
         "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
         "link": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
         "published": "Mon, 20 Jul 2026 14:31:23 +0000"
-      },
-      {
-        "title": "Exodus to cut 25% of global workforce in payments shift",
-        "link": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
-        "published": "Mon, 20 Jul 2026 13:53:08 +0000"
-      },
-      {
-        "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
-        "link": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
-        "published": "Mon, 20 Jul 2026 13:49:24 +0000"
-      },
-      {
-        "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock",
-        "link": "https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
-        "published": "Mon, 20 Jul 2026 12:55:36 +0000"
-      },
-      {
-        "title": "Saylor's Strategy raises cash reserves to $3.2 billion, leaving bitcoin holdings unchanged",
-        "link": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
-        "published": "Mon, 20 Jul 2026 12:35:02 +0000"
-      },
-      {
-        "title": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
-        "link": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
-        "published": "Mon, 20 Jul 2026 12:02:28 +0000"
-      },
-      {
-        "title": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
-        "link": "https://www.coindesk.com/daybook-us/2026/07/20/a-bitcoin-volmageddon-may-be-brewing-key-indicator-suggests",
-        "published": "Mon, 20 Jul 2026 11:15:57 +0000"
-      },
-      {
-        "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
-        "link": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
-        "published": "Mon, 20 Jul 2026 11:10:07 +0000"
       }
     ]
   }
