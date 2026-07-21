@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:09:10.284626Z",
+  "generated_at": "2026-07-21T21:45:24.363006Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-07-17",
-      "value": 4.55,
-      "previous_value": 4.57,
-      "change_pct": -0.44
+      "date": "2026-07-20",
+      "value": 4.6,
+      "previous_value": 4.55,
+      "change_pct": 1.1
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -65,6 +65,11 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+        "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+        "published": "Tue, 21 Jul 2026 12:10:00 +0000"
+      },
       {
         "title": "Advancing next-gen AI with materials science innovation",
         "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
@@ -99,95 +104,90 @@
         "title": "The risk of weather data sabotage is rising",
         "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
         "published": "Fri, 17 Jul 2026 08:57:32 +0000"
-      },
-      {
-        "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-        "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-        "published": "Thu, 16 Jul 2026 12:10:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Alphabet is pouring record cash into data centers, and earnings will show if that’s paying off",
-        "link": "https://www.marketwatch.com/story/alphabet-is-pouring-record-cash-into-data-centers-and-earnings-will-show-if-thats-paying-off-fad38a2c?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 12:06:00 GMT"
-      },
-      {
-        "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
-        "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 11:53:00 GMT"
-      },
-      {
-        "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he’s putting his money now.",
-        "link": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 11:47:00 GMT"
-      },
-      {
-        "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
-        "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 11:15:00 GMT"
-      },
-      {
-        "title": "China has been buying the gold dip, and these analysts say a comeback is brewing",
-        "link": "https://www.marketwatch.com/story/china-has-been-buying-the-gold-dip-and-these-analysts-say-a-comeback-is-brewing-6b0400d3?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 11:06:00 GMT"
-      },
-      {
-        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-        "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 11:00:00 GMT"
-      },
-      {
-        "title": "Adobe stock has been crushed by AI fears. Now Morgan Stanley has cut its rating to underweight.",
-        "link": "https://www.marketwatch.com/story/adobe-stock-has-been-crushed-by-ai-fears-now-morgan-stanley-has-cut-its-rating-to-underweight-38378183?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 10:58:00 GMT"
+        "title": "SpaceX’s stock snaps brutal losing streak ahead of key Starship rocket launch",
+        "link": "https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 20:59:00 GMT"
       },
       {
         "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
         "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 10:31:00 GMT"
+        "published": "Tue, 21 Jul 2026 20:30:00 GMT"
+      },
+      {
+        "title": "Why energy stocks still look so cheap, even after their big rally this month",
+        "link": "https://www.marketwatch.com/story/why-energy-stocks-still-look-so-cheap-even-after-their-big-rally-this-month-7f1a298b?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 20:27:00 GMT"
+      },
+      {
+        "title": "Why Micron and other chip stocks are bouncing back so strongly",
+        "link": "https://www.marketwatch.com/story/why-micron-and-other-chip-stocks-are-bouncing-back-so-strongly-3f6d3cee?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 20:12:00 GMT"
+      },
+      {
+        "title": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
+        "link": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 20:09:00 GMT"
+      },
+      {
+        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+        "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 20:00:00 GMT"
+      },
+      {
+        "title": "Why Paramount could win if it loses the Warner Bros. Discovery deal",
+        "link": "https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 19:49:00 GMT"
+      },
+      {
+        "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
+        "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 19:46:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Bitcoin rally has broad-based support as institutions, whales, options traders pile in",
-        "link": "https://www.coindesk.com/daybook-us/2026/07/21/bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pile-in",
-        "published": "Tue, 21 Jul 2026 11:37:22 +0000"
+        "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
+        "link": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
+        "published": "Tue, 21 Jul 2026 21:14:03 +0000"
       },
       {
-        "title": "Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal",
-        "link": "https://www.coindesk.com/markets/2026/07/21/clarity-act-odds-jump-11-points-on-polymarket-after-reports-trump-agreed-to-ethics-deal",
-        "published": "Tue, 21 Jul 2026 11:19:18 +0000"
+        "title": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
+        "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say",
+        "published": "Tue, 21 Jul 2026 20:05:33 +0000"
       },
       {
-        "title": "Crypto markets rally on Clarity progress report, Asian chip-stock rebound",
-        "link": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
-        "published": "Tue, 21 Jul 2026 11:02:48 +0000"
+        "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
+        "link": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
+        "published": "Tue, 21 Jul 2026 18:14:39 +0000"
       },
       {
-        "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-        "link": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
-        "published": "Tue, 21 Jul 2026 07:21:04 +0000"
+        "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal",
+        "link": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
+        "published": "Tue, 21 Jul 2026 17:54:40 +0000"
       },
       {
-        "title": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
-        "link": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
-        "published": "Tue, 21 Jul 2026 06:42:52 +0000"
+        "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
+        "link": "https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin",
+        "published": "Tue, 21 Jul 2026 16:19:24 +0000"
       },
       {
-        "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-        "link": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-        "published": "Tue, 21 Jul 2026 06:15:26 +0000"
+        "title": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
+        "link": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats",
+        "published": "Tue, 21 Jul 2026 16:16:14 +0000"
       },
       {
-        "title": "Bitcoin hits one-month high above $66,000 as the chip trade turns back into a tailwind",
-        "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
-        "published": "Tue, 21 Jul 2026 05:34:00 +0000"
+        "title": "Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors",
+        "link": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
+        "published": "Tue, 21 Jul 2026 15:19:44 +0000"
       },
       {
-        "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
-        "link": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
-        "published": "Mon, 20 Jul 2026 14:31:23 +0000"
+        "title": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era",
+        "link": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
+        "published": "Tue, 21 Jul 2026 14:27:03 +0000"
       }
     ]
   }
