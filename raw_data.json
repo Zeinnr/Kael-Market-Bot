@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T12:13:38.234353Z",
+  "generated_at": "2026-07-22T21:42:21.118045Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-07-20",
-      "value": 4.6,
-      "previous_value": 4.55,
-      "change_pct": 1.1
+      "date": "2026-07-21",
+      "value": 4.63,
+      "previous_value": 4.6,
+      "change_pct": 0.65
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -65,6 +65,11 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+        "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+        "published": "Wed, 22 Jul 2026 12:10:00 +0000"
+      },
       {
         "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
         "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
@@ -99,95 +104,90 @@
         "title": "The Download: perimenopause misinformation and China’s latest AI leap",
         "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
         "published": "Fri, 17 Jul 2026 12:10:00 +0000"
-      },
-      {
-        "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-        "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-        "published": "Fri, 17 Jul 2026 09:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Artificial intelligence will drive an unprecedented natural-gas deficit, this investor warns. Here are the stocks to buy before the crunch.",
-        "link": "https://www.marketwatch.com/story/artificial-intelligence-will-drive-an-unprecedented-natural-gas-deficit-this-investor-warns-here-are-the-stocks-to-buy-before-a-crunch-0d011a29?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 12:05:00 GMT"
+        "title": "IBM just cut its outlook, but not by as much as investors feared",
+        "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 21:39:00 GMT"
       },
       {
-        "title": "Having $100,000 invested was once the gateway to building real wealth. For young people today, it’s double that.",
-        "link": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 12:00:00 GMT"
+        "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+        "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 21:01:00 GMT"
       },
       {
-        "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
-        "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 11:30:00 GMT"
+        "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
+        "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 20:19:00 GMT"
       },
       {
-        "title": "Bond-market weakness makes a strong investment case for this unloved sector, strategist says",
-        "link": "https://www.marketwatch.com/story/bond-market-weakness-makes-a-strong-investment-case-for-this-unloved-sector-strategist-says-2cf258f8?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 11:26:00 GMT"
-      },
-      {
-        "title": "Oil prices climb to six-week high as hopes of de-escalation in Iran diminish",
-        "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 11:19:00 GMT"
-      },
-      {
-        "title": "The Treasury market is on the verge of a worrying milestone not seen since 2007",
+        "title": "The Treasury market touches a worrying milestone not seen since 2007",
         "link": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 11:15:00 GMT"
+        "published": "Wed, 22 Jul 2026 20:13:00 GMT"
       },
       {
-        "title": "AT&T’s stock rises after earnings. Here’s why investors are cheering.",
-        "link": "https://www.marketwatch.com/story/at-ts-stock-rises-after-earnings-heres-why-investors-are-cheering-41508d59?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 10:42:00 GMT"
+        "title": "Global oil prices settle at 6-week high after topping $95 a barrel, as hopes dim for de-escalation of Iran war",
+        "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 20:10:00 GMT"
       },
       {
-        "title": "I wanted to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-        "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 10:15:00 GMT"
+        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+        "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 20:00:00 GMT"
+      },
+      {
+        "title": "‘Owning a pet has become a luxury’ — vets worry about higher prices and shrinking pet population, survey finds",
+        "link": "https://www.marketwatch.com/story/owning-a-pet-has-become-a-luxury-vets-worry-about-higher-prices-and-shrinking-pet-population-survey-finds-dca5ad2b?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 19:56:00 GMT"
+      },
+      {
+        "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+        "link": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 19:40:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.",
-        "link": "https://www.coindesk.com/markets/2026/07/22/kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-u-s",
-        "published": "Wed, 22 Jul 2026 12:12:10 +0000"
+        "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+        "link": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
+        "published": "Wed, 22 Jul 2026 20:40:24 +0000"
       },
       {
-        "title": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
-        "link": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
-        "published": "Wed, 22 Jul 2026 11:45:42 +0000"
+        "title": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
+        "link": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
+        "published": "Wed, 22 Jul 2026 16:15:55 +0000"
       },
       {
-        "title": "Here's why bitcoin bulls should take a closer look at interest rates",
-        "link": "https://www.coindesk.com/daybook-us/2026/07/22/here-s-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates",
-        "published": "Wed, 22 Jul 2026 11:23:36 +0000"
+        "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
+        "link": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
+        "published": "Wed, 22 Jul 2026 15:53:54 +0000"
       },
       {
-        "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
-        "link": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
-        "published": "Wed, 22 Jul 2026 11:10:27 +0000"
+        "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+        "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+        "published": "Wed, 22 Jul 2026 15:37:36 +0000"
       },
       {
-        "title": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
-        "link": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface",
-        "published": "Wed, 22 Jul 2026 10:33:33 +0000"
+        "title": "UK digital bond plans hinge on one missing piece: onchain cash",
+        "link": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
+        "published": "Wed, 22 Jul 2026 15:36:49 +0000"
       },
       {
-        "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
-        "link": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
-        "published": "Wed, 22 Jul 2026 10:30:00 +0000"
+        "title": "Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/07/22/crypto-long-and-short-the-crypto-question-isn-t-what-to-own-it-s-what-you-can-survive-holding",
+        "published": "Wed, 22 Jul 2026 15:09:47 +0000"
       },
       {
-        "title": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
-        "link": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults",
-        "published": "Wed, 22 Jul 2026 09:01:54 +0000"
+        "title": "U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams",
+        "link": "https://www.coindesk.com/policy/2026/07/22/u-s-seeks-forfeiture-of-usd25-million-in-crypto-tied-to-romance-and-investment-scams",
+        "published": "Wed, 22 Jul 2026 13:45:58 +0000"
       },
       {
-        "title": "Live updates: Bitcoin slips under $66,000 as oil's surge sacks strength from risk markets",
-        "link": "https://www.coindesk.com/tech/2026/07/22/live-updates-bitcoin-under-usd66-000-as-traders-await-alphabet-earnings-to-gauge-ai-trade",
-        "published": "Wed, 22 Jul 2026 08:13:28 +0000"
+        "title": "Forget Nvidia: The next big AI trade could be crypto and blockchain",
+        "link": "https://www.coindesk.com/markets/2026/07/21/forget-nvidia-the-next-big-ai-trade-could-be-crypto-and-blockchain",
+        "published": "Wed, 22 Jul 2026 13:32:40 +0000"
       }
     ]
   }
