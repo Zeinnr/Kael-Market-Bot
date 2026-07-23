@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T21:43:11.286223Z",
+  "generated_at": "2026-07-23T12:12:03.395413Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "The power line that could reshape New York’s grid is hitting snags",
+        "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+        "published": "Thu, 23 Jul 2026 09:00:00 +0000"
+      },
+      {
         "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
         "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
         "published": "Wed, 22 Jul 2026 12:10:00 +0000"
@@ -99,149 +104,94 @@
         "title": "AI is more likely than humans to form biases when hiring",
         "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
         "published": "Mon, 20 Jul 2026 08:39:01 +0000"
-      },
-      {
-        "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-        "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-        "published": "Fri, 17 Jul 2026 12:10:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "IBM just cut its outlook, but not by as much as investors feared",
-        "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 21:39:00 GMT"
+        "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.",
+        "link": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 11:59:00 GMT"
       },
       {
-        "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-        "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 21:01:00 GMT"
+        "title": "Lockheed Martin’s stock leaps as push to build more missiles faster pays off",
+        "link": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 11:56:00 GMT"
       },
       {
-        "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
-        "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 20:19:00 GMT"
+        "title": "Oil nears $100 a barrel after Houthis claim strikes on Saudi Arabian tankers",
+        "link": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 11:07:00 GMT"
       },
       {
-        "title": "The Treasury market touches a worrying milestone not seen since 2007",
-        "link": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 20:13:00 GMT"
+        "title": "The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling",
+        "link": "https://www.marketwatch.com/story/the-u-s-premium-for-sk-hynix-is-set-to-stay-after-korean-regulatory-ruling-bde1ddb6?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 11:04:00 GMT"
       },
       {
-        "title": "Global oil prices settle at 6-week high after topping $95 a barrel, as hopes dim for de-escalation of Iran war",
-        "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 20:10:00 GMT"
+        "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+        "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 11:00:00 GMT"
       },
       {
-        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-        "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 20:00:00 GMT"
-      },
-      {
-        "title": "‘Owning a pet has become a luxury’ — vets worry about higher prices and shrinking pet population, survey finds",
-        "link": "https://www.marketwatch.com/story/owning-a-pet-has-become-a-luxury-vets-worry-about-higher-prices-and-shrinking-pet-population-survey-finds-dca5ad2b?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 19:56:00 GMT"
+        "title": "T-Mobile earnings rise as customers pour into premium plans",
+        "link": "https://www.marketwatch.com/story/t-mobile-earnings-rise-as-customers-pour-into-premium-plans-dbed96b8?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 10:39:00 GMT"
       },
       {
         "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
         "link": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 19:40:00 GMT"
+        "published": "Thu, 23 Jul 2026 10:00:00 GMT"
+      },
+      {
+        "title": "Why beat-and-raise earnings reports are no longer enough to push the stock market higher",
+        "link": "https://www.marketwatch.com/story/why-beat-and-raise-earnings-reports-are-no-longer-enough-to-push-the-stock-market-higher-d6b2cae4?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 09:48:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
-        "link": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
-        "published": "Wed, 22 Jul 2026 20:40:24 +0000"
+        "title": "Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund",
+        "link": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund",
+        "published": "Thu, 23 Jul 2026 12:00:00 +0000"
       },
       {
-        "title": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
-        "link": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
-        "published": "Wed, 22 Jul 2026 16:15:55 +0000"
+        "title": "Polymarket to challenge France’s nationwide website block",
+        "link": "https://www.coindesk.com/policy/2026/07/23/polymarket-to-challenge-france-s-nationwide-website-block",
+        "published": "Thu, 23 Jul 2026 11:53:53 +0000"
       },
       {
-        "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
-        "link": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
-        "published": "Wed, 22 Jul 2026 15:53:54 +0000"
+        "title": "Bulls face a test unlike anything in bitcoin's 17-year history",
+        "link": "https://www.coindesk.com/daybook-us/2026/07/23/bulls-face-a-test-unlike-anything-in-bitcoin-s-17-year-history",
+        "published": "Thu, 23 Jul 2026 11:13:39 +0000"
       },
       {
-        "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
-        "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
-        "published": "Wed, 22 Jul 2026 15:37:36 +0000"
+        "title": "Crypto catches its breath as bitcoin settles into a holding pattern amid July rally",
+        "link": "https://www.coindesk.com/markets/2026/07/23/crypto-catches-its-breath-as-bitcoin-settles-into-a-holding-pattern-after-its-best-month-since-january",
+        "published": "Thu, 23 Jul 2026 10:26:23 +0000"
       },
       {
-        "title": "UK digital bond plans hinge on one missing piece: onchain cash",
-        "link": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
-        "published": "Wed, 22 Jul 2026 15:36:49 +0000"
+        "title": "Live markets: Bitcoin slips back as Iran war expansion sends oil surging above $90 per barrel",
+        "link": "https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade",
+        "published": "Thu, 23 Jul 2026 09:03:33 +0000"
       },
       {
-        "title": "Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/07/22/crypto-long-and-short-the-crypto-question-isn-t-what-to-own-it-s-what-you-can-survive-holding",
-        "published": "Wed, 22 Jul 2026 15:09:47 +0000"
+        "title": "BitMEX, the exchange that invented perps, is shutting down",
+        "link": "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23",
+        "published": "Thu, 23 Jul 2026 08:42:26 +0000"
       },
       {
-        "title": "U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams",
-        "link": "https://www.coindesk.com/policy/2026/07/22/u-s-seeks-forfeiture-of-usd25-million-in-crypto-tied-to-romance-and-investment-scams",
-        "published": "Wed, 22 Jul 2026 13:45:58 +0000"
+        "title": "24/7 financial rails: How BNY plans to eliminate the weekend lag in U.S. Treasuries",
+        "link": "https://www.coindesk.com/business/2026/07/23/24-7-financial-rails-how-bny-plans-to-eliminate-the-weekend-lag-in-u-s-treasuries",
+        "published": "Thu, 23 Jul 2026 08:42:21 +0000"
       },
       {
-        "title": "Forget Nvidia: The next big AI trade could be crypto and blockchain",
-        "link": "https://www.coindesk.com/markets/2026/07/21/forget-nvidia-the-next-big-ai-trade-could-be-crypto-and-blockchain",
-        "published": "Wed, 22 Jul 2026 13:32:40 +0000"
+        "title": "South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family",
+        "link": "https://www.coindesk.com/markets/2026/07/23/south-korea-s-oldest-crypto-exchange-is-now-part-of-the-usd800-billion-mirae-group-family",
+        "published": "Thu, 23 Jul 2026 07:05:42 +0000"
       }
     ]
   },
   "analysis": {
-    "headline": "Yield 10Y AS menyentuh 4.63% (level tak terlihat sejak 2007) di tengah lonjakan harga minyak ke $95/barel akibat eskalasi Iran, menciptakan tekanan ganda ke aset duration panjang (growth stock, AI, crypto) sementara sinyal inflasi domestik (CPI vs PCE) saling bertentangan.",
-    "economic_summary": "CPI headline turun -0.42% MoM ke 332.568, tapi PCE Price Index (indikator favorit Fed) justru naik +0.45% MoM — dua data ini saling kontradiksi dan tidak boleh ditarik kesimpulan tren disinflasi yang solid. Unemployment turun ke 4.2%, payrolls nyaris flat (+0.04%), retail sales naik tipis 0.22%, GDP QoQ +1.41%. Fed Funds Rate stagnan di 3.63% selama periode ini, sementara yield 10Y justru naik ke 4.63% — divergensi ini mengindikasikan market pricing in term premium/fiscal risk, bukan sekadar ekspektasi kebijakan Fed jangka pendek.",
-    "correlation_analysis": [
-      {
-        "trigger": "US 10Y Treasury yield naik ke 4.63% (level psikologis 'worrying milestone since 2007') sementara Fed Funds Rate stagnan di 3.63%",
-        "mechanism": "Curve steepening ini bukan driven oleh ekspektasi hawkish jangka pendek (Fed funds flat), melainkan term premium/fiscal risk premium naik → cost of capital untuk long-duration cashflow assets naik → discount rate untuk valuasi growth/AI stock & crypto (non-yielding asset) ikut naik → tekanan de-rating, sejalan dengan berita 'AI stock selloff looks terrifying'",
-        "affected_assets": [
-          "equities (growth/AI stocks)",
-          "crypto (BTC/ETH)",
-          "real estate (mortgage rate sensitive)"
-        ],
-        "confidence": "high"
-      },
-      {
-        "trigger": "Harga minyak melonjak ke $95/barel (6-week high) akibat eskalasi perang Iran tanpa tanda de-eskalasi",
-        "mechanism": "Supply-side oil shock → cost-push inflation via energy component PCE/CPI → PCE sudah naik 0.45% MoM, jika oil shock berlanjut PCE bulan depan berpotensi naik lebih tajam → Fed tertahan untuk cut rate meski CPI headline turun → risk asset (equities & crypto) tertekan dari sisi 'higher for longer' narrative",
-        "affected_assets": [
-          "commodities (energy)",
-          "equities",
-          "crypto"
-        ],
-        "confidence": "medium"
-      },
-      {
-        "trigger": "Divergensi CPI (-0.42%) vs PCE (+0.45%) dalam periode yang sama",
-        "mechanism": "Ini adalah sinyal ambigu — CPI turun bisa didorong komponen shelter/used car lag, sementara PCE naik mencerminkan services/healthcare weighting berbeda. Tidak bisa dijadikan basis kesimpulan Fed akan dovish, karena Fed secara eksplisit lebih memperhatikan PCE. Market yang overreact ke CPI turun berisiko salah posisi jika Fed tetap hawkish berbasis PCE",
-        "affected_assets": [
-          "rates-sensitive equities",
-          "gold/commodities sebagai inflation hedge"
-        ],
-        "confidence": "low"
-      },
-      {
-        "trigger": "Draft baru Clarity Act membatasi crypto empire Trump + SEC Commissioner Peirce warning DeFi vaults/onchain lending bisa masuk securities law",
-        "mechanism": "Regulatory overhang institutional pada DeFi yield products → capital yang sebelumnya masuk ke DeFi vault/lending protocol berpotensi tertahan menunggu kejelasan hukum → risk premium naik khusus untuk token DeFi governance & lending platform, terpisah dari pergerakan BTC/ETH major cap",
-        "affected_assets": [
-          "crypto (DeFi tokens)",
-          "crypto (regulatory-sensitive altcoins)"
-        ],
-        "confidence": "medium"
-      }
-    ],
-    "ai_tech_summary": "Ketegangan geopolitik AI meningkat: model AI China memecah kebijakan internal White House administrasi Trump, sementara Anthropic membayar settlement copyright rekor — menandakan risiko legal/regulatory cost naik untuk AI labs besar. OpenAI dilaporkan terlibat insiden hack otonom di Hugging Face, menambah concern soal AI security governance. Studi baru juga menunjukkan AI lebih rentan bias hiring dibanding manusia — isu ini berpotensi jadi basis regulasi baru untuk enterprise AI deployment.",
-    "global_summary": "Data global_economy gagal fetch (DNS error), sehingga konteks makro global tidak bisa dikonfirmasi langsung dari sumber utama. Namun dari market news, eskalasi perang Iran menjadi driver utama lonjakan harga minyak ke $95/barel dan sentimen 'hopes dim for de-escalation' — ini risk geopolitik aktif yang belum tercermin di data ekonomi resmi manapun.",
-    "risk_flags": [
-      "Yield 10Y menyentuh milestone psikologis sejak 2007 — screening ketat diperlukan untuk exposure di sektor real estate/REIT dan long-duration growth stock",
-      "Eskalasi perang Iran + oil $95/barel adalah wildcard geopolitik yang bisa membalik narasi disinflasi CPI dalam 1-2 rilis data ke depan",
-      "Divergensi CPI vs PCE jangan ditarik kesimpulan pasti — tunggu konfirmasi data bulan depan sebelum reposisi berbasis ekspektasi Fed dovish",
-      "Regulatory crackdown DeFi (SEC Peirce, Clarity Act) berpotensi memicu capital flight dari yield-bearing crypto product ke BTC/ETH murni — watch token-specific volatility",
-      "Tesla catat impairment loss $112M dari bitcoin treasury — indikasi corporate crypto treasury holding makin jadi sumber earnings volatility, bukan sekadar hedge"
-    ]
+    "error": "Gagal parse JSON: Expecting ',' delimiter: line 29 column 6 (char 3381). Raw text: ```json\n{\n  \"headline\": \"10Y yield naik ke 4.63% di tengah Fed funds rate yang stagnan dan CPI headline yang justru turun — sinyal kuat bahwa pasar obligasi sedang re-pricing risk premium dari oil shock geopolitik, bukan dari ekspektasi kebijakan Fed.\",\n  \"economic_summary\": \"CPI headline turun -0.42% MoM (332.57 vs 333.98) tapi PCE Price Index — indikator favorit Fed — justru naik +0.45% MoM, sebuah divergensi yang tidak biasa dan perlu diwaspadai sebelum ditarik kesimpulan soal arah inflasi. U"
   }
 }
