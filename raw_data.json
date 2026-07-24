@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:57:57.487819Z",
+  "generated_at": "2026-07-24T21:44:46.656002Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,9 +45,9 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-07-22",
-      "value": 4.67,
-      "previous_value": 4.63,
+      "date": "2026-07-23",
+      "value": 4.71,
+      "previous_value": 4.67,
       "change_pct": 0.86
     },
     "GDP": {
@@ -65,6 +65,16 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "The quest to keep organs alive outside the body",
+        "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+        "published": "Fri, 24 Jul 2026 17:03:55 +0000"
+      },
+      {
+        "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+        "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+        "published": "Fri, 24 Jul 2026 12:10:00 +0000"
+      },
       {
         "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
         "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
@@ -94,61 +104,81 @@
         "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
         "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
         "published": "Wed, 22 Jul 2026 09:00:00 +0000"
-      },
-      {
-        "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-        "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-        "published": "Tue, 21 Jul 2026 12:10:00 +0000"
-      },
-      {
-        "title": "Advancing next-gen AI with materials science innovation",
-        "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-        "published": "Tue, 21 Jul 2026 10:37:34 +0000"
       }
     ],
     "markets": [
       {
-        "title": "American Express rides a boom in Platinum cards to its strongest spending growth in years",
-        "link": "https://www.marketwatch.com/story/american-express-rides-a-boom-in-platinum-cards-to-its-strongest-spending-growth-in-years-07ecac26?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 11:51:00 GMT"
+        "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
+        "link": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 21:38:00 GMT"
       },
       {
-        "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them even more?",
-        "link": "https://www.marketwatch.com/story/farmers-are-already-set-for-a-55-billion-payday-why-does-washington-want-to-give-them-even-more-b81b3f09?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 11:50:00 GMT"
+        "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+        "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 21:30:00 GMT"
       },
       {
-        "title": "Verizon’s stock rises as earnings show the company is no longer a ‘hunting ground’",
-        "link": "https://www.marketwatch.com/story/verizons-stock-rises-as-earnings-show-the-company-is-no-longer-a-hunting-ground-f63476b6?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 11:08:00 GMT"
+        "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
+        "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 21:30:00 GMT"
       },
       {
-        "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
-        "link": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 11:00:00 GMT"
+        "title": "Pay raises keep shrinking. Here’s how much smaller they’ll be next year.",
+        "link": "https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 21:22:00 GMT"
       },
       {
-        "title": "Why fixing the housing crisis for under-40s could trigger 10% Treasury yields",
-        "link": "https://www.marketwatch.com/story/why-fixing-the-housing-crisis-for-under-40s-could-trigger-10-treasury-yields-04c65b78?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 10:46:00 GMT"
+        "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
+        "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 21:21:00 GMT"
       },
       {
-        "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-        "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 10:30:00 GMT"
+        "title": "FDA advisers say six popular peptides can be compounded. Here are the issues they considered.",
+        "link": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 20:26:00 GMT"
       },
       {
-        "title": "China is winning the war in the Middle East, and gold and the dollar will start to feel it, strategist says",
-        "link": "https://www.marketwatch.com/story/china-is-winning-the-war-in-the-middle-east-and-gold-and-the-dollar-will-start-to-feel-it-strategist-says-5a04a544?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 10:21:00 GMT"
+        "title": "I’m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
+        "link": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 20:11:00 GMT"
       },
       {
-        "title": "Here’s how much revenue S&P 500 companies make from overseas",
-        "link": "https://www.marketwatch.com/story/heres-how-much-revenue-s-p-500-companies-make-from-overseas-ce10f434?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 10:13:00 GMT"
+        "title": "The world is facing its largest oil shock ever. Here is why prices are not higher.",
+        "link": "https://www.marketwatch.com/story/the-world-is-facing-its-largest-oil-shock-ever-here-is-why-prices-are-not-higher-0bb943c7?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 19:31:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
+        "link": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
+        "published": "Fri, 24 Jul 2026 15:01:46 +0000"
+      },
+      {
+        "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
+        "link": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
+        "published": "Fri, 24 Jul 2026 15:00:00 +0000"
+      },
+      {
+        "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
+        "link": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
+        "published": "Fri, 24 Jul 2026 14:36:16 +0000"
+      },
+      {
+        "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
+        "link": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
+        "published": "Fri, 24 Jul 2026 13:15:15 +0000"
+      },
+      {
+        "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
+        "link": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+        "published": "Fri, 24 Jul 2026 13:03:03 +0000"
+      },
+      {
+        "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
+        "link": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
+        "published": "Fri, 24 Jul 2026 11:58:06 +0000"
+      },
       {
         "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
         "link": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
@@ -158,36 +188,6 @@
         "title": "Crypto's institutional influx has killed the memecoin craze",
         "link": "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze",
         "published": "Fri, 24 Jul 2026 11:35:48 +0000"
-      },
-      {
-        "title": "A $5 billion cluster has formed in bitcoin options. It tells a bullish story",
-        "link": "https://www.coindesk.com/markets/2026/07/24/a-usd5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story",
-        "published": "Fri, 24 Jul 2026 11:34:53 +0000"
-      },
-      {
-        "title": "Bitcoin settles near $65,000 as oil's march toward $100 fails to spook the market",
-        "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-settles-near-usd65-000-as-oil-s-march-toward-usd100-fails-to-spook-the-market",
-        "published": "Fri, 24 Jul 2026 11:19:38 +0000"
-      },
-      {
-        "title": "Poolin was bitcoin's biggest mining pool and now it's filing for bankruptcy",
-        "link": "https://www.coindesk.com/markets/2026/07/24/poolin-was-bitcoin-s-biggest-mining-pool-and-now-it-s-filing-for-bankruptcy",
-        "published": "Fri, 24 Jul 2026 11:09:40 +0000"
-      },
-      {
-        "title": "Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices collapse",
-        "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse",
-        "published": "Fri, 24 Jul 2026 10:53:52 +0000"
-      },
-      {
-        "title": "India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat",
-        "link": "https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat",
-        "published": "Fri, 24 Jul 2026 10:10:42 +0000"
-      },
-      {
-        "title": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
-        "link": "https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down",
-        "published": "Fri, 24 Jul 2026 09:54:00 +0000"
       }
     ]
   }
