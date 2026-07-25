@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T14:57:23.418120Z",
+  "generated_at": "2026-07-25T15:06:34.037231Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,16 @@
     ],
     "markets": [
       {
+        "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
+        "link": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
+        "published": "Sat, 25 Jul 2026 14:59:00 GMT"
+      },
+      {
+        "title": "I’m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
+        "link": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
+        "published": "Sat, 25 Jul 2026 14:56:00 GMT"
+      },
+      {
         "title": "A ‘generational buying opportunity’ guarantees inflation plus 3% a year, says this hedge-fund manager",
         "link": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
         "published": "Sat, 25 Jul 2026 14:32:00 GMT"
@@ -136,16 +146,6 @@
         "title": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement",
         "link": "https://www.marketwatch.com/story/spacex-isnt-the-wireless-threat-that-investors-fear-unless-someone-breaks-this-unspoken-agreement-864dab90?mod=mw_rss_topstories",
         "published": "Sat, 25 Jul 2026 12:00:00 GMT"
-      },
-      {
-        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-        "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-        "published": "Sat, 25 Jul 2026 11:30:00 GMT"
-      },
-      {
-        "title": "Investors are in the dark about the Fed’s decision this week — and that’s just how Warsh wants it",
-        "link": "https://www.marketwatch.com/story/investors-are-in-the-dark-about-the-feds-decision-this-week-and-thats-just-how-warsh-wants-it-c9cbfd3f?mod=mw_rss_topstories",
-        "published": "Sat, 25 Jul 2026 11:00:00 GMT"
       }
     ],
     "crypto": [
