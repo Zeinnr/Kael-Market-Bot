@@ -191,6 +191,148 @@
     font-size: 13px;
     padding: 40px 0;
   }
+
+  .stock-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+  }
+  .stock-card {
+    background: var(--surface);
+    padding: 16px;
+  }
+  .stock-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 10px;
+  }
+  .stock-ticker {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 600;
+    font-size: 15px;
+  }
+  .stock-price {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+  .stock-name {
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+  }
+  .stock-indicators {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4px 10px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    margin-bottom: 10px;
+  }
+  .stock-indicators span { color: var(--text-muted); }
+  .stock-indicators b { color: var(--text); font-weight: 500; }
+  .valuation-badge {
+    display: inline-block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    padding: 3px 8px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin: 2px 4px 0 0;
+  }
+  .valuation-badge.under { background: rgba(47,217,127,0.12); color: var(--up); }
+  .valuation-badge.over { background: rgba(255,92,92,0.12); color: var(--down); }
+  .valuation-badge.fair { background: rgba(122,132,148,0.15); color: var(--text-muted); }
+
+  .fund-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+  }
+  .fund-card {
+    background: var(--surface);
+    padding: 16px;
+  }
+  .fund-ticker {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 4px;
+  }
+  .fund-name {
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+    min-height: 28px;
+  }
+  .fund-stat {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    padding: 3px 0;
+  }
+  .fund-stat span { color: var(--text-muted); }
+
+  .dividend-list {
+    background: var(--surface);
+    border: 1px solid var(--border);
+  }
+  .dividend-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 18px;
+    border-bottom: 1px solid var(--border);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+  }
+  .dividend-row:last-child { border-bottom: none; }
+  .dividend-rank { color: var(--text-muted); margin-right: 12px; }
+  .dividend-yield { color: var(--up); font-weight: 600; }
+
+  .chart-wrap {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 20px;
+    margin-bottom: 16px;
+  }
+  .chart-title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--text-muted);
+    margin-bottom: 14px;
+    text-transform: uppercase;
+  }
+  .methodology-note {
+    font-size: 12px;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px solid var(--border);
+  }
+  .methodology-note b { color: var(--amber); }
+  .stock-commentary {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--cyan);
+    padding: 14px 18px;
+    margin-bottom: 10px;
+  }
+  .stock-commentary .ticker-tag {
+    font-family: 'JetBrains Mono', monospace;
+    color: var(--cyan);
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
   footer {
     text-align: center;
     padding: 30px 0;
@@ -223,6 +365,53 @@
   </section>
 
   <section>
+    <div class="section-label">Saham Individu — Big Tech & Financials</div>
+    <div class="stock-grid" id="stockGrid"></div>
+  </section>
+
+  <section>
+    <div class="section-label">Sorotan Saham Hari Ini</div>
+    <div id="stockCommentary"></div>
+  </section>
+
+  <section>
+    <div class="section-label">Ranking Saham — Skor Komposit (Terbaik → Terburuk)</div>
+    <div class="chart-wrap">
+      <div class="chart-title">Gabungan 9 indikator (z-score equal-weighted) — lihat catatan metodologi di bawah</div>
+      <div style="position: relative; height: 340px;">
+        <canvas id="equityRankChart" role="img" aria-label="Bar chart ranking komposit saham big tech dan financials"></canvas>
+      </div>
+      <p class="methodology-note">Skor ini gabungan dari ROE, ROA, NPM, Revenue Growth, Net Income Growth, Dividend Yield (makin tinggi makin baik) dan PER, PBV, DER (makin rendah makin baik, jadi dibalik arahnya). FCF tidak ikut dihitung karena nilainya nggak sebanding antar perusahaan beda skala. <b>Ini BUKAN rekomendasi beli/jual</b> — bobot tiap indikator dianggap sama rata, analis lain bisa kasih bobot beda dan hasilnya bisa berubah.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-label">Ranking ETF & Index Fund — Skor Komposit</div>
+    <div class="chart-wrap">
+      <div class="chart-title">Gabungan Dividend Yield, Expense Ratio, YTD Return</div>
+      <div style="position: relative; height: 260px;">
+        <canvas id="fundRankChart" role="img" aria-label="Bar chart ranking komposit ETF dan index fund"></canvas>
+      </div>
+      <p class="methodology-note">Skor berdasarkan dividend yield (makin tinggi makin baik) dan expense ratio (makin rendah makin baik). YTD return ikut dihitung kalau datanya tersedia dari sumber.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-label">ETF & Index Funds</div>
+    <div class="fund-grid" id="etfGrid"></div>
+  </section>
+
+  <section>
+    <div class="section-label">Bond ETF</div>
+    <div class="fund-grid" id="bondGrid"></div>
+  </section>
+
+  <section>
+    <div class="section-label">Dividend Leaders</div>
+    <div class="dividend-list" id="dividendList"></div>
+  </section>
+
+  <section>
     <div class="news-grid">
       <div class="news-block">
         <div class="section-label">AI & Tech</div>
@@ -244,6 +433,8 @@
 <footer>Auto-generated by Rafliyan's market bot · data: FRED, RSS · analysis: Claude</footer>
 
 <script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
 async function loadReport() {
   try {
     const res = await fetch('report.json?_=' + Date.now());
@@ -258,6 +449,32 @@ async function loadReport() {
 function fmtNum(v) {
   if (v === null || v === undefined) return '—';
   return Number(v).toLocaleString('en-US', { maximumFractionDigits: 2 });
+}
+
+function fmtCompact(v) {
+  if (v === null || v === undefined) return '—';
+  const abs = Math.abs(v);
+  if (abs >= 1e9) return (v / 1e9).toFixed(1) + 'B';
+  if (abs >= 1e6) return (v / 1e6).toFixed(1) + 'M';
+  return fmtNum(v);
+}
+
+// Threshold ABSOLUT (bukan relatif ke peers) — standar umum analisis fundamental.
+// ROE > 15% dianggap kinerja manajemen sangat produktif.
+// DER < 1 dianggap leverage aman, 1-1.5 masih moderate, > 1.5 mulai berisiko.
+function roeBadge(roe) {
+  if (roe == null) return '';
+  const pct = roe * 100;
+  if (pct >= 15) return '<span class="valuation-badge under" title="ROE di atas 15% — kinerja manajemen produktif">ROE Kuat</span>';
+  if (pct >= 8) return '<span class="valuation-badge fair" title="ROE 8-15%">ROE Moderate</span>';
+  return '<span class="valuation-badge over" title="ROE di bawah 8%">ROE Lemah</span>';
+}
+
+function derBadge(der) {
+  if (der == null) return '';
+  if (der < 1) return '<span class="valuation-badge under" title="DER di bawah 1 — beban utang aman">Leverage Aman</span>';
+  if (der <= 1.5) return '<span class="valuation-badge fair" title="DER 1-1.5 — masih dalam batas wajar">Leverage Moderate</span>';
+  return '<span class="valuation-badge over" title="DER di atas 1.5 — beban utang mulai berisiko">Leverage Berisiko</span>';
 }
 
 function render(data) {
@@ -312,6 +529,123 @@ function render(data) {
   document.getElementById('riskList').innerHTML = risks.length
     ? risks.map(r => `<li>${r}</li>`).join('')
     : '<li>Tidak ada risk flag signifikan.</li>';
+
+  // ── Saham individu (big tech + financials) ──
+  const stocks = data.raw_stocks || {};
+  const equities = { ...(stocks.big_tech || {}), ...(stocks.financials || {}) };
+  const stockGrid = document.getElementById('stockGrid');
+  const validEquities = Object.entries(equities).filter(([, v]) => !v.error);
+  stockGrid.innerHTML = validEquities.length ? validEquities.map(([ticker, v]) => {
+    const flag = (v.valuation_flag || '').includes('under') ? 'under'
+      : (v.valuation_flag || '').includes('over') ? 'over' : 'fair';
+    const flagLabel = flag === 'under' ? 'Undervalued' : flag === 'over' ? 'Overvalued' : 'Fair value';
+    return `
+    <div class="stock-card">
+      <div class="stock-top">
+        <span class="stock-ticker">${ticker}</span>
+        <span class="stock-price">$${fmtNum(v.price)}</span>
+      </div>
+      <div class="stock-name">${v.name || ''}</div>
+      <div class="stock-indicators">
+        <span>PER <b>${fmtNum(v.per)}</b></span>
+        <span>PBV <b>${fmtNum(v.pbv)}</b></span>
+        <span>ROE <b>${v.roe != null ? (v.roe*100).toFixed(1)+'%' : '—'}</b></span>
+        <span>ROA <b>${v.roa != null ? (v.roa*100).toFixed(1)+'%' : '—'}</b></span>
+        <span>DER <b>${fmtNum(v.der)}</b></span>
+        <span>NPM <b>${v.npm != null ? (v.npm*100).toFixed(1)+'%' : '—'}</b></span>
+        <span>FCF <b>${v.fcf != null ? fmtCompact(v.fcf) : '—'}</b></span>
+        <span>Div Yield <b>${v.dividend_yield != null ? (v.dividend_yield*100).toFixed(2)+'%' : '—'}</b></span>
+        <span>Rev Growth <b>${v.revenue_growth != null ? (v.revenue_growth*100).toFixed(1)+'%' : '—'}</b></span>
+        <span>NI Growth <b>${v.earnings_growth != null ? (v.earnings_growth*100).toFixed(1)+'%' : '—'}</b></span>
+      </div>
+      <span class="valuation-badge ${flag}">${flagLabel}</span>
+      ${roeBadge(v.roe)}
+      ${derBadge(v.der)}
+    </div>`;
+  }).join('') : '<div class="empty-state">Belum ada data saham.</div>';
+
+  // ── Sorotan saham (dari Claude) ──
+  const commentary = analysis.stock_commentary || [];
+  document.getElementById('stockCommentary').innerHTML = commentary.length
+    ? commentary.map(c => `
+        <div class="stock-commentary">
+          <div class="ticker-tag">${c.ticker}</div>
+          <div>${c.note}</div>
+        </div>`).join('')
+    : '<div class="empty-state">Belum ada sorotan saham.</div>';
+
+  // ── ETF & Bond ──
+  const renderFundGrid = (elId, funds) => {
+    const el = document.getElementById(elId);
+    const entries = Object.entries(funds || {}).filter(([, v]) => !v.error);
+    el.innerHTML = entries.length ? entries.map(([ticker, v]) => `
+      <div class="fund-card">
+        <div class="fund-ticker">${ticker}</div>
+        <div class="fund-name">${v.name || ''}</div>
+        <div class="fund-stat"><span>Harga</span><span>$${fmtNum(v.price)}</span></div>
+        <div class="fund-stat"><span>Dividend Yield</span><span>${v.dividend_yield != null ? (v.dividend_yield*100).toFixed(2)+'%' : '—'}</span></div>
+        <div class="fund-stat"><span>Expense Ratio</span><span>${v.expense_ratio != null ? (v.expense_ratio*100).toFixed(2)+'%' : '—'}</span></div>
+      </div>`).join('') : '<div class="empty-state">Belum ada data.</div>';
+  };
+  renderFundGrid('etfGrid', stocks.etf);
+  renderFundGrid('bondGrid', stocks.bonds);
+
+  // ── Dividend leaders ──
+  const leaders = (data.rankings || {}).dividend_leaders || [];
+  document.getElementById('dividendList').innerHTML = leaders.length
+    ? leaders.map((l, i) => `
+        <div class="dividend-row">
+          <span><span class="dividend-rank">#${i+1}</span>${l.ticker} — ${l.name}</span>
+          <span class="dividend-yield">${(l.dividend_yield*100).toFixed(2)}%</span>
+        </div>`).join('')
+    : '<div class="empty-state" style="padding:18px;">Belum ada data dividend.</div>';
+
+  // ── Charts: ranking komposit ──
+  const equityRanking = (data.rankings || {}).equity_ranking || [];
+  const fundRanking = (data.rankings || {}).fund_ranking || [];
+
+  const rankChartOptions = {
+    indexAxis: 'y',
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { ticks: { color: '#7A8494', font: { family: 'JetBrains Mono', size: 10 } }, grid: { color: '#1F2530' } },
+      y: { ticks: { color: '#E6E9EF', font: { family: 'JetBrains Mono', size: 12, weight: '600' } }, grid: { display: false } },
+    },
+  };
+
+  if (equityRanking.length) {
+    new Chart(document.getElementById('equityRankChart'), {
+      type: 'bar',
+      data: {
+        labels: equityRanking.map(r => r.ticker),
+        datasets: [{
+          data: equityRanking.map(r => r.composite_score),
+          backgroundColor: equityRanking.map(r => r.composite_score >= 0 ? '#2FD97F' : '#FF5C5C'),
+          borderRadius: 3,
+          maxBarThickness: 22,
+        }],
+      },
+      options: rankChartOptions,
+    });
+  }
+
+  if (fundRanking.length) {
+    new Chart(document.getElementById('fundRankChart'), {
+      type: 'bar',
+      data: {
+        labels: fundRanking.map(r => r.ticker),
+        datasets: [{
+          data: fundRanking.map(r => r.composite_score),
+          backgroundColor: fundRanking.map(r => r.composite_score >= 0 ? '#4CC9F0' : '#FFB020'),
+          borderRadius: 3,
+          maxBarThickness: 22,
+        }],
+      },
+      options: rankChartOptions,
+    });
+  }
 }
 
 loadReport();

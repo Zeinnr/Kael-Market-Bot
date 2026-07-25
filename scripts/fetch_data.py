@@ -13,6 +13,8 @@ import datetime
 import urllib.request
 import xml.etree.ElementTree as ET
 
+from fetch_stocks import fetch_all_stocks
+
 FRED_API_KEY = os.environ.get("FRED_API_KEY", "")
 FRED_BASE = "https://api.stlouisfed.org/fred/series/observations"
 
@@ -100,16 +102,25 @@ def fetch_all_news() -> dict:
 
 
 def main():
+    print("Fetching economic data...")
+    econ = fetch_economic_data()
+    print("Fetching news...")
+    news = fetch_all_news()
+    print("Fetching stocks/ETF/bonds (bisa agak lama, ~30-60 detik)...")
+    stocks = fetch_all_stocks()
+
     payload = {
         "generated_at": datetime.datetime.utcnow().isoformat() + "Z",
-        "economic_data": fetch_economic_data(),
-        "news": fetch_all_news(),
+        "economic_data": econ,
+        "news": news,
+        "stocks": stocks,
     }
     out_path = os.path.join(os.path.dirname(__file__), "..", "raw_data.json")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
-    print(f"Saved raw_data.json with {len(payload['economic_data'])} economic series "
-          f"and {sum(len(v) for v in payload['news'].values())} news items")
+    print(f"Saved raw_data.json with {len(payload['economic_data'])} economic series, "
+          f"{sum(len(v) for v in payload['news'].values())} news items, "
+          f"{sum(len(v) for v in payload['stocks'].values())} stocks/funds")
 
 
 if __name__ == "__main__":
