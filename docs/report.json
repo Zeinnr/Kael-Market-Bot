@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:45:38.445723Z",
+  "generated_at": "2026-07-25T10:54:17.079564Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,31 @@
     ],
     "markets": [
       {
+        "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+        "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
+        "published": "Sat, 25 Jul 2026 10:00:00 GMT"
+      },
+      {
+        "title": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?",
+        "link": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 22:30:00 GMT"
+      },
+      {
+        "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
+        "link": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 22:00:00 GMT"
+      },
+      {
+        "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
+        "link": "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 21:48:00 GMT"
+      },
+      {
+        "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+        "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 21:45:00 GMT"
+      },
+      {
         "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
         "link": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
         "published": "Fri, 24 Jul 2026 21:38:00 GMT"
@@ -121,34 +146,14 @@
         "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
         "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
         "published": "Fri, 24 Jul 2026 21:30:00 GMT"
-      },
-      {
-        "title": "Pay raises keep shrinking. Here’s how much smaller they’ll be next year.",
-        "link": "https://www.marketwatch.com/story/pay-raises-keep-shrinking-heres-how-much-smaller-theyll-be-next-year-3fa51395?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 21:22:00 GMT"
-      },
-      {
-        "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
-        "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 21:21:00 GMT"
-      },
-      {
-        "title": "FDA advisers say six popular peptides can be compounded. Here are the issues they considered.",
-        "link": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 20:26:00 GMT"
-      },
-      {
-        "title": "I’m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
-        "link": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 20:11:00 GMT"
-      },
-      {
-        "title": "The world is facing its largest oil shock ever. Here is why prices are not higher.",
-        "link": "https://www.marketwatch.com/story/the-world-is-facing-its-largest-oil-shock-ever-here-is-why-prices-are-not-higher-0bb943c7?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 19:31:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+        "link": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+        "published": "Sat, 25 Jul 2026 10:00:00 +0000"
+      },
       {
         "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
         "link": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
@@ -183,15 +188,61 @@
         "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
         "link": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
         "published": "Fri, 24 Jul 2026 11:49:06 +0000"
-      },
-      {
-        "title": "Crypto's institutional influx has killed the memecoin craze",
-        "link": "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze",
-        "published": "Fri, 24 Jul 2026 11:35:48 +0000"
       }
     ]
   },
   "analysis": {
-    "error": "Gagal parse JSON: Expecting ',' delimiter: line 28 column 6 (char 3408). Raw text: {\n  \"headline\": \"10Y yield naik ke 4.71% di tengah data inflasi yang saling kontradiksi (CPI turun, PCE naik) — pasar mulai price-in risk premium fiskal, bukan sekadar ekspektasi Fed, dan ini yang paling berbahaya untuk growth stocks & crypto minggu ini.\",\n  \"economic_summary\": \"CPI MoM turun -0.42% (332.57 dari 333.98) tapi PCE Price Index—indikator favorit Fed—justru naik +0.45% (131.53 dari 130.94), sinyal inflasi yang saling bertentangan dan tidak bisa disimpulkan pasti arahnya. Unemployment"
+    "headline": "10Y yield naik ke 4.71% berbarengan dengan PCE inflasi menghangat (+0.45% MoM) sementara payrolls nyaris stagnan (+0.04%) — kombinasi ini adalah sinyal stagflasi ringan yang menekan crypto (BTC masuk bear market) dan mengancam ekuitas growth di tengah ancaman 30Y yield tembus 6%.",
+    "economic_summary": "CPI headline turun -0.42% MoM ke 332.568, tapi PCE Price Index (indikator favorit Fed) justru naik +0.45% MoM ke 131.527 — dua ukuran inflasi ini bergerak berlawanan arah, jadi sinyal inflasi ambigu. Payrolls hampir flat (+0.04%, cuma nambah 57rb job) sementara unemployment turun ke 4.2%, mengindikasikan pasar kerja melambat tapi belum krisis. Fed Funds tetap di 3.63% (unchanged), sementara 10Y yield naik dari 4.67% ke 4.71% (+0.86%) — pasar obligasi sudah pricing ekspektasi Fed lebih hawkish dari yang diperkirakan.",
+    "correlation_analysis": [
+      {
+        "trigger": "PCE naik +0.45% MoM (annualized >5%) berbarengan dengan 10Y yield naik ke 4.71%, sementara CPI headline malah turun -0.42%",
+        "mechanism": "PCE adalah acuan utama Fed untuk kebijakan rate — kenaikan PCE MoM yang tajam mengurangi probabilitas rate cut jangka pendek meski CPI headline melandai. Pasar obligasi bereaksi duluan dengan menaikkan yield, mencerminkan repricing ekspektasi 'higher for longer'. Data CPI vs PCE yang divergen ini AMBIGU dan tidak boleh dijadikan kesimpulan pasti soal arah inflasi riil.",
+        "affected_assets": [
+          "bonds",
+          "growth equities",
+          "crypto"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "30Y Treasury yield mendekati 5.2%, dengan risiko break ke 6% (headline MarketWatch)",
+        "mechanism": "Yield jangka panjang naik → cost of capital naik untuk perusahaan leverage tinggi & sektor rate-sensitive (real estate, tech growth non-profitable) → discount rate model DCF makin berat, valuasi tertekan → capital rotation keluar dari growth stock ke cash/short-duration bond.",
+        "affected_assets": [
+          "real estate",
+          "growth equities",
+          "REITs"
+        ],
+        "confidence": "high"
+      },
+      {
+        "trigger": "Strategy (Saylor) mengubah metrik bitcoin di tengah bear market yang berkepanjangan",
+        "mechanism": "Perusahaan dengan balance sheet leveraged BTC melakukan reframing metrik saat harga underperform — ini pola klasik manajemen ekspektasi/spin institutional saat aset inti tertekan. Karena MSTR adalah proxy institutional exposure terbesar ke BTC, perubahan narasi ini berisiko menutupi tekanan margin call/leverage risk yang sebenarnya, bukan sekadar transparansi.",
+        "affected_assets": [
+          "bitcoin",
+          "MSTR",
+          "crypto ETF flows"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "Payrolls nyaris flat (+0.04%) namun unemployment turun ke 4.2% — pasar kerja melemah tapi belum resesif",
+        "mechanism": "Data ini konsisten dengan skenario 'soft landing gagal jadi stagflasi ringan': hiring stagnan biasanya sinyal dovish bagi Fed, tapi karena PCE justru naik bersamaan, Fed tidak leluasa cut rate → kombinasi growth-lemah + inflasi-sticky adalah worst case untuk risk asset karena tidak ada 'Fed put' jangka pendek.",
+        "affected_assets": [
+          "equities",
+          "crypto",
+          "high-yield credit"
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "ai_tech_summary": "Berita AI/tech minggu ini fokus ke tensi geopolitik chip (AS vs Chinese AI hardware) dan breakthrough non-finansial (organ transplant, NASA telescope). Tidak ada katalis makro-relevan langsung untuk AI equity valuation minggu ini — noise lebih dominan dari sinyal.",
+    "global_summary": "Data global economy news gagal diambil (error koneksi), sehingga tidak bisa dikonfirmasi konteks geopolitik makro terbaru — anggap ini gap data, jangan diasumsikan 'tidak ada berita penting'. Yang terkonfirmasi: EU menjatuhkan paket sanksi ke-21 terhadap Rusia yang menyasar jaringan crypto senilai $120B, menandakan crypto rails makin jadi target enforcement AML/sanctions global, bukan cuma isu regulasi domestik AS.",
+    "risk_flags": [
+      "Divergensi CPI (turun) vs PCE (naik) — jangan ambil kesimpulan directional inflasi tanpa data tambahan minggu depan",
+      "30Y yield mendekati threshold psikologis 5.2%-6% — risiko de-rating tajam ke equity growth & REIT jika tembus",
+      "MSTR/Saylor mengubah metrik BTC saat bear market — potensi disclosure/spin risk, awasi leverage & collateral health, bukan cuma harga BTC",
+      "EU sanctions $120B crypto network terkait Rusia — risiko spillover ke exchange/stablecoin yang punya exposure tidak langsung ke entitas tersanksi"
+    ]
   }
 }
