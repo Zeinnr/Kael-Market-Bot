@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T02:44:00.471840Z",
+  "generated_at": "2026-07-26T07:54:13.349343Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -150,6 +150,16 @@
     ],
     "crypto": [
       {
+        "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+        "link": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
+        "published": "Sun, 26 Jul 2026 07:29:45 +0000"
+      },
+      {
+        "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+        "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+        "published": "Sun, 26 Jul 2026 06:59:51 +0000"
+      },
+      {
         "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
         "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
         "published": "Sat, 25 Jul 2026 16:59:36 +0000"
@@ -178,16 +188,6 @@
         "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
         "link": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
         "published": "Fri, 24 Jul 2026 15:00:00 +0000"
-      },
-      {
-        "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-        "link": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
-        "published": "Fri, 24 Jul 2026 14:36:16 +0000"
-      },
-      {
-        "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
-        "link": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
-        "published": "Fri, 24 Jul 2026 13:15:15 +0000"
       }
     ]
   },
@@ -205,7 +205,7 @@
         "fcf": 46335873024,
         "revenue_growth": 0.852,
         "earnings_growth": 2.145,
-        "dividend_yield": 0.48,
+        "dividend_yield": 0.00483,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
@@ -220,7 +220,7 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.0174,
+        "dividend_yield": 0.01739,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "AAPL": {
@@ -235,14 +235,14 @@
         "fcf": 101090746368,
         "revenue_growth": 0.166,
         "earnings_growth": 0.218,
-        "dividend_yield": 0.32,
+        "dividend_yield": 0.00324,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 313.03,
         "per": 284.57272,
-        "pbv": 14.295566,
+        "pbv": 13.97393,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -280,7 +280,7 @@
         "fcf": 37011251200,
         "revenue_growth": 0.183,
         "earnings_growth": 0.234,
-        "dividend_yield": 0.95,
+        "dividend_yield": 0.00954,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "GOOG": {
@@ -295,7 +295,7 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.28,
+        "dividend_yield": 0.00276,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
@@ -310,7 +310,7 @@
         "fcf": 25558249472,
         "revenue_growth": 0.331,
         "earnings_growth": 0.624,
-        "dividend_yield": 0.35,
+        "dividend_yield": 0.00353,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "PLTR": {
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1757.09,
         "per": 60.61021,
-        "pbv": 1581.4578,
+        "pbv": 1581.721,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -355,7 +355,7 @@
         "fcf": 8437675008,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
-        "dividend_yield": 0.52,
+        "dividend_yield": 0.00517,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
@@ -370,7 +370,7 @@
         "fcf": 739057991680,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.94,
+        "dividend_yield": 0.00939,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
@@ -387,7 +387,7 @@
         "fcf": null,
         "revenue_growth": 0.306,
         "earnings_growth": 0.197,
-        "dividend_yield": 0.0217,
+        "dividend_yield": 0.02171,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.214,
         "earnings_growth": 0.36,
-        "dividend_yield": 0.0206,
+        "dividend_yield": 0.02063,
         "valuation_flag": "data tidak cukup"
       }
     },
@@ -486,34 +486,34 @@
   "rankings": {
     "dividend_leaders": [
       {
-        "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "dividend_yield": 0.95,
-        "group": "big_tech"
+        "ticker": "JEPQ",
+        "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+        "dividend_yield": 0.0995,
+        "group": "etf"
       },
       {
-        "ticker": "TSM",
-        "name": "Taiwan Semiconductor Manufactur",
-        "dividend_yield": 0.94,
-        "group": "big_tech"
+        "ticker": "JEPI",
+        "name": "JPMorgan Equity Premium Income ETF",
+        "dividend_yield": 0.081099994,
+        "group": "etf"
       },
       {
-        "ticker": "ASML",
-        "name": "ASML Holding N.V. - New York Re",
-        "dividend_yield": 0.52,
-        "group": "big_tech"
+        "ticker": "TLT",
+        "name": "iShares 20+ Year Treasury Bond ETF",
+        "dividend_yield": 0.045300003,
+        "group": "bonds"
       },
       {
-        "ticker": "NVDA",
-        "name": "NVIDIA Corporation",
-        "dividend_yield": 0.48,
-        "group": "big_tech"
+        "ticker": "AGG",
+        "name": "iShares Core U.S. Aggregate Bond ETF",
+        "dividend_yield": 0.0397,
+        "group": "bonds"
       },
       {
-        "ticker": "META",
-        "name": "Meta Platforms, Inc.",
-        "dividend_yield": 0.35,
-        "group": "big_tech"
+        "ticker": "BND",
+        "name": "Vanguard Total Bond Market Index Fund",
+        "dividend_yield": 0.0395,
+        "group": "bonds"
       }
     ],
     "most_undervalued": [
@@ -554,7 +554,7 @@
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.239,
+        "composite_score": 1.129,
         "components_used": 9
       },
       {
@@ -564,40 +564,46 @@
         "components_used": 8
       },
       {
-        "ticker": "TSM",
-        "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.412,
-        "components_used": 9
-      },
-      {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": 0.4,
-        "components_used": 9
-      },
-      {
-        "ticker": "AAPL",
-        "name": "Apple Inc.",
-        "composite_score": 0.194,
-        "components_used": 9
-      },
-      {
-        "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "composite_score": 0.184,
-        "components_used": 9
-      },
-      {
-        "ticker": "META",
-        "name": "Meta Platforms, Inc.",
-        "composite_score": 0.067,
+        "composite_score": 0.326,
         "components_used": 9
       },
       {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "composite_score": -0.157,
+        "composite_score": 0.245,
         "components_used": 7
+      },
+      {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufactur",
+        "composite_score": 0.218,
+        "components_used": 9
+      },
+      {
+        "ticker": "AAPL",
+        "name": "Apple Inc.",
+        "composite_score": 0.114,
+        "components_used": 9
+      },
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation",
+        "composite_score": -0.01,
+        "components_used": 9
+      },
+      {
+        "ticker": "META",
+        "name": "Meta Platforms, Inc.",
+        "composite_score": -0.019,
+        "components_used": 9
+      },
+      {
+        "ticker": "BAC",
+        "name": "Bank of America Corporation",
+        "composite_score": -0.061,
+        "components_used": 8
       },
       {
         "ticker": "AMZN",
@@ -606,21 +612,15 @@
         "components_used": 8
       },
       {
-        "ticker": "ASML",
-        "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.39,
+        "ticker": "ORCL",
+        "name": "Oracle Corporation",
+        "composite_score": -0.37,
         "components_used": 9
       },
       {
-        "ticker": "BAC",
-        "name": "Bank of America Corporation",
-        "composite_score": -0.394,
-        "components_used": 8
-      },
-      {
-        "ticker": "ORCL",
-        "name": "Oracle Corporation",
-        "composite_score": -0.616,
+        "ticker": "ASML",
+        "name": "ASML Holding N.V. - New York Re",
+        "composite_score": -0.508,
         "components_used": 9
       },
       {
@@ -676,6 +676,88 @@
     ]
   },
   "analysis": {
-    "error": "Gagal parse JSON: Expecting ',' delimiter: line 37 column 502 (char 4744). Raw text: ```json\n{\n  \"headline\": \"Yield 10Y naik ke 4.71% di tengah CPI yang mendingin tapi PCE justru reakselerasi—kombinasi ini menekan aset growth berdurasi panjang (AI stocks, long bond, crypto) meski data tenaga kerja dan konsumen AS masih solid.\",\n  \"economic_summary\": \"CPI headline turun -0.42% MoM tapi PCE (indikator favorit Fed) justru naik +0.45%, menciptakan sinyal campur aduk soal disinflasi. Unemployment membaik ke 4.2% dari 4.3%, payrolls nyaris flat (+0.04%), retail sales naik tipis +0.22%"
+    "headline": "10Y yield naik ke 4.71% di tengah divergensi CPI (turun -0.42%) vs PCE (naik +0.45%) menciptakan ketidakpastian arah Fed, sementara narasi 'AI stock selloff' menekan valuasi mega-cap tech yang sudah crowded di QQQ.",
+    "economic_summary": "CPI headline turun -0.42% MoM ke 332.57, tapi PCEPI (indikator favorit Fed) justru naik +0.45% MoM — divergensi yang tidak lazim dan perlu diwaspadai sebagai sinyal ambigu, bukan konfirmasi disinflasi. Unemployment turun ke 4.2% namun payrolls nyaris flat (+0.04%), mengindikasikan perbaikan unemployment rate mungkin lebih karena partisipasi tenaga kerja turun ketimbang hiring kuat. GDP tumbuh solid +1.41% QoQ dan retail sales +0.22%, konsisten dengan konsumen masih resilient. Fed funds rate tetap di 3.63% namun 10Y yield naik ke 4.71% (+0.86%), memperlebar term premium meski Fed belum bergerak.",
+    "correlation_analysis": [
+      {
+        "trigger": "10Y yield naik ke 4.71% sementara Fed funds rate flat di 3.63%",
+        "mechanism": "Term premium naik menaikkan discount rate untuk valuasi DCF jangka panjang, menekan disproporsional saham dengan PER ekstrem karena sebagian besar valuasinya bergantung pada earnings jauh di masa depan. Efek ini juga langsung menekan harga bond duration panjang seperti TLT karena hubungan invers harga-yield.",
+        "affected_assets": [
+          "TSLA",
+          "PLTR",
+          "TLT",
+          "QQQ"
+        ],
+        "confidence": "high"
+      },
+      {
+        "trigger": "Divergensi CPI turun vs PCEPI naik",
+        "mechanism": "Karena PCE adalah acuan utama kebijakan Fed, kenaikan PCE +0.45% MoM justru bisa menunda ekspektasi rate cut meski headline CPI melandai — ini menciptakan volatilitas yield lebih tinggi karena pasar bingung membaca sinyal, tercermin dari 10Y yield yang naik alih-alih turun.",
+        "affected_assets": [
+          "TLT",
+          "AGG",
+          "BND",
+          "SPY"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "Narasi 'AI stock selloff' di media mainstream (MarketWatch) beririsan dengan valuation_flag overvalued pada TSLA (PER 284x) dan PLTR (PER 138x)",
+        "mechanism": "Konsentrasi bobot AI/mega-cap di QQQ dan bahkan EM ETF (disebut artikel soal saham Korea Selatan) membuat drawdown pada nama-nama overvalued ini bisa memicu de-rating berantai di index-level, bukan cuma single-stock risk — mekanisme index concentration risk.",
+        "affected_assets": [
+          "QQQ",
+          "PLTR",
+          "TSLA",
+          "NVDA"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "GDP +1.41% dan retail sales +0.22% tetap positif di tengah payrolls nyaris stagnan",
+        "mechanism": "Konsumsi masih menopang pertumbuhan meski penciptaan lapangan kerja melambat — ini mendukung earnings consumer discretionary/mega-cap dengan revenue growth tinggi (AMZN +16.6%, META +33.1%) namun rentan jika payrolls terus melemah dan mulai menyeret retail sales ke depan.",
+        "affected_assets": [
+          "AMZN",
+          "META",
+          "VTI",
+          "SPY"
+        ],
+        "confidence": "medium"
+      }
+    ],
+    "stock_commentary": [
+      {
+        "ticker": "TSLA",
+        "note": "PER 284x jauh di atas peer (overvalued relatif), earnings_growth negatif (-3%) — kombinasi ini paling rentan terhadap kenaikan 10Y yield karena valuasi bergantung pada ekspektasi pertumbuhan jauh ke depan yang kini di-discount lebih berat."
+      },
+      {
+        "ticker": "PLTR",
+        "note": "PER 138x dan PBV 34.9x, overvalued ekstrem relatif ke peer meski earnings_growth 3.25x — profil ini paling terekspos ke narasi 'AI stock selloff' karena multiple compression risk tertinggi di grup mega-cap tech."
+      },
+      {
+        "ticker": "NVDA",
+        "note": "Valuation_flag fair relatif peer meski PBV 25.6x dan ROE 114% ekstrem tinggi — sebagai bellwether AI capex, saham ini jadi proxy langsung dampak sentimen 'AI selloff' terhadap seluruh basket QQQ."
+      },
+      {
+        "ticker": "MSFT",
+        "note": "Undervalued relatif peer dengan FCF kuat ($37B) dan earnings_growth 23.4% solid — profil defensif dalam basket AI mega-cap bila terjadi rotasi keluar dari nama overvalued seperti TSLA/PLTR."
+      },
+      {
+        "ticker": "META",
+        "note": "Undervalued relatif peer dengan revenue_growth 33.1% dan earnings_growth 62.4% — salah satu fundamental terkuat di grup, kontras dengan TSLA/PLTR, menunjukkan selloff AI kemungkinan tidak merata di semua nama."
+      },
+      {
+        "ticker": "ORCL",
+        "note": "Valuation_flag undervalued tapi FCF negatif (-$24.5B) dan DER ekstrem 388.87 — flag undervalued di sini harus dibaca hati-hati karena leverage tinggi jadi risiko tambahan di tengah yield naik (biaya bunga utang membengkak)."
+      }
+    ],
+    "ai_tech_summary": "Berita AI/tech minggu ini didominasi isu non-market seperti breakthrough transplantasi organ dan teleskop NASA, namun ada sinyal geopolitik penting: ancaman AS terhadap chip AI buatan China dan isu 'homegrown Chinese chips', relevan untuk rantai pasok semikonduktor (TSM, ASML, INTC). OpenAI disebut terkait insiden hacking otonom terhadap Hugging Face — menambah risiko keamanan siber di ekosistem AI yang perlu dipantau meski belum berdampak market langsung.",
+    "global_summary": "Data global economy gagal diambil (error koneksi), sehingga tidak ada konfirmasi berita geopolitik/makro internasional hari ini — ini keterbatasan data yang perlu diakui secara eksplisit. Dari sisi crypto, rally SHIB +36% dipicu trader Korea Selatan dan pertumbuhan RWA tokenized stock di Robinhood Chain menunjukkan aliran spekulatif dan adopsi tokenisasi masih aktif terlepas dari sentimen risk-off di equity AI.",
+    "risk_flags": [
+      "Divergensi CPI (turun) vs PCEPI (naik) menciptakan ambiguitas arah kebijakan Fed — jangan asumsikan rate cut akan datang cepat",
+      "10Y yield naik ke 4.71% menekan bond duration panjang (TLT) dan saham PER tinggi (TSLA, PLTR) secara bersamaan — potensi correlated drawdown, bukan diversifikasi",
+      "Payrolls nyaris stagnan (+0.04%) meski unemployment turun — perlu dicek apakah ini penurunan partisipasi tenaga kerja, bukan perbaikan riil pasar kerja",
+      "Konsentrasi AI di QQQ dan bahkan EM ETF (menurut artikel MarketWatch) membuat risiko index-level jika selloff AI berlanjut, bukan cuma risiko single-stock",
+      "Oracle: flag 'undervalued' tidak boleh diartikan buy signal mengingat FCF negatif dan leverage ekstrem (DER 388.87) di tengah lingkungan yield naik"
+    ]
   }
 }

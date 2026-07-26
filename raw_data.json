@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T02:43:05.413156Z",
+  "generated_at": "2026-07-26T07:53:16.926359Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -150,6 +150,16 @@
     ],
     "crypto": [
       {
+        "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+        "link": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
+        "published": "Sun, 26 Jul 2026 07:29:45 +0000"
+      },
+      {
+        "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+        "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+        "published": "Sun, 26 Jul 2026 06:59:51 +0000"
+      },
+      {
         "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
         "link": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
         "published": "Sat, 25 Jul 2026 16:59:36 +0000"
@@ -178,16 +188,6 @@
         "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
         "link": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
         "published": "Fri, 24 Jul 2026 15:00:00 +0000"
-      },
-      {
-        "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-        "link": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
-        "published": "Fri, 24 Jul 2026 14:36:16 +0000"
-      },
-      {
-        "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
-        "link": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
-        "published": "Fri, 24 Jul 2026 13:15:15 +0000"
       }
     ]
   },
@@ -205,7 +205,7 @@
         "fcf": 46335873024,
         "revenue_growth": 0.852,
         "earnings_growth": 2.145,
-        "dividend_yield": 0.48,
+        "dividend_yield": 0.00483,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
@@ -220,7 +220,7 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.0174,
+        "dividend_yield": 0.01739,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "AAPL": {
@@ -235,14 +235,14 @@
         "fcf": 101090746368,
         "revenue_growth": 0.166,
         "earnings_growth": 0.218,
-        "dividend_yield": 0.32,
+        "dividend_yield": 0.00324,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 313.03,
         "per": 284.57272,
-        "pbv": 14.295566,
+        "pbv": 13.97393,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -280,7 +280,7 @@
         "fcf": 37011251200,
         "revenue_growth": 0.183,
         "earnings_growth": 0.234,
-        "dividend_yield": 0.95,
+        "dividend_yield": 0.00954,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "GOOG": {
@@ -295,7 +295,7 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.28,
+        "dividend_yield": 0.00276,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
@@ -310,7 +310,7 @@
         "fcf": 25558249472,
         "revenue_growth": 0.331,
         "earnings_growth": 0.624,
-        "dividend_yield": 0.35,
+        "dividend_yield": 0.00353,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "PLTR": {
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1757.09,
         "per": 60.61021,
-        "pbv": 1581.4578,
+        "pbv": 1581.721,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -355,7 +355,7 @@
         "fcf": 8437675008,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
-        "dividend_yield": 0.52,
+        "dividend_yield": 0.00517,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
@@ -370,7 +370,7 @@
         "fcf": 739057991680,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.94,
+        "dividend_yield": 0.00939,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
@@ -387,7 +387,7 @@
         "fcf": null,
         "revenue_growth": 0.306,
         "earnings_growth": 0.197,
-        "dividend_yield": 0.0217,
+        "dividend_yield": 0.02171,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.214,
         "earnings_growth": 0.36,
-        "dividend_yield": 0.0206,
+        "dividend_yield": 0.02063,
         "valuation_flag": "data tidak cukup"
       }
     },
