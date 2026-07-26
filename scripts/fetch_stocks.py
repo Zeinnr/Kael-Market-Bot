@@ -45,6 +45,24 @@ BONDS = {
 }
 
 
+def _normalize_yield(raw):
+    """
+    yfinance kadang ngasih dividend yield dalam format desimal (0.022 = 2.2%),
+    kadang udah dalam format persen langsung (2.2 = 2.2%) -- tergantung ticker
+    dan versi API, nggak konsisten. Ini normalisasi supaya HASIL AKHIR selalu
+    desimal (0.022), biar konsisten dipakai di seluruh sistem.
+
+    Asumsi: dividend yield asli hampir nggak pernah lebih dari 100% (raw > 1
+    dalam skala desimal), jadi kalau raw > 1 kemungkinan besar itu udah dalam
+    skala persen dan perlu dibagi 100.
+    """
+    if raw is None or not isinstance(raw, (int, float)):
+        return None
+    if raw > 1:
+        return round(raw / 100, 5)
+    return raw
+
+
 def fetch_equity_fundamentals(ticker: str, name: str) -> dict:
     """Ambil indikator fundamental untuk saham individu."""
     if yf is None:
@@ -63,7 +81,7 @@ def fetch_equity_fundamentals(ticker: str, name: str) -> dict:
             "fcf": info.get("freeCashflow"),
             "revenue_growth": info.get("revenueGrowth"),
             "earnings_growth": info.get("earningsGrowth"),
-            "dividend_yield": info.get("dividendYield"),
+            "dividend_yield": _normalize_yield(info.get("dividendYield")),
         }
     except Exception as e:
         return {"name": name, "error": str(e)}
@@ -78,7 +96,7 @@ def fetch_fund_fundamentals(ticker: str, name: str) -> dict:
         return {
             "name": info.get("longName", name),
             "price": info.get("navPrice") or info.get("regularMarketPrice"),
-            "dividend_yield": info.get("yield") or info.get("trailingAnnualDividendYield"),
+            "dividend_yield": _normalize_yield(info.get("yield") or info.get("trailingAnnualDividendYield")),
             "ytd_return": info.get("ytdReturn"),
             "expense_ratio": info.get("annualReportExpenseRatio"),
             "three_year_return": info.get("threeYearAverageReturn"),
