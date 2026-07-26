@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T07:54:13.349343Z",
+  "generated_at": "2026-07-26T11:10:31.710089Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -110,7 +110,7 @@
       {
         "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
         "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-        "published": "Sat, 25 Jul 2026 22:30:00 GMT"
+        "published": "Sun, 26 Jul 2026 11:00:00 GMT"
       },
       {
         "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
@@ -150,6 +150,11 @@
     ],
     "crypto": [
       {
+        "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+        "link": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+        "published": "Sun, 26 Jul 2026 10:00:00 +0000"
+      },
+      {
         "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
         "link": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
         "published": "Sun, 26 Jul 2026 07:29:45 +0000"
@@ -183,11 +188,6 @@
         "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
         "link": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
         "published": "Fri, 24 Jul 2026 15:01:46 +0000"
-      },
-      {
-        "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-        "link": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
-        "published": "Fri, 24 Jul 2026 15:00:00 +0000"
       }
     ]
   },
@@ -242,7 +242,7 @@
         "name": "Tesla, Inc.",
         "price": 313.03,
         "per": 284.57272,
-        "pbv": 13.97393,
+        "pbv": 14.295566,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1757.09,
         "per": 60.61021,
-        "pbv": 1581.721,
+        "pbv": 1581.4578,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -676,88 +676,82 @@
     ]
   },
   "analysis": {
-    "headline": "10Y yield naik ke 4.71% di tengah divergensi CPI (turun -0.42%) vs PCE (naik +0.45%) menciptakan ketidakpastian arah Fed, sementara narasi 'AI stock selloff' menekan valuasi mega-cap tech yang sudah crowded di QQQ.",
-    "economic_summary": "CPI headline turun -0.42% MoM ke 332.57, tapi PCEPI (indikator favorit Fed) justru naik +0.45% MoM — divergensi yang tidak lazim dan perlu diwaspadai sebagai sinyal ambigu, bukan konfirmasi disinflasi. Unemployment turun ke 4.2% namun payrolls nyaris flat (+0.04%), mengindikasikan perbaikan unemployment rate mungkin lebih karena partisipasi tenaga kerja turun ketimbang hiring kuat. GDP tumbuh solid +1.41% QoQ dan retail sales +0.22%, konsisten dengan konsumen masih resilient. Fed funds rate tetap di 3.63% namun 10Y yield naik ke 4.71% (+0.86%), memperlebar term premium meski Fed belum bergerak.",
+    "headline": "10Y Treasury yield naik ke 4.71% di tengah CPI headline yang justru turun -0.42%, menciptakan tekanan valuasi pada saham growth/AI berPER tinggi persis saat narasi 'AI stock selloff' mulai ramai dibahas media.",
+    "economic_summary": "CPI MoM turun -0.42% (332.57 vs 333.98) tapi PCE Price Index —indikator favorit Fed— justru naik +0.45% (131.53 vs 130.94), sinyal yang saling bertentangan. Unemployment membaik ke 4.2% dari 4.3%, payrolls nyaris flat (+0.04%), retail sales +0.22%, dan GDP QoQ +1.41%. Fed funds rate tetap di 3.63% tanpa perubahan, sementara 10Y yield justru naik ke 4.71% dari 4.67% — kenaikan yield di tengah CPI turun ini janggal dan butuh klarifikasi data lanjutan sebelum disimpulkan sebagai sinyal makro yang solid.",
     "correlation_analysis": [
       {
-        "trigger": "10Y yield naik ke 4.71% sementara Fed funds rate flat di 3.63%",
-        "mechanism": "Term premium naik menaikkan discount rate untuk valuasi DCF jangka panjang, menekan disproporsional saham dengan PER ekstrem karena sebagian besar valuasinya bergantung pada earnings jauh di masa depan. Efek ini juga langsung menekan harga bond duration panjang seperti TLT karena hubungan invers harga-yield.",
+        "trigger": "10Y yield naik ke 4.71% meski CPI headline turun",
+        "mechanism": "Kenaikan yield menaikkan discount rate untuk valuasi ekuitas berbasis future cash flow jauh (long-duration growth stocks), sekaligus menekan harga bond jangka panjang secara langsung karena hubungan invers harga-yield.",
         "affected_assets": [
+          "TLT",
+          "NVDA",
           "TSLA",
           "PLTR",
-          "TLT",
           "QQQ"
         ],
         "confidence": "high"
       },
       {
-        "trigger": "Divergensi CPI turun vs PCEPI naik",
-        "mechanism": "Karena PCE adalah acuan utama kebijakan Fed, kenaikan PCE +0.45% MoM justru bisa menunda ekspektasi rate cut meski headline CPI melandai — ini menciptakan volatilitas yield lebih tinggi karena pasar bingung membaca sinyal, tercermin dari 10Y yield yang naik alih-alih turun.",
-        "affected_assets": [
-          "TLT",
-          "AGG",
-          "BND",
-          "SPY"
-        ],
-        "confidence": "medium"
-      },
-      {
-        "trigger": "Narasi 'AI stock selloff' di media mainstream (MarketWatch) beririsan dengan valuation_flag overvalued pada TSLA (PER 284x) dan PLTR (PER 138x)",
-        "mechanism": "Konsentrasi bobot AI/mega-cap di QQQ dan bahkan EM ETF (disebut artikel soal saham Korea Selatan) membuat drawdown pada nama-nama overvalued ini bisa memicu de-rating berantai di index-level, bukan cuma single-stock risk — mekanisme index concentration risk.",
+        "trigger": "PCE naik +0.45% berlawanan arah dengan CPI yang turun",
+        "mechanism": "Fed memakai PCE sebagai acuan utama kebijakan; divergensi ini membuat ekspektasi rate cut mengecil meski FEDFUNDS sudah flat, sehingga pasar mempertahankan yield tinggi dan multiple compression pada saham dengan PER ekstrem berlanjut.",
         "affected_assets": [
           "QQQ",
-          "PLTR",
           "TSLA",
-          "NVDA"
+          "PLTR",
+          "AGG"
         ],
         "confidence": "medium"
       },
       {
-        "trigger": "GDP +1.41% dan retail sales +0.22% tetap positif di tengah payrolls nyaris stagnan",
-        "mechanism": "Konsumsi masih menopang pertumbuhan meski penciptaan lapangan kerja melambat — ini mendukung earnings consumer discretionary/mega-cap dengan revenue growth tinggi (AMZN +16.6%, META +33.1%) namun rentan jika payrolls terus melemah dan mulai menyeret retail sales ke depan.",
+        "trigger": "Narasi media 'AI stock selloff' dan konsentrasi AI di index fund",
+        "mechanism": "QQQ (ytd +20.19%) jauh melampaui SPY (+10.16%) karena bobot mega-cap AI; jika sentimen AI berbalik, rotasi keluar dari QQQ lebih tajam dibanding broad market karena konsentrasi risiko lebih tinggi di beberapa nama.",
         "affected_assets": [
-          "AMZN",
-          "META",
-          "VTI",
+          "QQQ",
+          "NVDA",
+          "PLTR",
           "SPY"
         ],
         "confidence": "medium"
+      },
+      {
+        "trigger": "Rally spekulatif Shiba Inu +36% di tengah AI selloff",
+        "mechanism": "Capital rotation risk-on menuju aset high-beta/spekulatif (meme coin) biasanya muncul saat investor ritel mencari alpha di luar saham AI yang sedang dikoreksi — indikasi sentimen pasar masih risk-seeking meski yield naik.",
+        "affected_assets": [
+          "crypto broad",
+          "high-beta tech"
+        ],
+        "confidence": "low"
       }
     ],
     "stock_commentary": [
       {
         "ticker": "TSLA",
-        "note": "PER 284x jauh di atas peer (overvalued relatif), earnings_growth negatif (-3%) — kombinasi ini paling rentan terhadap kenaikan 10Y yield karena valuasi bergantung pada ekspektasi pertumbuhan jauh ke depan yang kini di-discount lebih berat."
+        "note": "PER 284x dan earnings growth negatif (-3%) menjadikannya paling rentan terhadap kenaikan yield 10Y — valuation_flag overvalued relatif peer, risiko multiple compression tertinggi di list ini."
       },
       {
         "ticker": "PLTR",
-        "note": "PER 138x dan PBV 34.9x, overvalued ekstrem relatif ke peer meski earnings_growth 3.25x — profil ini paling terekspos ke narasi 'AI stock selloff' karena multiple compression risk tertinggi di grup mega-cap tech."
+        "note": "PER 138x dengan valuation_flag overvalued; revenue growth tinggi (84.7%) tidak cukup menopang valuasi di tengah tekanan yield naik dan narasi AI selloff yang sedang berkembang."
       },
       {
         "ticker": "NVDA",
-        "note": "Valuation_flag fair relatif peer meski PBV 25.6x dan ROE 114% ekstrem tinggi — sebagai bellwether AI capex, saham ini jadi proxy langsung dampak sentimen 'AI selloff' terhadap seluruh basket QQQ."
+        "note": "Valuation_flag fair relatif peer, tapi sebagai bobot terbesar di QQQ, saham ini jadi barometer utama apakah 'AI selloff' benar berlanjut atau cuma noise sesaat."
       },
       {
         "ticker": "MSFT",
-        "note": "Undervalued relatif peer dengan FCF kuat ($37B) dan earnings_growth 23.4% solid — profil defensif dalam basket AI mega-cap bila terjadi rotasi keluar dari nama overvalued seperti TSLA/PLTR."
+        "note": "Valuation_flag undervalued relatif peer dengan ROE solid (34%) dan FCF besar — profil lebih defensif dibanding NVDA/PLTR saat yield naik, cocok jadi rotasi within-AI-basket."
       },
       {
-        "ticker": "META",
-        "note": "Undervalued relatif peer dengan revenue_growth 33.1% dan earnings_growth 62.4% — salah satu fundamental terkuat di grup, kontras dengan TSLA/PLTR, menunjukkan selloff AI kemungkinan tidak merata di semua nama."
-      },
-      {
-        "ticker": "ORCL",
-        "note": "Valuation_flag undervalued tapi FCF negatif (-$24.5B) dan DER ekstrem 388.87 — flag undervalued di sini harus dibaca hati-hati karena leverage tinggi jadi risiko tambahan di tengah yield naik (biaya bunga utang membengkak)."
+        "ticker": "GOOG",
+        "note": "PER hanya 16x, undervalued relatif peer AI lain dengan earnings_growth 2.94x — kombinasi valuasi murah dan pertumbuhan tinggi membuatnya lebih tahan terhadap tekanan yield dibanding TSLA/PLTR."
       }
     ],
-    "ai_tech_summary": "Berita AI/tech minggu ini didominasi isu non-market seperti breakthrough transplantasi organ dan teleskop NASA, namun ada sinyal geopolitik penting: ancaman AS terhadap chip AI buatan China dan isu 'homegrown Chinese chips', relevan untuk rantai pasok semikonduktor (TSM, ASML, INTC). OpenAI disebut terkait insiden hacking otonom terhadap Hugging Face — menambah risiko keamanan siber di ekosistem AI yang perlu dipantau meski belum berdampak market langsung.",
-    "global_summary": "Data global economy gagal diambil (error koneksi), sehingga tidak ada konfirmasi berita geopolitik/makro internasional hari ini — ini keterbatasan data yang perlu diakui secara eksplisit. Dari sisi crypto, rally SHIB +36% dipicu trader Korea Selatan dan pertumbuhan RWA tokenized stock di Robinhood Chain menunjukkan aliran spekulatif dan adopsi tokenisasi masih aktif terlepas dari sentimen risk-off di equity AI.",
+    "ai_tech_summary": "Berita tech hari ini didominasi terobosan bioteknologi (organ supercooling, transplantasi ginjal babi) dan ketegangan AS-China soal chip AI, bukan berita AI murni yang market-moving. Namun narasi finansial soal 'AI stock selloff' dari MarketWatch justru lebih relevan ke pasar saat ini dibanding berita teknologi itu sendiri.",
+    "global_summary": "Data berita global_economy tidak tersedia (error fetch), sehingga konteks geopolitik/makro global hari ini tidak bisa dikonfirmasi dari sumber ini — perlu sumber tambahan sebelum menarik kesimpulan geopolitik.",
     "risk_flags": [
-      "Divergensi CPI (turun) vs PCEPI (naik) menciptakan ambiguitas arah kebijakan Fed — jangan asumsikan rate cut akan datang cepat",
-      "10Y yield naik ke 4.71% menekan bond duration panjang (TLT) dan saham PER tinggi (TSLA, PLTR) secara bersamaan — potensi correlated drawdown, bukan diversifikasi",
-      "Payrolls nyaris stagnan (+0.04%) meski unemployment turun — perlu dicek apakah ini penurunan partisipasi tenaga kerja, bukan perbaikan riil pasar kerja",
-      "Konsentrasi AI di QQQ dan bahkan EM ETF (menurut artikel MarketWatch) membuat risiko index-level jika selloff AI berlanjut, bukan cuma risiko single-stock",
-      "Oracle: flag 'undervalued' tidak boleh diartikan buy signal mengingat FCF negatif dan leverage ekstrem (DER 388.87) di tengah lingkungan yield naik"
+      "Divergensi CPI vs PCE membuat arah kebijakan Fed ambigu — jangan ambil kesimpulan dovish/hawkish dari CPI saja",
+      "10Y yield naik berkelanjutan bisa memperdalam koreksi pada saham PER tinggi (TSLA, PLTR) dan menekan TLT lebih jauh",
+      "Konsentrasi AI di QQQ membuat index fund pasif punya exposure tersembunyi jauh lebih tinggi ke risiko AI-selloff daripada yang disadari investor ritel",
+      "Rally spekulatif crypto (SHIB +36%) menunjukkan sentimen risk-seeking masih tinggi meski yield naik — potensi volatilitas whipsaw jika sentimen berbalik cepat"
     ]
   }
 }

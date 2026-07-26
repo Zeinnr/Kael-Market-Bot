@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T07:53:16.926359Z",
+  "generated_at": "2026-07-26T11:09:47.266553Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -110,7 +110,7 @@
       {
         "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
         "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-        "published": "Sat, 25 Jul 2026 22:30:00 GMT"
+        "published": "Sun, 26 Jul 2026 11:00:00 GMT"
       },
       {
         "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
@@ -150,6 +150,11 @@
     ],
     "crypto": [
       {
+        "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+        "link": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+        "published": "Sun, 26 Jul 2026 10:00:00 +0000"
+      },
+      {
         "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
         "link": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
         "published": "Sun, 26 Jul 2026 07:29:45 +0000"
@@ -183,11 +188,6 @@
         "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
         "link": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
         "published": "Fri, 24 Jul 2026 15:01:46 +0000"
-      },
-      {
-        "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-        "link": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
-        "published": "Fri, 24 Jul 2026 15:00:00 +0000"
       }
     ]
   },
@@ -242,7 +242,7 @@
         "name": "Tesla, Inc.",
         "price": 313.03,
         "per": 284.57272,
-        "pbv": 13.97393,
+        "pbv": 14.295566,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1757.09,
         "per": 60.61021,
-        "pbv": 1581.721,
+        "pbv": 1581.4578,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
