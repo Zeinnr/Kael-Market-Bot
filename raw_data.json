@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T20:36:36.116939Z",
+  "generated_at": "2026-07-26T02:43:05.413156Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,14 +108,19 @@
     ],
     "markets": [
       {
+        "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+        "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+        "published": "Sat, 25 Jul 2026 22:30:00 GMT"
+      },
+      {
+        "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+        "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
+        "published": "Sat, 25 Jul 2026 21:00:00 GMT"
+      },
+      {
         "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
         "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
         "published": "Sat, 25 Jul 2026 20:15:00 GMT"
-      },
-      {
-        "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-        "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-        "published": "Sat, 25 Jul 2026 20:00:00 GMT"
       },
       {
         "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
@@ -141,11 +146,6 @@
         "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
         "link": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
         "published": "Sat, 25 Jul 2026 18:31:00 GMT"
-      },
-      {
-        "title": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
-        "link": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
-        "published": "Sat, 25 Jul 2026 18:15:00 GMT"
       }
     ],
     "crypto": [
@@ -220,7 +220,7 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 1.74,
+        "dividend_yield": 0.0174,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "AAPL": {
@@ -242,7 +242,7 @@
         "name": "Tesla, Inc.",
         "price": 313.03,
         "per": 284.57272,
-        "pbv": 13.97393,
+        "pbv": 14.295566,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1757.09,
         "per": 60.61021,
-        "pbv": 1581.721,
+        "pbv": 1581.4578,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -387,7 +387,7 @@
         "fcf": null,
         "revenue_growth": 0.306,
         "earnings_growth": 0.197,
-        "dividend_yield": 2.17,
+        "dividend_yield": 0.0217,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.214,
         "earnings_growth": 0.36,
-        "dividend_yield": 2.06,
+        "dividend_yield": 0.0206,
         "valuation_flag": "data tidak cukup"
       }
     },
