@@ -45,16 +45,38 @@ BONDS = {
 }
 
 
-def _normalize_yield(raw):
+def _compute_yield(dividend_rate, price):
     """
-    yfinance kadang ngasih dividend yield dalam format desimal (0.022 = 2.2%),
-    kadang udah dalam format persen langsung (2.2 = 2.2%) -- tergantung ticker
-    dan versi API, nggak konsisten. Ini normalisasi supaya HASIL AKHIR selalu
-    desimal (0.022), biar konsisten dipakai di seluruh sistem.
+    JANGAN pakai field 'dividendYield' langsung dari yfinance -- formatnya
+    kadang desimal (0.022), kadang persen (2.2), tergantung ticker & versi
+    API, dan nggak ada cara pasti nebak yang mana tanpa tau nilai aslinya
+    duluan (circular problem). Threshold-based guess (raw > 1 = persen)
+    ternyata salah untuk banyak ticker (AAPL, MSFT, NVDA dll keluar
+    30-95% -- jelas salah, real yield saham2 itu < 2%).
 
-    Asumsi: dividend yield asli hampir nggak pernah lebih dari 100% (raw > 1
-    dalam skala desimal), jadi kalau raw > 1 kemungkinan besar itu udah dalam
-    skala persen dan perlu dibagi 100.
+    Solusi: hitung yield sendiri dari dua angka yang TIDAK ambigu --
+    dividendRate (dolar per tahun) dan harga saham (dolar). Ini selalu
+    konsisten karena keduanya angka mentah, bukan field yang formatnya
+    bisa berubah-ubah.
+
+    Return desimal (0.0044 = 0.44%), konsisten dipakai di seluruh sistem
+    (frontend & compute_rankings mengalikan *100 untuk tampilan).
+    """
+    if not isinstance(dividend_rate, (int, float)) or not isinstance(price, (int, float)) or price <= 0:
+        return None
+    if dividend_rate <= 0:
+        return None
+    return round(dividend_rate / price, 5)
+
+
+def _normalize_fund_yield(raw):
+    """
+    Khusus ETF/fund: field 'yield' dari yfinance terbukti konsisten desimal
+    (0.0107 = 1.07%) untuk semua ticker fund yang dipakai bot ini (QQQ, SPY,
+    VOO, VTI, JEPI, JEPQ -- sudah diverifikasi tampil benar di produksi).
+    Beda dari saham individu, distribusi ETF dilaporkan lebih terstandarisasi
+    jadi threshold guard ini masih aman dipakai di sini -- TAPI kalau nanti
+    nambah ETF baru dan yield-nya keluar aneh, ganti juga ke _compute_yield.
     """
     if raw is None or not isinstance(raw, (int, float)):
         return None
@@ -69,9 +91,11 @@ def fetch_equity_fundamentals(ticker: str, name: str) -> dict:
         return {"name": name, "error": "yfinance tidak terinstall"}
     try:
         info = yf.Ticker(ticker).info
+        price = info.get("currentPrice") or info.get("regularMarketPrice")
+        dividend_rate = info.get("dividendRate") or info.get("trailingAnnualDividendRate")
         return {
             "name": info.get("shortName", name),
-            "price": info.get("currentPrice") or info.get("regularMarketPrice"),
+            "price": price,
             "per": info.get("trailingPE"),
             "pbv": info.get("priceToBook"),
             "roe": info.get("returnOnEquity"),
@@ -81,7 +105,7 @@ def fetch_equity_fundamentals(ticker: str, name: str) -> dict:
             "fcf": info.get("freeCashflow"),
             "revenue_growth": info.get("revenueGrowth"),
             "earnings_growth": info.get("earningsGrowth"),
-            "dividend_yield": _normalize_yield(info.get("dividendYield")),
+            "dividend_yield": _compute_yield(dividend_rate, price),
         }
     except Exception as e:
         return {"name": name, "error": str(e)}
@@ -96,7 +120,7 @@ def fetch_fund_fundamentals(ticker: str, name: str) -> dict:
         return {
             "name": info.get("longName", name),
             "price": info.get("navPrice") or info.get("regularMarketPrice"),
-            "dividend_yield": _normalize_yield(info.get("yield") or info.get("trailingAnnualDividendYield")),
+            "dividend_yield": _normalize_fund_yield(info.get("yield") or info.get("trailingAnnualDividendYield")),
             "ytd_return": info.get("ytdReturn"),
             "expense_ratio": info.get("annualReportExpenseRatio"),
             "three_year_return": info.get("threeYearAverageReturn"),
