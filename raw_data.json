@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T15:51:44.789890Z",
+  "generated_at": "2026-07-27T21:48:53.594854Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-07-23",
-      "value": 4.71,
-      "previous_value": 4.67,
-      "change_pct": 0.86
+      "date": "2026-07-24",
+      "value": 4.69,
+      "previous_value": 4.71,
+      "change_pct": -0.42
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -65,6 +65,11 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+        "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+        "published": "Mon, 27 Jul 2026 18:00:00 +0000"
+      },
       {
         "title": "How lasers could help provide fuel for nuclear reactors",
         "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
@@ -99,56 +104,66 @@
         "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
         "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
         "published": "Fri, 24 Jul 2026 12:10:00 +0000"
-      },
-      {
-        "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
-        "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
-        "published": "Thu, 23 Jul 2026 16:58:28 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Your retirement math may have a surprising flaw",
-        "link": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 15:42:00 GMT"
+        "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
+        "link": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
+        "published": "Mon, 27 Jul 2026 21:46:00 GMT"
       },
       {
-        "title": "Should you get paid to care for a family member?",
-        "link": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 15:28:00 GMT"
+        "title": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
+        "link": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
+        "published": "Mon, 27 Jul 2026 21:37:00 GMT"
       },
       {
-        "title": "The AI boom shows no sign of slowing — and the U.S. economy is reaping the benefits",
-        "link": "https://www.marketwatch.com/story/the-ai-boom-shows-no-sign-of-slowing-and-the-u-s-economy-is-reaping-the-benefits-1728c4e5?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 15:22:00 GMT"
+        "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
+        "link": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
+        "published": "Mon, 27 Jul 2026 21:35:00 GMT"
       },
       {
-        "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-        "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 15:09:00 GMT"
+        "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
+        "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
+        "published": "Mon, 27 Jul 2026 21:03:00 GMT"
       },
       {
-        "title": "This small-cap stock strategy shines by riding the beat-and-raise trend",
-        "link": "https://www.marketwatch.com/story/this-small-cap-stock-strategy-shines-by-riding-the-beat-and-raise-trend-24bee883?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 15:08:00 GMT"
-      },
-      {
-        "title": "Do I need to hire a broker to find an apartment in New York City?",
-        "link": "https://www.marketwatch.com/story/do-i-need-to-hire-a-broker-to-find-an-apartment-in-new-york-city-f5f9cf34?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 14:51:00 GMT"
+        "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
+        "link": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
+        "published": "Mon, 27 Jul 2026 21:02:00 GMT"
       },
       {
         "title": "For 44 years, this investor held aces in the long-bond game. He just folded.",
         "link": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 14:26:00 GMT"
+        "published": "Mon, 27 Jul 2026 20:52:00 GMT"
       },
       {
-        "title": "Could voter rage over AI data centers tank your utility stocks? Run this 5-part risk test to find out.",
-        "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 14:15:00 GMT"
+        "title": "SpaceX’s stock falls to a new low despite a near-flawless Starship flight",
+        "link": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories",
+        "published": "Mon, 27 Jul 2026 20:41:00 GMT"
+      },
+      {
+        "title": "Micron and other chip stocks fall as China steals the spotlight",
+        "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-fall-as-china-steals-the-spotlight-cff9d73c?mod=mw_rss_topstories",
+        "published": "Mon, 27 Jul 2026 20:33:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
+        "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
+        "published": "Mon, 27 Jul 2026 19:55:45 +0000"
+      },
+      {
+        "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
+        "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
+        "published": "Mon, 27 Jul 2026 18:00:00 +0000"
+      },
+      {
+        "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
+        "link": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
+        "published": "Mon, 27 Jul 2026 16:47:06 +0000"
+      },
       {
         "title": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
         "link": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument",
@@ -173,21 +188,6 @@
         "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
         "link": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
         "published": "Mon, 27 Jul 2026 13:32:16 +0000"
-      },
-      {
-        "title": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
-        "link": "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
-        "published": "Mon, 27 Jul 2026 13:25:58 +0000"
-      },
-      {
-        "title": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
-        "link": "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
-        "published": "Mon, 27 Jul 2026 13:00:00 +0000"
-      },
-      {
-        "title": "Crypto is rewriting how Wall Street traders spend their weekends",
-        "link": "https://www.coindesk.com/markets/2026/07/27/crypto-is-rewriting-how-wall-street-traders-spend-their-weekends",
-        "published": "Mon, 27 Jul 2026 13:00:00 +0000"
       }
     ]
   },
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 196.745,
-        "per": 30.088684,
-        "pbv": 24.38414,
+        "price": 196.51,
+        "per": 30.0474,
+        "pbv": 24.350681,
         "roe": 1.14288,
         "roa": 0.52727,
         "der": 6.555,
@@ -205,14 +205,14 @@
         "fcf": 46335873024,
         "revenue_growth": 0.852,
         "earnings_growth": 2.145,
-        "dividend_yield": 0.00508,
+        "dividend_yield": 0.00509,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 119.69,
-        "per": 20.530018,
-        "pbv": 9.178681,
+        "price": 119.9,
+        "per": 20.566038,
+        "pbv": 9.194785,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -220,14 +220,14 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.01671,
+        "dividend_yield": 0.01668,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 338.35,
-        "per": 40.96247,
-        "pbv": 46.604683,
+        "price": 336.91,
+        "per": 40.788136,
+        "pbv": 46.406334,
         "roe": 1.4147099,
         "roa": 0.26229,
         "der": 79.548,
@@ -235,14 +235,14 @@
         "fcf": 101090746368,
         "revenue_growth": 0.166,
         "earnings_growth": 0.218,
-        "dividend_yield": 0.00319,
+        "dividend_yield": 0.00321,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 308.1,
-        "per": 280.0909,
-        "pbv": 13.753851,
+        "price": 309.22,
+        "per": 281.1091,
+        "pbv": 14.12157,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 232.245,
-        "per": 27.779905,
-        "pbv": 5.6515713,
+        "price": 231.39,
+        "per": 27.67823,
+        "pbv": 5.630886,
         "roe": 0.24285,
         "roa": 0.06845,
         "der": 53.3,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 390.915,
-        "per": 23.282608,
-        "pbv": 7.008534,
+        "price": 389.1,
+        "per": 23.174507,
+        "pbv": 6.9759936,
         "roe": 0.34013999,
         "roa": 0.14814,
         "der": 30.271,
@@ -280,14 +280,14 @@
         "fcf": 37011251200,
         "revenue_growth": 0.183,
         "earnings_growth": 0.234,
-        "dividend_yield": 0.00931,
+        "dividend_yield": 0.00935,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 328.835,
-        "per": 16.491222,
-        "pbv": 6.4609203,
+        "price": 326.57,
+        "per": 16.377632,
+        "pbv": 6.416418,
         "roe": 0.48676,
         "roa": 0.12958999,
         "der": 18.859,
@@ -295,14 +295,14 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.00268,
+        "dividend_yield": 0.00269,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 602.175,
-        "per": 21.897272,
-        "pbv": 6.2718067,
+        "price": 593.87,
+        "per": 21.595272,
+        "pbv": 6.185308,
         "roe": 0.32930002,
         "roa": 0.16395001,
         "der": 35.608,
@@ -310,14 +310,14 @@
         "fcf": 25558249472,
         "revenue_growth": 0.331,
         "earnings_growth": 0.624,
-        "dividend_yield": 0.00349,
+        "dividend_yield": 0.00354,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 129.45,
-        "per": 145.44943,
-        "pbv": 36.723404,
+        "price": 131.53,
+        "per": 147.78651,
+        "pbv": 37.313473,
         "roe": 0.32587,
         "roa": 0.14702,
         "der": 2.477,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 88.9,
+        "price": 91.67,
         "per": null,
-        "pbv": 4.0086575,
+        "pbv": 4.1335616,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1622.0,
-        "per": 55.95033,
-        "pbv": 1394.2755,
+        "price": 1655.26,
+        "per": 57.097622,
+        "pbv": 1422.866,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -355,14 +355,14 @@
         "fcf": 8437675008,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
-        "dividend_yield": 0.0056,
+        "dividend_yield": 0.00549,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 391.34,
-        "per": 34.5097,
-        "pbv": 81.51897,
+        "price": 399.09,
+        "per": 35.19312,
+        "pbv": 83.22204,
         "roe": 0.39969003,
         "roa": 0.19014,
         "der": 15.174,
@@ -370,16 +370,16 @@
         "fcf": 739057991680,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.00968,
+        "dividend_yield": 0.0095,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1055.27,
-        "per": 25.306234,
-        "pbv": 2.892181,
+        "price": 1062.14,
+        "per": 25.470984,
+        "pbv": 2.9110096,
         "roe": null,
         "roa": null,
         "der": 23.635,
@@ -387,14 +387,14 @@
         "fcf": null,
         "revenue_growth": 0.306,
         "earnings_growth": 0.197,
-        "dividend_yield": 0.02172,
+        "dividend_yield": 0.02158,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 62.27,
-        "per": 14.3810625,
-        "pbv": 1.5827869,
+        "price": 62.13,
+        "per": 14.34873,
+        "pbv": 1.5792284,
         "roe": 0.111990005,
         "roa": 0.00969,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.214,
         "earnings_growth": 0.36,
-        "dividend_yield": 0.02056,
+        "dividend_yield": 0.0206,
         "valuation_flag": "data tidak cukup"
       }
     },
