@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T21:48:53.594854Z",
+  "generated_at": "2026-07-28T12:24:53.090794Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,16 @@
     ],
     "ai_tech": [
       {
+        "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+        "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+        "published": "Tue, 28 Jul 2026 12:10:00 +0000"
+      },
+      {
+        "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+        "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+        "published": "Tue, 28 Jul 2026 09:18:57 +0000"
+      },
+      {
         "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
         "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
         "published": "Mon, 27 Jul 2026 18:00:00 +0000"
@@ -94,100 +104,90 @@
         "title": "Building the enterprise environment for agentic AI",
         "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
         "published": "Mon, 27 Jul 2026 11:32:58 +0000"
-      },
-      {
-        "title": "The quest to keep organs alive outside the body",
-        "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-        "published": "Fri, 24 Jul 2026 17:03:55 +0000"
-      },
-      {
-        "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-        "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-        "published": "Fri, 24 Jul 2026 12:10:00 +0000"
       }
     ],
     "markets": [
       {
+        "title": "Meta is up against a wall of AI pessimism heading into earnings",
+        "link": "https://www.marketwatch.com/story/meta-is-up-against-a-wall-of-ai-pessimism-heading-into-earnings-4d3bbcc9?mod=mw_rss_topstories",
+        "published": "Tue, 28 Jul 2026 12:17:00 GMT"
+      },
+      {
+        "title": "Forget oil. A surging El Niño could kill Fed rate cuts — and these stocks stand to win.",
+        "link": "https://www.marketwatch.com/story/forget-oil-a-surging-el-nino-could-kill-fed-rate-cuts-and-these-stocks-stand-to-win-41f8e67f?mod=mw_rss_topstories",
+        "published": "Tue, 28 Jul 2026 12:15:00 GMT"
+      },
+      {
+        "title": "Oil prices decline further after Trump claims ‘deep talks’ are underway with Iran",
+        "link": "https://www.marketwatch.com/story/oil-prices-decline-further-after-trump-claims-deep-talks-are-underway-with-iran-167a5393?mod=mw_rss_topstories",
+        "published": "Tue, 28 Jul 2026 12:01:00 GMT"
+      },
+      {
+        "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+        "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+        "published": "Tue, 28 Jul 2026 12:00:00 GMT"
+      },
+      {
+        "title": "PayPal delivers an earnings beat as investors await updates on possible merger",
+        "link": "https://www.marketwatch.com/story/paypal-delivers-an-earnings-beat-as-investors-await-updates-on-possible-merger-105930b7?mod=mw_rss_topstories",
+        "published": "Tue, 28 Jul 2026 11:41:00 GMT"
+      },
+      {
+        "title": "Emerging China threat puts a scare into AI hardware stocks. Is the ‘picks and shovels’ trade breaking down?",
+        "link": "https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4?mod=mw_rss_topstories",
+        "published": "Tue, 28 Jul 2026 11:40:00 GMT"
+      },
+      {
+        "title": "UPS turns the page as job cuts and Amazon ‘glide down’ are completed",
+        "link": "https://www.marketwatch.com/story/ups-turns-the-page-as-job-cuts-and-amazon-glide-down-are-completed-e16f03fe?mod=mw_rss_topstories",
+        "published": "Tue, 28 Jul 2026 11:31:00 GMT"
+      },
+      {
         "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
         "link": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 21:46:00 GMT"
-      },
-      {
-        "title": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
-        "link": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 21:37:00 GMT"
-      },
-      {
-        "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
-        "link": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 21:35:00 GMT"
-      },
-      {
-        "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
-        "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 21:03:00 GMT"
-      },
-      {
-        "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
-        "link": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 21:02:00 GMT"
-      },
-      {
-        "title": "For 44 years, this investor held aces in the long-bond game. He just folded.",
-        "link": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 20:52:00 GMT"
-      },
-      {
-        "title": "SpaceX’s stock falls to a new low despite a near-flawless Starship flight",
-        "link": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 20:41:00 GMT"
-      },
-      {
-        "title": "Micron and other chip stocks fall as China steals the spotlight",
-        "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-fall-as-china-steals-the-spotlight-cff9d73c?mod=mw_rss_topstories",
-        "published": "Mon, 27 Jul 2026 20:33:00 GMT"
+        "published": "Tue, 28 Jul 2026 11:30:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
-        "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
-        "published": "Mon, 27 Jul 2026 19:55:45 +0000"
+        "title": "Binance makes fighting crypto crime more difficult, says new report",
+        "link": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
+        "published": "Tue, 28 Jul 2026 12:24:02 +0000"
       },
       {
-        "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
-        "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
-        "published": "Mon, 27 Jul 2026 18:00:00 +0000"
+        "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
+        "link": "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges",
+        "published": "Tue, 28 Jul 2026 11:59:17 +0000"
       },
       {
-        "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
-        "link": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
-        "published": "Mon, 27 Jul 2026 16:47:06 +0000"
+        "title": "Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally",
+        "link": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
+        "published": "Tue, 28 Jul 2026 11:37:31 +0000"
       },
       {
-        "title": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
-        "link": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument",
-        "published": "Mon, 27 Jul 2026 15:00:00 +0000"
+        "title": "Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act",
+        "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act",
+        "published": "Tue, 28 Jul 2026 11:09:16 +0000"
       },
       {
-        "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
-        "link": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
-        "published": "Mon, 27 Jul 2026 14:46:10 +0000"
+        "title": "1inch opens Aqua liquidity protocol across 13 chains",
+        "link": "https://www.coindesk.com/web3/2026/07/27/1inch-opens-aqua-liquidity-protocol-across-13-chains",
+        "published": "Tue, 28 Jul 2026 11:00:00 +0000"
       },
       {
-        "title": "Cantor is advising crypto bank AMINA on path to potential public listing",
-        "link": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
-        "published": "Mon, 27 Jul 2026 14:36:30 +0000"
+        "title": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
+        "link": "https://www.coindesk.com/markets/2026/07/28/perpetuals-tied-to-sk-hynix-suffer-a-flash-crash-to-usd900-on-hyperliquid",
+        "published": "Tue, 28 Jul 2026 10:05:43 +0000"
       },
       {
-        "title": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
-        "link": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
-        "published": "Mon, 27 Jul 2026 14:00:00 +0000"
+        "title": "BitMEX and BitMart may be first casualties of crypto trading slump",
+        "link": "https://www.coindesk.com/business/2026/07/28/bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
+        "published": "Tue, 28 Jul 2026 09:36:01 +0000"
       },
       {
-        "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
-        "link": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
-        "published": "Mon, 27 Jul 2026 13:32:16 +0000"
+        "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
+        "link": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
+        "published": "Tue, 28 Jul 2026 08:00:00 +0000"
       }
     ]
   },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 196.51,
-        "per": 30.0474,
+        "per": 31.644121,
         "pbv": 24.350681,
         "roe": 1.14288,
         "roa": 0.52727,
@@ -211,7 +211,7 @@
       "ORCL": {
         "name": "Oracle Corporation",
         "price": 119.9,
-        "per": 20.566038,
+        "per": 19.720396,
         "pbv": 9.194785,
         "roe": 0.53376,
         "roa": 0.06505,
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 336.91,
-        "per": 40.788136,
+        "per": 40.837578,
         "pbv": 46.406334,
         "roe": 1.4147099,
         "roa": 0.26229,
@@ -241,7 +241,7 @@
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 309.22,
-        "per": 281.1091,
+        "per": 286.31482,
         "pbv": 14.12157,
         "roe": 0.046669997,
         "roa": 0.019299999,
@@ -256,7 +256,7 @@
       "AMZN": {
         "name": "Amazon.com, Inc.",
         "price": 231.39,
-        "per": 27.67823,
+        "per": 27.711376,
         "pbv": 5.630886,
         "roe": 0.24285,
         "roa": 0.06845,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 389.1,
-        "per": 23.174507,
+        "per": 22.727802,
         "pbv": 6.9759936,
         "roe": 0.34013999,
         "roa": 0.14814,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 326.57,
-        "per": 16.377632,
+        "per": 16.394077,
         "pbv": 6.416418,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -346,7 +346,7 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1655.26,
-        "per": 57.097622,
+        "per": 57.13704,
         "pbv": 1422.866,
         "roe": 0.53942,
         "roa": 0.16454001,
@@ -361,8 +361,8 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 399.09,
-        "per": 35.19312,
-        "pbv": 83.22204,
+        "per": 35.100266,
+        "pbv": 83.28127,
         "roe": 0.39969003,
         "roa": 0.19014,
         "der": 15.174,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1062.14,
-        "per": 25.470984,
+        "per": 25.31919,
         "pbv": 2.9110096,
         "roe": null,
         "roa": null,
