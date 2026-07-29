@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:46:36.594810Z",
+  "generated_at": "2026-07-29T13:07:48.649298Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,16 @@
     ],
     "ai_tech": [
       {
+        "title": "The Download: a chip talent battle, and deflating AI hype",
+        "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+        "published": "Wed, 29 Jul 2026 12:10:00 +0000"
+      },
+      {
+        "title": "The AI Hype Index: Unsexy AI",
+        "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+        "published": "Wed, 29 Jul 2026 08:42:57 +0000"
+      },
+      {
         "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
         "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
         "published": "Tue, 28 Jul 2026 12:10:00 +0000"
@@ -94,100 +104,90 @@
         "title": "The path to artificial superintelligence",
         "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
         "published": "Mon, 27 Jul 2026 12:00:00 +0000"
-      },
-      {
-        "title": "Closing the data loop in AI-driven drug discovery",
-        "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-        "published": "Mon, 27 Jul 2026 11:40:16 +0000"
-      },
-      {
-        "title": "Building the enterprise environment for agentic AI",
-        "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-        "published": "Mon, 27 Jul 2026 11:32:58 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Bloom Energy sees sales top $1 billion as AI proves a validation moment for fuel-cell technology",
-        "link": "https://www.marketwatch.com/story/bloom-energy-sees-sales-top-1-billion-as-ai-proves-a-validation-moment-for-fuel-cell-technology-5cb69476?mod=mw_rss_topstories",
-        "published": "Tue, 28 Jul 2026 21:17:00 GMT"
+        "title": "Gen Z stays home almost every weekend because going out isn’t worth the money",
+        "link": "https://www.marketwatch.com/story/gen-z-stays-home-almost-every-weekend-because-going-out-isnt-worth-the-money-64f03227?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 13:01:00 GMT"
       },
       {
-        "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
-        "link": "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories",
-        "published": "Tue, 28 Jul 2026 21:08:00 GMT"
+        "title": "Two rival AI super PACs are backing the same congressman. What gives?",
+        "link": "https://www.marketwatch.com/story/two-rival-ai-super-pacs-are-backing-the-same-congressman-what-gives-dbc93094?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 12:30:00 GMT"
       },
       {
-        "title": "The Fed isn’t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
-        "link": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
-        "published": "Tue, 28 Jul 2026 20:54:00 GMT"
+        "title": "Think a 1% advisory fee sounds cheap? It is actually eating 15% of your investment returns.",
+        "link": "https://www.marketwatch.com/story/think-a-1-advisory-fee-sounds-cheap-it-is-actually-eating-15-of-your-investment-returns-ceead305?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 11:43:00 GMT"
       },
       {
-        "title": "Alphabet and Tesla took a hit from soaring AI spending. Will Microsoft, Meta and Amazon be next?",
-        "link": "https://www.marketwatch.com/story/alphabet-and-tesla-took-a-hit-from-soaring-ai-spending-will-microsoft-meta-and-amazon-be-next-80ecb30b?mod=mw_rss_topstories",
-        "published": "Tue, 28 Jul 2026 20:52:00 GMT"
+        "title": "Oil prices rise after U.S. and Saudi Arabia attack Iran-backed militias in Iraq",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 11:32:00 GMT"
       },
       {
-        "title": "Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating",
-        "link": "https://www.marketwatch.com/story/nasdaq-100-is-on-the-edge-of-correction-territory-as-semiconductor-stocks-take-another-beating-580d3ee7?mod=mw_rss_topstories",
-        "published": "Tue, 28 Jul 2026 20:46:00 GMT"
+        "title": "A profit squeeze is coming for tech. This manager is betting on these unglamorous stocks instead.",
+        "link": "https://www.marketwatch.com/story/a-profit-squeeze-is-coming-for-tech-this-manager-is-betting-on-these-unglamorous-stocks-instead-ea19a2ab?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 11:20:00 GMT"
       },
       {
-        "title": "Space stocks are falling hard — but SpaceX doesn’t deserve all of the blame",
-        "link": "https://www.marketwatch.com/story/space-stocks-are-falling-hard-but-spacex-doesnt-deserve-all-of-the-blame-e5c1c8d0?mod=mw_rss_topstories",
-        "published": "Tue, 28 Jul 2026 20:43:00 GMT"
+        "title": "‘Nothing seems to shake this market.’ Why it’s time to go all-in on stocks, according to these bullish strategists.",
+        "link": "https://www.marketwatch.com/story/oil-is-up-40-and-tech-is-tumbling-why-its-time-to-go-all-in-on-stocks-according-to-these-bullish-strategists-41d812f7?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 11:17:00 GMT"
       },
       {
-        "title": "Microsoft is making a $190 billion AI gamble — and investors will soon see if it’s paying off",
-        "link": "https://www.marketwatch.com/story/microsoft-is-making-a-190-billion-ai-gamble-and-investors-will-soon-see-if-its-paying-off-b53bd89a?mod=mw_rss_topstories",
-        "published": "Tue, 28 Jul 2026 20:33:00 GMT"
+        "title": "Saudi Arabia has a new, and pricier, workaround to export its oil",
+        "link": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 11:16:00 GMT"
       },
       {
-        "title": "Forget oil. A surging El Niño could kill Fed rate cuts — and these stocks stand to win.",
-        "link": "https://www.marketwatch.com/story/forget-oil-a-surging-el-nino-could-kill-fed-rate-cuts-and-these-stocks-stand-to-win-41f8e67f?mod=mw_rss_topstories",
-        "published": "Tue, 28 Jul 2026 20:26:00 GMT"
+        "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
+        "link": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 11:15:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
-        "link": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
-        "published": "Tue, 28 Jul 2026 20:23:31 +0000"
+        "title": "The systemic-risk debate over perpetual futures is aimed at the wrong target",
+        "link": "https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
+        "published": "Wed, 29 Jul 2026 13:00:00 +0000"
       },
       {
-        "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
-        "link": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network",
-        "published": "Tue, 28 Jul 2026 19:44:26 +0000"
+        "title": "BNY targets $8.6 trillion transfer agency market on blockchain rails",
+        "link": "https://www.coindesk.com/business/2026/07/29/bny-targets-usd8-6-trillion-transfer-agency-market-on-blockchain-rails",
+        "published": "Wed, 29 Jul 2026 12:18:58 +0000"
       },
       {
-        "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
-        "link": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
-        "published": "Tue, 28 Jul 2026 17:23:35 +0000"
+        "title": "3 reasons Wednesday's Fed meeting is pivotal for BTC",
+        "link": "https://www.coindesk.com/daybook-us/2026/07/29/3-reasons-wednesday-s-fed-meeting-is-pivotal-for-btc",
+        "published": "Wed, 29 Jul 2026 11:15:00 +0000"
       },
       {
-        "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
-        "link": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
-        "published": "Tue, 28 Jul 2026 16:08:19 +0000"
+        "title": "Bitcoin steadies above $64,000 as crypto looks to Fed interest-rate decision",
+        "link": "https://www.coindesk.com/markets/2026/07/29/bitcoin-steadies-above-usd64-000-as-crypto-looks-to-fed-interest-rate-decision",
+        "published": "Wed, 29 Jul 2026 10:34:18 +0000"
       },
       {
-        "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
-        "link": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
-        "published": "Tue, 28 Jul 2026 15:46:33 +0000"
+        "title": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
+        "link": "https://www.coindesk.com/markets/2026/07/29/binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume",
+        "published": "Wed, 29 Jul 2026 10:00:00 +0000"
       },
       {
-        "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
-        "link": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
-        "published": "Tue, 28 Jul 2026 14:49:50 +0000"
+        "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
+        "link": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
+        "published": "Wed, 29 Jul 2026 09:22:24 +0000"
       },
       {
-        "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
-        "link": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
-        "published": "Tue, 28 Jul 2026 14:49:01 +0000"
+        "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
+        "link": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
+        "published": "Wed, 29 Jul 2026 09:10:54 +0000"
       },
       {
-        "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
-        "link": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
-        "published": "Tue, 28 Jul 2026 14:35:28 +0000"
+        "title": "SpaceX is a battleground Solana must win",
+        "link": "https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win",
+        "published": "Wed, 29 Jul 2026 08:00:00 +0000"
       }
     ]
   },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 197.01,
-        "per": 30.216257,
+        "per": 30.123852,
         "pbv": 24.41264,
         "roe": 1.14288,
         "roa": 0.52727,
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 340.08,
-        "per": 41.221817,
+        "per": 41.17191,
         "pbv": 46.84297,
         "roe": 1.4147099,
         "roa": 0.26229,
@@ -242,7 +242,7 @@
         "name": "Tesla, Inc.",
         "price": 307.44,
         "per": 284.66666,
-        "pbv": 14.04028,
+        "pbv": 13.724388,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -256,7 +256,7 @@
       "AMZN": {
         "name": "Amazon.com, Inc.",
         "price": 230.86,
-        "per": 27.647903,
+        "per": 27.614834,
         "pbv": 5.6179886,
         "roe": 0.24285,
         "roa": 0.06845,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 393.35,
-        "per": 23.399763,
+        "per": 23.413692,
         "pbv": 7.05219,
         "roe": 0.34013999,
         "roa": 0.14814,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 593.41,
-        "per": 21.578545,
+        "per": 21.602112,
         "pbv": 6.1805167,
         "roe": 0.32930002,
         "roa": 0.16395001,
@@ -361,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 392.31,
-        "per": 34.50396,
+        "per": 34.473637,
         "pbv": 81.86644,
         "roe": 0.39969003,
         "roa": 0.19014,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1097.55,
-        "per": 26.294922,
+        "per": 26.313835,
         "pbv": 3.0080578,
         "roe": null,
         "roa": null,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 682.06,
+        "price": 675.37,
         "dividend_yield": 0.0041,
         "ytd_return": 20.18788,
         "expense_ratio": null,
-        "three_year_return": 0.2259795
+        "three_year_return": 0.214664
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 738.9293,
+        "price": 740.4891,
         "dividend_yield": 0.0101,
         "ytd_return": 10.16428,
         "expense_ratio": null,
-        "three_year_return": 0.1924222
+        "three_year_return": 0.1895041
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 679.18,
+        "price": 680.62,
         "dividend_yield": 0.0107,
         "ytd_return": 10.18984,
         "expense_ratio": null,
-        "three_year_return": 0.1933019
+        "three_year_return": 0.190415
       },
       "VTI": {
         "name": "Vanguard Total Stock Market Index Fund ETF Shares",
-        "price": 365.15,
+        "price": 365.84,
         "dividend_yield": 0.0105,
         "ytd_return": 11.07125,
         "expense_ratio": null,
-        "three_year_return": 0.190208
+        "three_year_return": 0.18697491
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.1048,
+        "price": 57.4746,
         "dividend_yield": 0.081099994,
         "ytd_return": 2.2108,
         "expense_ratio": null,
-        "three_year_return": 0.09109239
+        "three_year_return": 0.0927871
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 57.7239,
+        "price": 57.165,
         "dividend_yield": 0.0995,
         "ytd_return": 10.84163,
         "expense_ratio": null,
-        "three_year_return": 0.1753639
+        "three_year_return": 0.1680394
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 83.72869,
+        "price": 84.21453,
         "dividend_yield": 0.045300003,
         "ytd_return": 0.93029,
         "expense_ratio": null,
-        "three_year_return": -0.0150351
+        "three_year_return": -0.0148016
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 97.67998,
+        "price": 97.91772,
         "dividend_yield": 0.0397,
         "ytd_return": 0.70968,
         "expense_ratio": null,
-        "three_year_return": 0.0401236
+        "three_year_return": 0.039586
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund",
-        "price": 72.44,
+        "price": 72.62,
         "dividend_yield": 0.0395,
         "ytd_return": 0.7101,
         "expense_ratio": null,
-        "three_year_return": 0.0399164
+        "three_year_return": 0.0395756
       }
     }
   }
