@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T21:15:27.793650Z",
+  "generated_at": "2026-07-30T12:13:30.273895Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+        "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+        "published": "Thu, 30 Jul 2026 10:15:19 +0000"
+      },
+      {
         "title": "How an overlooked geothermal plant got a second chance",
         "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
         "published": "Wed, 29 Jul 2026 17:58:44 +0000"
@@ -99,95 +104,90 @@
         "title": "How lasers could help provide fuel for nuclear reactors",
         "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
         "published": "Mon, 27 Jul 2026 14:24:42 +0000"
-      },
-      {
-        "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-        "link": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-        "published": "Mon, 27 Jul 2026 12:10:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Starbucks is becoming cool again. Here’s how it pulled off its turnaround.",
-        "link": "https://www.marketwatch.com/story/starbucks-is-becoming-cool-again-heres-how-it-pulled-off-its-turnaround-d2949e64?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 21:09:00 GMT"
+        "title": "Wall Street just suffered a historic crash in highflying stocks. Why a quick tech rebound could be a trap.",
+        "link": "https://www.marketwatch.com/story/wall-street-just-suffered-a-historic-crash-in-high-flying-stocks-here-is-why-a-quick-tech-rebound-could-be-a-trap-c021318a?mod=mw_rss_topstories",
+        "published": "Thu, 30 Jul 2026 11:46:00 GMT"
       },
       {
-        "title": "Qualcomm’s stock falls as memory woes weigh on earnings",
-        "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 21:07:00 GMT"
+        "title": "Nearly half of small-cap and midcap stocks are losing money",
+        "link": "https://www.marketwatch.com/story/nearly-half-of-small-cap-and-midcap-stocks-are-losing-money-ca851c98?mod=mw_rss_topstories",
+        "published": "Thu, 30 Jul 2026 11:45:00 GMT"
       },
       {
-        "title": "‘Love Island USA’ winners are spending their $100,000 prize money in a very relatable way",
-        "link": "https://www.marketwatch.com/story/love-island-usa-winners-are-spending-their-100-000-prize-money-in-a-very-relatable-way-5f4f1794?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 20:51:00 GMT"
+        "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+        "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+        "published": "Thu, 30 Jul 2026 11:16:00 GMT"
       },
       {
-        "title": "Robinhood puts up record revenue as volatility drives a trading bonanza",
-        "link": "https://www.marketwatch.com/story/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza-8e0729c1?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 20:43:00 GMT"
+        "title": "Why you shouldn’t worry about the stock market’s break below its 50-day moving average",
+        "link": "https://www.marketwatch.com/story/why-you-shouldnt-worry-about-the-stock-markets-break-below-its-50-day-moving-average-4dfab87a?mod=mw_rss_topstories",
+        "published": "Thu, 30 Jul 2026 11:15:00 GMT"
       },
       {
-        "title": "Looking for a second home? Sellers in these markets could be ready to make a deal.",
-        "link": "https://www.marketwatch.com/story/looking-for-a-second-home-sellers-in-these-markets-could-be-ready-to-make-a-deal-b8d85b34?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 20:38:00 GMT"
+        "title": "The World Cup winners wore Adidas shirts. But the company’s investors are still crying foul.",
+        "link": "https://www.marketwatch.com/story/the-world-cup-winners-wore-adidas-shirts-but-the-companys-investors-are-still-crying-foul-2224d39a?mod=mw_rss_topstories",
+        "published": "Thu, 30 Jul 2026 11:06:00 GMT"
       },
       {
-        "title": "I’m managing a former colleague who just can’t keep up with her workload. How do I handle this without being a jerk?",
-        "link": "https://www.marketwatch.com/story/im-managing-a-former-colleague-who-just-cant-keep-up-with-her-workload-how-do-i-handle-this-without-being-a-jerk-eb2303ee?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 19:26:00 GMT"
+        "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+        "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+        "published": "Thu, 30 Jul 2026 10:01:00 GMT"
       },
       {
-        "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
-        "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 19:21:00 GMT"
+        "title": "Social Security’s biggest problem isn’t a design flaw. It’s a missing trust fund.",
+        "link": "https://www.marketwatch.com/story/social-securitys-biggest-problem-isnt-a-design-flaw-its-a-missing-trust-fund-75cd1351?mod=mw_rss_topstories",
+        "published": "Thu, 30 Jul 2026 10:00:00 GMT"
       },
       {
-        "title": "Do-nothing Fed? Maybe not. Now Wall Street zeros in on rate hike in September.",
-        "link": "https://www.marketwatch.com/story/the-big-focus-now-is-on-the-potential-for-a-september-rate-hike-after-the-fed-stands-pat-401c30d6?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 19:11:00 GMT"
+        "title": "My friend and her husband own extensive real estate. How can her children from a previous marriage get their fair share?",
+        "link": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
+        "published": "Thu, 30 Jul 2026 09:15:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
-        "link": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
-        "published": "Wed, 29 Jul 2026 20:40:43 +0000"
+        "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
+        "link": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
+        "published": "Thu, 30 Jul 2026 12:09:18 +0000"
       },
       {
-        "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
-        "link": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting",
-        "published": "Wed, 29 Jul 2026 18:00:00 +0000"
+        "title": "Bitcoin ETFs on track for the smallest monthly inflows ever",
+        "link": "https://www.coindesk.com/daybook-us/2026/07/30/bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever",
+        "published": "Thu, 30 Jul 2026 11:18:34 +0000"
       },
       {
-        "title": "Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap",
-        "link": "https://www.coindesk.com/markets/2026/07/29/fomc-hold-fed-holds-rates-steady-extending-pause-as-markets-await-warsh-s-policy-roadmap",
-        "published": "Wed, 29 Jul 2026 17:58:33 +0000"
+        "title": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
+        "link": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
+        "published": "Thu, 30 Jul 2026 11:17:56 +0000"
       },
       {
-        "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
-        "link": "https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying",
-        "published": "Wed, 29 Jul 2026 16:09:32 +0000"
+        "title": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
+        "link": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
+        "published": "Thu, 30 Jul 2026 10:56:24 +0000"
       },
       {
-        "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
-        "link": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
-        "published": "Wed, 29 Jul 2026 15:27:30 +0000"
+        "title": "BitRiver founder charged in Russia with $12.5 million fraud",
+        "link": "https://www.coindesk.com/policy/2026/07/30/bitriver-founder-charged-in-russia-with-usd12-5-million-fraud",
+        "published": "Thu, 30 Jul 2026 10:02:33 +0000"
       },
       {
-        "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
-        "link": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
-        "published": "Wed, 29 Jul 2026 15:15:08 +0000"
+        "title": "Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps",
+        "link": "https://www.coindesk.com/business/2026/07/30/crypto-exchange-luno-cuts-20-of-staff-amid-automation-push-and-retail-trading-slumps",
+        "published": "Thu, 30 Jul 2026 09:54:18 +0000"
       },
       {
-        "title": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/07/29/crypto-long-and-short-what-this-year-s-usd972-million-crypto-hacks-actually-tell-us-about-security",
-        "published": "Wed, 29 Jul 2026 15:13:07 +0000"
+        "title": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
+        "link": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
+        "published": "Thu, 30 Jul 2026 09:01:13 +0000"
       },
       {
-        "title": "Ethereum Foundation names pcaversaccio to board amid leadership changes",
-        "link": "https://www.coindesk.com/tech/2026/07/29/ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes",
-        "published": "Wed, 29 Jul 2026 14:11:21 +0000"
+        "title": "Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go",
+        "link": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
+        "published": "Thu, 30 Jul 2026 09:00:00 +0000"
       }
     ]
   },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 190.01,
-        "per": 29.142637,
+        "per": 30.208267,
         "pbv": 23.545229,
         "roe": 1.14288,
         "roa": 0.52727,
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 338.19,
-        "per": 40.9431,
+        "per": 40.99273,
         "pbv": 46.58264,
         "roe": 1.4147099,
         "roa": 0.26229,
@@ -241,8 +241,8 @@
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 298.32,
-        "per": 276.22223,
-        "pbv": 13.317264,
+        "per": 278.80374,
+        "pbv": 13.623785,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 390.54,
-        "per": 23.24643,
+        "per": 23.41367,
         "pbv": 7.001811,
         "roe": 0.34013999,
         "roa": 0.14814,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 335.76,
-        "per": 16.855423,
+        "per": 16.838516,
         "pbv": 6.5969825,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 585.61,
-        "per": 21.318165,
+        "per": 21.601254,
         "pbv": 6.099278,
         "roe": 0.32930002,
         "roa": 0.16395001,
@@ -346,7 +346,7 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1550.69,
-        "per": 53.527443,
+        "per": 53.768723,
         "pbv": 1333.6104,
         "roe": 0.53942,
         "roa": 0.16454001,
@@ -361,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 374.67,
-        "per": 32.92355,
+        "per": 32.894646,
         "pbv": 78.13733,
         "roe": 0.39969003,
         "roa": 0.19014,
@@ -370,7 +370,7 @@
         "fcf": 739057991680,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.01012,
+        "dividend_yield": 0.03203,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1079.19,
-        "per": 25.873652,
+        "per": 26.315289,
         "pbv": 2.9577382,
         "roe": null,
         "roa": null,
@@ -413,7 +413,7 @@
         "dividend_yield": 0.0041,
         "ytd_return": 20.18788,
         "expense_ratio": null,
-        "three_year_return": 0.214664
+        "three_year_return": 0.2063596
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
@@ -421,7 +421,7 @@
         "dividend_yield": 0.0101,
         "ytd_return": 10.16428,
         "expense_ratio": null,
-        "three_year_return": 0.1895041
+        "three_year_return": 0.1833714
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
@@ -429,7 +429,7 @@
         "dividend_yield": 0.0107,
         "ytd_return": 10.18984,
         "expense_ratio": null,
-        "three_year_return": 0.190415
+        "three_year_return": 0.18436489
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
@@ -437,7 +437,7 @@
         "dividend_yield": 0.0105,
         "ytd_return": 11.07125,
         "expense_ratio": null,
-        "three_year_return": 0.18697491
+        "three_year_return": 0.1809226
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
@@ -445,7 +445,7 @@
         "dividend_yield": 0.081099994,
         "ytd_return": 2.2108,
         "expense_ratio": null,
-        "three_year_return": 0.0927871
+        "three_year_return": 0.0892267
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
@@ -453,7 +453,7 @@
         "dividend_yield": 0.0995,
         "ytd_return": 10.84163,
         "expense_ratio": null,
-        "three_year_return": 0.1680394
+        "three_year_return": 0.16077921
       }
     },
     "bonds": {
@@ -463,23 +463,23 @@
         "dividend_yield": 0.045300003,
         "ytd_return": 0.93029,
         "expense_ratio": null,
-        "three_year_return": -0.0148016
+        "three_year_return": -0.0202505
       },
       "AGG": {
-        "name": "iShares Core US Aggregate Bond ETF",
+        "name": "iShares Core U.S. Aggregate Bond ETF",
         "price": 97.91772,
         "dividend_yield": 0.0397,
         "ytd_return": 0.70968,
         "expense_ratio": null,
-        "three_year_return": 0.039586
+        "three_year_return": 0.0382749
       },
       "BND": {
-        "name": "Vanguard Total Bond Market ETF",
+        "name": "Vanguard Total Bond Market Index Fund",
         "price": 72.62,
         "dividend_yield": 0.0395,
         "ytd_return": 0.7101,
         "expense_ratio": null,
-        "three_year_return": 0.0395756
+        "three_year_return": 0.0383338
       }
     }
   }
