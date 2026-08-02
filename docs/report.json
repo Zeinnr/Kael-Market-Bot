@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T11:07:55.667875Z",
+  "generated_at": "2026-08-02T20:39:56.900432Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,47 +108,72 @@
     ],
     "markets": [
       {
-        "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
-        "link": "https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories",
-        "published": "Sun, 02 Aug 2026 11:00:00 GMT"
+        "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
+        "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+        "published": "Sun, 02 Aug 2026 17:00:00 GMT"
       },
       {
         "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
         "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-        "published": "Sat, 01 Aug 2026 22:00:00 GMT"
+        "published": "Sun, 02 Aug 2026 16:00:00 GMT"
+      },
+      {
+        "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
+        "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
+        "published": "Sun, 02 Aug 2026 15:19:00 GMT"
+      },
+      {
+        "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+        "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+        "published": "Sun, 02 Aug 2026 14:00:00 GMT"
+      },
+      {
+        "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
+        "link": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
+        "published": "Sun, 02 Aug 2026 14:00:00 GMT"
       },
       {
         "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
         "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-        "published": "Sat, 01 Aug 2026 21:15:00 GMT"
+        "published": "Sun, 02 Aug 2026 13:30:00 GMT"
       },
       {
         "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
         "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-        "published": "Sat, 01 Aug 2026 21:00:00 GMT"
+        "published": "Sun, 02 Aug 2026 13:00:00 GMT"
       },
       {
-        "title": "Let’s elect candidates who will make the wealthy pay taxes",
-        "link": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
-        "published": "Sat, 01 Aug 2026 18:30:00 GMT"
-      },
-      {
-        "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
-        "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
-        "published": "Sat, 01 Aug 2026 18:15:00 GMT"
-      },
-      {
-        "title": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
-        "link": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
-        "published": "Sat, 01 Aug 2026 18:06:00 GMT"
-      },
-      {
-        "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
-        "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
-        "published": "Sat, 01 Aug 2026 17:32:00 GMT"
+        "title": "How Apple’s cheap MacBook Neo sparked a war in budget laptops",
+        "link": "https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories",
+        "published": "Sun, 02 Aug 2026 13:00:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Counting down the days: State of Crypto",
+        "link": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+        "published": "Sun, 02 Aug 2026 18:30:00 +0000"
+      },
+      {
+        "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+        "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+        "published": "Sun, 02 Aug 2026 17:00:00 +0000"
+      },
+      {
+        "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+        "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+        "published": "Sun, 02 Aug 2026 16:00:00 +0000"
+      },
+      {
+        "title": "The reverse bridge: Crypto meets Wall Street using perps",
+        "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+        "published": "Sun, 02 Aug 2026 13:00:00 +0000"
+      },
+      {
+        "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+        "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+        "published": "Sun, 02 Aug 2026 12:03:51 +0000"
+      },
       {
         "title": "Strategy holds STRC dividend at 12%",
         "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
@@ -163,31 +188,6 @@
         "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
         "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
         "published": "Sat, 01 Aug 2026 16:51:35 +0000"
-      },
-      {
-        "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-        "link": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
-        "published": "Sat, 01 Aug 2026 16:00:00 +0000"
-      },
-      {
-        "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
-        "link": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
-        "published": "Sat, 01 Aug 2026 15:51:10 +0000"
-      },
-      {
-        "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-        "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-        "published": "Sat, 01 Aug 2026 15:48:27 +0000"
-      },
-      {
-        "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
-        "link": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-        "published": "Sat, 01 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "title": "Everyone has the perps convergence backwards",
-        "link": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
-        "published": "Sat, 01 Aug 2026 13:00:00 +0000"
       }
     ]
   },
@@ -260,9 +260,9 @@
         "pbv": 6.6089115,
         "roe": 0.30558002,
         "roa": 0.06589,
-        "der": 40.468,
+        "der": 45.617,
         "npm": 0.1744,
-        "fcf": 22722125824,
+        "fcf": 3219124992,
         "revenue_growth": 0.196,
         "earnings_growth": 2.423,
         "dividend_yield": null,
@@ -400,8 +400,8 @@
         "der": null,
         "npm": 0.29524,
         "fcf": null,
-        "revenue_growth": 0.214,
-        "earnings_growth": 0.36,
+        "revenue_growth": 0.168,
+        "earnings_growth": 0.341,
         "dividend_yield": 0.02066,
         "valuation_flag": "data tidak cukup"
       }
@@ -560,79 +560,79 @@
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.541,
+        "composite_score": 0.54,
         "components_used": 8
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": 0.291,
+        "composite_score": 0.294,
         "components_used": 9
       },
       {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "composite_score": 0.245,
+        "composite_score": 0.248,
         "components_used": 7
       },
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.213,
+        "composite_score": 0.216,
         "components_used": 9
       },
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.149,
+        "composite_score": 0.152,
         "components_used": 9
       },
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "composite_score": -0.002,
+        "composite_score": -0.005,
         "components_used": 8
       },
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "composite_score": -0.035,
+        "composite_score": -0.032,
         "components_used": 9
       },
       {
         "ticker": "BAC",
         "name": "Bank of America Corporation",
-        "composite_score": -0.045,
+        "composite_score": -0.071,
         "components_used": 8
       },
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "composite_score": -0.165,
+        "composite_score": -0.163,
         "components_used": 9
       },
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.4,
+        "composite_score": -0.397,
         "components_used": 9
       },
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.497,
+        "composite_score": -0.494,
         "components_used": 9
       },
       {
         "ticker": "INTC",
         "name": "Intel Corporation",
-        "composite_score": -0.79,
+        "composite_score": -0.786,
         "components_used": 6
       },
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -0.863,
+        "composite_score": -0.86,
         "components_used": 8
       }
     ],
@@ -676,81 +676,86 @@
     ]
   },
   "analysis": {
-    "headline": "Yield 10Y AS naik ke 4.68% di tengah inflasi yang mendingin dan pengangguran turun ke 4.2% — divergensi ini jadi ancaman utama bagi saham growth bervaluasi tinggi dan bond jangka panjang.",
-    "economic_summary": "CPI turun -0.42% MoM dan PCE (indikator favorit Fed) turun -0.11%, sementara unemployment rate turun ke 4.2% dari 4.3% dan retail sales naik tipis 0.22%. Fed Funds Rate tetap flat di 3.63%, tapi 10Y Treasury yield justru naik ke 4.68% (+0.21%) — kontradiksi dengan narasi disinflasi. Nonfarm payrolls nyaris stagnan (+0.04% MoM), menandakan pasar kerja mendingin perlahan tapi belum recessionary.",
+    "headline": "Inflasi AS mendingin (CPI & PCE turun MoM) tapi Fed tetap tahan di 3.63% dan yield 10Y justru naik — sinyal pasar meragukan pemangkasan suku bunga jangka pendek, sementara valuasi tech ekstrem (TSLA, PLTR) makin rentan di tengah narasi AI hype yang mulai pudar.",
+    "economic_summary": "CPI turun -0.42% MoM ke 332.57 dan PCEPI turun -0.11%, mengindikasikan disinflasi berlanjut. Namun payrolls hanya naik tipis +57rb (+0.04%), unemployment turun ke 4.2%, dan GDP tumbuh solid +1.91% QoQ. Fed funds rate stagnan di 3.63% sementara yield 10Y justru naik +0.21% ke 4.68% — kombinasi ini menunjukkan pasar obligasi tidak yakin Fed akan cepat memangkas bunga meski inflasi mendingin.",
     "correlation_analysis": [
       {
-        "trigger": "10Y yield naik ke 4.68% meski CPI & PCE melandai",
-        "mechanism": "Divergensi ini mengindikasikan market memangkas ekspektasi rate cut jangka pendek (term premium naik, mungkin karena supply Treasury atau fiscal concern), bukan karena inflasi. Discount rate yang lebih tinggi langsung menekan present value earnings jangka panjang, paling keras kena ke saham dengan PER tinggi dan durasi obligasi panjang.",
+        "trigger": "CPI/PCE turun tapi 10Y yield naik & Fed funds flat",
+        "mechanism": "Disinflasi tidak diikuti ekspektasi rate cut karena GDP masih kuat (+1.91%) dan unemployment turun — pasar re-pricing 'higher for longer', menekan bond jangka panjang berdurasi tinggi dan menambah tekanan diskonto pada saham dengan PER ekstrem",
         "affected_assets": [
-          "NVDA",
-          "PLTR",
-          "TSLA",
           "TLT",
-          "QQQ"
+          "AGG",
+          "BND",
+          "PLTR",
+          "TSLA"
         ],
         "confidence": "high"
       },
       {
-        "trigger": "Unemployment turun ke 4.2% tapi payrolls nyaris flat (+0.04%)",
-        "mechanism": "Kombinasi ini sinyal pasar kerja mengetat bukan karena hiring kuat tapi participation rate/labor supply berubah — bikin Fed defensif untuk cut karena data mixed, mendukung 'higher for longer' funds rate di 3.63%. Ini menopang yield jangka pendek tapi menekan sektor rate-sensitive seperti REIT dan bond agregat (AGG/BND yang cuma return <1% ytd).",
+        "trigger": "Payrolls nyaris flat (+57rb) di tengah unemployment turun",
+        "mechanism": "Sinyal tenaga kerja ambigu (hiring melambat tapi unemployment rate turun) membuat Fed sulit mengambil sikap dovish tegas, mempertahankan bunga tinggi lebih lama yang berdampak negatif ke saham growth berduration tinggi",
         "affected_assets": [
-          "AGG",
-          "BND",
-          "BAC"
+          "QQQ",
+          "NVDA",
+          "PLTR",
+          "TSLA"
         ],
         "confidence": "medium"
       },
       {
-        "trigger": "Bitcoin cold-wallet attack menyebar ke 4,500 address, kerugian ~$89M + mining difficulty turun 14%",
-        "mechanism": "Serangan keamanan skala besar mengikis kepercayaan investor ritel ke self-custody, sementara turunnya mining difficulty menunjukkan miner profitability tertekan (revenue turun, operator pivot). Ini menambah risk premium di aset crypto dan entitas terkait mining/treasury seperti Strategy (STRC dividend 12% jadi daya tarik yield alternatif di tengah crypto volatility).",
-        "affected_assets": [
-          "BTC",
-          "crypto-mining equities"
-        ],
-        "confidence": "medium"
-      },
-      {
-        "trigger": "Narasi 'deflating AI hype' + laporan flaw fundamental LLM rentan serangan",
-        "mechanism": "Skeptisisme terhadap monetisasi AI jangka pendek + risiko keamanan LLM menambah tekanan valuasi ke saham AI-driven dengan PER ekstrem (PLTR 138x), terutama saat digabung dengan naiknya discount rate dari yield 10Y. Saham semikonduktor/infrastruktur AI (NVDA, ASML, TSM) lebih tahan karena revenue growth riil masih kuat, tapi sentimen bisa ikut terseret jika narasi ini menguat.",
+        "trigger": "Narasi 'deflating AI hype' + kerentanan LLM terhadap serangan",
+        "mechanism": "Sentimen negatif terhadap valuasi AI bisa memicu kompresi multiple pada saham dengan valuation_flag overvalued, terutama yang PER-nya jauh di atas rata-rata sektor seperti PLTR (138x) dan TSLA (285x); NVDA meski 'fair' tetap exposed karena ROE 114% bergantung pada keberlanjutan capex AI",
         "affected_assets": [
           "PLTR",
-          "NVDA",
-          "ASML",
-          "TSM"
+          "TSLA",
+          "NVDA"
         ],
         "confidence": "medium"
+      },
+      {
+        "trigger": "Eksploitasi cold-wallet Coldcard $89M & migrasi dana ke exchange",
+        "mechanism": "Insiden keamanan custody memicu risk-off jangka pendek di crypto, sementara tokenized stock (QQQ token) yang melonjak 288% menunjukkan makin eratnya jalur crypto-TradFi — volatilitas BTC berpotensi lebih cepat merembet ke ETF seperti QQQ lewat instrumen tokenized ini",
+        "affected_assets": [
+          "QQQ",
+          "MSTR-linked STRC"
+        ],
+        "confidence": "low"
       }
     ],
     "stock_commentary": [
       {
         "ticker": "NVDA",
-        "note": "PER 30.8x tergolong 'fair' relatif peer meski revenue growth 85% — tapi valuasi ini rentan ter-derating kalau yield 10Y terus naik (mekanisme #1) dan skeptisisme AI hype menguat (mekanisme #4). FCF kuat ($46B) jadi buffer tapi tidak imun dari repricing makro."
-      },
-      {
-        "ticker": "PLTR",
-        "note": "PER 138x dan PBV 34.9x adalah valuasi paling ekstrem di list ini — flag 'overvalued' relatif peer paling rentan terhadap kombinasi rising yield dan narasi deflating AI hype (mekanisme #1 & #4). Revenue growth 84.7% impresif tapi tidak menjustifikasi multiple ini di lingkungan discount rate naik."
+        "note": "Valuation_flag 'fair' tapi ROE 114% dan PER 30.8x tetap sensitif terhadap narasi 'AI hype deflating' — risiko re-rating jika sentimen AI capex melemah, apalagi di tengah yield 10Y yang naik menekan saham growth."
       },
       {
         "ticker": "TSLA",
-        "note": "PER 285.5x ekstrem dengan earnings_growth negatif (-3%) — kombinasi paling berbahaya saat yield naik karena tidak ada earnings momentum untuk menopang multiple compression. Der 18.4x juga menambah sensitivitas ke cost of capital yang naik."
+        "note": "PER 285x jauh di atas peer (valuation_flag overvalued) dengan earnings_growth negatif -3% — paling rentan terhadap kombinasi Fed hawkish-lebih-lama dan sentimen risk-off AI/tech."
+      },
+      {
+        "ticker": "PLTR",
+        "note": "PER 138x dan valuation_flag overvalued menjadikannya kandidat utama koreksi jika narasi 'deflating AI hype' berlanjut, meski earnings_growth 325% masih sangat kuat secara fundamental."
+      },
+      {
+        "ticker": "AMZN",
+        "note": "Undervalued relatif peer dengan earnings_growth 242%, jadi pendorong utama 'wilder profit growth' S&P 500 yang disebut media — kontribusi besar ke performa QQQ/SPY top-heavy."
       },
       {
         "ticker": "ORCL",
-        "note": "Flag 'undervalued' relatif peer tapi FCF negatif (-$24.5B) dan DER 388.9x (leverage ekstrem) membuatnya sangat sensitif terhadap kenaikan yield 10Y — cost of debt yang lebih mahal langsung menggerus margin di tengah beban utang tinggi ini."
+        "note": "Valuation_flag undervalued tapi FCF negatif -24.5B dan DER 388.87 — red flag leverage ekstrem yang tidak tercermin di angka PER murah, perlu diwaspadai terlepas dari label undervalued."
       },
       {
-        "ticker": "TLT",
-        "note": "Return ytd cuma 0.93% dan three_year_return negatif (-2.34%) mengonfirmasi mekanisme #1 — bond jangka panjang terus tertekan karena yield naik meski inflasi mendingin, sinyal bahwa market pricing term premium/fiscal risk, bukan sekadar ekspektasi inflasi."
+        "ticker": "GOOG",
+        "note": "PER 17.9x paling murah di antara big tech dengan earnings_growth 294%, memberi buffer valuasi di tengah tekanan yield naik dibanding NVDA/PLTR/TSLA yang lebih mahal."
       }
     ],
-    "ai_tech_summary": "Berita AI/tech minggu ini didominasi narasi skeptisisme: 'deflating AI hype' dan temuan fundamental flaw yang membuat LLM rentan terhadap serangan adversarial. Ini kontras dengan capex AI yang masih tinggi di big tech (Google, Meta, Microsoft) — potensi gap antara ekspektasi pasar dan realita monetisasi AI mulai muncul di media.",
-    "global_summary": "Data ekonomi global tidak tersedia hari ini (error fetching), sehingga analisis geopolitik terbatas pada data domestik AS. Fokus utama tetap pada divergensi Fed policy vs bond market pricing.",
+    "ai_tech_summary": "Berita tech didominasi narasi skeptisisme terhadap AI hype ('deflating AI hype', 'unsexy AI') dan temuan kerentanan fundamental pada LLM terhadap serangan — kombinasi ini berpotensi menggeser sentimen investor dari optimisme buta ke penilaian lebih hati-hati atas valuasi saham AI-linked. Persaingan talent chip juga disorot, relevan untuk NVDA/TSM/ASML yang bergantung pada SDM spesialis.",
+    "global_summary": "Data ekonomi global tidak tersedia (error koneksi), sehingga analisis geopolitik terbatas pada data domestik AS. Fokus utama tetap pada disinflasi domestik, ketahanan GDP, dan sinyal campuran pasar tenaga kerja AS.",
     "risk_flags": [
-      "Divergensi antara data inflasi yang melandai vs 10Y yield yang naik — jika berlanjut, ini sinyal repricing risk premium yang bisa memicu rotasi keluar dari growth stocks bervaluasi tinggi (NVDA, PLTR, TSLA).",
-      "Serangan cold-wallet crypto senilai $89M yang menyebar ke 4,500 address — pantau apakah ini memicu contagion ke sentimen crypto-linked equities atau ETF.",
-      "PLTR dan TSLA dengan PER ekstrem (138x dan 285x) adalah kandidat paling rentan terhadap multiple compression jika narasi 'AI hype deflating' menguat minggu ini.",
-      "Payrolls yang nyaris stagnan (+0.04%) meski unemployment turun perlu diawasi — data mixed ini bisa bikin Fed pivot lebih hawkish dari ekspektasi pasar saat ini."
+      "10Y yield naik meski inflasi mendingin — sinyal bond market pricing out rate cut, berisiko menekan valuasi growth stock dan bond jangka panjang (TLT)",
+      "Payrolls nyaris stagnan (+57rb) — perlu diawasi apakah ini awal pelemahan tenaga kerja atau noise sementara",
+      "Valuasi ekstrem PLTR (138x PER) dan TSLA (285x PER) sangat rentan terhadap sentiment shift narasi AI hype",
+      "ORCL: FCF negatif dan leverage tinggi (DER 388) berpotensi jadi risk hidden di balik label 'undervalued'",
+      "Insiden keamanan crypto (Coldcard $89M) berpotensi memicu volatilitas jangka pendek di aset crypto dan produk terkait (STRC/MSTR)"
     ]
   }
 }
