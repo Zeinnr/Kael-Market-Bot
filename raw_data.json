@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T15:58:20.738374Z",
+  "generated_at": "2026-08-03T21:49:56.282716Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -24,7 +24,7 @@
     },
     "FEDFUNDS": {
       "label": "Fed Funds Rate",
-      "date": "2026-06-01",
+      "date": "2026-07-01",
       "value": 3.63,
       "previous_value": 3.63,
       "change_pct": 0.0
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-07-30",
-      "value": 4.68,
-      "previous_value": 4.67,
-      "change_pct": 0.21
+      "date": "2026-07-31",
+      "value": 4.75,
+      "previous_value": 4.68,
+      "change_pct": 1.5
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -65,6 +65,11 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "Trump’s AI protectionism has come for robotics",
+        "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+        "published": "Mon, 03 Aug 2026 18:43:30 +0000"
+      },
       {
         "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
         "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
@@ -99,53 +104,48 @@
         "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
         "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
         "published": "Thu, 30 Jul 2026 10:15:19 +0000"
-      },
-      {
-        "title": "How an overlooked geothermal plant got a second chance",
-        "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-        "published": "Wed, 29 Jul 2026 17:58:44 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
-        "link": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 15:20:00 GMT"
-      },
-      {
-        "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
-        "link": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 15:17:00 GMT"
-      },
-      {
-        "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
-        "link": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 15:15:00 GMT"
-      },
-      {
-        "title": "Why tech stocks are likely to take a back seat for the rest of 2026, according to JPMorgan strategists",
-        "link": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 15:03:00 GMT"
-      },
-      {
-        "title": "They spent tens of thousands of dollars on home remodels — only to regret it. ‘It’s just been so much.’",
-        "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 14:52:00 GMT"
-      },
-      {
-        "title": "My boss and I work in different cities and she never responds to my messages. What do I do?",
-        "link": "https://www.marketwatch.com/story/my-boss-and-i-work-in-different-cities-and-she-never-responds-to-my-messages-what-do-i-do-45713e98?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 14:37:00 GMT"
-      },
-      {
-        "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
-        "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 14:30:00 GMT"
+        "title": "As ‘Spider-Man’ joins ‘The Odyssey’ in Imax, are premium movie screens worth the extra price?",
+        "link": "https://www.marketwatch.com/story/as-spider-man-joins-the-odyssey-in-imax-are-premium-movie-screens-worth-the-extra-price-74304e34?mod=mw_rss_topstories",
+        "published": "Mon, 03 Aug 2026 21:33:00 GMT"
       },
       {
         "title": "An AstraZeneca, Bristol Myers Squibb merger could create a cancer-drug giant, but analysts call it ‘odd’",
         "link": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 14:22:00 GMT"
+        "published": "Mon, 03 Aug 2026 20:59:00 GMT"
+      },
+      {
+        "title": "This indicator is giving the bull market another lease on life",
+        "link": "https://www.marketwatch.com/story/this-indicator-is-giving-the-bull-market-another-lease-on-life-47479269?mod=mw_rss_topstories",
+        "published": "Mon, 03 Aug 2026 20:44:00 GMT"
+      },
+      {
+        "title": "Traders in the world’s most important financial market are bracing for a wild stretch ahead",
+        "link": "https://www.marketwatch.com/story/traders-in-the-worlds-most-important-financial-market-are-bracing-for-a-wild-stretch-ahead-4a1507dc?mod=mw_rss_topstories",
+        "published": "Mon, 03 Aug 2026 20:32:00 GMT"
+      },
+      {
+        "title": "Boeing clears key hurdle and stock rallies to lead the Dow",
+        "link": "https://www.marketwatch.com/story/boeing-clears-key-hurdle-and-stock-rallies-leading-the-dow-ffd2dcbd?mod=mw_rss_topstories",
+        "published": "Mon, 03 Aug 2026 20:17:00 GMT"
+      },
+      {
+        "title": "Palantir’s stock gains as AI drives turbocharged growth",
+        "link": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
+        "published": "Mon, 03 Aug 2026 20:07:00 GMT"
+      },
+      {
+        "title": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
+        "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories",
+        "published": "Mon, 03 Aug 2026 19:40:00 GMT"
+      },
+      {
+        "title": "Cyclospora outbreak is linked to two deaths in Michigan as case counts continue to rise",
+        "link": "https://www.marketwatch.com/story/cyclospora-outbreak-is-linked-to-two-deaths-in-michigan-as-case-counts-continue-to-rise-77b49a5a?mod=mw_rss_topstories",
+        "published": "Mon, 03 Aug 2026 19:30:00 GMT"
       }
     ],
     "crypto": [
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 206.825,
-        "per": 31.723911,
-        "pbv": 25.63072,
+        "price": 206.64,
+        "per": 31.69325,
+        "pbv": 25.60595,
         "roe": 1.14288,
         "roa": 0.52727,
         "der": 6.555,
@@ -210,9 +210,9 @@
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 137.38,
-        "per": 23.564323,
-        "pbv": 10.535276,
+        "price": 141.85,
+        "per": 24.331047,
+        "pbv": 10.878068,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -220,14 +220,14 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.01456,
+        "dividend_yield": 0.0141,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 303.5665,
-        "per": 34.852642,
-        "pbv": 41.24545,
+        "price": 303.42,
+        "per": 34.835823,
+        "pbv": 41.225544,
         "roe": 1.4875101,
         "roa": 0.27082002,
         "der": 78.445,
@@ -240,9 +240,9 @@
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 323.22,
-        "per": 296.51376,
-        "pbv": 14.427929,
+        "price": 322.08,
+        "per": 295.4862,
+        "pbv": 14.708864,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 285.18,
-        "per": 22.924437,
-        "pbv": 6.939868,
+        "price": 284.02,
+        "per": 22.83119,
+        "pbv": 6.911639,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 486.135,
-        "per": 27.097826,
-        "pbv": 8.161421,
+        "price": 487.65,
+        "per": 27.182274,
+        "pbv": 8.186854,
         "roe": 0.34039003,
         "roa": 0.14088,
         "der": 29.118,
@@ -280,14 +280,14 @@
         "fcf": 16363499520,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
-        "dividend_yield": 0.00749,
+        "dividend_yield": 0.00746,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 374.43,
-        "per": 18.772322,
-        "pbv": 7.3546076,
+        "price": 372.47,
+        "per": 18.679539,
+        "pbv": 7.318257,
         "roe": 0.48676,
         "roa": 0.12958999,
         "der": 18.859,
@@ -295,14 +295,14 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.00235,
+        "dividend_yield": 0.00236,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 593.0601,
-        "per": 22.329071,
-        "pbv": 6.176873,
+        "price": 590.24,
+        "per": 22.22289,
+        "pbv": 6.1475005,
         "roe": 0.29848,
         "roa": 0.14591,
         "der": 42.997,
@@ -310,14 +310,14 @@
         "fcf": 21553625088,
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
-        "dividend_yield": 0.00354,
+        "dividend_yield": 0.00356,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 125.01,
-        "per": 140.46068,
-        "pbv": 35.46383,
+        "price": 125.65,
+        "per": 141.17978,
+        "pbv": 35.64539,
         "roe": 0.32587,
         "roa": 0.14702,
         "der": 2.477,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 90.1187,
+        "price": 91.0,
         "per": null,
-        "pbv": 5.1914687,
+        "pbv": 5.2422376,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1632.27,
-        "per": 55.976337,
-        "pbv": 1383.5199,
+        "price": 1642.52,
+        "per": 56.327847,
+        "pbv": 1392.2078,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -355,14 +355,14 @@
         "fcf": 8437675008,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
-        "dividend_yield": 0.00556,
+        "dividend_yield": 0.00553,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 402.65,
-        "per": 35.444542,
-        "pbv": 83.97254,
+        "price": 406.11,
+        "per": 35.74912,
+        "pbv": 84.69412,
         "roe": 0.39969003,
         "roa": 0.19014,
         "der": 15.174,
@@ -370,16 +370,16 @@
         "fcf": 739057991680,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.00941,
+        "dividend_yield": 0.00933,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1111.83,
-        "per": 26.62428,
-        "pbv": 3.0471947,
+        "price": 1126.63,
+        "per": 26.97869,
+        "pbv": 3.0877573,
         "roe": null,
         "roa": null,
         "der": 23.635,
@@ -387,14 +387,14 @@
         "fcf": null,
         "revenue_growth": 0.306,
         "earnings_growth": 0.197,
-        "dividend_yield": 0.02061,
+        "dividend_yield": 0.02034,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 62.175,
-        "per": 14.359122,
-        "pbv": 1.5803721,
+        "price": 62.48,
+        "per": 14.429562,
+        "pbv": 1.5881246,
         "roe": 0.111990005,
         "roa": 0.00969,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.168,
         "earnings_growth": 0.341,
-        "dividend_yield": 0.02059,
+        "dividend_yield": 0.02049,
         "valuation_flag": "data tidak cukup"
       }
     },
@@ -466,7 +466,7 @@
         "three_year_return": -0.0234035
       },
       "AGG": {
-        "name": "iShares Core US Aggregate Bond ETF",
+        "name": "iShares Core U.S. Aggregate Bond ETF",
         "price": 97.3375,
         "dividend_yield": 0.0397,
         "ytd_return": 0.70968,
@@ -474,7 +474,7 @@
         "three_year_return": 0.0372108
       },
       "BND": {
-        "name": "Vanguard Total Bond Market ETF",
+        "name": "Vanguard Total Bond Market Index Fund",
         "price": 72.22,
         "dividend_yield": 0.0395,
         "ytd_return": 0.7101,
