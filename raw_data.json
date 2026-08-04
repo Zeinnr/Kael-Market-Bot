@@ -1,19 +1,13 @@
 {
-  "generated_at": "2026-08-04T12:29:59.977576Z",
+  "generated_at": "2026-08-04T22:01:33.013474Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
-      "date": "2026-06-01",
-      "value": 332.568,
-      "previous_value": 333.979,
-      "change_pct": -0.42
+      "error": "HTTP Error 502: Bad Gateway"
     },
     "PAYEMS": {
       "label": "Nonfarm Payrolls (Jobs Report)",
-      "date": "2026-06-01",
-      "value": 158984.0,
-      "previous_value": 158927.0,
-      "change_pct": 0.04
+      "error": "HTTP Error 502: Bad Gateway"
     },
     "UNRATE": {
       "label": "Tingkat Pengangguran",
@@ -38,17 +32,11 @@
     },
     "RSAFS": {
       "label": "Retail Sales",
-      "date": "2026-06-01",
-      "value": 768553.0,
-      "previous_value": 766876.0,
-      "change_pct": 0.22
+      "error": "The read operation timed out"
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-07-31",
-      "value": 4.75,
-      "previous_value": 4.68,
-      "change_pct": 1.5
+      "error": "The read operation timed out"
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -108,86 +96,86 @@
     ],
     "markets": [
       {
-        "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
-        "link": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 12:26:00 GMT"
+        "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
+        "link": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:54:00 GMT"
       },
       {
-        "title": "As ‘Spider-Man’ joins ‘The Odyssey’ in Imax, are premium movie screens worth the extra price?",
-        "link": "https://www.marketwatch.com/story/as-spider-man-joins-the-odyssey-in-imax-are-premium-movie-screens-worth-the-extra-price-74304e34?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 12:19:00 GMT"
+        "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
+        "link": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:25:00 GMT"
       },
       {
-        "title": "Oil prices slump as Qatar talks about potential short-term U.S. and Iran deal",
-        "link": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 12:13:00 GMT"
+        "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+        "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:21:00 GMT"
       },
       {
-        "title": "What was the world’s hottest stock market is now hunting ground for short sellers",
-        "link": "https://www.marketwatch.com/story/what-was-the-worlds-hottest-stock-market-is-now-hunting-ground-for-short-sellers-f8f25dd0?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 11:51:00 GMT"
+        "title": "McDonald’s says its value meals have become too complicated",
+        "link": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:13:00 GMT"
       },
       {
-        "title": "Caterpillar is killing it, and data-center demand is driving record revenue",
-        "link": "https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 11:50:00 GMT"
+        "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+        "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:00:00 GMT"
       },
       {
-        "title": "The stock market’s brutal summer reset is finally over. Here is why Citadel Securities says it is time to buy again.",
-        "link": "https://www.marketwatch.com/story/the-stock-markets-brutal-summer-reset-is-finally-over-here-is-why-citadel-securities-says-it-is-time-to-buy-again-f6a8d101?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 11:35:00 GMT"
+        "title": "Traders are using options to chase a runaway rebound in stocks, pushing the market even higher",
+        "link": "https://www.marketwatch.com/story/traders-are-using-options-to-chase-a-runaway-rebound-in-stocks-pushing-the-market-even-higher-9b08d4ab?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:00:00 GMT"
       },
       {
-        "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
-        "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 11:00:00 GMT"
+        "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+        "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 20:47:00 GMT"
       },
       {
-        "title": "The trade-off of graduating college early: No debt, but no job?",
-        "link": "https://www.marketwatch.com/story/the-trade-off-of-graduating-college-early-no-debt-but-no-job-7c81784b?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 11:00:00 GMT"
+        "title": "So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.",
+        "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 20:26:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Coldcard urges users to move bitcoin as exploit is still in progress",
-        "link": "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
-        "published": "Tue, 04 Aug 2026 12:00:25 +0000"
+        "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+        "link": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+        "published": "Tue, 04 Aug 2026 20:26:21 +0000"
       },
       {
-        "title": "The bitcoin market has plenty of reasons to freak out, yet calm pervades",
-        "link": "https://www.coindesk.com/daybook-us/2026/08/04/the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades",
-        "published": "Tue, 04 Aug 2026 11:23:33 +0000"
+        "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+        "link": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+        "published": "Tue, 04 Aug 2026 17:55:23 +0000"
       },
       {
-        "title": "South African lawmakers propose draft rules on cross-border crypto transactions",
-        "link": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
-        "published": "Tue, 04 Aug 2026 10:59:41 +0000"
+        "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+        "link": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+        "published": "Tue, 04 Aug 2026 17:14:13 +0000"
       },
       {
-        "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
-        "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
-        "published": "Tue, 04 Aug 2026 10:51:11 +0000"
+        "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+        "link": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
+        "published": "Tue, 04 Aug 2026 16:21:59 +0000"
       },
       {
-        "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
-        "link": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
-        "published": "Tue, 04 Aug 2026 10:03:24 +0000"
+        "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
+        "link": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
+        "published": "Tue, 04 Aug 2026 15:47:05 +0000"
       },
       {
-        "title": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
-        "link": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
-        "published": "Tue, 04 Aug 2026 09:54:02 +0000"
+        "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
+        "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
+        "published": "Tue, 04 Aug 2026 14:49:33 +0000"
       },
       {
-        "title": "Live updates: Bitcoin stuck in tight range as risk assets rise on Iran deal hopes",
-        "link": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
-        "published": "Tue, 04 Aug 2026 08:41:00 +0000"
+        "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
+        "link": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
+        "published": "Tue, 04 Aug 2026 14:38:23 +0000"
       },
       {
-        "title": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
-        "link": "https://www.coindesk.com/markets/2026/08/04/bhutan-s-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10-000-btc-pledge",
-        "published": "Tue, 04 Aug 2026 07:56:11 +0000"
+        "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
+        "link": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
+        "published": "Tue, 04 Aug 2026 14:25:50 +0000"
       }
     ]
   },
@@ -195,9 +183,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 206.64,
-        "per": 31.69325,
-        "pbv": 25.60595,
+        "price": 211.94,
+        "per": 32.506134,
+        "pbv": 26.262703,
         "roe": 1.14288,
         "roa": 0.52727,
         "der": 6.555,
@@ -205,14 +193,14 @@
         "fcf": 46335873024,
         "revenue_growth": 0.852,
         "earnings_growth": 2.145,
-        "dividend_yield": 0.00484,
+        "dividend_yield": 0.00472,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 141.85,
-        "per": 22.268448,
-        "pbv": 10.878068,
+        "price": 145.74,
+        "per": 24.998285,
+        "pbv": 11.176381,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -220,14 +208,14 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.0141,
+        "dividend_yield": 0.01372,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 303.42,
-        "per": 34.835823,
-        "pbv": 41.225544,
+        "price": 309.38,
+        "per": 35.520092,
+        "pbv": 42.035324,
         "roe": 1.4875101,
         "roa": 0.27082002,
         "der": 78.445,
@@ -235,14 +223,14 @@
         "fcf": 107721875456,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
-        "dividend_yield": 0.00356,
+        "dividend_yield": 0.00349,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 322.08,
-        "per": 295.4862,
-        "pbv": 14.37793,
+        "price": 327.35,
+        "per": 297.5909,
+        "pbv": 14.613188,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -255,9 +243,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 284.02,
-        "per": 22.83119,
-        "pbv": 5.552037,
+        "price": 277.42,
+        "per": 22.300646,
+        "pbv": 5.4230204,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -270,9 +258,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 487.65,
-        "per": 25.911264,
-        "pbv": 8.186854,
+        "price": 492.81,
+        "per": 27.454596,
+        "pbv": 8.273483,
         "roe": 0.34039003,
         "roa": 0.14088,
         "der": 29.118,
@@ -280,14 +268,14 @@
         "fcf": 16363499520,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
-        "dividend_yield": 0.00746,
+        "dividend_yield": 0.00739,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 372.47,
-        "per": 17.89001,
-        "pbv": 7.318257,
+        "price": 375.35,
+        "per": 18.833418,
+        "pbv": 7.374843,
         "roe": 0.48676,
         "roa": 0.12958999,
         "der": 18.859,
@@ -295,14 +283,14 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.00236,
+        "dividend_yield": 0.00234,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 590.24,
-        "per": 22.22289,
-        "pbv": 6.1475005,
+        "price": 587.94,
+        "per": 22.136295,
+        "pbv": 6.1235456,
         "roe": 0.29848,
         "roa": 0.14591,
         "der": 42.997,
@@ -310,29 +298,29 @@
         "fcf": 21553625088,
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
-        "dividend_yield": 0.00356,
+        "dividend_yield": 0.00357,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 125.65,
-        "per": 141.17978,
-        "pbv": 35.64539,
-        "roe": 0.32587,
-        "roa": 0.14702,
-        "der": 2.477,
-        "npm": 0.43673,
-        "fcf": 1752997120,
-        "revenue_growth": 0.847,
-        "earnings_growth": 3.25,
+        "price": 162.66,
+        "per": 182.76405,
+        "pbv": 39.936165,
+        "roe": 0.38097,
+        "roa": 0.17292999,
+        "der": 2.139,
+        "npm": 0.49005002,
+        "fcf": 2007613440,
+        "revenue_growth": 0.928,
+        "earnings_growth": 2.154,
         "dividend_yield": null,
         "valuation_flag": "overvalued relatif ke peer group"
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 91.0,
+        "price": 100.86,
         "per": null,
-        "pbv": 5.2422376,
+        "pbv": 5.8102427,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +333,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1642.52,
-        "per": 56.327847,
-        "pbv": 1392.2078,
+        "price": 1711.89,
+        "per": 58.70679,
+        "pbv": 1451.0061,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -355,14 +343,14 @@
         "fcf": 8437675008,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
-        "dividend_yield": 0.00553,
+        "dividend_yield": 0.0053,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 406.11,
-        "per": 35.59246,
-        "pbv": 84.69412,
+        "price": 417.17,
+        "per": 36.81995,
+        "pbv": 87.00069,
         "roe": 0.39969003,
         "roa": 0.19014,
         "der": 15.174,
@@ -370,16 +358,16 @@
         "fcf": 739057991680,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.00933,
+        "dividend_yield": 0.00909,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1126.63,
-        "per": 26.109617,
-        "pbv": 3.0877573,
+        "price": 1131.13,
+        "per": 27.131927,
+        "pbv": 3.1000905,
         "roe": null,
         "roa": null,
         "der": 23.635,
@@ -387,14 +375,14 @@
         "fcf": null,
         "revenue_growth": 0.306,
         "earnings_growth": 0.197,
-        "dividend_yield": 0.02034,
+        "dividend_yield": 0.02026,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 62.48,
-        "per": 14.297483,
-        "pbv": 1.5881246,
+        "price": 62.9,
+        "per": 14.52656,
+        "pbv": 1.5988003,
         "roe": 0.111990005,
         "roa": 0.00969,
         "der": null,
@@ -402,7 +390,7 @@
         "fcf": null,
         "revenue_growth": 0.168,
         "earnings_growth": 0.341,
-        "dividend_yield": 0.02049,
+        "dividend_yield": 0.02035,
         "valuation_flag": "data tidak cukup"
       }
     },
