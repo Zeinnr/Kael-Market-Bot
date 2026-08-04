@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:50:50.807929Z",
+  "generated_at": "2026-08-04T12:30:57.952187Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+        "published": "Tue, 04 Aug 2026 12:14:00 +0000"
+      },
+      {
         "title": "Trump’s AI protectionism has come for robotics",
         "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
         "published": "Mon, 03 Aug 2026 18:43:30 +0000"
@@ -99,95 +104,90 @@
         "title": "The Download: tricking LLMs, and reviving geothermal plants",
         "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
         "published": "Thu, 30 Jul 2026 12:10:00 +0000"
-      },
-      {
-        "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-        "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-        "published": "Thu, 30 Jul 2026 10:15:19 +0000"
       }
     ],
     "markets": [
       {
+        "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
+        "link": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 12:26:00 GMT"
+      },
+      {
         "title": "As ‘Spider-Man’ joins ‘The Odyssey’ in Imax, are premium movie screens worth the extra price?",
         "link": "https://www.marketwatch.com/story/as-spider-man-joins-the-odyssey-in-imax-are-premium-movie-screens-worth-the-extra-price-74304e34?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 21:33:00 GMT"
+        "published": "Tue, 04 Aug 2026 12:19:00 GMT"
       },
       {
-        "title": "An AstraZeneca, Bristol Myers Squibb merger could create a cancer-drug giant, but analysts call it ‘odd’",
-        "link": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 20:59:00 GMT"
+        "title": "Oil prices slump as Qatar talks about potential short-term U.S. and Iran deal",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 12:13:00 GMT"
       },
       {
-        "title": "This indicator is giving the bull market another lease on life",
-        "link": "https://www.marketwatch.com/story/this-indicator-is-giving-the-bull-market-another-lease-on-life-47479269?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 20:44:00 GMT"
+        "title": "What was the world’s hottest stock market is now hunting ground for short sellers",
+        "link": "https://www.marketwatch.com/story/what-was-the-worlds-hottest-stock-market-is-now-hunting-ground-for-short-sellers-f8f25dd0?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 11:51:00 GMT"
       },
       {
-        "title": "Traders in the world’s most important financial market are bracing for a wild stretch ahead",
-        "link": "https://www.marketwatch.com/story/traders-in-the-worlds-most-important-financial-market-are-bracing-for-a-wild-stretch-ahead-4a1507dc?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 20:32:00 GMT"
+        "title": "Caterpillar is killing it, and data-center demand is driving record revenue",
+        "link": "https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 11:50:00 GMT"
       },
       {
-        "title": "Boeing clears key hurdle and stock rallies to lead the Dow",
-        "link": "https://www.marketwatch.com/story/boeing-clears-key-hurdle-and-stock-rallies-leading-the-dow-ffd2dcbd?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 20:17:00 GMT"
+        "title": "The stock market’s brutal summer reset is finally over. Here is why Citadel Securities says it is time to buy again.",
+        "link": "https://www.marketwatch.com/story/the-stock-markets-brutal-summer-reset-is-finally-over-here-is-why-citadel-securities-says-it-is-time-to-buy-again-f6a8d101?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 11:35:00 GMT"
       },
       {
-        "title": "Palantir’s stock gains as AI drives turbocharged growth",
-        "link": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 20:07:00 GMT"
+        "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+        "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 11:00:00 GMT"
       },
       {
-        "title": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
-        "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 19:40:00 GMT"
-      },
-      {
-        "title": "Cyclospora outbreak is linked to two deaths in Michigan as case counts continue to rise",
-        "link": "https://www.marketwatch.com/story/cyclospora-outbreak-is-linked-to-two-deaths-in-michigan-as-case-counts-continue-to-rise-77b49a5a?mod=mw_rss_topstories",
-        "published": "Mon, 03 Aug 2026 19:30:00 GMT"
+        "title": "The trade-off of graduating college early: No debt, but no job?",
+        "link": "https://www.marketwatch.com/story/the-trade-off-of-graduating-college-early-no-debt-but-no-job-7c81784b?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 11:00:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
-        "link": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
-        "published": "Mon, 03 Aug 2026 15:24:45 +0000"
+        "title": "Coldcard urges users to move bitcoin as exploit is still in progress",
+        "link": "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
+        "published": "Tue, 04 Aug 2026 12:00:25 +0000"
       },
       {
-        "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
-        "link": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
-        "published": "Mon, 03 Aug 2026 14:46:08 +0000"
+        "title": "The bitcoin market has plenty of reasons to freak out, yet calm pervades",
+        "link": "https://www.coindesk.com/daybook-us/2026/08/04/the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades",
+        "published": "Tue, 04 Aug 2026 11:23:33 +0000"
       },
       {
-        "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
-        "link": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
-        "published": "Mon, 03 Aug 2026 13:59:50 +0000"
+        "title": "South African lawmakers propose draft rules on cross-border crypto transactions",
+        "link": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
+        "published": "Tue, 04 Aug 2026 10:59:41 +0000"
       },
       {
-        "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
-        "link": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
-        "published": "Mon, 03 Aug 2026 13:49:40 +0000"
+        "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
+        "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
+        "published": "Tue, 04 Aug 2026 10:51:11 +0000"
       },
       {
-        "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
-        "link": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
-        "published": "Mon, 03 Aug 2026 13:15:46 +0000"
+        "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
+        "link": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
+        "published": "Tue, 04 Aug 2026 10:03:24 +0000"
       },
       {
-        "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
-        "link": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
-        "published": "Mon, 03 Aug 2026 12:53:21 +0000"
+        "title": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
+        "link": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
+        "published": "Tue, 04 Aug 2026 09:54:02 +0000"
       },
       {
-        "title": "Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC",
-        "link": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
-        "published": "Mon, 03 Aug 2026 12:17:10 +0000"
+        "title": "Live updates: Bitcoin stuck in tight range as risk assets rise on Iran deal hopes",
+        "link": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
+        "published": "Tue, 04 Aug 2026 08:41:00 +0000"
       },
       {
-        "title": "Bitget set to exit Japan, close all remaining positions by year-end",
-        "link": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
-        "published": "Mon, 03 Aug 2026 12:03:41 +0000"
+        "title": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
+        "link": "https://www.coindesk.com/markets/2026/08/04/bhutan-s-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10-000-btc-pledge",
+        "published": "Tue, 04 Aug 2026 07:56:11 +0000"
       }
     ]
   },
@@ -211,7 +211,7 @@
       "ORCL": {
         "name": "Oracle Corporation",
         "price": 141.85,
-        "per": 24.331047,
+        "per": 22.268448,
         "pbv": 10.878068,
         "roe": 0.53376,
         "roa": 0.06505,
@@ -242,7 +242,7 @@
         "name": "Tesla, Inc.",
         "price": 322.08,
         "per": 295.4862,
-        "pbv": 14.708864,
+        "pbv": 14.37793,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -257,7 +257,7 @@
         "name": "Amazon.com, Inc.",
         "price": 284.02,
         "per": 22.83119,
-        "pbv": 6.911639,
+        "pbv": 5.552037,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 487.65,
-        "per": 27.182274,
+        "per": 25.911264,
         "pbv": 8.186854,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 372.47,
-        "per": 18.679539,
+        "per": 17.89001,
         "pbv": 7.318257,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -361,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 406.11,
-        "per": 35.74912,
+        "per": 35.59246,
         "pbv": 84.69412,
         "roe": 0.39969003,
         "roa": 0.19014,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1126.63,
-        "per": 26.97869,
+        "per": 26.109617,
         "pbv": 3.0877573,
         "roe": null,
         "roa": null,
@@ -393,7 +393,7 @@
       "BAC": {
         "name": "Bank of America Corporation",
         "price": 62.48,
-        "per": 14.429562,
+        "per": 14.297483,
         "pbv": 1.5881246,
         "roe": 0.111990005,
         "roa": 0.00969,
@@ -466,7 +466,7 @@
         "three_year_return": -0.0234035
       },
       "AGG": {
-        "name": "iShares Core U.S. Aggregate Bond ETF",
+        "name": "iShares Core US Aggregate Bond ETF",
         "price": 97.3375,
         "dividend_yield": 0.0397,
         "ytd_return": 0.70968,
@@ -474,7 +474,7 @@
         "three_year_return": 0.0372108
       },
       "BND": {
-        "name": "Vanguard Total Bond Market Index Fund",
+        "name": "Vanguard Total Bond Market ETF",
         "price": 72.22,
         "dividend_yield": 0.0395,
         "ytd_return": 0.7101,
@@ -505,13 +505,13 @@
       },
       {
         "ticker": "AGG",
-        "name": "iShares Core U.S. Aggregate Bond ETF",
+        "name": "iShares Core US Aggregate Bond ETF",
         "dividend_yield": 0.0397,
         "group": "bonds"
       },
       {
         "ticker": "BND",
-        "name": "Vanguard Total Bond Market Index Fund",
+        "name": "Vanguard Total Bond Market ETF",
         "dividend_yield": 0.0395,
         "group": "bonds"
       }
@@ -520,7 +520,7 @@
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "per": 24.331047
+        "per": 22.268448
       },
       {
         "ticker": "AMZN",
@@ -530,7 +530,7 @@
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "per": 18.679539
+        "per": 17.89001
       },
       {
         "ticker": "META",
@@ -554,7 +554,7 @@
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.109,
+        "composite_score": 1.108,
         "components_used": 9
       },
       {
@@ -572,13 +572,13 @@
       {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "composite_score": 0.247,
+        "composite_score": 0.248,
         "components_used": 7
       },
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.221,
+        "composite_score": 0.22,
         "components_used": 9
       },
       {
@@ -590,37 +590,37 @@
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "composite_score": -0.006,
+        "composite_score": -0.007,
         "components_used": 8
       },
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "composite_score": -0.035,
+        "composite_score": -0.034,
         "components_used": 9
       },
       {
         "ticker": "BAC",
         "name": "Bank of America Corporation",
-        "composite_score": -0.061,
+        "composite_score": -0.062,
         "components_used": 8
       },
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "composite_score": -0.165,
+        "composite_score": -0.166,
         "components_used": 9
       },
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.414,
+        "composite_score": -0.411,
         "components_used": 9
       },
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.49,
+        "composite_score": -0.491,
         "components_used": 9
       },
       {
@@ -632,7 +632,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -0.862,
+        "composite_score": -0.861,
         "components_used": 8
       }
     ],
@@ -676,89 +676,84 @@
     ]
   },
   "analysis": {
-    "headline": "US 10Y yield naik ke 4.75% justru saat CPI dan PCE melandai — divergensi ini mengindikasikan tekanan dari luar siklus Fed (kemungkinan unwind carry trade yen), bukan repricing inflasi domestik.",
-    "economic_summary": "CPI turun tipis -0.42% MoM ke 332.57, PCE (indikator favorit Fed) turun -0.11%, sinyal disinflasi berlanjut. Namun UNRATE turun ke 4.2% dan GDP tumbuh 1.91% QoQ menunjukkan aktivitas ekonomi masih solid, sementara payrolls nyaris stagnan (+0.04%). Fed Funds tertahan di 3.63% tanpa perubahan, tapi 10Y yield justru naik +1.5% ke 4.75% — kombinasi ini janggal karena biasanya yield mengikuti arah inflasi turun.",
+    "headline": "Disinflasi AS berlanjut (CPI & PCE turun) tapi yield 10Y justru naik ke 4.75% — divergensi ini plus capex AI/data-center yang tetap kencang jadi tema dominan hari ini, sementara rotasi dana keluar dari bitcoin ETF menuju saham AI makin jelas.",
+    "economic_summary": "CPI turun -0.42% MoM dan PCE (indikator favorit Fed) turun -0.11%, unemployment rate turun ke 4.2% dari 4.3%, tapi payrolls nyaris flat (+0.04%). Fed Funds tetap ditahan di 3.63%. GDP kuartalan tumbuh solid +1.91%. Anehnya, US 10Y yield justru naik dari 4.68% ke 4.75% (+1.5%) di tengah data inflasi yang melunak — sinyal term premium/fiscal risk mendominasi ekspektasi rate cut.",
     "correlation_analysis": [
       {
-        "trigger": "10Y yield naik ke 4.75% berbarengan dengan berita 'U.S.-Japan intervention revives yen carry trade fears'",
-        "mechanism": "Intervensi USD/JPY memicu kekhawatiran unwind carry trade (pinjam yen murah, beli aset USD termasuk UST). Unwind ini memaksa jual UST/aset berisiko secara paksa, mendorong yield naik meski data inflasi domestik mendingin — jadi kenaikan yield ini sifatnya flow-driven/term premium, bukan repricing ekspektasi Fed.",
+        "trigger": "CPI & PCE turun tapi yield 10Y naik +1.5% ke 4.75%",
+        "mechanism": "Divergensi ini menunjukkan pasar bond tidak sepenuhnya percaya soft landing — kemungkinan term premium naik akibat supply Treasury atau ekspektasi fiscal deficit, bukan reaksi terhadap inflasi aktual. Yield naik menekan valuasi growth stock dengan PER tinggi (discount rate naik) dan membebani return bond duration panjang.",
         "affected_assets": [
           "TLT",
           "AGG",
           "BND",
-          "BTC",
-          "TSLA",
-          "PLTR"
-        ],
-        "confidence": "medium"
-      },
-      {
-        "trigger": "Payrolls stagnan (+0.04%) namun UNRATE turun dan GDP masih tumbuh 1.91%",
-        "mechanism": "Data tenaga kerja campur aduk membuat Fed tidak punya alasan kuat untuk cut cepat meski inflasi turun, sehingga real rate tetap tinggi dan menekan multiple saham growth berdurasi panjang (PER tinggi, earnings growth negatif/minim FCF).",
-        "affected_assets": [
-          "TSLA",
+          "NVDA",
           "PLTR",
-          "QQQ"
+          "TSLA"
         ],
         "confidence": "medium"
       },
       {
-        "trigger": "Rally megacap AI (MSFT 'run 26 tahun', PLTR 'AI drives turbocharged growth') mendorong QQQ YTD +20% vs SPY +10%",
-        "mechanism": "Earnings growth dan FCF generatif dari megacap (MSFT FCF 16.3B, GOOG FCF 22.6B) cukup kuat menutupi tekanan yield naik, sehingga capital rotation tetap terkonsentrasi ke nama-nama ini — konsentrasi ini membuat indeks tech-heavy makin bergantung pada segelintir nama.",
+        "trigger": "Caterpillar catat revenue record dari data-center demand",
+        "mechanism": "Konfirmasi independen bahwa capex fisik untuk infrastruktur AI (power, cooling, konstruksi data center) masih akselerasi, bukan cuma narasi chip. Ini mendukung revenue growth hyperscaler dan penyedia infra cloud yang capex-heavy, meski menekan free cash flow jangka pendek.",
         "affected_assets": [
-          "QQQ",
+          "ORCL",
+          "NVDA",
           "MSFT",
-          "GOOG",
-          "META",
-          "NVDA"
+          "AMZN"
         ],
         "confidence": "high"
       },
       {
-        "trigger": "Bernstein warning Clarity Act stalling + Circle downgrade Morgan Stanley + Strategy jual $105M BTC",
-        "mechanism": "Ketidakpastian regulasi crypto AS ditambah unwind carry trade yen mengurangi likuiditas spekulatif yang biasa mengalir ke BTC/ETH, dan tekanan ini terlihat dari entitas leverage besar (Strategy) yang justru net-seller BTC minggu ini — sinyal derisking, bukan akumulasi.",
+        "trigger": "Trump AI/robotics protectionism (export restriction) meluas",
+        "mechanism": "Restriksi teknologi robotics/AI menambah risiko rantai pasok semikonduktor lintas batas — perusahaan dengan eksposur manufaktur/ekspor tinggi ke Asia (equipment & foundry) menghadapi ketidakpastian regulasi yang bisa memperlambat revenue growth meski demand end-market kuat.",
+        "affected_assets": [
+          "TSM",
+          "ASML",
+          "NVDA"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "Spot bitcoin ETF pertama tutup karena inflow dwindle, investor chase AI returns",
+        "mechanism": "Rotasi modal ritel/institusi dari aset crypto pasif ke ekuitas AI dengan growth story lebih jelas — bitcoin stuck range meski ada exploit Coldcard, menandakan capital flow mengalir ke tech megacap bukan risk-off ke bond (yield tetap naik, bukan turun).",
         "affected_assets": [
           "BTC",
-          "ETH",
-          "COIN",
-          "MSTR"
+          "NVDA",
+          "PLTR",
+          "QQQ"
         ],
         "confidence": "medium"
       }
     ],
     "stock_commentary": [
       {
-        "ticker": "TSLA",
-        "note": "PER 295x dengan earnings growth negatif (-3%) adalah kombinasi paling rentan terhadap kenaikan yield 10Y — valuation_flag overvalued relatif peer, tekanan diskon rate makin berat jika yield tetap di 4.75%+."
+        "ticker": "NVDA",
+        "note": "PER 31.7x dengan revenue growth 85% — valuasi 'fair' relatif peer tapi sangat sensitif terhadap kenaikan yield 10Y dan capex AI riil (Caterpillar). Beneficiary utama rotasi dana dari bitcoin ETF, tapi juga paling exposed ke risiko export restriction robotics/AI."
+      },
+      {
+        "ticker": "ORCL",
+        "note": "FCF negatif -24.5B mencerminkan capex agresif untuk cloud/data center — konsisten dengan tema demand infrastruktur AI dari Caterpillar. Flag undervalued relatif peer, tapi der 388x jadi risiko leverage besar kalau yield terus naik."
+      },
+      {
+        "ticker": "TSM",
+        "note": "Eksposur langsung ke risiko protectionism AI/robotics Trump — earnings growth 77% masih kuat tapi valuasi 'fair' bisa tertekan kalau restriksi ekspor chip meluas ke pelanggan robotics."
+      },
+      {
+        "ticker": "ASML",
+        "note": "PBV ekstrem 1392x jadi red flag struktural (kemungkinan anomali data book value), tapi relevan karena posisinya di rantai pasok equipment semikonduktor yang jadi target kebijakan protectionism AI terbaru."
       },
       {
         "ticker": "PLTR",
-        "note": "PER 141x, valuation_flag overvalued, tapi revenue growth 84.7% dan earnings growth 325% jadi alasan rally berlanjut menurut news hari ini — risiko: multiple compression jika narasi carry-trade unwind bikin yield terus naik."
-      },
-      {
-        "ticker": "MSFT",
-        "note": "Rally 'tidak terlihat 26 tahun' konsisten dengan FCF kuat (16.3B) dan earnings growth 31.7%, jadi contoh megacap yang mampu absorb tekanan yield naik karena fundamental cash flow, bukan sekadar momentum."
-      },
-      {
-        "ticker": "GOOG",
-        "note": "Valuation_flag undervalued relatif peer dengan earnings growth 294% dan FCF 22.6B — kandidat rotasi capital dari nama overvalued (TSLA/PLTR) kalau investor mulai selektif akibat yield tinggi."
-      },
-      {
-        "ticker": "META",
-        "note": "Undervalued relatif peer, FCF solid (21.5B), tapi earnings growth -13.4% jadi catatan hati-hati — kombinasi valuasi murah tapi momentum earnings melemah perlu dicermati bukan otomatis sinyal beli."
-      },
-      {
-        "ticker": "NVDA",
-        "note": "Valuation_flag fair, revenue growth 85.2%, tetap jadi proxy utama sentimen AI capex; pergerakannya akan sensitif ke arah yield karena PER masih di atas 30x."
+        "note": "PER 141x dan valuation_flag overvalued — representasi risiko bubble di trade AI software. Kenaikan yield 10Y biasanya paling menghukum nama dengan PER ekstrem seperti ini duluan."
       }
     ],
-    "ai_tech_summary": "Berita AI hari ini didominasi isu proteksionisme (Trump AI protectionism menyentuh robotics) dan risiko teknis LLM (reward hacking, kerentanan terhadap serangan, agent yang 'lie and cheat' demi goal). Ini bukan soal earnings tapi soal risiko regulasi dan keamanan yang bisa jadi headwind sentimen jangka menengah untuk capex AI, meski belum tercermin di harga saham megacap yang masih rally.",
-    "global_summary": "Data ekonomi global tidak bisa diambil (error fetch), tapi sinyal paling kuat datang dari pasar FX: intervensi US-Japan menghidupkan kembali ketakutan unwind yen carry trade, yang punya efek langsung ke UST yield dan aset berisiko termasuk crypto. Ini jadi tema makro paling signifikan hari ini dibanding data domestik AS yang justru dovish (CPI/PCE turun).",
+    "ai_tech_summary": "Fokus berita AI hari ini bergeser dari model capability ke regulasi: proteksionisme AI ala Trump kini merambah sektor robotics, menambah lapisan risiko rantai pasok bagi produsen chip dan equipment. Isu 'reward hacking' pada AI agent (agent berbohong/curang demi capai goal) juga muncul sebagai risk governance jangka menengah, relevan untuk perusahaan yang mulai deploy AI agentic di produksi.",
+    "global_summary": "Oil turun karena harapan kesepakatan jangka pendek AS-Iran lewat perundingan Qatar — meredakan risk premium geopolitik di Timur Tengah. Di pasar saham, Citadel Securities menyerukan 'summer reset sudah selesai, waktunya buy lagi', sejalan dengan narasi risk-on yang juga terlihat dari rotasi keluar bitcoin ETF ke AI equities.",
     "risk_flags": [
-      "Divergensi CPI/PCE turun vs 10Y yield naik — jika ini konfirmasi unwind carry trade yen, tekanan jual UST bisa berlanjut dan menyeret TLT/AGG serta valuasi growth stock tinggi (TSLA, PLTR).",
-      "Payrolls stagnan meski unemployment turun — data tenaga kerja ambigu, waspadai rilis berikutnya untuk konfirmasi apakah ini soft landing atau awal pelemahan.",
-      "Konsentrasi rally di segelintir megacap (QQQ +20% YTD vs SPY +10%) meningkatkan risiko jika sentimen AI capex berbalik akibat isu regulasi/keamanan LLM.",
-      "Clarity Act crypto stall + entitas leverage besar (Strategy) net-seller BTC — risiko downside lanjutan di crypto jika regulasi tidak kunjung jelas."
+      "Divergensi CPI/PCE turun vs yield 10Y naik belum terjelaskan tuntas — jika ini sinyal fiscal/supply risk bond bukan soal inflasi, rally equity growth (NVDA, PLTR) bisa rentan koreksi tajam",
+      "Proteksionisme AI/robotics Trump bisa eskalasi jadi restriksi ekspor lebih luas, langsung menekan revenue growth TSM/ASML yang punya eksposur pasar Asia",
+      "Valuasi ekstrem PLTR (PER 141x) dan TSLA (PER 295x) sangat rentan terhadap kenaikan discount rate lanjutan dari yield 10Y",
+      "TLT return YTD hanya 0.93% dengan 3yr return negatif -2.34% — alokasi 'safe haven' bond duration panjang masih underperform, cek ulang asumsi diversifikasi portofolio klasik 60/40"
     ]
   }
 }
