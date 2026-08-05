@@ -1,13 +1,19 @@
 {
-  "generated_at": "2026-08-04T22:01:33.013474Z",
+  "generated_at": "2026-08-05T08:12:44.108032Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
-      "error": "HTTP Error 502: Bad Gateway"
+      "date": "2026-06-01",
+      "value": 332.568,
+      "previous_value": 333.979,
+      "change_pct": -0.42
     },
     "PAYEMS": {
       "label": "Nonfarm Payrolls (Jobs Report)",
-      "error": "HTTP Error 502: Bad Gateway"
+      "date": "2026-06-01",
+      "value": 158984.0,
+      "previous_value": 158927.0,
+      "change_pct": 0.04
     },
     "UNRATE": {
       "label": "Tingkat Pengangguran",
@@ -32,11 +38,17 @@
     },
     "RSAFS": {
       "label": "Retail Sales",
-      "error": "The read operation timed out"
+      "date": "2026-06-01",
+      "value": 768553.0,
+      "previous_value": 766876.0,
+      "change_pct": 0.22
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "error": "The read operation timed out"
+      "date": "2026-08-03",
+      "value": 4.7,
+      "previous_value": 4.75,
+      "change_pct": -1.05
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -96,6 +108,16 @@
     ],
     "markets": [
       {
+        "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
+        "link": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 22:40:00 GMT"
+      },
+      {
+        "title": "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
+        "link": "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 22:22:00 GMT"
+      },
+      {
         "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
         "link": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
         "published": "Tue, 04 Aug 2026 21:54:00 GMT"
@@ -124,19 +146,29 @@
         "title": "Traders are using options to chase a runaway rebound in stocks, pushing the market even higher",
         "link": "https://www.marketwatch.com/story/traders-are-using-options-to-chase-a-runaway-rebound-in-stocks-pushing-the-market-even-higher-9b08d4ab?mod=mw_rss_topstories",
         "published": "Tue, 04 Aug 2026 21:00:00 GMT"
-      },
-      {
-        "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
-        "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 20:47:00 GMT"
-      },
-      {
-        "title": "So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.",
-        "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 20:26:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "The worst chart for bitcoin bulls right now",
+        "link": "https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now",
+        "published": "Wed, 05 Aug 2026 07:54:22 +0000"
+      },
+      {
+        "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+        "link": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+        "published": "Wed, 05 Aug 2026 05:49:57 +0000"
+      },
+      {
+        "title": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
+        "link": "https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles",
+        "published": "Wed, 05 Aug 2026 05:12:46 +0000"
+      },
+      {
+        "title": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
+        "link": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
+        "published": "Wed, 05 Aug 2026 04:32:16 +0000"
+      },
       {
         "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
         "link": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
@@ -156,26 +188,6 @@
         "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
         "link": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
         "published": "Tue, 04 Aug 2026 16:21:59 +0000"
-      },
-      {
-        "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
-        "link": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
-        "published": "Tue, 04 Aug 2026 15:47:05 +0000"
-      },
-      {
-        "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
-        "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
-        "published": "Tue, 04 Aug 2026 14:49:33 +0000"
-      },
-      {
-        "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
-        "link": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
-        "published": "Tue, 04 Aug 2026 14:38:23 +0000"
-      },
-      {
-        "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
-        "link": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
-        "published": "Tue, 04 Aug 2026 14:25:50 +0000"
       }
     ]
   },
@@ -184,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 211.94,
-        "per": 32.506134,
+        "per": 31.632837,
         "pbv": 26.262703,
         "roe": 1.14288,
         "roa": 0.52727,
@@ -199,7 +211,7 @@
       "ORCL": {
         "name": "Oracle Corporation",
         "price": 145.74,
-        "per": 24.998285,
+        "per": 22.879122,
         "pbv": 11.176381,
         "roe": 0.53376,
         "roa": 0.06505,
@@ -214,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 309.38,
-        "per": 35.520092,
+        "per": 34.84009,
         "pbv": 42.035324,
         "roe": 1.4875101,
         "roa": 0.27082002,
@@ -229,7 +241,7 @@
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 327.35,
-        "per": 297.5909,
+        "per": 300.3211,
         "pbv": 14.613188,
         "roe": 0.046669997,
         "roa": 0.019299999,
@@ -244,7 +256,7 @@
       "AMZN": {
         "name": "Amazon.com, Inc.",
         "price": 277.42,
-        "per": 22.300646,
+        "per": 22.832924,
         "pbv": 5.4230204,
         "roe": 0.30558002,
         "roa": 0.06589,
@@ -259,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 492.81,
-        "per": 27.454596,
+        "per": 26.185442,
         "pbv": 8.273483,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -274,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 375.35,
-        "per": 18.833418,
+        "per": 18.69273,
         "pbv": 7.374843,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -289,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 587.94,
-        "per": 22.136295,
+        "per": 22.219955,
         "pbv": 6.1235456,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -306,13 +318,13 @@
         "price": 162.66,
         "per": 182.76405,
         "pbv": 39.936165,
-        "roe": 0.38097,
-        "roa": 0.17292999,
-        "der": 2.139,
-        "npm": 0.49005002,
-        "fcf": 2007613440,
-        "revenue_growth": 0.928,
-        "earnings_growth": 2.154,
+        "roe": 0.32587,
+        "roa": 0.14702,
+        "der": 2.477,
+        "npm": 0.43673,
+        "fcf": 1752997120,
+        "revenue_growth": 0.847,
+        "earnings_growth": 3.25,
         "dividend_yield": null,
         "valuation_flag": "overvalued relatif ke peer group"
       },
@@ -349,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 417.17,
-        "per": 36.81995,
+        "per": 36.56179,
         "pbv": 87.00069,
         "roe": 0.39969003,
         "roa": 0.19014,
@@ -366,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1131.13,
-        "per": 27.131927,
+        "per": 27.028196,
         "pbv": 3.1000905,
         "roe": null,
         "roa": null,
@@ -397,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 687.83,
+        "price": 700.05,
         "dividend_yield": 0.0041,
         "ytd_return": 20.18788,
         "expense_ratio": null,
-        "three_year_return": 0.2218983
+        "three_year_return": 0.2397535
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 746.6043,
+        "price": 757.6769,
         "dividend_yield": 0.0101,
         "ytd_return": 10.16428,
         "expense_ratio": null,
-        "three_year_return": 0.192041
+        "three_year_return": 0.2055821
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 686.24,
+        "price": 696.43,
         "dividend_yield": 0.0107,
         "ytd_return": 10.18984,
         "expense_ratio": null,
-        "three_year_return": 0.19295481
+        "three_year_return": 0.2065431
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 368.24,
+        "price": 373.86,
         "dividend_yield": 0.0105,
         "ytd_return": 11.07125,
         "expense_ratio": null,
-        "three_year_return": 0.1881709
+        "three_year_return": 0.20214519
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.3888,
+        "price": 57.3265,
         "dividend_yield": 0.081099994,
         "ytd_return": 2.2108,
         "expense_ratio": null,
-        "three_year_return": 0.092079
+        "three_year_return": 0.0957986
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 58.2037,
+        "price": 58.355,
         "dividend_yield": 0.0995,
         "ytd_return": 10.84163,
         "expense_ratio": null,
-        "three_year_return": 0.1748261
+        "three_year_return": 0.1857633
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 82.18364,
+        "price": 82.16868,
         "dividend_yield": 0.045300003,
         "ytd_return": 0.93029,
         "expense_ratio": null,
-        "three_year_return": -0.0234035
+        "three_year_return": -0.0057135997
       },
       "AGG": {
         "name": "iShares Core US Aggregate Bond ETF",
-        "price": 97.3375,
+        "price": 97.22653,
         "dividend_yield": 0.0397,
         "ytd_return": 0.70968,
         "expense_ratio": null,
-        "three_year_return": 0.0372108
+        "three_year_return": 0.043487202
       },
       "BND": {
         "name": "Vanguard Total Bond Market ETF",
-        "price": 72.22,
+        "price": 72.12,
         "dividend_yield": 0.0395,
         "ytd_return": 0.7101,
         "expense_ratio": null,
-        "three_year_return": 0.0369947
+        "three_year_return": 0.043217
       }
     }
   }
