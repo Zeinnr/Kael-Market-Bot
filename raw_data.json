@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T23:52:17.824857Z",
+  "generated_at": "2026-08-07T06:57:39.326941Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,31 @@
     ],
     "markets": [
       {
+        "title": "Micron’s stock falls but is spared the worst of the memory-chip selloff",
+        "link": "https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 02:35:00 GMT"
+      },
+      {
+        "title": "‘He’s never been good with money’: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
+        "link": "https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 02:15:00 GMT"
+      },
+      {
+        "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+        "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 02:00:00 GMT"
+      },
+      {
+        "title": "Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.",
+        "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 00:31:00 GMT"
+      },
+      {
+        "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+        "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 00:00:00 GMT"
+      },
+      {
         "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
         "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
         "published": "Thu, 06 Aug 2026 23:31:00 GMT"
@@ -121,34 +146,34 @@
         "title": "Trade Desk shares tumble on earnings miss and weak outlook",
         "link": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
         "published": "Thu, 06 Aug 2026 22:59:00 GMT"
-      },
-      {
-        "title": "Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales",
-        "link": "https://www.marketwatch.com/story/sweetgreen-recalls-jalapenos-details-how-cyclospora-outbreak-will-weigh-on-sales-c52435bf?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 22:58:00 GMT"
-      },
-      {
-        "title": "Gold prices are breaking higher after a tough stretch. Could fresh records be within reach?",
-        "link": "https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 20:57:00 GMT"
-      },
-      {
-        "title": "How to wish Social Security a happy 91st birthday",
-        "link": "https://www.marketwatch.com/story/how-to-wish-social-security-a-happy-91st-birthday-865d71a8?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 20:56:00 GMT"
-      },
-      {
-        "title": "Honeywell Aerospace lands in Wall Street’s ‘penalty box’ after gloomy guidance triggers 23% stock selloff",
-        "link": "https://www.marketwatch.com/story/honeywell-aerospace-lands-in-wall-streets-penalty-box-after-gloomy-guidance-triggers-21-stock-selloff-ea8b032c?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 20:41:00 GMT"
-      },
-      {
-        "title": "How to use options to trade stocks around an earnings announcement",
-        "link": "https://www.marketwatch.com/story/how-to-use-options-to-trade-stocks-around-an-earnings-announcement-e1ba7920?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 20:37:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+        "link": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+        "published": "Fri, 07 Aug 2026 05:45:21 +0000"
+      },
+      {
+        "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
+        "link": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
+        "published": "Fri, 07 Aug 2026 04:50:44 +0000"
+      },
+      {
+        "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
+        "link": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
+        "published": "Fri, 07 Aug 2026 04:28:17 +0000"
+      },
+      {
+        "title": "XRP leads majors losses as Clarity Act vote slips to September",
+        "link": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
+        "published": "Fri, 07 Aug 2026 04:17:01 +0000"
+      },
+      {
+        "title": "Senate won't vote on crypto Clarity Act before its summer break",
+        "link": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
+        "published": "Fri, 07 Aug 2026 02:14:43 +0000"
+      },
       {
         "title": "Power struggle erupts at Ondo Finance after founder’s death",
         "link": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death",
@@ -163,31 +188,6 @@
         "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
         "link": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
         "published": "Thu, 06 Aug 2026 15:07:00 +0000"
-      },
-      {
-        "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-        "link": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-        "published": "Thu, 06 Aug 2026 12:46:42 +0000"
-      },
-      {
-        "title": "Bitcoin’s low volatility doesn’t necessarily mean low risk",
-        "link": "https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk",
-        "published": "Thu, 06 Aug 2026 11:37:03 +0000"
-      },
-      {
-        "title": "Free Markets and Innovation, Sort Of",
-        "link": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
-        "published": "Thu, 06 Aug 2026 11:30:00 +0000"
-      },
-      {
-        "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
-        "link": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
-        "published": "Thu, 06 Aug 2026 11:14:47 +0000"
-      },
-      {
-        "title": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
-        "link": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
-        "published": "Thu, 06 Aug 2026 10:53:09 +0000"
       }
     ]
   },
@@ -211,7 +211,7 @@
       "ORCL": {
         "name": "Oracle Corporation",
         "price": 143.47,
-        "per": 24.60892,
+        "per": 24.736206,
         "pbv": 11.002301,
         "roe": 0.53376,
         "roa": 0.06505,
@@ -221,12 +221,12 @@
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
         "dividend_yield": 0.01394,
-        "valuation_flag": "undervalued relatif ke peer group"
+        "valuation_flag": "fair relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
         "price": 312.41,
-        "per": 35.86797,
+        "per": 35.704,
         "pbv": 42.44701,
         "roe": 1.4875101,
         "roa": 0.27082002,
@@ -256,7 +256,7 @@
       "AMZN": {
         "name": "Amazon.com, Inc.",
         "price": 272.26,
-        "per": 21.90346,
+        "per": 21.921095,
         "pbv": 5.322152,
         "roe": 0.30558002,
         "roa": 0.06589,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 499.86,
-        "per": 27.862875,
+        "per": 27.181076,
         "pbv": 8.391841,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 356.62,
-        "per": 17.90261,
+        "per": 18.084179,
         "pbv": 7.0068374,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 589.9,
-        "per": 22.218458,
+        "per": 22.176693,
         "pbv": 6.14396,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -316,7 +316,7 @@
       "PLTR": {
         "name": "Palantir Technologies Inc.",
         "price": 155.92,
-        "per": 133.26495,
+        "per": 135.58261,
         "pbv": 38.281364,
         "roe": 0.38097,
         "roa": 0.17292999,
@@ -346,7 +346,7 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1704.37,
-        "per": 58.288986,
+        "per": 57.46359,
         "pbv": 1448.1976,
         "roe": 0.53942,
         "roa": 0.16454001,
@@ -361,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 418.2,
-        "per": 36.878307,
+        "per": 36.49215,
         "pbv": 87.21549,
         "roe": 0.39969003,
         "roa": 0.19014,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1129.3,
-        "per": 27.068552,
+        "per": 27.172762,
         "pbv": 3.0950751,
         "roe": null,
         "roa": null,
@@ -393,7 +393,7 @@
       "BAC": {
         "name": "Bank of America Corporation",
         "price": 63.0,
-        "per": 14.549654,
+        "per": 14.583333,
         "pbv": 1.6013421,
         "roe": 0.111990005,
         "roa": 0.00969,
@@ -466,7 +466,7 @@
         "three_year_return": -0.0082789
       },
       "AGG": {
-        "name": "iShares Core US Aggregate Bond ETF",
+        "name": "iShares Core U.S. Aggregate Bond ETF",
         "price": 97.68975,
         "dividend_yield": 0.0405,
         "ytd_return": -0.60636,
@@ -474,7 +474,7 @@
         "three_year_return": 0.0422397
       },
       "BND": {
-        "name": "Vanguard Total Bond Market ETF",
+        "name": "Vanguard Total Bond Market Index Fund",
         "price": 72.46,
         "dividend_yield": 0.0403,
         "ytd_return": -0.56355,
