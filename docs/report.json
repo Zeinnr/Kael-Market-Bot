@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:35:49.509756Z",
+  "generated_at": "2026-08-09T18:29:30.959759Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,47 +108,62 @@
     ],
     "markets": [
       {
+        "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+        "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+        "published": "Sun, 09 Aug 2026 16:00:00 GMT"
+      },
+      {
+        "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
+        "link": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
+        "published": "Sun, 09 Aug 2026 14:00:00 GMT"
+      },
+      {
+        "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+        "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+        "published": "Sun, 09 Aug 2026 13:30:00 GMT"
+      },
+      {
         "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
         "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
-        "published": "Sat, 08 Aug 2026 20:00:00 GMT"
+        "published": "Sun, 09 Aug 2026 13:00:00 GMT"
+      },
+      {
+        "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
+        "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
+        "published": "Sun, 09 Aug 2026 13:00:00 GMT"
+      },
+      {
+        "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+        "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+        "published": "Sun, 09 Aug 2026 12:30:00 GMT"
+      },
+      {
+        "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+        "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+        "published": "Sun, 09 Aug 2026 12:30:00 GMT"
       },
       {
         "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
         "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
         "published": "Sat, 08 Aug 2026 19:00:00 GMT"
-      },
-      {
-        "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
-        "link": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
-        "published": "Sat, 08 Aug 2026 19:00:00 GMT"
-      },
-      {
-        "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
-        "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
-        "published": "Sat, 08 Aug 2026 18:37:00 GMT"
-      },
-      {
-        "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-        "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-        "published": "Sat, 08 Aug 2026 18:30:00 GMT"
-      },
-      {
-        "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-        "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
-        "published": "Sat, 08 Aug 2026 18:30:00 GMT"
-      },
-      {
-        "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
-        "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
-        "published": "Sat, 08 Aug 2026 18:30:00 GMT"
-      },
-      {
-        "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
-        "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
-        "published": "Sat, 08 Aug 2026 17:58:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
+        "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
+        "published": "Sun, 09 Aug 2026 15:00:00 +0000"
+      },
+      {
+        "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+        "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+        "published": "Sun, 09 Aug 2026 14:19:35 +0000"
+      },
+      {
+        "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+        "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+        "published": "Sun, 09 Aug 2026 13:00:00 +0000"
+      },
       {
         "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
         "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
@@ -173,21 +188,6 @@
         "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
         "link": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
         "published": "Sat, 08 Aug 2026 14:00:00 +0000"
-      },
-      {
-        "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
-        "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
-        "published": "Sat, 08 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
-        "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
-        "published": "Sat, 08 Aug 2026 09:07:24 +0000"
-      },
-      {
-        "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-        "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-        "published": "Sat, 08 Aug 2026 07:46:04 +0000"
       }
     ]
   },
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1740.99,
         "per": 59.17709,
-        "pbv": 1479.3135,
+        "pbv": 1472.6074,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -466,7 +466,7 @@
         "three_year_return": -0.0059640002
       },
       "AGG": {
-        "name": "iShares Core US Aggregate Bond ETF",
+        "name": "iShares Core U.S. Aggregate Bond ETF",
         "price": 97.58256,
         "dividend_yield": 0.0405,
         "ytd_return": -0.60636,
@@ -474,7 +474,7 @@
         "three_year_return": 0.0417766
       },
       "BND": {
-        "name": "Vanguard Total Bond Market ETF",
+        "name": "Vanguard Total Bond Market Index Fund",
         "price": 72.37,
         "dividend_yield": 0.0403,
         "ytd_return": -0.56355,
@@ -505,13 +505,13 @@
       },
       {
         "ticker": "AGG",
-        "name": "iShares Core US Aggregate Bond ETF",
+        "name": "iShares Core U.S. Aggregate Bond ETF",
         "dividend_yield": 0.0405,
         "group": "bonds"
       },
       {
         "ticker": "BND",
-        "name": "Vanguard Total Bond Market ETF",
+        "name": "Vanguard Total Bond Market Index Fund",
         "dividend_yield": 0.0403,
         "group": "bonds"
       }
@@ -560,7 +560,7 @@
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.552,
+        "composite_score": 0.551,
         "components_used": 8
       },
       {
@@ -578,7 +578,7 @@
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.176,
+        "composite_score": 0.175,
         "components_used": 9
       },
       {
@@ -676,87 +676,83 @@
     ]
   },
   "analysis": {
-    "headline": "Yield 10Y AS naik ke 4.69% di tengah inflasi yang justru mendingin (CPI -0.42%, PCE -0.11%) — divergensi ini menekan bond jangka panjang (TLT -3.6% YTD) dan mengancam saham growth dengan PER ekstrem seperti TSLA dan PLTR.",
-    "economic_summary": "CPI turun ke 332.57 (-0.42% MoM) dan PCE turun -0.11%, menunjukkan disinflasi berlanjut. Namun unemployment turun ke 4.1% dan GDP tumbuh solid +1.91% QoQ, sementara payrolls stagnan (-0.01%). Fed funds ditahan di 3.63%. Anehnya, yield 10Y justru naik +1.3% ke 4.69% — sinyal bahwa pasar tidak sepenuhnya price-in disinflasi ke ekspektasi rate cut, kemungkinan karena kekhawatiran fiskal/term premium ketimbang inflasi.",
+    "headline": "10Y yield naik ke 4.69% di tengah inflasi yang justru mereda (CPI -0.42%, PCE -0.11%) — divergence ini adalah sinyal paling penting hari ini, menekan aset duration-panjang (growth stock PER tinggi & TLT) meski data tenaga kerja & retail sales AS masih solid.",
+    "economic_summary": "CPI turun -0.42% MoM ke 332.57 dan PCE index turun -0.11%, menunjukkan tekanan harga mereda. Unemployment turun ke 4.1% dari 4.2%, retail sales naik 0.22%, dan GDP QoQ tumbuh 1.91% — ekonomi riil masih solid. Namun Fed Funds ditahan flat di 3.63% dan 10Y yield justru naik +1.3% ke 4.69%, mengindikasikan pasar bond tidak yakin Fed akan cepat cut meski inflasi turun, kemungkinan karena kekhawatiran supply Treasury atau term premium.",
     "correlation_analysis": [
       {
-        "trigger": "10Y yield naik ke 4.69% meski CPI & PCE turun",
-        "mechanism": "Divergensi ini mengindikasikan market pricing term premium/supply Treasury, bukan ekspektasi inflasi. Yield naik langsung menekan harga bond duration panjang (TLT turun karena mekanisme harga-yield terbalik) dan menaikkan discount rate untuk valuasi ekuitas growth yang cash flow-nya jauh di masa depan.",
+        "trigger": "10Y yield naik ke 4.69% meski CPI/PCE turun",
+        "mechanism": "Yield naik menaikkan discount rate untuk valuasi ekuitas berbasis future cash flow — dampak paling besar ke saham dengan PER ekstrem (PLTR 147x, TSLA 304x) karena porsi nilai mereka lebih terkonsentrasi di earnings jauh ke depan. Di sisi bond, TLT (duration 20+ tahun) sudah mencatat ytd return -3.6% karena harga obligasi berbanding terbalik dengan yield.",
         "affected_assets": [
-          "TLT",
-          "AGG",
-          "BND",
-          "QQQ",
+          "PLTR",
           "TSLA",
-          "PLTR"
+          "TLT",
+          "QQQ"
         ],
         "confidence": "high"
       },
       {
-        "trigger": "Payrolls stagnan (-0.01%) tapi unemployment turun ke 4.1%, Fed funds ditahan flat",
-        "mechanism": "Kombinasi ini memberi Fed alasan untuk tidak buru-buru cut karena data belum menunjukkan pelemahan tajam — memperpanjang periode rate tinggi, yang menguntungkan margin bunga bank (BAC) tapi terus menekan multiple ekspansi saham tech dengan valuasi tinggi.",
+        "trigger": "Unemployment turun ke 4.1% + retail sales naik 0.22% di tengah Fed Funds unchanged",
+        "mechanism": "Data tenaga kerja & konsumsi yang masih kuat mengurangi urgensi Fed untuk cut rate jangka pendek, memperkuat narasi 'higher for longer' yang konsisten dengan kenaikan 10Y yield — ini net negatif untuk aset yang bergantung pada ekspektasi rate cut cepat (rate-sensitive REIT, small cap, dan bond duration panjang seperti TLT/AGG).",
         "affected_assets": [
-          "BAC",
-          "NVDA",
-          "PLTR"
+          "TLT",
+          "AGG",
+          "BND"
         ],
         "confidence": "medium"
       },
       {
-        "trigger": "Proteksionisme AI Trump meluas ke robotics + pembatasan impor tech China",
-        "mechanism": "Kebijakan ekspor/impor yang lebih ketat menambah risiko rantai pasok untuk pemain semikonduktor dengan eksposur global tinggi, berpotensi memperlambat revenue growth yang selama ini menjadi justifikasi PER tinggi mereka.",
+        "trigger": "Trump AI protectionism meluas ke robotics dan curbs impor tech China",
+        "mechanism": "Pembatasan lebih lanjut pada supply chain semikonduktor/robotics AS-China berpotensi mengganggu jalur pasokan chip dan permintaan ekspor untuk pemain kunci seperti TSM (revenue growth 0.36 masih bergantung pasar global) dan ASML (pemasok tunggal EUV lithography) — risiko revenue growth jangka menengah meski valuasi saat ini masih tergolong 'fair' relatif peer.",
         "affected_assets": [
           "TSM",
           "ASML",
-          "NVDA",
-          "INTC"
+          "NVDA"
         ],
         "confidence": "medium"
       },
       {
-        "trigger": "Senate mulai proses voting Crypto Clarity Act + klaim institutional inflow dari Bitwise",
-        "mechanism": "Kejelasan regulasi historisnya memicu rotasi modal ke aset risiko terkait crypto, tapi ini masih tahap awal voting dan dibayangi instabilitas teknikal (fork BIP-110 gagal, exploit Lightning) — sinyal campur aduk, belum ada data flow konkret ke ekuitas.",
+        "trigger": "Bitcoin spot ETF inflow $853M (IBIT dominan) di tengah yield naik",
+        "mechanism": "Institutional flow ke BTC ETF tetap deras meski lingkungan rate tidak mendukung risk asset — ini divergence yang menunjukkan BTC mulai diperlakukan sebagai aset alokasi institusional independen dari siklus rate jangka pendek, bukan lagi murni risk-on proxy. Confidence medium karena data flow satu hari rentan reversal cepat, apalagi di tengah shakeout >100 proyek crypto lain di 2026.",
         "affected_assets": [
-          "QQQ",
-          "JEPQ"
+          "BTC",
+          "IBIT"
         ],
         "confidence": "low"
       }
     ],
     "stock_commentary": [
       {
-        "ticker": "TSLA",
-        "note": "PER 304x adalah salah satu yang paling ekstrem di grup ini — dengan earnings growth negatif (-3%) dan ROE hanya 4.7%, saham ini paling rentan terhadap repricing akibat yield 10Y naik ke 4.69% (lihat korelasi #1)."
+        "ticker": "PLTR",
+        "note": "PER 147x dan valuation_flag overvalued relatif peer — paling rentan terhadap kenaikan 10Y yield karena duration risk ekstrem, meski earnings_growth 2.15x masih kuat secara fundamental."
       },
       {
-        "ticker": "PLTR",
-        "note": "PER 147x, valuation_flag overvalued relatif ke peer. Revenue growth 92.8% masih kuat tapi di lingkungan rate tinggi yang persisten (korelasi #2), premium valuasi ini paling mudah terkompresi."
+        "ticker": "TSLA",
+        "note": "PER 304x dengan earnings_growth negatif (-0.03) adalah kombinasi terburuk saat yield naik: valuasi mahal tanpa momentum earnings pendukung, risiko koreksi tertinggi di grup big tech."
       },
       {
         "ticker": "NVDA",
-        "note": "PER 34x dengan FCF besar (~$46B) membuatnya lebih tahan banting dibanding TSLA/PLTR, tapi tetap terpapar risiko rantai pasok dari kebijakan proteksionis AI/chip (korelasi #3) dan sensitif terhadap discount rate karena earnings growth 2.1x sudah dipriced tinggi."
+        "note": "Valuation fair relatif peer dengan earnings_growth 2.14x kuat, tapi tetap exposed ke risiko rantai pasok jika proteksionisme AI/robotics Trump meluas ke ekspor chip."
       },
       {
         "ticker": "TSM",
-        "note": "FCF raksasa ($739B) dan valuation_flag fair, tapi sebagai pemasok inti NVDA/ASML, langsung terpapar dampak pembatasan impor tech China yang disebut di berita (korelasi #3)."
+        "note": "Fair value, revenue_growth 0.36 solid, tapi paling langsung terkena dampak curbs impor tech China — posisinya sebagai fabrikator tunggal chip advanced membuatnya sensitif terhadap kebijakan geopolitik AS-China."
       },
       {
-        "ticker": "ASML",
-        "note": "PBV 1479x adalah anomali ekstrem (kemungkinan artefak data saham asing/ADR), namun revenue growth 21% dan valuation_flag fair menunjukkan bisnis inti masih solid — tetap dalam radar risiko ekspor semikonduktor global."
+        "ticker": "ORCL",
+        "note": "Undervalued relatif peer tapi FCF negatif (-24.5B) dan DER 388 sangat tinggi — leverage ekstrem ini jadi risiko nyata saat cost of debt naik mengikuti 10Y yield, bukan sekadar valuasi murah yang menarik."
       },
       {
-        "ticker": "BAC",
-        "note": "valuation_flag data tidak cukup jadi tidak bisa dinilai murah/mahal, tapi dengan dividend yield 2.03% dan lingkungan rate tinggi yang bertahan (korelasi #2), bank berpotensi diuntungkan dari net interest margin dibanding tech growth."
+        "ticker": "GOOG",
+        "note": "Undervalued relatif peer dengan earnings_growth 2.94x tertinggi di grup — representasi tema 'market breadth' yang disebut MarketWatch, di mana saham non-NVDA mulai mengungguli index."
       }
     ],
-    "ai_tech_summary": "Berita AI minggu ini didominasi isu kebijakan: proteksionisme AI Trump meluas ke robotics, pembatasan impor tech China, serta 'shake-up' di Google AI dan model Meta yang disebut 'rogue'. Ini pola konsisten menuju fragmentasi rantai pasok teknologi global, bukan sekadar breakthrough produk — relevan langsung ke risiko revenue semikonduktor (TSM, ASML, NVDA, INTC).",
-    "global_summary": "Data berita ekonomi global gagal diambil (error koneksi/DNS), jadi tidak ada konfirmasi independen soal sentimen makro internasional hari ini — ini blind spot yang perlu dicatat, bukan diasumsikan netral.",
+    "ai_tech_summary": "Berita AI/tech minggu ini didominasi isu proteksionisme kebijakan Trump yang meluas dari AI ke robotics dan curbs impor teknologi China, berpotensi mengganggu rantai pasok semikonduktor global. Selain itu ada isu governance/model safety (virus AI, model Meta yang 'rogue') dan shake-up strategi AI Google — sinyal bahwa fase kompetisi big tech mulai bergeser dari sekadar scaling model ke isu regulasi dan kontrol risiko.",
+    "global_summary": "Data ekonomi global tidak tersedia (error fetch), sehingga analisis makro global tidak bisa dikonfirmasi hari ini — kekosongan ini perlu dicatat sebagai keterbatasan data, terutama untuk mengonfirmasi apakah kenaikan yield AS murni domestik atau ada tekanan dari sisi permintaan Treasury asing.",
     "risk_flags": [
-      "Divergensi disinflasi vs kenaikan yield 10Y bisa mengindikasikan kekhawatiran fiskal/term premium yang belum tercermin di harga ekuitas growth — potensi repricing mendadak jika yield terus naik.",
-      "Valuasi ekstrem (TSLA PER 304x, PLTR PER 147x) sangat rentan terhadap kenaikan rate lanjutan, bukan cushion dari earnings fundamental.",
-      "Kebijakan proteksionis AI/robotics dan pembatasan impor tech China bisa mengganggu revenue growth semikonduktor yang selama ini jadi justifikasi valuasi tinggi sektor tech.",
-      "Instabilitas teknikal Bitcoin (fork BIP-110 gagal, exploit Lightning) berjalan bersamaan dengan proses regulasi Clarity Act — sinyal campur aduk, jangan disamakan dengan sinyal bullish institusional yang solid.",
-      "Data berita ekonomi global tidak tersedia — analisis makro internasional minggu ini tidak lengkap."
+      "10Y yield naik dua minggu berturut (4.63 -> 4.69) berlawanan arah dengan inflasi yang turun — jika berlanjut ke arah 4.75-5%, tekanan ke growth stock PER tinggi (PLTR, TSLA) dan bond duration panjang (TLT) akan semakin besar",
+      "ORCL memiliki DER 388 dan FCF negatif -24.5B — kombinasi leverage tinggi di lingkungan rate naik adalah risiko refinancing yang nyata, bukan cuma soal valuasi murah",
+      "Data global_economy tidak tersedia (fetch error) — keterbatasan ini mengurangi confidence pada analisis makro lintas kawasan minggu ini",
+      "Divergensi crypto: BTC ETF inflow besar berbarengan dengan shakeout >100 proyek altcoin — indikasi capital rotation sempit ke BTC/institutional product, bukan risk-on merata di seluruh crypto"
     ]
   }
 }
