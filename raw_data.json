@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:28:38.882348Z",
+  "generated_at": "2026-08-10T07:04:59.750212Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,26 @@
     ],
     "markets": [
       {
+        "title": "U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 03:02:00 GMT"
+      },
+      {
+        "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+        "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 00:00:00 GMT"
+      },
+      {
+        "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+        "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+        "published": "Sun, 09 Aug 2026 23:30:00 GMT"
+      },
+      {
+        "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
+        "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
+        "published": "Sun, 09 Aug 2026 19:11:00 GMT"
+      },
+      {
         "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
         "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
         "published": "Sun, 09 Aug 2026 16:00:00 GMT"
@@ -126,29 +146,39 @@
         "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
         "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
         "published": "Sun, 09 Aug 2026 13:00:00 GMT"
-      },
-      {
-        "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
-        "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
-        "published": "Sun, 09 Aug 2026 13:00:00 GMT"
-      },
-      {
-        "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
-        "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-        "published": "Sun, 09 Aug 2026 12:30:00 GMT"
-      },
-      {
-        "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
-        "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
-        "published": "Sun, 09 Aug 2026 12:30:00 GMT"
-      },
-      {
-        "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
-        "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-        "published": "Sat, 08 Aug 2026 19:00:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+        "link": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+        "published": "Mon, 10 Aug 2026 07:00:00 +0000"
+      },
+      {
+        "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
+        "link": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
+        "published": "Mon, 10 Aug 2026 06:56:50 +0000"
+      },
+      {
+        "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
+        "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
+        "published": "Mon, 10 Aug 2026 06:25:17 +0000"
+      },
+      {
+        "title": "Bitcoin tops $65,000 with US inflation data due this week",
+        "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+        "published": "Mon, 10 Aug 2026 04:39:37 +0000"
+      },
+      {
+        "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
+        "link": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
+        "published": "Mon, 10 Aug 2026 04:26:01 +0000"
+      },
+      {
+        "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+        "link": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
+        "published": "Sun, 09 Aug 2026 18:30:00 +0000"
+      },
       {
         "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
         "link": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
@@ -158,36 +188,6 @@
         "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
         "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
         "published": "Sun, 09 Aug 2026 14:19:35 +0000"
-      },
-      {
-        "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
-        "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
-        "published": "Sun, 09 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
-        "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
-        "published": "Sun, 09 Aug 2026 05:08:20 +0000"
-      },
-      {
-        "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-        "link": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
-        "published": "Sat, 08 Aug 2026 20:06:47 +0000"
-      },
-      {
-        "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
-        "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
-        "published": "Sat, 08 Aug 2026 17:48:02 +0000"
-      },
-      {
-        "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-        "link": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
-        "published": "Sat, 08 Aug 2026 15:25:38 +0000"
-      },
-      {
-        "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
-        "link": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
-        "published": "Sat, 08 Aug 2026 14:00:00 +0000"
       }
     ]
   },
