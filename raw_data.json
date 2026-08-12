@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T07:03:45.225682Z",
+  "generated_at": "2026-08-12T18:51:50.842907Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
-      "date": "2026-06-01",
-      "value": 332.568,
-      "previous_value": 333.979,
-      "change_pct": -0.42
+      "date": "2026-07-01",
+      "value": 332.813,
+      "previous_value": 332.568,
+      "change_pct": 0.07
     },
     "PAYEMS": {
       "label": "Nonfarm Payrolls (Jobs Report)",
@@ -66,7 +66,22 @@
     ],
     "ai_tech": [
       {
-        "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+        "title": "Scaling AI agents with trustworthy data",
+        "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+        "published": "Wed, 12 Aug 2026 16:51:57 +0000"
+      },
+      {
+        "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+        "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+        "published": "Wed, 12 Aug 2026 12:10:00 +0000"
+      },
+      {
+        "title": "How we picked 35 of the world’s top young scientists and engineers",
+        "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+        "published": "Wed, 12 Aug 2026 09:08:40 +0000"
+      },
+      {
+        "title": "How the “censorship-industrial complex” is changing the internet and US policy",
         "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
         "published": "Tue, 11 Aug 2026 17:58:57 +0000"
       },
@@ -89,105 +104,90 @@
         "title": "AI for science needs reasoning, not just data",
         "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
         "published": "Mon, 10 Aug 2026 09:00:00 +0000"
-      },
-      {
-        "title": "These startups are chasing the next big thing in LLMs",
-        "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-        "published": "Mon, 10 Aug 2026 09:00:00 +0000"
-      },
-      {
-        "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-        "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-        "published": "Fri, 07 Aug 2026 14:20:00 +0000"
-      },
-      {
-        "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-        "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-        "published": "Fri, 07 Aug 2026 14:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "CoreWeave’s stock soars as earnings show major AI momentum",
-        "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 00:17:00 GMT"
+        "title": "Now China wants to become the shop floor for the Muslim world",
+        "link": "https://www.marketwatch.com/story/now-china-wants-to-become-the-shop-floor-for-the-muslim-world-9ffd785a?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 18:28:00 GMT"
       },
       {
-        "title": "Super Micro’s earnings report brings more good news, and the stock is climbing",
-        "link": "https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 00:16:00 GMT"
+        "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
+        "link": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 18:20:00 GMT"
       },
       {
-        "title": "Lumentum sees sales more than double as AI demand swells",
-        "link": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 00:15:00 GMT"
+        "title": "Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips",
+        "link": "https://www.marketwatch.com/story/alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chips-c4166a59?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 18:19:00 GMT"
+      },
+      {
+        "title": "Chili’s has hopped on the chicken-sandwich bandwagon, and it’s driving big sales gains",
+        "link": "https://www.marketwatch.com/story/chilis-has-hopped-on-the-chicken-sandwich-bandwagon-and-its-driving-big-sales-gains-cfad9549?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 18:04:00 GMT"
       },
       {
         "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
         "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 22:30:00 GMT"
+        "published": "Wed, 12 Aug 2026 17:30:00 GMT"
       },
       {
-        "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-        "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 22:00:00 GMT"
+        "title": "SpaceX’s stock is getting a Grok-fueled boost",
+        "link": "https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 17:26:00 GMT"
       },
       {
-        "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
-        "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 21:15:00 GMT"
+        "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
+        "link": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 16:45:00 GMT"
       },
       {
-        "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
-        "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 21:00:00 GMT"
-      },
-      {
-        "title": "We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?",
-        "link": "https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 20:58:00 GMT"
+        "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last",
+        "link": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 16:44:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
-        "link": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
-        "published": "Wed, 12 Aug 2026 06:00:00 +0000"
+        "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
+        "link": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
+        "published": "Wed, 12 Aug 2026 17:21:03 +0000"
       },
       {
-        "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
-        "link": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
-        "published": "Wed, 12 Aug 2026 05:26:55 +0000"
+        "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+        "link": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
+        "published": "Wed, 12 Aug 2026 16:34:24 +0000"
       },
       {
-        "title": "Harmony’s ONE dives 26% after an attack appears to mint tokens equal to quarter of supply",
-        "link": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
-        "published": "Wed, 12 Aug 2026 05:18:40 +0000"
+        "title": "Kalshi taps Solana platform for Wall Street-style high-speed data feed",
+        "link": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
+        "published": "Wed, 12 Aug 2026 16:14:49 +0000"
       },
       {
-        "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
-        "link": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
-        "published": "Wed, 12 Aug 2026 04:53:46 +0000"
+        "title": "Miden bets on privacy stablecoins with introduction of USDCx",
+        "link": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+        "published": "Wed, 12 Aug 2026 15:00:00 +0000"
       },
       {
-        "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-        "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
-        "published": "Wed, 12 Aug 2026 04:33:25 +0000"
+        "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
+        "published": "Wed, 12 Aug 2026 14:51:12 +0000"
       },
       {
-        "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
-        "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
-        "published": "Tue, 11 Aug 2026 21:38:13 +0000"
+        "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+        "link": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
+        "published": "Wed, 12 Aug 2026 13:39:31 +0000"
       },
       {
-        "title": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
-        "link": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
-        "published": "Tue, 11 Aug 2026 21:28:59 +0000"
+        "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
+        "link": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
+        "published": "Wed, 12 Aug 2026 13:13:49 +0000"
       },
       {
-        "title": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
-        "link": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
-        "published": "Tue, 11 Aug 2026 19:06:23 +0000"
+        "title": "America doesn’t need a second-class payments system",
+        "link": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
+        "published": "Wed, 12 Aug 2026 13:00:00 +0000"
       }
     ]
   },
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 217.5,
-        "per": 33.358894,
-        "pbv": 26.951674,
+        "price": 223.87,
+        "per": 34.335888,
+        "pbv": 27.741016,
         "roe": 1.14288,
         "roa": 0.52727,
         "der": 6.555,
@@ -205,14 +205,14 @@
         "fcf": 46335873024,
         "revenue_growth": 0.852,
         "earnings_growth": 2.145,
-        "dividend_yield": 0.0046,
+        "dividend_yield": 0.00447,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 145.48,
-        "per": 25.88612,
-        "pbv": 11.156442,
+        "price": 152.435,
+        "per": 26.146656,
+        "pbv": 11.6898,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -220,14 +220,14 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.01375,
+        "dividend_yield": 0.01312,
         "valuation_flag": "fair relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 304.91,
-        "per": 35.3314,
-        "pbv": 41.42799,
+        "price": 301.665,
+        "per": 34.59461,
+        "pbv": 40.98709,
         "roe": 1.4875101,
         "roa": 0.27082002,
         "der": 78.445,
@@ -235,14 +235,14 @@
         "fcf": 107721875456,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
-        "dividend_yield": 0.00354,
+        "dividend_yield": 0.00358,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 332.81,
-        "per": 305.33026,
-        "pbv": 15.1311655,
+        "price": 327.035,
+        "per": 308.5236,
+        "pbv": 14.868607,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 272.27,
-        "per": 22.372225,
-        "pbv": 5.322347,
+        "price": 269.19,
+        "per": 21.639069,
+        "pbv": 5.26214,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 503.81,
-        "per": 28.036173,
-        "pbv": 8.458155,
+        "price": 492.9,
+        "per": 27.474915,
+        "pbv": 8.274994,
         "roe": 0.34039003,
         "roa": 0.14088,
         "der": 29.118,
@@ -280,14 +280,14 @@
         "fcf": 16545500160,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
-        "dividend_yield": 0.00722,
+        "dividend_yield": 0.00738,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 343.0,
-        "per": 17.855284,
-        "pbv": 6.739233,
+        "price": 342.37,
+        "per": 17.178625,
+        "pbv": 6.726855,
         "roe": 0.48676,
         "roa": 0.12958999,
         "der": 18.859,
@@ -300,9 +300,9 @@
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 599.12,
-        "per": 22.422155,
-        "pbv": 5.843933,
+        "price": 582.525,
+        "per": 21.948946,
+        "pbv": 5.6820626,
         "roe": 0.29848,
         "roa": 0.14591,
         "der": 42.997,
@@ -310,14 +310,14 @@
         "fcf": 21553625088,
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
-        "dividend_yield": 0.00351,
+        "dividend_yield": 0.0036,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 174.94,
-        "per": 149.52138,
-        "pbv": 42.95114,
+        "price": 170.82,
+        "per": 146.00002,
+        "pbv": 41.939606,
         "roe": 0.38097,
         "roa": 0.17292999,
         "der": 2.139,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 97.71,
+        "price": 102.415,
         "per": null,
-        "pbv": 5.628781,
+        "pbv": 5.8998218,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1799.38,
-        "per": 61.41229,
-        "pbv": 1521.9963,
+        "price": 1823.77,
+        "per": 62.181046,
+        "pbv": 1542.6265,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -355,14 +355,14 @@
         "fcf": 8437675008,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
-        "dividend_yield": 0.00505,
+        "dividend_yield": 0.00498,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 422.06,
-        "per": 36.63715,
-        "pbv": 88.02049,
+        "price": 431.78,
+        "per": 32.58717,
+        "pbv": 90.0476,
         "roe": 0.39969003,
         "roa": 0.19014,
         "der": 15.174,
@@ -370,16 +370,16 @@
         "fcf": 739057991680,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.00898,
+        "dividend_yield": 0.00878,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1148.84,
-        "per": 27.101675,
-        "pbv": 3.0907388,
+        "price": 1158.055,
+        "per": 27.771105,
+        "pbv": 3.1155303,
         "roe": 0.122779995,
         "roa": 0.03737,
         "der": 23.192,
@@ -387,14 +387,14 @@
         "fcf": 7578124800,
         "revenue_growth": 0.306,
         "earnings_growth": 0.196,
-        "dividend_yield": 0.01995,
+        "dividend_yield": 0.01979,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 64.0,
-        "per": 14.780601,
-        "pbv": 1.6267602,
+        "price": 64.755,
+        "per": 14.954965,
+        "pbv": 1.6459509,
         "roe": 0.111990005,
         "roa": 0.00969,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.168,
         "earnings_growth": 0.341,
-        "dividend_yield": 0.02,
+        "dividend_yield": 0.01977,
         "valuation_flag": "data tidak cukup"
       }
     },
