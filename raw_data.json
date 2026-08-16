@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T18:17:44.459746Z",
+  "generated_at": "2026-08-16T06:18:53.920291Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,14 +108,29 @@
     ],
     "markets": [
       {
-        "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-        "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 18:05:00 GMT"
+        "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+        "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+        "published": "Sat, 15 Aug 2026 20:30:00 GMT"
       },
       {
         "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
         "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 17:15:00 GMT"
+        "published": "Sat, 15 Aug 2026 20:00:00 GMT"
+      },
+      {
+        "title": "Think interest rates are high now? These charts offer a different perspective.",
+        "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+        "published": "Sat, 15 Aug 2026 19:01:00 GMT"
+      },
+      {
+        "title": "Owning a home is overrated. Renting is now often a much better money move.",
+        "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
+        "published": "Sat, 15 Aug 2026 18:23:00 GMT"
+      },
+      {
+        "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
+        "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
+        "published": "Sat, 15 Aug 2026 18:05:00 GMT"
       },
       {
         "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
@@ -131,21 +146,6 @@
         "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
         "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
         "published": "Sat, 15 Aug 2026 16:16:00 GMT"
-      },
-      {
-        "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-        "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 16:00:00 GMT"
-      },
-      {
-        "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-        "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 16:00:00 GMT"
-      },
-      {
-        "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
-        "link": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 15:28:00 GMT"
       }
     ],
     "crypto": [
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 723.59,
+        "price": 731.01,
         "dividend_yield": 0.0044,
         "ytd_return": 12.25467,
         "expense_ratio": null,
-        "three_year_return": 0.2621036
+        "three_year_return": 0.2616715
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 772.5664,
+        "price": 777.60815,
         "dividend_yield": 0.0101,
         "ytd_return": 10.08633,
         "expense_ratio": null,
-        "three_year_return": 0.2162801
+        "three_year_return": 0.2160639
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 710.15,
+        "price": 714.79,
         "dividend_yield": 0.0107,
         "ytd_return": 10.11602,
         "expense_ratio": null,
-        "three_year_return": 0.2173929
+        "three_year_return": 0.2170707
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 381.83,
+        "price": 384.25,
         "dividend_yield": 0.0106,
         "ytd_return": 10.50409,
         "expense_ratio": null,
-        "three_year_return": 0.21436769
+        "three_year_return": 0.214501
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.8229,
+        "price": 58.0078,
         "dividend_yield": 0.0797,
         "ytd_return": 4.52955,
         "expense_ratio": null,
-        "three_year_return": 0.0974572
+        "three_year_return": 0.0976726
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.9807,
+        "price": 60.5303,
         "dividend_yield": 0.1076,
         "ytd_return": 6.03709,
         "expense_ratio": null,
-        "three_year_return": 0.20147601
+        "three_year_return": 0.20083259
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 82.06306,
+        "price": 82.56055,
         "dividend_yield": 0.0475,
         "ytd_return": -3.61651,
         "expense_ratio": null,
-        "three_year_return": -0.007846099
+        "three_year_return": -0.0073989998
       },
       "AGG": {
-        "name": "iShares Core US Aggregate Bond ETF",
-        "price": 97.40293,
+        "name": "iShares Core U.S. Aggregate Bond ETF",
+        "price": 97.71149,
         "dividend_yield": 0.0405,
         "ytd_return": -0.60636,
         "expense_ratio": null,
-        "three_year_return": 0.0434423
+        "three_year_return": 0.0438744
       },
       "BND": {
-        "name": "Vanguard Total Bond Market ETF",
-        "price": 72.25,
+        "name": "Vanguard Total Bond Market Index Fund",
+        "price": 72.47,
         "dividend_yield": 0.0403,
         "ytd_return": -0.56355,
         "expense_ratio": null,
-        "three_year_return": 0.043207597
+        "three_year_return": 0.0437917
       }
     }
   }
