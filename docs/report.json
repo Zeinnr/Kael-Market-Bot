@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:19:44.152304Z",
+  "generated_at": "2026-08-16T18:18:28.495724Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,47 +108,72 @@
     ],
     "markets": [
       {
+        "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+        "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 18:15:00 GMT"
+      },
+      {
+        "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+        "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 17:30:00 GMT"
+      },
+      {
         "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
         "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 20:30:00 GMT"
+        "published": "Sun, 16 Aug 2026 17:00:00 GMT"
       },
       {
         "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
         "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 20:00:00 GMT"
+        "published": "Sun, 16 Aug 2026 16:22:00 GMT"
+      },
+      {
+        "title": "Here’s the real reason oil prices aren’t moving higher",
+        "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 13:00:00 GMT"
+      },
+      {
+        "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
+        "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 12:00:00 GMT"
+      },
+      {
+        "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
+        "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 11:00:00 GMT"
       },
       {
         "title": "Think interest rates are high now? These charts offer a different perspective.",
         "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
         "published": "Sat, 15 Aug 2026 19:01:00 GMT"
-      },
-      {
-        "title": "Owning a home is overrated. Renting is now often a much better money move.",
-        "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 18:23:00 GMT"
-      },
-      {
-        "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-        "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 18:05:00 GMT"
-      },
-      {
-        "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
-        "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 17:08:00 GMT"
-      },
-      {
-        "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
-        "link": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 16:52:00 GMT"
-      },
-      {
-        "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
-        "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 16:16:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+        "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+        "published": "Sun, 16 Aug 2026 16:00:00 +0000"
+      },
+      {
+        "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+        "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+        "published": "Sun, 16 Aug 2026 14:02:32 +0000"
+      },
+      {
+        "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+        "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+        "published": "Sun, 16 Aug 2026 14:00:00 +0000"
+      },
+      {
+        "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+        "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+        "published": "Sun, 16 Aug 2026 13:00:00 +0000"
+      },
+      {
+        "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+        "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+        "published": "Sun, 16 Aug 2026 12:00:00 +0000"
+      },
       {
         "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
         "link": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
@@ -163,31 +188,6 @@
         "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
         "link": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
         "published": "Sat, 15 Aug 2026 15:21:15 +0000"
-      },
-      {
-        "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-        "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-        "published": "Sat, 15 Aug 2026 15:12:29 +0000"
-      },
-      {
-        "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-        "link": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-        "published": "Sat, 15 Aug 2026 14:00:00 +0000"
-      },
-      {
-        "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-        "link": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
-        "published": "Sat, 15 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
-        "link": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
-        "published": "Sat, 15 Aug 2026 12:00:00 +0000"
-      },
-      {
-        "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-        "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-        "published": "Fri, 14 Aug 2026 23:41:49 +0000"
       }
     ]
   },
@@ -364,10 +364,10 @@
         "per": 32.15309,
         "pbv": 88.91518,
         "roe": 0.39969003,
-        "roa": 0.19014,
-        "der": 15.174,
+        "roa": 0.19002001,
+        "der": 16.504,
         "npm": 0.49923,
-        "fcf": 739057991680,
+        "fcf": 730826014720,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
         "dividend_yield": 0.01018,
@@ -417,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 777.60815,
+        "price": 776.3812,
         "dividend_yield": 0.0101,
         "ytd_return": 10.08633,
         "expense_ratio": null,
@@ -425,7 +425,7 @@
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 714.79,
+        "price": 713.66,
         "dividend_yield": 0.0107,
         "ytd_return": 10.11602,
         "expense_ratio": null,
@@ -433,7 +433,7 @@
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 384.25,
+        "price": 383.81,
         "dividend_yield": 0.0106,
         "ytd_return": 10.50409,
         "expense_ratio": null,
@@ -459,23 +459,23 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 82.56055,
+        "price": 81.9774,
         "dividend_yield": 0.0475,
         "ytd_return": -3.61651,
         "expense_ratio": null,
         "three_year_return": -0.0073989998
       },
       "AGG": {
-        "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 97.71149,
+        "name": "iShares Core US Aggregate Bond ETF",
+        "price": 97.44146,
         "dividend_yield": 0.0405,
         "ytd_return": -0.60636,
         "expense_ratio": null,
         "three_year_return": 0.0438744
       },
       "BND": {
-        "name": "Vanguard Total Bond Market Index Fund",
-        "price": 72.47,
+        "name": "Vanguard Total Bond Market ETF",
+        "price": 72.28,
         "dividend_yield": 0.0403,
         "ytd_return": -0.56355,
         "expense_ratio": null,
@@ -505,13 +505,13 @@
       },
       {
         "ticker": "AGG",
-        "name": "iShares Core U.S. Aggregate Bond ETF",
+        "name": "iShares Core US Aggregate Bond ETF",
         "dividend_yield": 0.0405,
         "group": "bonds"
       },
       {
         "ticker": "BND",
-        "name": "Vanguard Total Bond Market Index Fund",
+        "name": "Vanguard Total Bond Market ETF",
         "dividend_yield": 0.0403,
         "group": "bonds"
       }
@@ -549,7 +549,7 @@
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.116,
+        "composite_score": 1.117,
         "components_used": 9
       },
       {
@@ -567,13 +567,13 @@
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.257,
+        "composite_score": 0.256,
         "components_used": 9
       },
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.176,
+        "composite_score": 0.177,
         "components_used": 9
       },
       {
@@ -603,7 +603,7 @@
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "composite_score": -0.164,
+        "composite_score": -0.163,
         "components_used": 9
       },
       {
@@ -671,46 +671,44 @@
     ]
   },
   "analysis": {
-    "headline": "PCE turun dan yield 10Y melandai ke 4.63% membuka ruang ekspektasi Fed dovish, tapi retail sales -0.58% dan payrolls flat menunjukkan konsumen mulai melemah meski unemployment turun ke 4.1%.",
-    "economic_summary": "CPI naik tipis 0.07% MoM ke 332.8, tapi PCE (indikator favorit Fed) justru turun -0.11% ke 131.39 — sinyal disinflasi yang mendukung narasi rate cut. Payrolls nyaris flat (-0.01%, 158.858 juta) dan retail sales turun -0.58%, sementara unemployment justru turun ke 4.1% dari 4.2% — data pasar tenaga kerja campur aduk. GDP QoQ solid +1.91%, Fed funds ditahan di 3.63%, dan 10Y yield turun ke 4.63% dari 4.68% mengindikasikan market mulai pricing in easing lebih cepat.",
+    "headline": "PCE turun dan retail sales melemah memicu ekspektasi Fed cut, menekan yield 10Y turun 1.07% — kombinasi ini menguntungkan growth stocks dengan PER tinggi tapi menyoroti risiko valuation stretched di TSLA dan PLTR.",
+    "economic_summary": "PCE Price Index turun -0.11% MoM (indikator favorit Fed), retail sales anjlok -0.58%, dan nonfarm payrolls stagnan (-0.01%) mengindikasikan momentum konsumen melambat meski unemployment turun ke 4.1%. Fed Funds Rate tetap hold di 3.63%, namun 10-Year Treasury yield turun 1.07% ke 4.63%, sinyal pasar mulai price-in kemungkinan rate cut karena disinflasi PCE. GDP kuartalan masih tumbuh 1.91% QoQ, jadi belum ada resesi eksplisit — tapi kombinasi data ini condong ke soft-landing/disinflasi ketimbang overheating.",
     "correlation_analysis": [
       {
-        "trigger": "PCE turun (-0.11%) bersamaan dengan 10Y yield turun ke 4.63%",
-        "mechanism": "PCE yang melunak memperkuat argumen Fed untuk cut lebih cepat; yield turun menurunkan discount rate untuk saham growth dengan earnings jauh di masa depan, sehingga multiple ekspansi paling terasa di nama-nama PER tinggi (NVDA, PLTR, TSLA) — tapi juga meningkatkan risiko bahwa rally ini rapuh kalau CPI besok balik naik.",
+        "trigger": "PCE turun -0.11% bersamaan retail sales -0.58%",
+        "mechanism": "Disinflasi di indikator favorit Fed + pelemahan konsumsi menaikkan probabilitas rate cut, yang menekan 10Y yield turun (sudah terkonfirmasi -1.07%). Yield turun menurunkan discount rate untuk valuasi ekuitas dengan earnings growth jauh di masa depan, sehingga menguntungkan saham dengan PER tinggi seperti NVDA (PER 34.5, earnings growth 214.5%) dan AAPL (PER 35).",
         "affected_assets": [
           "QQQ",
           "NVDA",
-          "PLTR",
-          "TSLA",
-          "TLT"
+          "AAPL",
+          "MSFT"
         ],
         "confidence": "high"
       },
       {
-        "trigger": "Retail sales turun -0.58% MoM di tengah payrolls flat",
-        "mechanism": "Pelemahan konsumen riil menekan revenue consumer-facing (AMZN e-commerce, META/GOOG ad spending dari brand consumer), tapi secara paradoks bisa dibaca pasar sebagai 'good news is bad news' — data lemah mempercepat ekspektasi cut yang justru menopang valuasi ekuitas jangka pendek.",
+        "trigger": "Retail sales turun -0.58% MoM",
+        "mechanism": "Pelemahan retail sales langsung terkait sentimen kesehatan konsumen AS (dikonfirmasi juga oleh berita Walmart/Target earnings minggu ini). Ini berisiko menekan revenue segmen discretionary spending, memberi tekanan tambahan ke TSLA yang earnings growth-nya sudah negatif (-3%) sambil overvalued relatif peer, dan berpotensi membebani margin retail Amazon meski AMZN secara valuasi masih undervalued relatif peer.",
         "affected_assets": [
-          "AMZN",
-          "SPY",
-          "VOO",
-          "JEPI"
+          "TSLA",
+          "AMZN"
         ],
         "confidence": "medium"
       },
       {
-        "trigger": "UBS menaikkan eksposur Bitcoin ETF call options 24x + Paul Tudor Jones nambah stake IBIT",
-        "mechanism": "Institutional risk-on flow ke crypto biasanya berjalan seiring dengan penurunan yield riil dan ekspektasi easing — likuiditas yang lebih murah mendorong alokasi ke aset berisiko tinggi termasuk crypto dan high-beta growth tech, korelasi historis BTC dengan QQQ tetap kuat dalam rezim risk-on ini.",
+        "trigger": "10Y yield turun -1.07% ke 4.63%",
+        "mechanism": "Penurunan yield jangka pendek secara mekanis menaikkan harga bond (inverse relationship), namun TLT YTD return masih -3.6% karena level yield sepanjang tahun tetap tinggi secara historis — pergerakan minggu ini belum cukup membalik tren tahun berjalan. Ini juga bikin AGG/BND stay flat-negatif YTD meski ada pemulihan jangka pendek.",
         "affected_assets": [
-          "QQQ",
-          "NVDA",
-          "PLTR"
+          "TLT",
+          "AGG",
+          "BND"
         ],
         "confidence": "medium"
       },
       {
-        "trigger": "Flock (surveillance/data analytics) memperketat aturan akibat backlash regulasi",
-        "mechanism": "Tekanan regulasi terhadap perusahaan surveillance-data swasta menciptakan preseden yang relevan untuk PLTR, yang model bisnisnya juga bertumpu pada kontrak data pemerintah — risiko regulasi ini bisa jadi headwind sentimen meski tidak langsung mengubah fundamental jangka pendek.",
+        "trigger": "Institusi TradFi (UBS naikkan bitcoin ETF call options 24x) plus narasi risk-on dari yield turun",
+        "mechanism": "Ekspektasi rate cut menciptakan lingkungan risk-on yang historis berkorelasi dengan rally aset risiko termasuk crypto; adopsi institusional bitcoin (UBS, TradFi shift) memperkuat narasi bahwa capital flow bisa rotate dari bond/cash ke risk asset saat yield turun. Namun data harga BTC langsung tidak tersedia di sini sehingga korelasi ini bersifat indikatif, bukan terkonfirmasi harga.",
         "affected_assets": [
+          "BTC-linked ETF",
           "PLTR"
         ],
         "confidence": "low"
@@ -719,36 +717,36 @@
     "stock_commentary": [
       {
         "ticker": "NVDA",
-        "note": "PER 34.5 masih 'fair' relatif peer meski ROE >100%; sensitif terhadap penurunan yield 10Y karena valuasi bertumpu pada earnings jauh ke depan — salah satu penerima utama jika narasi Fed cut menguat."
-      },
-      {
-        "ticker": "PLTR",
-        "note": "Overvalued relatif peer (PER 148.75), earnings growth 2.15x agresif tapi rentan ganda: sensitif ke yield turun (bullish) sekaligus risiko regulasi surveillance seperti kasus Flock (bearish sentiment)."
+        "note": "Fair value relatif peer meski PER 34.5 tinggi, didukung earnings growth ekstrem 214.5% — profil ini yang paling diuntungkan langsung dari skenario yield turun karena discount rate ekuitas growth turun (lihat correlation #1)."
       },
       {
         "ticker": "TSLA",
-        "note": "PER 311 jauh di atas peer, earnings growth negatif (-3%) — kombinasi valuasi ekstrem dan fundamental lemah membuatnya paling rentan koreksi tajam jika ekspektasi rate cut gagal terealisasi dan yield rebound."
+        "note": "Overvalued relatif peer (PER 311) dengan earnings growth negatif -3% — kombinasi retail sales melemah (correlation #2) menambah risiko downside karena TSLA sensitif ke consumer discretionary spending, sementara valuasinya sudah stretched."
       },
       {
         "ticker": "AMZN",
-        "note": "Undervalued relatif peer dengan earnings growth 2.4x, tapi FCF hanya $3.2B (jauh lebih kecil dari revenue growth-nya) — pelemahan retail sales -0.58% jadi risiko langsung ke segmen e-commerce inti."
+        "note": "Undervalued relatif peer dengan earnings growth 242.3%, tapi eksposur ke retail sales AS (correlation #2) membuatnya perlu diwaspadai jika data konsumen (Walmart/Target minggu ini) mengonfirmasi pelemahan lanjutan."
+      },
+      {
+        "ticker": "PLTR",
+        "note": "Overvalued signifikan (PER 148.75, PBV 42.8) — valuasi ini paling rentan terhadap sentiment reversal jika ekspektasi rate cut tidak terealisasi, mengingat sebagian rally growth stock bertumpu pada yield turun (correlation #1 & #4)."
       },
       {
         "ticker": "GOOG",
-        "note": "Undervalued relatif peer (PER 17.2, termurah di grup big tech) dengan ROE 48.7% — kombinasi valuasi murah dan yield turun membuatnya kandidat re-rating paling logis dibanding TSLA/PLTR yang sudah mahal."
+        "note": "Undervalued relatif peer dengan PER 17.2 terendah di grup big tech, earnings growth 294%, memberi margin aman lebih besar dibanding PLTR/TSLA jika sentimen risk-on berbalik."
       },
       {
-        "ticker": "META",
-        "note": "Undervalued relatif peer meski earnings growth negatif (-13.4%) — perlu diwaspadai karena valuasi murah bisa mencerminkan concern pasar soal monetisasi AI capex, bukan cuma mispricing."
+        "ticker": "TSM",
+        "note": "Fair value dengan revenue growth 36% dan FCF sangat besar, jadi proxy solid untuk demand chip AI global yang mendasari valuasi NVDA — relevan untuk melihat apakah momentum semiconductor masih intact di tengah ketidakpastian macro."
       }
     ],
-    "ai_tech_summary": "Berita AI/tech minggu ini didominasi isu non-market langsung: cloning, mapping gen anak, dan regulasi surveillance (Flock memperketat aturan akibat backlash publik). Tidak ada breaking news soal capex AI raksasa (NVDA/hyperscaler) hari ini, tapi tren regulasi surveillance data relevan sebagai preseden risiko bagi perusahaan analytics berbasis kontrak pemerintah seperti PLTR.",
-    "global_summary": "Data berita ekonomi global tidak tersedia (error koneksi sumber), sehingga tidak ada konfirmasi independen soal sentimen geopolitik hari ini — ini gap data yang perlu dicatat. Dari sisi crypto, ada momentum institusional signifikan: UBS menaikkan eksposur Bitcoin lewat call options 24x lipat dan Paul Tudor Jones menambah stake di IBIT, mengindikasikan risk appetite institusional sedang membaik seiring yield yang melandai.",
+    "ai_tech_summary": "Berita AI/tech hari ini lebih ke sisi regulasi dan etika (Flock surveillance rules diperketat, debat 'censorship-industrial complex'), riset genetik/cloning, dan post-quantum cryptography — tidak ada katalis langsung ke earnings big tech AI hari ini. Tidak ada berita capex AI/chip baru yang menggerakkan valuasi NVDA/TSM secara spesifik.",
+    "global_summary": "Data global_economy gagal diambil (error koneksi), sehingga tidak ada insight geopolitik/makro global tambahan hari ini — ini gap informasi yang perlu dicatat eksplisit. Berita market AS didominasi topik personal finance (Social Security, Roth conversion, ACA subsidy) dan sorotan ke rilis earnings Walmart/Target sebagai proxy kesehatan konsumen AS, konsisten dengan data retail sales yang melemah.",
     "risk_flags": [
-      "Data global_economy gagal diambil (error koneksi) — analisis geopolitik hari ini tidak lengkap, jangan anggap 'tidak ada berita penting' sebagai fakta.",
-      "Retail sales -0.58% dan payrolls flat berpotensi jadi early sign pelemahan konsumen; jika CPI bulan depan naik lagi bersamaan, risiko stagflation-lite meningkat.",
-      "Valuasi ekstrem di TSLA (PER 311) dan PLTR (PER 148) sangat rentan terhadap re-pricing cepat jika yield 10Y berbalik naik atau ekspektasi Fed cut mengecewakan.",
-      "Lonjakan spekulasi crypto (call options UBS, IPO Unitree 4x upside di Hyperliquid) menunjukkan leverage/sentimen risk-on yang bisa berbalik tajam jika data ekonomi minggu depan mengejutkan ke arah hawkish."
+      "Data global_economy gagal diambil — analisis geopolitik/makro global hari ini tidak lengkap, jangan anggap 'tidak ada berita penting' sebagai kesimpulan valid.",
+      "Retail sales turun -0.58% + payrolls stagnan berisiko jadi awal tren pelemahan konsumen, perlu dikonfirmasi lewat earnings Walmart/Target minggu ini.",
+      "Valuasi TSLA (PER 311) dan PLTR (PER 148.75) sangat stretched — rentan koreksi tajam jika ekspektasi rate cut Fed tidak terealisasi atau earnings growth tidak mengejar valuasi.",
+      "Yield turun bisa punya dua interpretasi berlawanan: optimisme rate cut (risk-on) vs sinyal awal growth scare/recession fear — perlu dikonfirmasi arah lebih lanjut sebelum menyimpulkan dampak ke ekuitas."
     ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:18:53.920291Z",
+  "generated_at": "2026-08-16T18:17:34.411665Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,47 +108,72 @@
     ],
     "markets": [
       {
+        "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+        "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 18:15:00 GMT"
+      },
+      {
+        "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+        "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 17:30:00 GMT"
+      },
+      {
         "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
         "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 20:30:00 GMT"
+        "published": "Sun, 16 Aug 2026 17:00:00 GMT"
       },
       {
         "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
         "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 20:00:00 GMT"
+        "published": "Sun, 16 Aug 2026 16:22:00 GMT"
+      },
+      {
+        "title": "Here’s the real reason oil prices aren’t moving higher",
+        "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 13:00:00 GMT"
+      },
+      {
+        "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
+        "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 12:00:00 GMT"
+      },
+      {
+        "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
+        "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+        "published": "Sun, 16 Aug 2026 11:00:00 GMT"
       },
       {
         "title": "Think interest rates are high now? These charts offer a different perspective.",
         "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
         "published": "Sat, 15 Aug 2026 19:01:00 GMT"
-      },
-      {
-        "title": "Owning a home is overrated. Renting is now often a much better money move.",
-        "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 18:23:00 GMT"
-      },
-      {
-        "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-        "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 18:05:00 GMT"
-      },
-      {
-        "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
-        "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 17:08:00 GMT"
-      },
-      {
-        "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
-        "link": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 16:52:00 GMT"
-      },
-      {
-        "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
-        "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 16:16:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+        "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+        "published": "Sun, 16 Aug 2026 16:00:00 +0000"
+      },
+      {
+        "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+        "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+        "published": "Sun, 16 Aug 2026 14:02:32 +0000"
+      },
+      {
+        "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+        "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+        "published": "Sun, 16 Aug 2026 14:00:00 +0000"
+      },
+      {
+        "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+        "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+        "published": "Sun, 16 Aug 2026 13:00:00 +0000"
+      },
+      {
+        "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+        "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+        "published": "Sun, 16 Aug 2026 12:00:00 +0000"
+      },
       {
         "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
         "link": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
@@ -163,31 +188,6 @@
         "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
         "link": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
         "published": "Sat, 15 Aug 2026 15:21:15 +0000"
-      },
-      {
-        "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-        "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-        "published": "Sat, 15 Aug 2026 15:12:29 +0000"
-      },
-      {
-        "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-        "link": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-        "published": "Sat, 15 Aug 2026 14:00:00 +0000"
-      },
-      {
-        "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-        "link": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
-        "published": "Sat, 15 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
-        "link": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
-        "published": "Sat, 15 Aug 2026 12:00:00 +0000"
-      },
-      {
-        "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-        "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-        "published": "Fri, 14 Aug 2026 23:41:49 +0000"
       }
     ]
   },
@@ -364,10 +364,10 @@
         "per": 32.15309,
         "pbv": 88.91518,
         "roe": 0.39969003,
-        "roa": 0.19014,
-        "der": 15.174,
+        "roa": 0.19002001,
+        "der": 16.504,
         "npm": 0.49923,
-        "fcf": 739057991680,
+        "fcf": 730826014720,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
         "dividend_yield": 0.01018,
@@ -417,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 777.60815,
+        "price": 776.3812,
         "dividend_yield": 0.0101,
         "ytd_return": 10.08633,
         "expense_ratio": null,
@@ -425,7 +425,7 @@
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 714.79,
+        "price": 713.66,
         "dividend_yield": 0.0107,
         "ytd_return": 10.11602,
         "expense_ratio": null,
@@ -433,7 +433,7 @@
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 384.25,
+        "price": 383.81,
         "dividend_yield": 0.0106,
         "ytd_return": 10.50409,
         "expense_ratio": null,
@@ -459,23 +459,23 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 82.56055,
+        "price": 81.9774,
         "dividend_yield": 0.0475,
         "ytd_return": -3.61651,
         "expense_ratio": null,
         "three_year_return": -0.0073989998
       },
       "AGG": {
-        "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 97.71149,
+        "name": "iShares Core US Aggregate Bond ETF",
+        "price": 97.44146,
         "dividend_yield": 0.0405,
         "ytd_return": -0.60636,
         "expense_ratio": null,
         "three_year_return": 0.0438744
       },
       "BND": {
-        "name": "Vanguard Total Bond Market Index Fund",
-        "price": 72.47,
+        "name": "Vanguard Total Bond Market ETF",
+        "price": 72.28,
         "dividend_yield": 0.0403,
         "ytd_return": -0.56355,
         "expense_ratio": null,
