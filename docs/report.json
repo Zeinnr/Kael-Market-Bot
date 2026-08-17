@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:18:28.495724Z",
+  "generated_at": "2026-08-17T06:29:22.735904Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,11 @@
     ],
     "markets": [
       {
+        "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 03:02:00 GMT"
+      },
+      {
         "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
         "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
         "published": "Sun, 16 Aug 2026 18:15:00 GMT"
@@ -141,14 +146,29 @@
         "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
         "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
         "published": "Sun, 16 Aug 2026 11:00:00 GMT"
-      },
-      {
-        "title": "Think interest rates are high now? These charts offer a different perspective.",
-        "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
-        "published": "Sat, 15 Aug 2026 19:01:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+        "link": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+        "published": "Mon, 17 Aug 2026 05:51:18 +0000"
+      },
+      {
+        "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
+        "link": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
+        "published": "Mon, 17 Aug 2026 04:43:03 +0000"
+      },
+      {
+        "title": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+        "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
+        "published": "Mon, 17 Aug 2026 04:14:00 +0000"
+      },
+      {
+        "title": "The SEC meeting that wasn't: State of Crypto",
+        "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+        "published": "Sun, 16 Aug 2026 18:30:00 +0000"
+      },
       {
         "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
         "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
@@ -168,26 +188,6 @@
         "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
         "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
         "published": "Sun, 16 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-        "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
-        "published": "Sun, 16 Aug 2026 12:00:00 +0000"
-      },
-      {
-        "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-        "link": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
-        "published": "Sat, 15 Aug 2026 16:00:00 +0000"
-      },
-      {
-        "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-        "link": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
-        "published": "Sat, 15 Aug 2026 15:56:05 +0000"
-      },
-      {
-        "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
-        "link": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
-        "published": "Sat, 15 Aug 2026 15:21:15 +0000"
       }
     ]
   },
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1844.08,
         "per": 62.89495,
-        "pbv": 1563.227,
+        "pbv": 1558.592,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -573,7 +573,7 @@
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.177,
+        "composite_score": 0.176,
         "components_used": 9
       },
       {
@@ -671,82 +671,87 @@
     ]
   },
   "analysis": {
-    "headline": "PCE turun dan retail sales melemah memicu ekspektasi Fed cut, menekan yield 10Y turun 1.07% — kombinasi ini menguntungkan growth stocks dengan PER tinggi tapi menyoroti risiko valuation stretched di TSLA dan PLTR.",
-    "economic_summary": "PCE Price Index turun -0.11% MoM (indikator favorit Fed), retail sales anjlok -0.58%, dan nonfarm payrolls stagnan (-0.01%) mengindikasikan momentum konsumen melambat meski unemployment turun ke 4.1%. Fed Funds Rate tetap hold di 3.63%, namun 10-Year Treasury yield turun 1.07% ke 4.63%, sinyal pasar mulai price-in kemungkinan rate cut karena disinflasi PCE. GDP kuartalan masih tumbuh 1.91% QoQ, jadi belum ada resesi eksplisit — tapi kombinasi data ini condong ke soft-landing/disinflasi ketimbang overheating.",
+    "headline": "PCE dan CPI melandai sementara payrolls & retail sales melemah — kombinasi ini mendorong yield 10Y turun ke 4.63%, memicu rotasi risk-on ke growth/tech (QQQ vs SPY) sambil pasar mulai price-in pelunakan Fed lebih lanjut.",
+    "economic_summary": "CPI naik tipis 0.07% MoM ke 332.813, sementara PCE Price Index justru turun 0.11% — indikator favorit Fed makin dingin. Payrolls turun tipis -0.01% ke 158.858 juta, unemployment rate turun ke 4.1% (kombinasi ambigu: bisa jadi labor force participation menyusut, bukan sinyal solid strength). Retail sales melemah -0.58% MoM, GDP kuartalan masih tumbuh solid +1.91%. Fed Funds tetap flat di 3.63%, namun 10Y yield turun 1.07% ke 4.63% mengindikasikan pasar mulai price-in easing lanjutan.",
     "correlation_analysis": [
       {
-        "trigger": "PCE turun -0.11% bersamaan retail sales -0.58%",
-        "mechanism": "Disinflasi di indikator favorit Fed + pelemahan konsumsi menaikkan probabilitas rate cut, yang menekan 10Y yield turun (sudah terkonfirmasi -1.07%). Yield turun menurunkan discount rate untuk valuasi ekuitas dengan earnings growth jauh di masa depan, sehingga menguntungkan saham dengan PER tinggi seperti NVDA (PER 34.5, earnings growth 214.5%) dan AAPL (PER 35).",
+        "trigger": "PCE turun -0.11% + retail sales -0.58%",
+        "mechanism": "Data ini memperkuat narasi disinflasi + slowdown konsumsi, menekan ekspektasi yield jangka panjang karena pasar price-in Fed cut lebih agresif; yield 10Y turun ke 4.63% dari 4.68% menekan discount rate untuk saham growth berdurasi panjang.",
         "affected_assets": [
           "QQQ",
           "NVDA",
-          "AAPL",
-          "MSFT"
-        ],
-        "confidence": "high"
-      },
-      {
-        "trigger": "Retail sales turun -0.58% MoM",
-        "mechanism": "Pelemahan retail sales langsung terkait sentimen kesehatan konsumen AS (dikonfirmasi juga oleh berita Walmart/Target earnings minggu ini). Ini berisiko menekan revenue segmen discretionary spending, memberi tekanan tambahan ke TSLA yang earnings growth-nya sudah negatif (-3%) sambil overvalued relatif peer, dan berpotensi membebani margin retail Amazon meski AMZN secara valuasi masih undervalued relatif peer.",
-        "affected_assets": [
-          "TSLA",
-          "AMZN"
+          "MSFT",
+          "GOOG",
+          "META",
+          "TLT"
         ],
         "confidence": "medium"
       },
       {
-        "trigger": "10Y yield turun -1.07% ke 4.63%",
-        "mechanism": "Penurunan yield jangka pendek secara mekanis menaikkan harga bond (inverse relationship), namun TLT YTD return masih -3.6% karena level yield sepanjang tahun tetap tinggi secara historis — pergerakan minggu ini belum cukup membalik tren tahun berjalan. Ini juga bikin AGG/BND stay flat-negatif YTD meski ada pemulihan jangka pendek.",
+        "trigger": "Payrolls melemah tipis tapi unemployment rate turun",
+        "mechanism": "Sinyal tenaga kerja campur aduk — kemungkinan penyusutan labor force participation ketimbang penguatan riil, membuat Fed sulit membaca kondisi employment mandate secara jernih, menambah ketidakpastian arah kebijakan jangka pendek.",
+        "affected_assets": [
+          "SPY",
+          "VTI",
+          "BND"
+        ],
+        "confidence": "low"
+      },
+      {
+        "trigger": "Retail sales melemah menjelang laporan Walmart & Target minggu ini",
+        "mechanism": "Penurunan retail sales riil mengindikasikan konsumen AS mulai menahan belanja, yang akan langsung tercermin di margin ritel besar; e-commerce exposure Amazon turut kena imbas via segmen retail core meski AWS bisa menahan penurunan.",
+        "affected_assets": [
+          "AMZN",
+          "JEPI",
+          "JEPQ"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "Yield turun tapi TLT YTD masih -3.6%",
+        "mechanism": "Penurunan yield jangka pendek belum cukup membalikkan kerugian duration risk yang terakumulasi tahun ini; TLT tetap sensitif terhadap ekspektasi jalur Fed jangka panjang, bukan hanya pergerakan mingguan 10Y.",
         "affected_assets": [
           "TLT",
           "AGG",
           "BND"
         ],
-        "confidence": "medium"
-      },
-      {
-        "trigger": "Institusi TradFi (UBS naikkan bitcoin ETF call options 24x) plus narasi risk-on dari yield turun",
-        "mechanism": "Ekspektasi rate cut menciptakan lingkungan risk-on yang historis berkorelasi dengan rally aset risiko termasuk crypto; adopsi institusional bitcoin (UBS, TradFi shift) memperkuat narasi bahwa capital flow bisa rotate dari bond/cash ke risk asset saat yield turun. Namun data harga BTC langsung tidak tersedia di sini sehingga korelasi ini bersifat indikatif, bukan terkonfirmasi harga.",
-        "affected_assets": [
-          "BTC-linked ETF",
-          "PLTR"
-        ],
-        "confidence": "low"
+        "confidence": "high"
       }
     ],
     "stock_commentary": [
       {
         "ticker": "NVDA",
-        "note": "Fair value relatif peer meski PER 34.5 tinggi, didukung earnings growth ekstrem 214.5% — profil ini yang paling diuntungkan langsung dari skenario yield turun karena discount rate ekuitas growth turun (lihat correlation #1)."
+        "note": "Valuation fair relatif peer dengan revenue growth 85.2% — salah satu penerima langsung sentimen yield turun karena bobot growth-nya besar di QQQ; namun leverage (DER 6.55x) membuatnya lebih sensitif ke perubahan cost of capital dibanding peer non-leveraged."
       },
       {
         "ticker": "TSLA",
-        "note": "Overvalued relatif peer (PER 311) dengan earnings growth negatif -3% — kombinasi retail sales melemah (correlation #2) menambah risiko downside karena TSLA sensitif ke consumer discretionary spending, sementara valuasinya sudah stretched."
+        "note": "Overvalued relatif peer dengan PER 311x dan earnings growth negatif -3% — kombinasi paling rentan terhadap pelemahan retail sales/consumer spending karena permintaan EV sangat sensitif ke daya beli konsumen diskresioner."
       },
       {
         "ticker": "AMZN",
-        "note": "Undervalued relatif peer dengan earnings growth 242.3%, tapi eksposur ke retail sales AS (correlation #2) membuatnya perlu diwaspadai jika data konsumen (Walmart/Target minggu ini) mengonfirmasi pelemahan lanjutan."
-      },
-      {
-        "ticker": "PLTR",
-        "note": "Overvalued signifikan (PER 148.75, PBV 42.8) — valuasi ini paling rentan terhadap sentiment reversal jika ekspektasi rate cut tidak terealisasi, mengingat sebagian rally growth stock bertumpu pada yield turun (correlation #1 & #4)."
+        "note": "Undervalued relatif peer, tapi exposure retail core membuatnya jadi proxy langsung dari data retail sales -0.58% yang baru rilis — laporan Walmart/Target minggu ini akan jadi konfirmasi tambahan arah demand konsumen."
       },
       {
         "ticker": "GOOG",
-        "note": "Undervalued relatif peer dengan PER 17.2 terendah di grup big tech, earnings growth 294%, memberi margin aman lebih besar dibanding PLTR/TSLA jika sentimen risk-on berbalik."
+        "note": "Undervalued relatif peer dengan earnings growth 2.94x — salah satu yang paling diuntungkan dari penurunan yield karena valuasi masih murah dibanding Big Tech lain, namun perlu dicek apakah growth ini sustainable atau efek basis rendah."
       },
       {
-        "ticker": "TSM",
-        "note": "Fair value dengan revenue growth 36% dan FCF sangat besar, jadi proxy solid untuk demand chip AI global yang mendasari valuasi NVDA — relevan untuk melihat apakah momentum semiconductor masih intact di tengah ketidakpastian macro."
+        "ticker": "META",
+        "note": "Undervalued flag tapi earnings growth negatif -13.4% — kontradiksi ini perlu diwaspadai, valuation murah relatif peer belum tentu cerminkan fundamental yang membaik."
+      },
+      {
+        "ticker": "PLTR",
+        "note": "Overvalued ekstrem (PER 148.75x, PBV 42.8x) — paling rentan terhadap koreksi kalau sentimen risk-on dari yield turun berbalik arah, karena valuasinya sepenuhnya bergantung pada ekspektasi growth jangka panjang."
       }
     ],
-    "ai_tech_summary": "Berita AI/tech hari ini lebih ke sisi regulasi dan etika (Flock surveillance rules diperketat, debat 'censorship-industrial complex'), riset genetik/cloning, dan post-quantum cryptography — tidak ada katalis langsung ke earnings big tech AI hari ini. Tidak ada berita capex AI/chip baru yang menggerakkan valuasi NVDA/TSM secara spesifik.",
-    "global_summary": "Data global_economy gagal diambil (error koneksi), sehingga tidak ada insight geopolitik/makro global tambahan hari ini — ini gap informasi yang perlu dicatat eksplisit. Berita market AS didominasi topik personal finance (Social Security, Roth conversion, ACA subsidy) dan sorotan ke rilis earnings Walmart/Target sebagai proxy kesehatan konsumen AS, konsisten dengan data retail sales yang melemah.",
+    "ai_tech_summary": "Berita AI/tech hari ini didominasi topik non-market seperti cloning, surveillance policy (Flock), dan post-quantum cryptography — tidak ada katalis fundamental langsung untuk saham AI/semiconductor. Minim news flow soal capex AI atau chip demand yang biasanya jadi driver NVDA/TSM/ASML.",
+    "global_summary": "Data global economy tidak tersedia (error fetch), sehingga tidak bisa dikonfirmasi apakah ada katalis geopolitik/makro luar AS yang relevan hari ini. Fokus utama tetap pada data domestik AS: inflasi melandai, konsumsi melemah, dan pasar menunggu sinyal Fed berikutnya.",
     "risk_flags": [
-      "Data global_economy gagal diambil — analisis geopolitik/makro global hari ini tidak lengkap, jangan anggap 'tidak ada berita penting' sebagai kesimpulan valid.",
-      "Retail sales turun -0.58% + payrolls stagnan berisiko jadi awal tren pelemahan konsumen, perlu dikonfirmasi lewat earnings Walmart/Target minggu ini.",
-      "Valuasi TSLA (PER 311) dan PLTR (PER 148.75) sangat stretched — rentan koreksi tajam jika ekspektasi rate cut Fed tidak terealisasi atau earnings growth tidak mengejar valuasi.",
-      "Yield turun bisa punya dua interpretasi berlawanan: optimisme rate cut (risk-on) vs sinyal awal growth scare/recession fear — perlu dikonfirmasi arah lebih lanjut sebelum menyimpulkan dampak ke ekuitas."
+      "Data global economy gagal di-fetch — analisis korelasi lintas negara tidak lengkap, perlu re-check sumber berita.",
+      "Sinyal tenaga kerja ambigu (payrolls turun, unemployment turun) — jangan overinterpretasi sebagai easing dovish yang solid.",
+      "Bitcoin futures market disebut 'crowded club dengan exit kecil' — risiko likuidasi leverage tinggi bisa memicu volatilitas tajam di crypto dan spillover ke risk asset lain.",
+      "Retail sales -0.58% + laporan Walmart/Target minggu ini berpotensi jadi katalis negatif tambahan untuk consumer discretionary jika angka mengonfirmasi pelemahan.",
+      "PLTR dan TSLA overvalued ekstrem relatif peer — rentan koreksi tajam jika sentimen risk-on berbalik atau yield naik kembali."
     ]
   }
 }
