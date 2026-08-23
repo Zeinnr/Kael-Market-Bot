@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:17:29.864275Z",
+  "generated_at": "2026-08-23T06:20:20.389834Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,26 @@
     ],
     "markets": [
       {
+        "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+        "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+        "published": "Sat, 22 Aug 2026 20:45:00 GMT"
+      },
+      {
+        "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+        "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+        "published": "Sat, 22 Aug 2026 20:31:00 GMT"
+      },
+      {
+        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+        "published": "Sat, 22 Aug 2026 20:30:00 GMT"
+      },
+      {
+        "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+        "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+        "published": "Sat, 22 Aug 2026 20:15:00 GMT"
+      },
+      {
         "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
         "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
         "published": "Sat, 22 Aug 2026 17:00:00 GMT"
@@ -118,11 +138,6 @@
         "published": "Sat, 22 Aug 2026 16:00:00 GMT"
       },
       {
-        "title": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-        "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-        "published": "Sat, 22 Aug 2026 13:45:00 GMT"
-      },
-      {
         "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
         "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
         "published": "Sat, 22 Aug 2026 13:01:00 GMT"
@@ -131,21 +146,6 @@
         "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
         "link": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
         "published": "Sat, 22 Aug 2026 13:00:00 GMT"
-      },
-      {
-        "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
-        "link": "https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories",
-        "published": "Sat, 22 Aug 2026 12:30:00 GMT"
-      },
-      {
-        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
-        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-        "published": "Sat, 22 Aug 2026 12:00:00 GMT"
-      },
-      {
-        "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-        "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
-        "published": "Sat, 22 Aug 2026 12:00:00 GMT"
       }
     ],
     "crypto": [
@@ -346,7 +346,7 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1763.76,
-        "per": 59.97144,
+        "per": 59.526157,
         "pbv": 1475.4774,
         "roe": 0.53942,
         "roa": 0.16454001,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1156.55,
-        "per": 27.32223,
+        "per": 27.701797,
         "pbv": 3.1114812,
         "roe": 0.122779995,
         "roa": 0.03737,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 710.85,
+        "price": 713.26,
         "dividend_yield": 0.0044,
         "ytd_return": 12.25467,
         "expense_ratio": null,
-        "three_year_return": 0.264036
+        "three_year_return": 0.2587975
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 762.237,
+        "price": 765.5795,
         "dividend_yield": 0.0101,
         "ytd_return": 10.08633,
         "expense_ratio": null,
-        "three_year_return": 0.2194709
+        "three_year_return": 0.2184948
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 700.65,
+        "price": 703.73,
         "dividend_yield": 0.0107,
         "ytd_return": 10.11602,
         "expense_ratio": null,
-        "three_year_return": 0.22046009
+        "three_year_return": 0.2193455
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 376.43,
+        "price": 378.28,
         "dividend_yield": 0.0106,
         "ytd_return": 10.50409,
         "expense_ratio": null,
-        "three_year_return": 0.2176054
+        "three_year_return": 0.2170595
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.6664,
+        "price": 57.8941,
         "dividend_yield": 0.0797,
         "ytd_return": 4.52955,
         "expense_ratio": null,
-        "three_year_return": 0.1034298
+        "three_year_return": 0.104027994
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.6389,
+        "price": 59.8187,
         "dividend_yield": 0.1076,
         "ytd_return": 6.03709,
         "expense_ratio": null,
-        "three_year_return": 0.20673549
+        "three_year_return": 0.20225361
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 82.31971,
+        "price": 81.9837,
         "dividend_yield": 0.0475,
         "ytd_return": -3.61651,
         "expense_ratio": null,
-        "three_year_return": -0.0013041
+        "three_year_return": 0.0019944
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 97.50496,
+        "price": 97.33877,
         "dividend_yield": 0.0405,
         "ytd_return": -0.60636,
         "expense_ratio": null,
-        "three_year_return": 0.0452911
+        "three_year_return": 0.0465446
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund",
-        "price": 72.32,
+        "price": 72.2,
         "dividend_yield": 0.0403,
         "ytd_return": -0.56355,
         "expense_ratio": null,
-        "three_year_return": 0.045309
+        "three_year_return": 0.046455003
       }
     }
   }
