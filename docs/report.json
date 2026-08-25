@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:24:40.075685Z",
+  "generated_at": "2026-08-25T18:28:36.587744Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,26 @@
     ],
     "ai_tech": [
       {
+        "title": "Art and algorithms at Sotheby’s",
+        "link": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
+        "published": "Tue, 25 Aug 2026 18:00:00 +0000"
+      },
+      {
+        "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+        "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+        "published": "Tue, 25 Aug 2026 12:10:00 +0000"
+      },
+      {
+        "title": "Welcome to the spiderverse, a world measured through webs",
+        "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+        "published": "Tue, 25 Aug 2026 09:00:00 +0000"
+      },
+      {
+        "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+        "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+        "published": "Tue, 25 Aug 2026 09:00:00 +0000"
+      },
+      {
         "title": "How to encourage smarter AI use in the classroom",
         "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
         "published": "Mon, 24 Aug 2026 14:20:19 +0000"
@@ -84,110 +104,90 @@
         "title": "The Download: threats from space mirrors and credit for AI drugs",
         "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
         "published": "Fri, 21 Aug 2026 12:10:00 +0000"
-      },
-      {
-        "title": "Mother tongue",
-        "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-        "published": "Fri, 21 Aug 2026 09:00:00 +0000"
-      },
-      {
-        "title": "When AI designs a drug, who gets the credit?",
-        "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-        "published": "Fri, 21 Aug 2026 09:00:00 +0000"
-      },
-      {
-        "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-        "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-        "published": "Fri, 21 Aug 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Debates over AI consciousness are a trap",
-        "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-        "published": "Thu, 20 Aug 2026 15:42:39 +0000"
       }
     ],
     "markets": [
       {
-        "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-        "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 00:15:00 GMT"
+        "title": "Here’s where it takes new homeowners almost 40 to 50 years to break even on buying a house",
+        "link": "https://www.marketwatch.com/story/heres-where-it-takes-new-homeowners-almost-40-to-50-years-to-break-even-on-buying-a-house-c503cb50?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 17:50:00 GMT"
       },
       {
-        "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-        "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 00:00:00 GMT"
+        "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
+        "link": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 17:32:00 GMT"
       },
       {
-        "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-        "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 23:45:00 GMT"
+        "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+        "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 17:30:00 GMT"
       },
       {
-        "title": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
-        "link": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 21:55:00 GMT"
+        "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+        "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 16:59:00 GMT"
       },
       {
-        "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
-        "link": "https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 21:26:00 GMT"
+        "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+        "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 16:32:00 GMT"
       },
       {
-        "title": "Here’s how overvalued the stock market really is",
-        "link": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 20:54:00 GMT"
+        "title": "Are older Americans spoiling the economy for everyone else?",
+        "link": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 16:31:00 GMT"
       },
       {
-        "title": "Bitcoin has beaten stocks and gold over six months. Now it’s closing in on $80,000.",
-        "link": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 20:53:00 GMT"
+        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 16:30:00 GMT"
       },
       {
-        "title": "It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong",
-        "link": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 20:50:00 GMT"
+        "title": "5 cheap U.S. cities to retire in — if you can deal with this one thing",
+        "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 16:09:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
-        "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
-        "published": "Tue, 25 Aug 2026 05:51:52 +0000"
+        "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+        "link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
+        "published": "Tue, 25 Aug 2026 16:22:47 +0000"
       },
       {
-        "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
-        "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
-        "published": "Tue, 25 Aug 2026 05:25:11 +0000"
+        "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
+        "link": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
+        "published": "Tue, 25 Aug 2026 14:50:22 +0000"
       },
       {
-        "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
-        "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
-        "published": "Tue, 25 Aug 2026 00:55:32 +0000"
+        "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
+        "link": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
+        "published": "Tue, 25 Aug 2026 13:48:50 +0000"
       },
       {
-        "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
-        "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
-        "published": "Mon, 24 Aug 2026 19:36:36 +0000"
+        "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+        "link": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
+        "published": "Tue, 25 Aug 2026 13:00:00 +0000"
       },
       {
-        "title": "Crypto political group details list of U.S. congressional allies its backing this year",
-        "link": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
-        "published": "Mon, 24 Aug 2026 17:30:10 +0000"
+        "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
+        "link": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
+        "published": "Tue, 25 Aug 2026 13:00:00 +0000"
       },
       {
-        "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-        "link": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
-        "published": "Mon, 24 Aug 2026 17:12:35 +0000"
+        "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+        "link": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+        "published": "Tue, 25 Aug 2026 12:03:55 +0000"
       },
       {
-        "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-        "link": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
-        "published": "Mon, 24 Aug 2026 12:59:55 +0000"
+        "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
+        "link": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
+        "published": "Tue, 25 Aug 2026 11:46:18 +0000"
       },
       {
-        "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-        "link": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
-        "published": "Mon, 24 Aug 2026 12:52:30 +0000"
+        "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
+        "link": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
+        "published": "Tue, 25 Aug 2026 11:15:02 +0000"
       }
     ]
   },
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 208.48,
-        "per": 32.883278,
-        "pbv": 25.833954,
+        "price": 212.19,
+        "per": 32.493656,
+        "pbv": 26.292887,
         "roe": 1.14288,
         "roa": 0.52727,
         "der": 6.555,
@@ -205,14 +205,14 @@
         "fcf": 46335873024,
         "revenue_growth": 0.852,
         "earnings_growth": 2.145,
-        "dividend_yield": 0.0048,
+        "dividend_yield": 0.00471,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 142.45,
-        "per": 25.123455,
-        "pbv": 10.92408,
+        "price": 144.52,
+        "per": 24.789022,
+        "pbv": 11.082823,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -220,14 +220,14 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.01404,
+        "dividend_yield": 0.01384,
         "valuation_flag": "fair relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 310.34,
-        "per": 35.467426,
-        "pbv": 42.16576,
+        "price": 309.59,
+        "per": 35.504013,
+        "pbv": 42.064537,
         "roe": 1.4875101,
         "roa": 0.27082002,
         "der": 78.445,
@@ -235,14 +235,14 @@
         "fcf": 107721875456,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
-        "dividend_yield": 0.00348,
+        "dividend_yield": 0.00349,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 348.95,
-        "per": 332.33337,
-        "pbv": 15.864969,
+        "price": 351.87,
+        "per": 325.80554,
+        "pbv": 15.9977255,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 262.07,
-        "per": 20.799206,
-        "pbv": 5.1229577,
+        "price": 260.028,
+        "per": 20.936234,
+        "pbv": 5.0830407,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 487.31,
-        "per": 26.952986,
-        "pbv": 8.181147,
+        "price": 489.96,
+        "per": 27.326267,
+        "pbv": 8.225636,
         "roe": 0.34039003,
         "roa": 0.14088,
         "der": 29.118,
@@ -280,14 +280,14 @@
         "fcf": 16545500160,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
-        "dividend_yield": 0.00747,
+        "dividend_yield": 0.00743,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 344.59,
-        "per": 17.152315,
-        "pbv": 6.770473,
+        "price": 342.56,
+        "per": 17.196787,
+        "pbv": 6.730588,
         "roe": 0.48676,
         "roa": 0.12958999,
         "der": 18.859,
@@ -295,14 +295,14 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.00255,
+        "dividend_yield": 0.00257,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 559.02,
-        "per": 20.704445,
-        "pbv": 5.4527903,
+        "price": 564.51,
+        "per": 21.262148,
+        "pbv": 5.5063405,
         "roe": 0.29848,
         "roa": 0.14591,
         "der": 42.997,
@@ -310,14 +310,14 @@
         "fcf": 21553625088,
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
-        "dividend_yield": 0.00376,
+        "dividend_yield": 0.00372,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 175.89,
-        "per": 154.28947,
-        "pbv": 43.237465,
+        "price": 173.205,
+        "per": 146.7839,
+        "pbv": 42.577435,
         "roe": 0.38097,
         "roa": 0.17292999,
         "der": 2.139,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 87.26,
+        "price": 87.75,
         "per": null,
-        "pbv": 5.0267878,
+        "pbv": 5.055015,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1740.13,
-        "per": 59.53233,
-        "pbv": 1455.7097,
+        "price": 1744.97,
+        "per": 58.634743,
+        "pbv": 1459.7585,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -355,14 +355,14 @@
         "fcf": 8437675008,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
-        "dividend_yield": 0.00522,
+        "dividend_yield": 0.0052,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 410.12,
-        "per": 31.259146,
-        "pbv": 84.42054,
+        "price": 415.475,
+        "per": 30.982477,
+        "pbv": 85.522835,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -370,16 +370,16 @@
         "fcf": 730826014720,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.01058,
+        "dividend_yield": 0.01045,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1172.61,
-        "per": 27.701628,
-        "pbv": 3.1546874,
+        "price": 1177.55,
+        "per": 28.211548,
+        "pbv": 3.1679778,
         "roe": 0.122779995,
         "roa": 0.03737,
         "der": 23.192,
@@ -387,14 +387,14 @@
         "fcf": 7578124800,
         "revenue_growth": 0.306,
         "earnings_growth": 0.196,
-        "dividend_yield": 0.01955,
+        "dividend_yield": 0.01946,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 62.33,
-        "per": 14.230594,
-        "pbv": 1.584312,
+        "price": 62.455,
+        "per": 14.423788,
+        "pbv": 1.5874892,
         "roe": 0.111990005,
         "roa": 0.00969,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.168,
         "earnings_growth": 0.341,
-        "dividend_yield": 0.02054,
+        "dividend_yield": 0.02049,
         "valuation_flag": "data tidak cukup"
       }
     },
@@ -520,54 +520,54 @@
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "per": 20.799206
+        "per": 20.936234
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "per": 17.152315
+        "per": 17.196787
       },
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "per": 20.704445
+        "per": 21.262148
       }
     ],
     "most_overvalued": [
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "per": 332.33337
+        "per": 325.80554
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "per": 154.28947
+        "per": 146.7839
       }
     ],
     "equity_ranking": [
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.121,
+        "composite_score": 1.12,
         "components_used": 9
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.556,
+        "composite_score": 0.562,
         "components_used": 8
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": 0.332,
+        "composite_score": 0.333,
         "components_used": 9
       },
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.257,
+        "composite_score": 0.256,
         "components_used": 9
       },
       {
@@ -579,13 +579,13 @@
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "composite_score": 0.036,
+        "composite_score": 0.035,
         "components_used": 8
       },
       {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "composite_score": 0.004,
+        "composite_score": 0.003,
         "components_used": 9
       },
       {
@@ -597,7 +597,7 @@
       {
         "ticker": "BAC",
         "name": "Bank of America Corporation",
-        "composite_score": -0.051,
+        "composite_score": -0.049,
         "components_used": 8
       },
       {
@@ -609,7 +609,7 @@
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.407,
+        "composite_score": -0.409,
         "components_used": 9
       },
       {
@@ -627,7 +627,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -0.86,
+        "composite_score": -0.862,
         "components_used": 8
       }
     ],
@@ -671,6 +671,84 @@
     ]
   },
   "analysis": {
-    "error": "Request gagal: The read operation timed out"
+    "headline": "10Y yield melompat ke 4.74% di tengah PCE yang justru mendingin — disonansi ini menghantam obligasi jangka panjang dan saham growth berduration tinggi seperti TSLA dan PLTR, sementara data ritel yang lemah mulai terlihat nyata di saham konsumen seperti Dick's Sporting Goods.",
+    "economic_summary": "PCE inti melambat -0.11% (indikator favorit Fed mendingin), tapi 10Y Treasury yield justru naik 1.07% ke 4.74% — sinyal bahwa pasar bond tidak semata bereaksi ke inflasi tapi mungkin ke term premium/supply. Retail sales turun -0.58% dan payrolls stagnan -0.01%, meski unemployment rate turun ke 4.1%. Fed Funds tetap flat di 3.63%. GDP masih tumbuh solid +1.91% QoQ.",
+    "correlation_analysis": [
+      {
+        "trigger": "10Y yield naik 4.69%->4.74% meski PCE mendingin",
+        "mechanism": "Discount rate untuk future cash flow naik, menekan present value saham berduration tinggi (PER ekstrem) dan bond jangka panjang secara langsung lewat price-yield inverse relationship",
+        "affected_assets": [
+          "TLT",
+          "AGG",
+          "BND",
+          "TSLA",
+          "PLTR"
+        ],
+        "confidence": "high"
+      },
+      {
+        "trigger": "Retail sales -0.58% dan payrolls flat, dikonfirmasi oleh crash Dick's Sporting Goods karena sepatu retro tidak terjual tanpa diskon dalam",
+        "mechanism": "Pelemahan belanja rumah tangga menekan margin ritel discretionary lewat butuh diskon lebih dalam, efek domino ke supply chain footwear/apparel",
+        "affected_assets": [
+          "AMZN",
+          "VTI",
+          "SPY"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "Berita AI capex terus mengalir (robot carnival Shanghai, adopsi AI sekolah, tokenized AI portfolio dari Bitwise)",
+        "mechanism": "Siklus capex hyperscaler untuk infrastruktur AI berjalan independen dari pelemahan sisi konsumen, menopang demand chip dan foundry",
+        "affected_assets": [
+          "NVDA",
+          "TSM",
+          "ASML"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "trigger": "Bitcoin mendekati level kunci dan token ZRO surge di tengah yield naik",
+        "mechanism": "Aliran likuiditas spekulatif ke crypto/tokenisasi (narasi AI-crypto crossover) tampak decoupled dari kenaikan yield yang biasanya menekan aset risiko tinggi",
+        "affected_assets": [
+          "Bitcoin",
+          "ZRO"
+        ],
+        "confidence": "low"
+      }
+    ],
+    "stock_commentary": [
+      {
+        "ticker": "TSLA",
+        "note": "PER 325 dan earnings_growth negatif -0.03 membuatnya paling rentan terhadap kenaikan 10Y yield — flag overvalued relatif peer semakin sulit dijustifikasi saat discount rate naik."
+      },
+      {
+        "ticker": "PLTR",
+        "note": "PER 146, overvalued relatif peer, sama seperti TSLA berduration tinggi sehingga sensitif ke pergerakan yield 4.74% — earnings_growth tinggi 2.15x belum cukup redam risiko valuasi."
+      },
+      {
+        "ticker": "NVDA",
+        "note": "Revenue growth 85% dan fcf besar mendukung tesis capex AI yang masih berjalan di tengah berita robot carnival Shanghai, meski valuation_flag hanya 'fair' bukan diskon."
+      },
+      {
+        "ticker": "TSM",
+        "note": "Fcf raksasa 730B dan revenue growth 36% menegaskan foundry masih jadi bottleneck permintaan chip AI, valuation_flag fair — exposure langsung ke narasi capex semikonduktor global."
+      },
+      {
+        "ticker": "AMZN",
+        "note": "Undervalued relatif peer dengan earnings_growth 2.42x, tapi FCF-nya justru kecil (3.2B) dibanding skala revenue — perlu diwaspadai apakah retail sales -0.58% mulai menggerus margin e-commerce/logistik."
+      },
+      {
+        "ticker": "META",
+        "note": "Undervalued relatif peer namun earnings_growth negatif -13.4%, kombinasi ini ambigu — perlu data tambahan untuk memastikan apakah ini repricing wajar atau sinyal perlambatan monetisasi iklan."
+      }
+    ],
+    "ai_tech_summary": "Berita AI hari ini lebih ke sisi adopsi dan showcase (robot carnival Shanghai, AI di kelas sekolah, seni algoritmik di Sotheby's) ketimbang breakthrough fundamental — tidak ada katalis baru yang mengubah tesis capex chip, tapi juga tidak ada tanda perlambatan demand.",
+    "global_summary": "Data ekonomi global tidak tersedia (error fetch), sehingga analisis makro global hari ini terbatas pada data domestik AS. Perlu diwaspadai gap informasi ini saat menilai risiko eksternal seperti China atau Eropa.",
+    "risk_flags": [
+      "Disonansi PCE turun vs 10Y yield naik — bisa jadi sinyal term premium/supply obligasi meningkat, bukan ekspektasi inflasi; pantau lelang Treasury minggu ini",
+      "Saham dengan PER ekstrem (TSLA 325x, PLTR 146x) paling rentan terhadap tekanan valuasi lanjutan jika yield terus naik",
+      "Retail sales turun + payrolls stagnan bisa menyebar dari sektor sepatu/apparel (Dick's) ke discretionary lain — waspadai revisi data konsumsi",
+      "Data global economy tidak tersedia — keputusan berbasis data AS saja berisiko miss konteks eksternal (China, Eropa, geopolitik)"
+    ]
   }
 }
