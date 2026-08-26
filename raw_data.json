@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:25:42.836623Z",
+  "generated_at": "2026-08-26T19:41:07.087647Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -31,10 +31,10 @@
     },
     "PCEPI": {
       "label": "PCE Price Index (Indikator favorit Fed)",
-      "date": "2026-06-01",
-      "value": 131.392,
-      "previous_value": 131.535,
-      "change_pct": -0.11
+      "date": "2026-07-01",
+      "value": 131.659,
+      "previous_value": 131.454,
+      "change_pct": 0.16
     },
     "RSAFS": {
       "label": "Retail Sales",
@@ -53,9 +53,9 @@
     "GDP": {
       "label": "GDP (Kuartalan)",
       "date": "2026-04-01",
-      "value": 32475.21,
+      "value": 32486.066,
       "previous_value": 31865.721,
-      "change_pct": 1.91
+      "change_pct": 1.95
     }
   },
   "news": {
@@ -65,6 +65,31 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "The inside story on why OpenAI agents hacked Hugging Face",
+        "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+        "published": "Wed, 26 Aug 2026 19:00:00 +0000"
+      },
+      {
+        "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+        "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+        "published": "Wed, 26 Aug 2026 12:10:00 +0000"
+      },
+      {
+        "title": "Raised on AI",
+        "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+        "published": "Wed, 26 Aug 2026 09:00:00 +0000"
+      },
+      {
+        "title": "AI models flub these intelligence tests. Can you fare any better?",
+        "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+        "published": "Wed, 26 Aug 2026 09:00:00 +0000"
+      },
+      {
+        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+        "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+        "published": "Wed, 26 Aug 2026 07:01:00 +0000"
+      },
       {
         "title": "Addressing a sticking point in sustainable adhesives",
         "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
@@ -79,115 +104,90 @@
         "title": "Launching youth entrepreneurship",
         "link": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
         "published": "Tue, 25 Aug 2026 21:00:00 +0000"
-      },
-      {
-        "title": "A new stamp on cyberfraud prevention",
-        "link": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-        "published": "Tue, 25 Aug 2026 21:00:00 +0000"
-      },
-      {
-        "title": "AgeLab research inspires an A I startup",
-        "link": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-        "published": "Tue, 25 Aug 2026 21:00:00 +0000"
-      },
-      {
-        "title": "Amping up T cells to target cancer",
-        "link": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
-        "published": "Tue, 25 Aug 2026 21:00:00 +0000"
-      },
-      {
-        "title": "Taking your temperature from the inside",
-        "link": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
-        "published": "Tue, 25 Aug 2026 21:00:00 +0000"
-      },
-      {
-        "title": "Seeing through murky waters",
-        "link": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
-        "published": "Tue, 25 Aug 2026 21:00:00 +0000"
       }
     ],
     "markets": [
       {
+        "title": "I just had my first baby and don’t want to go back to work. Is quitting for a year a bad idea?",
+        "link": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
+        "published": "Wed, 26 Aug 2026 19:33:00 GMT"
+      },
+      {
         "title": "Are older Americans spoiling the economy for everyone else?",
         "link": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
-        "published": "Wed, 26 Aug 2026 01:41:00 GMT"
-      },
-      {
-        "title": "5 cheap U.S. cities to retire in — if you can deal with this one thing",
-        "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
-        "published": "Wed, 26 Aug 2026 01:35:00 GMT"
-      },
-      {
-        "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-        "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-        "published": "Wed, 26 Aug 2026 00:30:00 GMT"
+        "published": "Wed, 26 Aug 2026 19:06:00 GMT"
       },
       {
         "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
         "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-        "published": "Wed, 26 Aug 2026 00:01:00 GMT"
+        "published": "Wed, 26 Aug 2026 18:45:00 GMT"
       },
       {
-        "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-        "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 23:01:00 GMT"
+        "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+        "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+        "published": "Wed, 26 Aug 2026 18:26:00 GMT"
       },
       {
-        "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
-        "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 22:57:00 GMT"
+        "title": "5 affordable cities to retire in the U.S. right now",
+        "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
+        "published": "Wed, 26 Aug 2026 18:10:00 GMT"
       },
       {
-        "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-        "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 22:45:00 GMT"
+        "title": "I need to get out of my job, but I’ve signed a noncompete. Can I still leave for a competitor?",
+        "link": "https://www.marketwatch.com/story/i-need-to-get-out-of-my-job-can-i-leave-for-a-competitor-if-ive-signed-a-non-compete-33d3164b?mod=mw_rss_topstories",
+        "published": "Wed, 26 Aug 2026 17:44:00 GMT"
       },
       {
-        "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
-        "link": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 21:01:00 GMT"
+        "title": "Two-thirds of parents are failing at this vital safety measure for their children",
+        "link": "https://www.marketwatch.com/story/two-thirds-of-parents-dont-have-this-vital-document-they-need-in-case-of-emergency-7c54efb3?mod=mw_rss_topstories",
+        "published": "Wed, 26 Aug 2026 17:37:00 GMT"
+      },
+      {
+        "title": "The biggest risk to retirement plans may no longer be a stock market crash or inflation",
+        "link": "https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
+        "published": "Wed, 26 Aug 2026 17:32:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
-        "link": "https://www.coindesk.com/markets/2026/08/26/E",
-        "published": "Wed, 26 Aug 2026 05:52:53 +0000"
+        "title": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+        "link": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+        "published": "Wed, 26 Aug 2026 15:15:13 +0000"
       },
       {
-        "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
-        "link": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
-        "published": "Wed, 26 Aug 2026 05:16:32 +0000"
+        "title": "Crypto Long & Short: Tokenized equities: the model underneath the trade",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/08/26/crypto-long-and-short-tokenized-equities-the-model-underneath-the-trade",
+        "published": "Wed, 26 Aug 2026 15:00:09 +0000"
       },
       {
-        "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
-        "link": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
-        "published": "Wed, 26 Aug 2026 04:51:49 +0000"
+        "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
+        "link": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
+        "published": "Wed, 26 Aug 2026 13:30:00 +0000"
       },
       {
-        "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
-        "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
-        "published": "Wed, 26 Aug 2026 04:13:10 +0000"
+        "title": "The evidence doesn't support the banks' case against stablecoin rewards",
+        "link": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
+        "published": "Wed, 26 Aug 2026 13:00:00 +0000"
       },
       {
-        "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
-        "link": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
-        "published": "Tue, 25 Aug 2026 21:56:57 +0000"
+        "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+        "link": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
+        "published": "Wed, 26 Aug 2026 11:46:19 +0000"
       },
       {
-        "title": "Zerohash back for second effort at OCC trust bank charter",
-        "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
-        "published": "Tue, 25 Aug 2026 21:38:28 +0000"
+        "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
+        "link": "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
+        "published": "Wed, 26 Aug 2026 11:14:16 +0000"
       },
       {
-        "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
-        "link": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
-        "published": "Tue, 25 Aug 2026 19:40:00 +0000"
+        "title": "The 3 catalysts that could define bitcoin's next move",
+        "link": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
+        "published": "Wed, 26 Aug 2026 11:02:33 +0000"
       },
       {
-        "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
-        "link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
-        "published": "Tue, 25 Aug 2026 16:22:47 +0000"
+        "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
+        "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+        "published": "Wed, 26 Aug 2026 10:45:29 +0000"
       }
     ]
   },
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 213.05,
-        "per": 31.94153,
-        "pbv": 26.40025,
+        "price": 210.1517,
+        "per": 32.13329,
+        "pbv": 26.041103,
         "roe": 1.14288,
         "roa": 0.52727,
         "der": 6.555,
@@ -205,14 +205,14 @@
         "fcf": 46335873024,
         "revenue_growth": 0.852,
         "earnings_growth": 2.145,
-        "dividend_yield": 0.00469,
+        "dividend_yield": 0.00476,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 144.76,
-        "per": 24.452702,
-        "pbv": 11.101227,
+        "price": 148.59,
+        "per": 25.487135,
+        "pbv": 11.394938,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -220,14 +220,14 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.01382,
+        "dividend_yield": 0.01346,
         "valuation_flag": "fair relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 309.9,
-        "per": 35.579792,
-        "pbv": 42.105976,
+        "price": 315.37,
+        "per": 36.207806,
+        "pbv": 42.849182,
         "roe": 1.4875101,
         "roa": 0.27082002,
         "der": 78.445,
@@ -235,14 +235,14 @@
         "fcf": 107721875456,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
-        "dividend_yield": 0.00348,
+        "dividend_yield": 0.00342,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 350.25,
-        "per": 321.33026,
-        "pbv": 15.924073,
+        "price": 345.442,
+        "per": 316.91925,
+        "pbv": 15.705478,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 261.06,
-        "per": 21.019323,
-        "pbv": 5.103214,
+        "price": 260.17,
+        "per": 20.930813,
+        "pbv": 5.0858164,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 491.71,
-        "per": 27.181314,
-        "pbv": 8.255015,
+        "price": 496.0,
+        "per": 27.63231,
+        "pbv": 8.327038,
         "roe": 0.34039003,
         "roa": 0.14088,
         "der": 29.118,
@@ -280,14 +280,14 @@
         "fcf": 16545500160,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
-        "dividend_yield": 0.0074,
+        "dividend_yield": 0.00734,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 343.34,
-        "per": 17.296724,
-        "pbv": 6.745913,
+        "price": 339.195,
+        "per": 17.036415,
+        "pbv": 6.6644726,
         "roe": 0.48676,
         "roa": 0.12958999,
         "der": 18.859,
@@ -295,14 +295,14 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.00256,
+        "dividend_yield": 0.00259,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 570.05,
-        "per": 21.05059,
-        "pbv": 5.5603786,
+        "price": 576.25,
+        "per": 21.69616,
+        "pbv": 5.620855,
         "roe": 0.29848,
         "roa": 0.14591,
         "der": 42.997,
@@ -310,14 +310,14 @@
         "fcf": 21553625088,
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
-        "dividend_yield": 0.00368,
+        "dividend_yield": 0.00364,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 172.73,
-        "per": 146.38136,
-        "pbv": 42.46067,
+        "price": 177.87,
+        "per": 152.02565,
+        "pbv": 43.72419,
         "roe": 0.38097,
         "roa": 0.17292999,
         "der": 2.139,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 87.48,
+        "price": 87.6282,
         "per": null,
-        "pbv": 5.039461,
+        "pbv": 5.047998,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1744.16,
-        "per": 58.469997,
-        "pbv": 1459.081,
+        "price": 1743.7,
+        "per": 58.809444,
+        "pbv": 1458.6962,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -360,9 +360,9 @@
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 417.41,
-        "per": 30.579489,
-        "pbv": 87.05074,
+        "price": 418.01,
+        "per": 31.101936,
+        "pbv": 86.04465,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -370,16 +370,16 @@
         "fcf": 730826014720,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.0104,
+        "dividend_yield": 0.01038,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1176.64,
-        "per": 28.088804,
-        "pbv": 3.1655295,
+        "price": 1179.215,
+        "per": 28.231146,
+        "pbv": 3.172457,
         "roe": 0.122779995,
         "roa": 0.03737,
         "der": 23.192,
@@ -387,14 +387,14 @@
         "fcf": 7578124800,
         "revenue_growth": 0.306,
         "earnings_growth": 0.196,
-        "dividend_yield": 0.01948,
+        "dividend_yield": 0.01944,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 62.43,
-        "per": 14.384792,
-        "pbv": 1.5868537,
+        "price": 62.465,
+        "per": 14.426097,
+        "pbv": 1.5877434,
         "roe": 0.111990005,
         "roa": 0.00969,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.168,
         "earnings_growth": 0.341,
-        "dividend_yield": 0.0205,
+        "dividend_yield": 0.02049,
         "valuation_flag": "data tidak cukup"
       }
     },
