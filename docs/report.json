@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T11:52:23.303535Z",
+  "generated_at": "2026-08-29T20:14:15.739183Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,47 +108,67 @@
     ],
     "markets": [
       {
-        "title": "Corporate earnings have been growing at a blistering pace. Here’s why that’s not likely to last.",
-        "link": "https://www.marketwatch.com/story/corporate-earnings-have-been-growing-at-a-blistering-pace-heres-why-thats-not-likely-to-last-28810eac?mod=mw_rss_topstories",
-        "published": "Sat, 29 Aug 2026 11:30:00 GMT"
-      },
-      {
-        "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
-        "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
-        "published": "Sat, 29 Aug 2026 11:16:00 GMT"
-      },
-      {
-        "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-        "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-        "published": "Sat, 29 Aug 2026 11:00:00 GMT"
-      },
-      {
-        "title": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on.",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-keeps-climbing-on-days-when-stocks-broadly-struggle-heres-whats-going-on-60ad5c72?mod=mw_rss_topstories",
-        "published": "Sat, 29 Aug 2026 11:00:00 GMT"
-      },
-      {
-        "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
-        "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-        "published": "Sat, 29 Aug 2026 11:00:00 GMT"
-      },
-      {
-        "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-        "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-        "published": "Sat, 29 Aug 2026 10:16:00 GMT"
+        "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+        "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+        "published": "Sat, 29 Aug 2026 16:30:00 GMT"
       },
       {
         "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
         "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-        "published": "Fri, 28 Aug 2026 23:00:00 GMT"
+        "published": "Sat, 29 Aug 2026 16:00:00 GMT"
       },
       {
-        "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
-        "link": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
-        "published": "Fri, 28 Aug 2026 21:34:00 GMT"
+        "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+        "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+        "published": "Sat, 29 Aug 2026 15:31:00 GMT"
+      },
+      {
+        "title": "Why would someone lock up money by rolling it into a 401(k)?",
+        "link": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
+        "published": "Sat, 29 Aug 2026 13:00:00 GMT"
+      },
+      {
+        "title": "5 affordable cities to retire in the U.S. right now",
+        "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
+        "published": "Sat, 29 Aug 2026 12:50:00 GMT"
+      },
+      {
+        "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
+        "link": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
+        "published": "Sat, 29 Aug 2026 12:30:00 GMT"
+      },
+      {
+        "title": "Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.",
+        "link": "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories",
+        "published": "Sat, 29 Aug 2026 12:00:00 GMT"
+      },
+      {
+        "title": "I’m managing a pathological liar who never does her work. How do I deal with her?",
+        "link": "https://www.marketwatch.com/story/im-managing-a-pathological-liar-who-never-does-her-work-how-do-i-deal-with-her-e3c06081?mod=mw_rss_topstories",
+        "published": "Sat, 29 Aug 2026 12:00:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+        "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+        "published": "Sat, 29 Aug 2026 15:00:00 +0000"
+      },
+      {
+        "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+        "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+        "published": "Sat, 29 Aug 2026 15:00:00 +0000"
+      },
+      {
+        "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+        "link": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+        "published": "Sat, 29 Aug 2026 15:00:00 +0000"
+      },
+      {
+        "title": "Tokenized assets are busier than the data shows",
+        "link": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+        "published": "Sat, 29 Aug 2026 13:00:00 +0000"
+      },
       {
         "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
         "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
@@ -168,26 +188,6 @@
         "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
         "link": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
         "published": "Fri, 28 Aug 2026 16:12:45 +0000"
-      },
-      {
-        "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
-        "link": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
-        "published": "Fri, 28 Aug 2026 14:37:14 +0000"
-      },
-      {
-        "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-        "link": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
-        "published": "Fri, 28 Aug 2026 14:05:12 +0000"
-      },
-      {
-        "title": "The Clarity Act slipped to September. Banks are building anyway",
-        "link": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
-        "published": "Fri, 28 Aug 2026 13:00:00 +0000"
-      },
-      {
-        "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
-        "link": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
-        "published": "Fri, 28 Aug 2026 12:30:57 +0000"
       }
     ]
   },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 217.55,
-        "per": 27.503162,
+        "per": 28.81457,
         "pbv": 26.95787,
         "roe": 1.17211,
         "roa": 0.53572,
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 319.7,
-        "per": 36.704937,
+        "per": 36.083523,
         "pbv": 43.4375,
         "roe": 1.4875101,
         "roa": 0.27082002,
@@ -241,7 +241,7 @@
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 348.75,
-        "per": 329.00946,
+        "per": 332.14288,
         "pbv": 15.855876,
         "roe": 0.046669997,
         "roa": 0.019299999,
@@ -256,7 +256,7 @@
       "AMZN": {
         "name": "Amazon.com, Inc.",
         "price": 266.43,
-        "per": 21.434431,
+        "per": 20.621517,
         "pbv": 5.2081866,
         "roe": 0.30558002,
         "roa": 0.06589,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 513.53,
-        "per": 28.640827,
+        "per": 28.169502,
         "pbv": 8.621339,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 342.88,
-        "per": 17.212852,
+        "per": 16.949085,
         "pbv": 6.7368755,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -346,8 +346,8 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1696.16,
-        "per": 57.16751,
-        "pbv": 1422.9442,
+        "per": 58.488277,
+        "pbv": 1423.2374,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -361,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 417.52,
-        "per": 31.111773,
+        "per": 31.847445,
         "pbv": 85.94378,
         "roe": 0.39969003,
         "roa": 0.19002001,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1164.48,
-        "per": 27.93858,
+        "per": 28.012508,
         "pbv": 3.1328151,
         "roe": 0.122779995,
         "roa": 0.03737,
@@ -520,12 +520,12 @@
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "per": 21.434431
+        "per": 20.621517
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "per": 17.212852
+        "per": 16.949085
       },
       {
         "ticker": "META",
@@ -537,7 +537,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "per": 329.00946
+        "per": 332.14288
       },
       {
         "ticker": "PLTR",
@@ -549,13 +549,13 @@
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.09,
+        "composite_score": 1.088,
         "components_used": 9
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.514,
+        "composite_score": 0.516,
         "components_used": 8
       },
       {
@@ -567,19 +567,19 @@
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.254,
+        "composite_score": 0.253,
         "components_used": 9
       },
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.173,
+        "composite_score": 0.174,
         "components_used": 9
       },
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "composite_score": 0.057,
+        "composite_score": 0.058,
         "components_used": 8
       },
       {
@@ -615,7 +615,7 @@
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.476,
+        "composite_score": -0.477,
         "components_used": 9
       },
       {
@@ -627,7 +627,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -0.853,
+        "composite_score": -0.854,
         "components_used": 8
       }
     ],
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeWzWhBRR9wRc92Ymfocs\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeXenQoZ5RY5wWuHXQyJ6\"}"
   }
 }
