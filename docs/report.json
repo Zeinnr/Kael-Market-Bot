@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:14:15.739183Z",
+  "generated_at": "2026-08-30T10:49:39.491252Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -150,12 +150,17 @@
     ],
     "crypto": [
       {
+        "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+        "link": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+        "published": "Sat, 29 Aug 2026 23:49:17 +0000"
+      },
+      {
         "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
         "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
         "published": "Sat, 29 Aug 2026 15:00:00 +0000"
       },
       {
-        "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+        "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
         "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
         "published": "Sat, 29 Aug 2026 15:00:00 +0000"
       },
@@ -170,7 +175,7 @@
         "published": "Sat, 29 Aug 2026 13:00:00 +0000"
       },
       {
-        "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+        "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
         "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
         "published": "Sat, 29 Aug 2026 04:30:00 +0000"
       },
@@ -183,11 +188,6 @@
         "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
         "link": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
         "published": "Fri, 28 Aug 2026 21:28:12 +0000"
-      },
-      {
-        "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
-        "link": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
-        "published": "Fri, 28 Aug 2026 16:12:45 +0000"
       }
     ]
   },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 217.55,
-        "per": 28.81457,
+        "per": 27.468435,
         "pbv": 26.95787,
         "roe": 1.17211,
         "roa": 0.53572,
@@ -211,7 +211,7 @@
       "ORCL": {
         "name": "Oracle Corporation",
         "price": 150.85,
-        "per": 25.874786,
+        "per": 25.919245,
         "pbv": 11.568252,
         "roe": 0.53376,
         "roa": 0.06505,
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 319.7,
-        "per": 36.083523,
+        "per": 36.62085,
         "pbv": 43.4375,
         "roe": 1.4875101,
         "roa": 0.27082002,
@@ -241,7 +241,7 @@
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 348.75,
-        "per": 332.14288,
+        "per": 322.91666,
         "pbv": 15.855876,
         "roe": 0.046669997,
         "roa": 0.019299999,
@@ -256,7 +256,7 @@
       "AMZN": {
         "name": "Amazon.com, Inc.",
         "price": 266.43,
-        "per": 20.621517,
+        "per": 21.417202,
         "pbv": 5.2081866,
         "roe": 0.30558002,
         "roa": 0.06589,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 513.53,
-        "per": 28.169502,
+        "per": 28.577076,
         "pbv": 8.621339,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 342.88,
-        "per": 16.949085,
+        "per": 17.212852,
         "pbv": 6.7368755,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 578.02,
-        "per": 21.762802,
+        "per": 21.78741,
         "pbv": 5.6381197,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -409,15 +409,15 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 711.19,
+        "price": 721.34,
         "dividend_yield": 0.0044,
         "ytd_return": 12.25467,
         "expense_ratio": null,
-        "three_year_return": 0.2574407
+        "three_year_return": 0.26315358
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 765.76764,
+        "price": 771.2732,
         "dividend_yield": 0.0101,
         "ytd_return": 10.08633,
         "expense_ratio": null,
@@ -425,41 +425,41 @@
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 703.91,
+        "price": 708.98,
         "dividend_yield": 0.0107,
         "ytd_return": 10.11602,
         "expense_ratio": null,
-        "three_year_return": 0.2191656
+        "three_year_return": 0.2217858
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 378.16,
+        "price": 380.7,
         "dividend_yield": 0.0106,
         "ytd_return": 10.50409,
         "expense_ratio": null,
-        "three_year_return": 0.216436
+        "three_year_return": 0.2190035
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 58.1367,
+        "price": 57.829,
         "dividend_yield": 0.0797,
         "ytd_return": 4.52955,
         "expense_ratio": null,
-        "three_year_return": 0.1036008
+        "three_year_return": 0.1016365
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.7632,
+        "price": 60.2991,
         "dividend_yield": 0.1076,
         "ytd_return": 6.03709,
         "expense_ratio": null,
-        "three_year_return": 0.20124611
+        "three_year_return": 0.2047185
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 83.26754,
+        "price": 83.10627,
         "dividend_yield": 0.0475,
         "ytd_return": -3.61651,
         "expense_ratio": null,
@@ -467,19 +467,19 @@
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 97.83449,
+        "price": 97.78743,
         "dividend_yield": 0.0405,
         "ytd_return": -0.60636,
         "expense_ratio": null,
-        "three_year_return": 0.0457013
+        "three_year_return": 0.0455944
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 72.57,
+        "price": 72.52,
         "dividend_yield": 0.0403,
         "ytd_return": -0.56355,
         "expense_ratio": null,
-        "three_year_return": 0.0453831
+        "three_year_return": 0.045191
       }
     }
   },
@@ -520,24 +520,24 @@
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "per": 20.621517
+        "per": 21.417202
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "per": 16.949085
+        "per": 17.212852
       },
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "per": 21.762802
+        "per": 21.78741
       }
     ],
     "most_overvalued": [
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "per": 332.14288
+        "per": 322.91666
       },
       {
         "ticker": "PLTR",
@@ -549,13 +549,13 @@
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.088,
+        "composite_score": 1.09,
         "components_used": 9
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.516,
+        "composite_score": 0.511,
         "components_used": 8
       },
       {
@@ -597,13 +597,13 @@
       {
         "ticker": "BAC",
         "name": "Bank of America Corporation",
-        "composite_score": -0.037,
+        "composite_score": -0.036,
         "components_used": 8
       },
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "composite_score": -0.165,
+        "composite_score": -0.164,
         "components_used": 9
       },
       {
@@ -615,7 +615,7 @@
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.477,
+        "composite_score": -0.478,
         "components_used": 9
       },
       {
@@ -627,7 +627,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -0.854,
+        "composite_score": -0.852,
         "components_used": 8
       }
     ],
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeXenQoZ5RY5wWuHXQyJ6\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeYoYANYv53BHAUNj1ugZ\"}"
   }
 }
