@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:14:26.560127Z",
+  "generated_at": "2026-09-01T10:38:30.511080Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,7 +66,12 @@
     ],
     "ai_tech": [
       {
-        "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+        "title": "How engineered microbes could help feed the world’s crops",
+        "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+        "published": "Tue, 01 Sep 2026 09:00:00 +0000"
+      },
+      {
+        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
         "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
         "published": "Mon, 31 Aug 2026 18:00:00 +0000"
       },
@@ -99,95 +104,90 @@
         "title": "The inside story on why OpenAI agents hacked Hugging Face",
         "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
         "published": "Wed, 26 Aug 2026 19:00:00 +0000"
-      },
-      {
-        "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-        "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-        "published": "Wed, 26 Aug 2026 12:10:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-        "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 22:00:00 GMT"
-      },
-      {
-        "title": "The S&P 500 usually falls in September. Why this year should be different.",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-usually-falls-in-september-why-this-year-should-be-different-77ebb626?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:36:00 GMT"
-      },
-      {
         "title": "‘Neither of us attended college’: At 62, how can we afford to put our granddaughter through college?",
         "link": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:34:00 GMT"
+        "published": "Tue, 01 Sep 2026 10:15:00 GMT"
       },
       {
-        "title": "Vanguard’s S&P 500 index fund changed how we invest — but there may be a smarter way to get into the market",
-        "link": "https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:33:00 GMT"
+        "title": "Global oil prices extend move over $90 after report of two tankers struck in Hormuz",
+        "link": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 09:55:00 GMT"
       },
       {
-        "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
-        "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:23:00 GMT"
+        "title": "Are rising bond rates really so bad? Maybe not, say these exports",
+        "link": "https://www.marketwatch.com/story/are-rising-bond-rates-really-so-bad-maybe-not-say-these-exports-1af9e683?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 09:31:00 GMT"
       },
       {
-        "title": "23 best-performing stocks of August, as the software industry continues its recovery",
-        "link": "https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:16:00 GMT"
+        "title": "From the U.K. to Japan, bond yields are jumping as U.S. bonds tumble",
+        "link": "https://www.marketwatch.com/story/from-the-u-k-to-japan-bond-yields-are-jumping-as-u-s-bonds-tumble-d8b71075?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 09:20:00 GMT"
       },
       {
-        "title": "Tesla’s stock among S&P 500’s top gainers as investors prepare for a Cybercab launch",
-        "link": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:01:00 GMT"
+        "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+        "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 09:15:00 GMT"
       },
       {
-        "title": "This maneuver is boosting oil shipments through the Strait of Hormuz",
-        "link": "https://www.marketwatch.com/story/this-maneuver-is-boosting-oil-shipments-through-the-strait-of-hormuz-070d8fa3?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 20:56:00 GMT"
+        "title": "The ultimate retreat and status symbol: These A-list celebrities have their own private islands",
+        "link": "https://www.marketwatch.com/story/the-ultimate-retreat-and-status-symbol-these-a-list-celebrities-have-their-own-private-islands-6869ff6a?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 09:04:00 GMT"
+      },
+      {
+        "title": "Inside Robert De Niro’s property portfolio, including a Hamptons estate and his own ski slope",
+        "link": "https://www.marketwatch.com/story/inside-robert-de-niros-property-portfolio-including-a-hamptons-estate-and-his-own-ski-slope-0ed53160?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 08:59:00 GMT"
+      },
+      {
+        "title": "Shein shares fall up to 10% after long-awaited trading debut",
+        "link": "https://www.marketwatch.com/story/shein-shares-fall-up-to-10-after-long-awaited-trading-debut-edecb6ee?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 08:41:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
-        "link": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
-        "published": "Mon, 31 Aug 2026 20:48:40 +0000"
+        "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+        "link": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+        "published": "Tue, 01 Sep 2026 10:35:21 +0000"
       },
       {
-        "title": "Kalshi lays down first lifetime ban for ex-member of Congress George Santos",
-        "link": "https://www.coindesk.com/policy/2026/08/31/kalshi-lays-down-first-lifetime-ban-for-ex-member-of-congress-george-santos",
-        "published": "Mon, 31 Aug 2026 15:33:14 +0000"
+        "title": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
+        "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
+        "published": "Tue, 01 Sep 2026 10:29:00 +0000"
       },
       {
-        "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
-        "link": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
-        "published": "Mon, 31 Aug 2026 14:44:26 +0000"
+        "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
+        "link": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
+        "published": "Tue, 01 Sep 2026 09:29:33 +0000"
       },
       {
-        "title": "Ireland bars crypto from new tax-advantaged investment accounts",
-        "link": "https://www.coindesk.com/business/2026/08/31/ireland-bars-crypto-from-new-tax-advantaged-investment-accounts",
-        "published": "Mon, 31 Aug 2026 13:29:56 +0000"
+        "title": "Live updates: Bitcoin trades around $78,000 as global bond sell-off deepens",
+        "link": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
+        "published": "Tue, 01 Sep 2026 08:35:57 +0000"
       },
       {
-        "title": "Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3",
-        "link": "https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3",
-        "published": "Mon, 31 Aug 2026 12:53:17 +0000"
+        "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
+        "link": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
+        "published": "Tue, 01 Sep 2026 07:49:16 +0000"
       },
       {
-        "title": "Strategy returns to bitcoin buys, adding $370 million of BTC last week",
-        "link": "https://www.coindesk.com/markets/2026/08/31/strategy-returns-to-bitcoin-buys-adding-usd370-million-worth-last-week",
-        "published": "Mon, 31 Aug 2026 12:11:04 +0000"
+        "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
+        "link": "https://www.coindesk.com/markets/2026/09/01/time-is-putting-openai-s-founders-on-its-cover-paul-montgomery-s-contrary-indicator-says-hello",
+        "published": "Tue, 01 Sep 2026 06:52:10 +0000"
       },
       {
-        "title": "Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over",
-        "link": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
-        "published": "Mon, 31 Aug 2026 11:53:56 +0000"
+        "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+        "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+        "published": "Tue, 01 Sep 2026 04:30:28 +0000"
       },
       {
-        "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
-        "link": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
-        "published": "Mon, 31 Aug 2026 11:26:26 +0000"
+        "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+        "link": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+        "published": "Tue, 01 Sep 2026 04:19:54 +0000"
       }
     ]
   },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 220.78,
-        "per": 27.876263,
+        "per": 27.946835,
         "pbv": 27.358118,
         "roe": 1.17211,
         "roa": 0.53572,
@@ -211,7 +211,7 @@
       "ORCL": {
         "name": "Oracle Corporation",
         "price": 149.12,
-        "per": 25.621992,
+        "per": 25.578045,
         "pbv": 11.435582,
         "roe": 0.53376,
         "roa": 0.06505,
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 316.85,
-        "per": 36.29439,
+        "per": 36.377728,
         "pbv": 43.05027,
         "roe": 1.4875101,
         "roa": 0.27082002,
@@ -241,7 +241,7 @@
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 367.95,
-        "per": 340.69443,
+        "per": 343.8785,
         "pbv": 16.728802,
         "roe": 0.046669997,
         "roa": 0.019299999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 572.34,
-        "per": 21.573313,
+        "per": 21.786829,
         "pbv": 5.582716,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1696.01,
         "per": 57.143192,
-        "pbv": 1423.1116,
+        "pbv": 1431.5889,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -361,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 415.32,
-        "per": 30.901787,
+        "per": 30.764444,
         "pbv": 86.61487,
         "roe": 0.39969003,
         "roa": 0.19002001,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1155.61,
-        "per": 27.719118,
+        "per": 27.699184,
         "pbv": 3.108952,
         "roe": 0.122779995,
         "roa": 0.03737,
@@ -417,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 769.3764,
+        "price": 771.2732,
         "dividend_yield": 0.0101,
         "ytd_return": 10.08633,
         "expense_ratio": null,
@@ -459,7 +459,7 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 82.81751,
+        "price": 83.10627,
         "dividend_yield": 0.0475,
         "ytd_return": -3.61651,
         "expense_ratio": null,
@@ -467,7 +467,7 @@
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 97.46656,
+        "price": 97.78743,
         "dividend_yield": 0.0405,
         "ytd_return": -0.60636,
         "expense_ratio": null,
@@ -475,7 +475,7 @@
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 72.29,
+        "price": 72.52,
         "dividend_yield": 0.0403,
         "ytd_return": -0.56355,
         "expense_ratio": null,
@@ -530,14 +530,14 @@
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "per": 21.573313
+        "per": 21.786829
       }
     ],
     "most_overvalued": [
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "per": 340.69443
+        "per": 343.8785
       },
       {
         "ticker": "PLTR",
@@ -555,19 +555,19 @@
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.52,
+        "composite_score": 0.521,
         "components_used": 8
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": 0.354,
+        "composite_score": 0.353,
         "components_used": 9
       },
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.253,
+        "composite_score": 0.254,
         "components_used": 9
       },
       {
@@ -591,7 +591,7 @@
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "composite_score": -0.025,
+        "composite_score": -0.026,
         "components_used": 9
       },
       {
@@ -627,7 +627,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -0.856,
+        "composite_score": -0.857,
         "components_used": 8
       }
     ],
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CebbZnNPc1tKdqYZns1bw\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CecaJgQBgnYaHXW3y4QHj\"}"
   }
 }
