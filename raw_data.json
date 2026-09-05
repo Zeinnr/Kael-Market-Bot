@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:33:28.955120Z",
+  "generated_at": "2026-09-05T19:46:01.935462Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,47 +108,62 @@
     ],
     "markets": [
       {
-        "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
-        "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 21:46:00 GMT"
-      },
-      {
-        "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
-        "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 20:18:00 GMT"
-      },
-      {
-        "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
-        "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 20:12:00 GMT"
+        "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
+        "link": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
+        "published": "Sat, 05 Sep 2026 18:59:00 GMT"
       },
       {
         "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
         "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 20:03:00 GMT"
+        "published": "Sat, 05 Sep 2026 18:42:00 GMT"
       },
       {
-        "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
-        "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 20:00:00 GMT"
+        "title": "Why the jobs report will actually be good for bonds",
+        "link": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
+        "published": "Sat, 05 Sep 2026 18:26:00 GMT"
       },
       {
-        "title": "Why Oracle’s stock looks like a compelling buy ahead of earnings",
-        "link": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 19:59:00 GMT"
+        "title": "7% mortgage rates are already here, some buyers and mortgage experts say",
+        "link": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
+        "published": "Sat, 05 Sep 2026 18:09:00 GMT"
+      },
+      {
+        "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+        "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
+        "published": "Sat, 05 Sep 2026 17:26:00 GMT"
       },
       {
         "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
         "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 19:52:00 GMT"
+        "published": "Sat, 05 Sep 2026 17:01:00 GMT"
       },
       {
-        "title": "I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
-        "link": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 19:52:00 GMT"
+        "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+        "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+        "published": "Sat, 05 Sep 2026 17:00:00 GMT"
+      },
+      {
+        "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
+        "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
+        "published": "Sat, 05 Sep 2026 16:34:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+        "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+        "published": "Sat, 05 Sep 2026 18:05:11 +0000"
+      },
+      {
+        "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+        "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+        "published": "Sat, 05 Sep 2026 16:43:13 +0000"
+      },
+      {
+        "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+        "link": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+        "published": "Sat, 05 Sep 2026 12:00:00 +0000"
+      },
       {
         "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
         "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
@@ -173,21 +188,6 @@
         "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
         "link": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
         "published": "Fri, 04 Sep 2026 14:12:34 +0000"
-      },
-      {
-        "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
-        "link": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
-        "published": "Fri, 04 Sep 2026 12:31:47 +0000"
-      },
-      {
-        "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
-        "link": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
-        "published": "Fri, 04 Sep 2026 11:29:05 +0000"
-      },
-      {
-        "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-        "link": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
-        "published": "Fri, 04 Sep 2026 10:40:14 +0000"
       }
     ]
   },
@@ -211,7 +211,7 @@
       "ORCL": {
         "name": "Oracle Corporation",
         "price": 158.78,
-        "per": 27.281786,
+        "per": 26.463333,
         "pbv": 12.17638,
         "roe": 0.53376,
         "roa": 0.06505,
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 319.97,
-        "per": 36.65178,
+        "per": 36.60984,
         "pbv": 43.474186,
         "roe": 1.4875101,
         "roa": 0.27082002,
@@ -241,7 +241,7 @@
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 354.08,
-        "per": 343.767,
+        "per": 321.8909,
         "pbv": 16.098204,
         "roe": 0.046669997,
         "roa": 0.019299999,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 499.7,
-        "per": 27.822943,
+        "per": 27.853958,
         "pbv": 8.389155,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 335.31,
-        "per": 17.00355,
+        "per": 16.83283,
         "pbv": 6.5881405,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 616.77,
-        "per": 22.988073,
+        "per": 23.256788,
         "pbv": 6.0160947,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -311,12 +311,12 @@
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
         "dividend_yield": 0.0034,
-        "valuation_flag": "fair relatif ke peer group"
+        "valuation_flag": "undervalued relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
         "price": 174.33,
-        "per": 155.65178,
+        "per": 149.0,
         "pbv": 42.853985,
         "roe": 0.38097,
         "roa": 0.17292999,
@@ -346,7 +346,7 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1714.88,
-        "per": 55.859283,
+        "per": 58.131527,
         "pbv": 1447.3046,
         "roe": 0.53942,
         "roa": 0.16454001,
@@ -361,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 428.91,
-        "per": 31.841871,
+        "per": 30.968231,
         "pbv": 89.44906,
         "roe": 0.39969003,
         "roa": 0.19002001,
@@ -417,11 +417,11 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 773.12054,
+        "price": 764.9893,
         "dividend_yield": 0.0098,
         "ytd_return": 13.07293,
         "expense_ratio": null,
-        "three_year_return": 0.2116368
+        "three_year_return": 0.20743811
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
@@ -459,11 +459,11 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 82.04004,
+        "price": 81.91534,
         "dividend_yield": 0.0473,
         "ytd_return": -2.88047,
         "expense_ratio": null,
-        "three_year_return": -0.0059332
+        "three_year_return": -0.0064179
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
@@ -475,11 +475,11 @@
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.91,
+        "price": 71.84,
         "dividend_yield": 0.0404,
         "ytd_return": -0.18909,
         "expense_ratio": null,
-        "three_year_return": 0.0419352
+        "three_year_return": 0.0414521
       }
     }
   }
