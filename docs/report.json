@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:06:23.051938Z",
+  "generated_at": "2026-09-05T09:33:29.314542Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-09-02",
-      "value": 4.79,
+      "date": "2026-09-03",
+      "value": 4.77,
       "previous_value": 4.79,
-      "change_pct": 0.0
+      "change_pct": -0.42
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -108,6 +108,21 @@
     ],
     "markets": [
       {
+        "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
+        "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 21:46:00 GMT"
+      },
+      {
+        "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
+        "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 20:18:00 GMT"
+      },
+      {
+        "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
+        "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 20:12:00 GMT"
+      },
+      {
         "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
         "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
         "published": "Fri, 04 Sep 2026 20:03:00 GMT"
@@ -131,24 +146,19 @@
         "title": "I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
         "link": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
         "published": "Fri, 04 Sep 2026 19:52:00 GMT"
-      },
-      {
-        "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
-        "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 19:51:00 GMT"
-      },
-      {
-        "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
-        "link": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 19:49:00 GMT"
-      },
-      {
-        "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-        "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 19:15:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+        "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
+        "published": "Sat, 05 Sep 2026 05:30:45 +0000"
+      },
+      {
+        "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+        "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+        "published": "Sat, 05 Sep 2026 05:00:00 +0000"
+      },
       {
         "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
         "link": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
@@ -178,16 +188,6 @@
         "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
         "link": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
         "published": "Fri, 04 Sep 2026 10:40:14 +0000"
-      },
-      {
-        "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-        "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
-        "published": "Fri, 04 Sep 2026 09:57:01 +0000"
-      },
-      {
-        "title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
-        "link": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
-        "published": "Fri, 04 Sep 2026 09:47:15 +0000"
       }
     ]
   },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 230.36,
-        "per": 29.159492,
+        "per": 28.903389,
         "pbv": 24.291891,
         "roe": 1.17211,
         "roa": 0.53572,
@@ -210,9 +210,9 @@
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 158.83,
-        "per": 27.290377,
-        "pbv": 12.180215,
+        "price": 158.78,
+        "per": 27.281786,
+        "pbv": 12.17638,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -220,7 +220,7 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.01259,
+        "dividend_yield": 0.0126,
         "valuation_flag": "fair relatif ke peer group"
       },
       "AAPL": {
@@ -241,7 +241,7 @@
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 354.08,
-        "per": 324.84402,
+        "per": 343.767,
         "pbv": 16.098204,
         "roe": 0.046669997,
         "roa": 0.019299999,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 335.31,
-        "per": 16.815947,
+        "per": 17.00355,
         "pbv": 6.5881405,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 616.77,
-        "per": 23.221764,
+        "per": 22.988073,
         "pbv": 6.0160947,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -311,12 +311,12 @@
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
         "dividend_yield": 0.0034,
-        "valuation_flag": "undervalued relatif ke peer group"
+        "valuation_flag": "fair relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
         "price": 174.33,
-        "per": 149.0,
+        "per": 155.65178,
         "pbv": 42.853985,
         "roe": 0.38097,
         "roa": 0.17292999,
@@ -346,7 +346,7 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1714.88,
-        "per": 58.190704,
+        "per": 55.859283,
         "pbv": 1447.3046,
         "roe": 0.53942,
         "roa": 0.16454001,
@@ -360,9 +360,9 @@
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 428.52,
-        "per": 31.812916,
-        "pbv": 88.20806,
+        "price": 428.91,
+        "per": 31.841871,
+        "pbv": 89.44906,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -370,16 +370,16 @@
         "fcf": 730826014720,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.00952,
+        "dividend_yield": 0.00951,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1121.83,
-        "per": 26.850885,
-        "pbv": 3.0180733,
+        "price": 1122.29,
+        "per": 26.952211,
+        "pbv": 3.0193112,
         "roe": 0.122779995,
         "roa": 0.03737,
         "der": 23.192,
@@ -387,14 +387,14 @@
         "fcf": 7578124800,
         "revenue_growth": 0.306,
         "earnings_growth": 0.196,
-        "dividend_yield": 0.02043,
+        "dividend_yield": 0.02042,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 62.685,
-        "per": 14.476906,
-        "pbv": 1.5933354,
+        "price": 62.68,
+        "per": 14.475751,
+        "pbv": 1.5932083,
         "roe": 0.111990005,
         "roa": 0.00969,
         "der": null,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 709.26,
+        "price": 717.55,
         "dividend_yield": 0.0042,
         "ytd_return": 16.99566,
         "expense_ratio": null,
-        "three_year_return": 0.240952
+        "three_year_return": 0.24584931
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 761.4805,
-        "dividend_yield": 0.0101,
-        "ytd_return": 10.08633,
+        "price": 773.12054,
+        "dividend_yield": 0.0098,
+        "ytd_return": 13.07293,
         "expense_ratio": null,
-        "three_year_return": 0.2056576
+        "three_year_return": 0.2116368
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 703.2,
+        "price": 710.69,
         "dividend_yield": 0.0104,
         "ytd_return": 13.11347,
         "expense_ratio": null,
-        "three_year_return": 0.20832609
+        "three_year_return": 0.21249741
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 376.85,
+        "price": 380.94,
         "dividend_yield": 0.010299999,
         "ytd_return": 13.44794,
         "expense_ratio": null,
-        "three_year_return": 0.2039089
+        "three_year_return": 0.2082059
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.1736,
+        "price": 57.415,
         "dividend_yield": 0.0797,
         "ytd_return": 5.36343,
         "expense_ratio": null,
-        "three_year_return": 0.094530694
+        "three_year_return": 0.0960596
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.1453,
+        "price": 59.6623,
         "dividend_yield": 0.1084,
         "ytd_return": 10.96428,
         "expense_ratio": null,
-        "three_year_return": 0.19065028
+        "three_year_return": 0.1942626
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 81.83828,
-        "dividend_yield": 0.0475,
-        "ytd_return": -3.61651,
+        "price": 82.04004,
+        "dividend_yield": 0.0473,
+        "ytd_return": -2.88047,
         "expense_ratio": null,
-        "three_year_return": -0.0067413
+        "three_year_return": -0.0059332
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 96.76998,
+        "price": 96.84687,
         "dividend_yield": 0.0405,
-        "ytd_return": -0.60636,
+        "ytd_return": -0.22523,
         "expense_ratio": null,
-        "three_year_return": 0.0414561
+        "three_year_return": 0.041707203
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.79,
-        "dividend_yield": 0.0403,
-        "ytd_return": -0.56355,
+        "price": 71.91,
+        "dividend_yield": 0.0404,
+        "ytd_return": -0.18909,
         "expense_ratio": null,
-        "three_year_return": 0.041258898
+        "three_year_return": 0.0419352
       }
     }
   },
@@ -500,7 +500,7 @@
       {
         "ticker": "TLT",
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "dividend_yield": 0.0475,
+        "dividend_yield": 0.0473,
         "group": "bonds"
       },
       {
@@ -512,7 +512,7 @@
       {
         "ticker": "BND",
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "dividend_yield": 0.0403,
+        "dividend_yield": 0.0404,
         "group": "bonds"
       }
     ],
@@ -525,24 +525,19 @@
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "per": 16.815947
-      },
-      {
-        "ticker": "META",
-        "name": "Meta Platforms, Inc.",
-        "per": 23.221764
+        "per": 17.00355
       }
     ],
     "most_overvalued": [
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "per": 324.84402
+        "per": 343.767
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "per": 149.0
+        "per": 155.65178
       }
     ],
     "equity_ranking": [
@@ -555,13 +550,13 @@
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.526,
+        "composite_score": 0.527,
         "components_used": 8
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": 0.359,
+        "composite_score": 0.357,
         "components_used": 9
       },
       {
@@ -573,19 +568,19 @@
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.176,
+        "composite_score": 0.177,
         "components_used": 9
       },
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "composite_score": 0.058,
+        "composite_score": 0.057,
         "components_used": 8
       },
       {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "composite_score": 0.023,
+        "composite_score": 0.022,
         "components_used": 9
       },
       {
@@ -597,7 +592,7 @@
       {
         "ticker": "BAC",
         "name": "Bank of America Corporation",
-        "composite_score": -0.04,
+        "composite_score": -0.041,
         "components_used": 8
       },
       {
@@ -615,7 +610,7 @@
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.476,
+        "composite_score": -0.471,
         "components_used": 9
       },
       {
@@ -627,7 +622,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -0.858,
+        "composite_score": -0.859,
         "components_used": 8
       }
     ],
@@ -635,42 +630,42 @@
       {
         "ticker": "JEPQ",
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "composite_score": 0.768,
+        "composite_score": 0.697,
         "components_used": 2
       },
       {
         "ticker": "QQQ",
         "name": "Invesco QQQ Trust",
-        "composite_score": 0.347,
+        "composite_score": 0.286,
         "components_used": 2
       },
       {
         "ticker": "VTI",
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "composite_score": -0.077,
+        "composite_score": -0.143,
         "components_used": 2
       },
       {
         "ticker": "VOO",
         "name": "Vanguard S&P 500 ETF",
-        "composite_score": -0.122,
-        "components_used": 2
-      },
-      {
-        "ticker": "JEPI",
-        "name": "JPMorgan Equity Premium Income ETF",
-        "composite_score": -0.365,
+        "composite_score": -0.19,
         "components_used": 2
       },
       {
         "ticker": "SPY",
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "composite_score": -0.55,
+        "composite_score": -0.203,
+        "components_used": 2
+      },
+      {
+        "ticker": "JEPI",
+        "name": "JPMorgan Equity Premium Income ETF",
+        "composite_score": -0.448,
         "components_used": 2
       }
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cej134PWgvxpvUNMogyTg\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cek4amZUjC6C3eFeyAXQU\"}"
   }
 }
