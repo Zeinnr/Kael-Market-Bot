@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T09:48:12.673034Z",
+  "generated_at": "2026-09-06T19:49:30.818430Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,14 +108,29 @@
     ],
     "markets": [
       {
-        "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
-        "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-        "published": "Sat, 05 Sep 2026 23:45:00 GMT"
-      },
-      {
         "title": "Why does almost nobody want to befriend older people like me — except scammers?",
         "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-        "published": "Sat, 05 Sep 2026 23:07:00 GMT"
+        "published": "Sun, 06 Sep 2026 19:45:00 GMT"
+      },
+      {
+        "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+        "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+        "published": "Sun, 06 Sep 2026 13:15:00 GMT"
+      },
+      {
+        "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
+        "link": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
+        "published": "Sun, 06 Sep 2026 13:00:00 GMT"
+      },
+      {
+        "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
+        "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
+        "published": "Sun, 06 Sep 2026 12:55:00 GMT"
+      },
+      {
+        "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+        "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+        "published": "Sun, 06 Sep 2026 12:15:00 GMT"
       },
       {
         "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
@@ -131,24 +146,24 @@
         "title": "Why the jobs report will actually be good for bonds",
         "link": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
         "published": "Sat, 05 Sep 2026 18:26:00 GMT"
-      },
-      {
-        "title": "7% mortgage rates are already here, some buyers and mortgage experts say",
-        "link": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
-        "published": "Sat, 05 Sep 2026 18:09:00 GMT"
-      },
-      {
-        "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
-        "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
-        "published": "Sat, 05 Sep 2026 17:26:00 GMT"
-      },
-      {
-        "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
-        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
-        "published": "Sat, 05 Sep 2026 17:01:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+        "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+        "published": "Sun, 06 Sep 2026 18:30:00 +0000"
+      },
+      {
+        "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+        "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+        "published": "Sun, 06 Sep 2026 16:00:00 +0000"
+      },
+      {
+        "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
+        "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+        "published": "Sun, 06 Sep 2026 14:00:00 +0000"
+      },
       {
         "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
         "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
@@ -173,21 +188,6 @@
         "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
         "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
         "published": "Sat, 05 Sep 2026 05:00:00 +0000"
-      },
-      {
-        "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
-        "link": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
-        "published": "Fri, 04 Sep 2026 14:56:00 +0000"
-      },
-      {
-        "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
-        "link": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
-        "published": "Fri, 04 Sep 2026 14:23:11 +0000"
-      },
-      {
-        "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
-        "link": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
-        "published": "Fri, 04 Sep 2026 14:12:34 +0000"
       }
     ]
   },
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CemyWoNgNbAwFEfn8hrCS\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CenmNGyxozcT2FdiicnWR\"}"
   }
 }
