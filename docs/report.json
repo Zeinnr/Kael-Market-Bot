@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T19:46:02.258516Z",
+  "generated_at": "2026-09-06T09:48:12.673034Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,16 @@
     ],
     "markets": [
       {
+        "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+        "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+        "published": "Sat, 05 Sep 2026 23:45:00 GMT"
+      },
+      {
+        "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+        "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+        "published": "Sat, 05 Sep 2026 23:07:00 GMT"
+      },
+      {
         "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
         "link": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
         "published": "Sat, 05 Sep 2026 18:59:00 GMT"
@@ -136,21 +146,11 @@
         "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
         "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
         "published": "Sat, 05 Sep 2026 17:01:00 GMT"
-      },
-      {
-        "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
-        "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-        "published": "Sat, 05 Sep 2026 17:00:00 GMT"
-      },
-      {
-        "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
-        "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
-        "published": "Sat, 05 Sep 2026 16:34:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+        "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
         "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
         "published": "Sat, 05 Sep 2026 18:05:11 +0000"
       },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 230.36,
-        "per": 28.903389,
+        "per": 29.159492,
         "pbv": 24.291891,
         "roe": 1.17211,
         "roa": 0.53572,
@@ -211,7 +211,7 @@
       "ORCL": {
         "name": "Oracle Corporation",
         "price": 158.78,
-        "per": 26.463333,
+        "per": 27.234991,
         "pbv": 12.17638,
         "roe": 0.53376,
         "roa": 0.06505,
@@ -361,8 +361,8 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 428.91,
-        "per": 30.968231,
-        "pbv": 89.44906,
+        "per": 31.841871,
+        "pbv": 88.28834,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1122.29,
-        "per": 26.952211,
+        "per": 26.881199,
         "pbv": 3.0193112,
         "roe": 0.122779995,
         "roa": 0.03737,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 717.55,
+        "price": 719.18,
         "dividend_yield": 0.0042,
         "ytd_return": 16.99566,
         "expense_ratio": null,
-        "three_year_return": 0.24584931
+        "three_year_return": 0.24659531
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 764.9893,
+        "price": 770.33105,
         "dividend_yield": 0.0098,
         "ytd_return": 13.07293,
         "expense_ratio": null,
-        "three_year_return": 0.20743811
+        "three_year_return": 0.2100781
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 710.69,
+        "price": 708.12,
         "dividend_yield": 0.0104,
         "ytd_return": 13.11347,
         "expense_ratio": null,
-        "three_year_return": 0.21249741
+        "three_year_return": 0.2109544
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 380.94,
+        "price": 379.76,
         "dividend_yield": 0.010299999,
         "ytd_return": 13.44794,
         "expense_ratio": null,
-        "three_year_return": 0.2082059
+        "three_year_return": 0.2069359
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.415,
+        "price": 57.2127,
         "dividend_yield": 0.0797,
         "ytd_return": 5.36343,
         "expense_ratio": null,
-        "three_year_return": 0.0960596
+        "three_year_return": 0.0947221
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.6623,
+        "price": 59.8642,
         "dividend_yield": 0.1084,
         "ytd_return": 10.96428,
         "expense_ratio": null,
-        "three_year_return": 0.1942626
+        "three_year_return": 0.1954619
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 81.91534,
+        "price": 82.16838,
         "dividend_yield": 0.0473,
         "ytd_return": -2.88047,
         "expense_ratio": null,
-        "three_year_return": -0.0064179
+        "three_year_return": -0.0053683002
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 96.84687,
+        "price": 96.94272,
         "dividend_yield": 0.0405,
         "ytd_return": -0.22523,
         "expense_ratio": null,
-        "three_year_return": 0.041707203
+        "three_year_return": 0.0422806
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.84,
+        "price": 71.9,
         "dividend_yield": 0.0404,
         "ytd_return": -0.18909,
         "expense_ratio": null,
-        "three_year_return": 0.0414521
+        "three_year_return": 0.0420318
       }
     }
   },
@@ -567,7 +567,7 @@
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.24,
+        "composite_score": 0.239,
         "components_used": 9
       },
       {
@@ -591,7 +591,7 @@
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "composite_score": -0.02,
+        "composite_score": -0.019,
         "components_used": 9
       },
       {
@@ -609,7 +609,7 @@
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.427,
+        "composite_score": -0.428,
         "components_used": 9
       },
       {
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeksHzEUZdUwusZahozQr\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CemyWoNgNbAwFEfn8hrCS\"}"
   }
 }
