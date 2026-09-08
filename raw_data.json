@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:11:43.240685Z",
+  "generated_at": "2026-09-08T20:32:29.834262Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-09-03",
-      "value": 4.77,
-      "previous_value": 4.79,
-      "change_pct": -0.42
+      "date": "2026-09-04",
+      "value": 4.78,
+      "previous_value": 4.77,
+      "change_pct": 0.21
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -66,6 +66,31 @@
     ],
     "ai_tech": [
       {
+        "title": "The Download: our 35 Innovators Under 35 this year",
+        "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+        "published": "Tue, 08 Sep 2026 12:10:00 +0000"
+      },
+      {
+        "title": "This founder is teaching chips how to recycle (their energy)",
+        "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+        "published": "Tue, 08 Sep 2026 10:36:00 +0000"
+      },
+      {
+        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+        "published": "Tue, 08 Sep 2026 10:34:00 +0000"
+      },
+      {
+        "title": "This founder is making cheaper, cleaner steel",
+        "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+        "published": "Tue, 08 Sep 2026 10:33:00 +0000"
+      },
+      {
+        "title": "This geneticist’s age-reversal tech could help restore sight",
+        "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+        "published": "Tue, 08 Sep 2026 10:32:00 +0000"
+      },
+      {
         "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
         "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
         "published": "Mon, 07 Sep 2026 12:10:00 +0000"
@@ -79,115 +104,90 @@
         "title": "The Download: selling battlefield drone data and AI reshaping language",
         "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
         "published": "Fri, 04 Sep 2026 12:10:00 +0000"
-      },
-      {
-        "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-        "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-        "published": "Fri, 04 Sep 2026 09:25:19 +0000"
-      },
-      {
-        "title": "The Download: rethinking child safety and fossil-fueled farming",
-        "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-        "published": "Thu, 03 Sep 2026 12:10:00 +0000"
-      },
-      {
-        "title": "Agriculture relies on fossil fuels. It’s costing us.",
-        "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-        "published": "Thu, 03 Sep 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Scaling agentic AI pilots across the enterprise",
-        "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-        "published": "Thu, 03 Sep 2026 09:30:32 +0000"
-      },
-      {
-        "title": "Facilitating AI integration with simplicity at scale",
-        "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-        "published": "Wed, 02 Sep 2026 14:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "U.S. stocks usually stumble after Fed hikes, but these markets tend to climb, says Citi",
-        "link": "https://www.marketwatch.com/story/u-s-stocks-usually-stumble-after-fed-hikes-but-these-markets-tend-to-climb-says-citi-f031ca37?mod=mw_rss_topstories",
-        "published": "Tue, 08 Sep 2026 09:12:00 GMT"
+        "title": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
+        "link": "https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories",
+        "published": "Tue, 08 Sep 2026 20:28:00 GMT"
       },
       {
-        "title": "All about the stunning homes of the Season 35 cast of ‘Dancing With the Stars’",
-        "link": "https://www.marketwatch.com/story/all-about-the-stunning-homes-of-the-season-35-cast-of-dancing-with-the-stars-d8f7a0a0?mod=mw_rss_topstories",
-        "published": "Tue, 08 Sep 2026 09:04:00 GMT"
+        "title": "Novartis’s failed trial for cholesterol drug leads to broad biopharma stock selloff",
+        "link": "https://www.marketwatch.com/story/novartiss-failed-trial-for-cholesterol-drug-leads-to-broad-biopharma-selloff-2d487746?mod=mw_rss_topstories",
+        "published": "Tue, 08 Sep 2026 20:23:00 GMT"
       },
       {
-        "title": "Goldman Sachs flips on oil-price forecasts and says $120 Brent could be next.",
-        "link": "https://www.marketwatch.com/story/goldman-sachs-reverses-engines-on-oil-price-forecasts-and-raises-the-specter-of-120-per-barrel-crude-d8da110c?mod=mw_rss_topstories",
-        "published": "Tue, 08 Sep 2026 09:02:00 GMT"
+        "title": "A contrarian case for stock-market gains through the midterm election",
+        "link": "https://www.marketwatch.com/story/a-contrarian-case-for-further-stock-market-gains-through-the-midterm-election-6f1bf8a9?mod=mw_rss_topstories",
+        "published": "Tue, 08 Sep 2026 20:23:00 GMT"
       },
       {
-        "title": "‘Captain America’ star Chris Evans sells his L.A. home, but at $1 million under asking price",
-        "link": "https://www.marketwatch.com/story/captain-america-star-chris-evans-sells-his-l-a-home-but-at-1-million-under-asking-price-cfb2852d?mod=mw_rss_topstories",
-        "published": "Tue, 08 Sep 2026 09:01:00 GMT"
+        "title": "Stocks are stumbling after Labor Day. This year’s easy gains may be over.",
+        "link": "https://www.marketwatch.com/story/stocks-are-stumbling-after-labor-day-why-the-easy-gains-of-2026-may-be-over-1d31fa69?mod=mw_rss_topstories",
+        "published": "Tue, 08 Sep 2026 18:58:00 GMT"
       },
       {
-        "title": "Why the Dow is being dragged down by a Swiss company’s bad news",
-        "link": "https://www.marketwatch.com/story/why-the-dow-is-being-dragged-down-by-a-swiss-companys-bad-news-7d3eaa06?mod=mw_rss_topstories",
-        "published": "Tue, 08 Sep 2026 08:15:00 GMT"
+        "title": "How these Gen Z workers managed to buy homes in their early 20s",
+        "link": "https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories",
+        "published": "Tue, 08 Sep 2026 18:52:00 GMT"
       },
       {
-        "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-        "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-        "published": "Tue, 08 Sep 2026 03:09:00 GMT"
+        "title": "Why a stronger Japanese currency could spell trouble for AI and technology stocks",
+        "link": "https://www.marketwatch.com/story/why-a-stronger-japanese-currency-could-spell-trouble-for-ai-and-technology-stocks-6441f782?mod=mw_rss_topstories",
+        "published": "Tue, 08 Sep 2026 18:33:00 GMT"
       },
       {
-        "title": "Why does almost nobody want to befriend older people like me — except scammers?",
-        "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-        "published": "Mon, 07 Sep 2026 22:00:00 GMT"
+        "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+        "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+        "published": "Tue, 08 Sep 2026 18:30:00 GMT"
       },
       {
-        "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
-        "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-        "published": "Mon, 07 Sep 2026 22:00:00 GMT"
+        "title": "Why you shouldn’t stake your entire retirement plan on getting an inheritance",
+        "link": "https://www.marketwatch.com/story/why-you-shouldnt-stake-your-entire-retirement-plan-on-getting-an-inheritance-f35dbf96?mod=mw_rss_topstories",
+        "published": "Tue, 08 Sep 2026 18:17:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
-        "link": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
-        "published": "Tue, 08 Sep 2026 09:51:01 +0000"
+        "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
+        "link": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
+        "published": "Tue, 08 Sep 2026 15:23:46 +0000"
       },
       {
-        "title": "Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system",
-        "link": "https://www.coindesk.com/tech/2026/09/08/tracking-cocoa-may-be-just-the-beginning-for-pwc-merck-hashgraph-provenance-system",
-        "published": "Tue, 08 Sep 2026 09:39:36 +0000"
+        "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
+        "link": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+        "published": "Tue, 08 Sep 2026 14:40:46 +0000"
       },
       {
-        "title": "Live updates: Yen rally and rising bond yields pressure bitcoin and risk assets",
-        "link": "https://www.coindesk.com/tech/2026/09/08/live-updates",
-        "published": "Tue, 08 Sep 2026 08:30:30 +0000"
+        "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
+        "link": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
+        "published": "Tue, 08 Sep 2026 14:33:32 +0000"
       },
       {
-        "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
-        "link": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
-        "published": "Tue, 08 Sep 2026 07:00:00 +0000"
+        "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
+        "link": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
+        "published": "Tue, 08 Sep 2026 14:29:14 +0000"
       },
       {
-        "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
-        "link": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
-        "published": "Tue, 08 Sep 2026 06:23:53 +0000"
+        "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+        "link": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
+        "published": "Tue, 08 Sep 2026 13:18:24 +0000"
       },
       {
-        "title": "Bitcoin’s golden cross is here",
-        "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
-        "published": "Tue, 08 Sep 2026 05:56:23 +0000"
+        "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
+        "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
+        "published": "Tue, 08 Sep 2026 13:18:21 +0000"
       },
       {
-        "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-        "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
-        "published": "Tue, 08 Sep 2026 04:41:17 +0000"
+        "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
+        "link": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
+        "published": "Tue, 08 Sep 2026 13:06:34 +0000"
       },
       {
-        "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
-        "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
-        "published": "Tue, 08 Sep 2026 04:40:57 +0000"
+        "title": "Bitcoin’s complexity paradox: How layer-2 scalers became AI's main target",
+        "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-security-risks-grow-as-ai-uncovers-hidden-vulnerabilities",
+        "published": "Tue, 08 Sep 2026 12:09:26 +0000"
       }
     ]
   },
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 230.36,
-        "per": 29.159492,
-        "pbv": 24.291891,
+        "price": 225.73,
+        "per": 28.573418,
+        "pbv": 23.803648,
         "roe": 1.17211,
         "roa": 0.53572,
         "der": 16.971,
@@ -205,14 +205,14 @@
         "fcf": 41809874944,
         "revenue_growth": 1.059,
         "earnings_growth": 1.278,
-        "dividend_yield": 0.00434,
+        "dividend_yield": 0.00443,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 158.78,
-        "per": 27.234991,
-        "pbv": 12.17638,
+        "price": 162.52,
+        "per": 27.876501,
+        "pbv": 12.46319,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -220,14 +220,14 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.0126,
+        "dividend_yield": 0.01231,
         "valuation_flag": "fair relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 319.97,
-        "per": 36.60984,
-        "pbv": 43.474186,
+        "price": 316.22,
+        "per": 36.18078,
+        "pbv": 42.964672,
         "roe": 1.4875101,
         "roa": 0.27082002,
         "der": 78.445,
@@ -235,14 +235,14 @@
         "fcf": 107721875456,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
-        "dividend_yield": 0.00338,
+        "dividend_yield": 0.00342,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 354.08,
-        "per": 321.8909,
-        "pbv": 16.098204,
+        "price": 368.16,
+        "per": 334.69092,
+        "pbv": 16.73835,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 258.51,
-        "per": 20.797264,
-        "pbv": 5.0533667,
+        "price": 256.97,
+        "per": 20.67337,
+        "pbv": 5.0232625,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 499.7,
-        "per": 27.853958,
-        "pbv": 8.389155,
+        "price": 493.95,
+        "per": 27.533445,
+        "pbv": 8.292622,
         "roe": 0.34039003,
         "roa": 0.14088,
         "der": 29.118,
@@ -280,14 +280,14 @@
         "fcf": 16545500160,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
-        "dividend_yield": 0.00728,
+        "dividend_yield": 0.00737,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 335.31,
-        "per": 16.83283,
-        "pbv": 6.5881405,
+        "price": 335.38,
+        "per": 16.836346,
+        "pbv": 6.589516,
         "roe": 0.48676,
         "roa": 0.12958999,
         "der": 18.859,
@@ -300,9 +300,9 @@
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 616.77,
-        "per": 23.256788,
-        "pbv": 6.0160947,
+        "price": 613.48,
+        "per": 23.132729,
+        "pbv": 5.984003,
         "roe": 0.29848,
         "roa": 0.14591,
         "der": 42.997,
@@ -310,14 +310,14 @@
         "fcf": 21553625088,
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
-        "dividend_yield": 0.0034,
-        "valuation_flag": "undervalued relatif ke peer group"
+        "dividend_yield": 0.00342,
+        "valuation_flag": "fair relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 174.33,
-        "per": 149.0,
-        "pbv": 42.853985,
+        "price": 170.3,
+        "per": 145.55556,
+        "pbv": 41.863327,
         "roe": 0.38097,
         "roa": 0.17292999,
         "der": 2.139,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 95.8,
+        "price": 104.47,
         "per": null,
-        "pbv": 5.5187516,
+        "pbv": 6.018204,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1714.88,
-        "per": 58.131527,
-        "pbv": 1447.3046,
+        "price": 1764.85,
+        "per": 59.825424,
+        "pbv": 1485.7968,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -355,14 +355,14 @@
         "fcf": 8437675008,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
-        "dividend_yield": 0.00529,
+        "dividend_yield": 0.00514,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 428.91,
-        "per": 31.841871,
-        "pbv": 87.77295,
+        "price": 439.0,
+        "per": 32.590942,
+        "pbv": 89.83778,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -370,16 +370,16 @@
         "fcf": 730826014720,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.00951,
+        "dividend_yield": 0.00929,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1122.29,
-        "per": 26.881199,
-        "pbv": 3.0193112,
+        "price": 1095.37,
+        "per": 26.236406,
+        "pbv": 2.9468877,
         "roe": 0.122779995,
         "roa": 0.03737,
         "der": 23.192,
@@ -387,14 +387,14 @@
         "fcf": 7578124800,
         "revenue_growth": 0.306,
         "earnings_growth": 0.196,
-        "dividend_yield": 0.02042,
+        "dividend_yield": 0.02092,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 62.68,
-        "per": 14.475751,
-        "pbv": 1.5932083,
+        "price": 62.39,
+        "per": 14.408776,
+        "pbv": 1.585837,
         "roe": 0.111990005,
         "roa": 0.00969,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.168,
         "earnings_growth": 0.341,
-        "dividend_yield": 0.02042,
+        "dividend_yield": 0.02052,
         "valuation_flag": "data tidak cukup"
       }
     },
