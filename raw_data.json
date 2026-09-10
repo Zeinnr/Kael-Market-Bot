@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:09:20.892588Z",
+  "generated_at": "2026-09-10T20:16:30.278790Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,26 @@
     ],
     "ai_tech": [
       {
+        "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+        "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+        "published": "Thu, 10 Sep 2026 12:10:00 +0000"
+      },
+      {
+        "title": "Powering AI is an architecture problem",
+        "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+        "published": "Thu, 10 Sep 2026 11:00:00 +0000"
+      },
+      {
+        "title": "This road map could help us decide whether to deploy solar geoengineering",
+        "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+        "published": "Thu, 10 Sep 2026 11:00:00 +0000"
+      },
+      {
+        "title": "Can the US battery market untangle from China?",
+        "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+        "published": "Thu, 10 Sep 2026 10:00:00 +0000"
+      },
+      {
         "title": "God told them to sell crypto. Their investors lost everything.",
         "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
         "published": "Thu, 10 Sep 2026 09:00:00 +0000"
@@ -84,110 +104,90 @@
         "title": "Batteries just broke another record in the US",
         "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
         "published": "Wed, 09 Sep 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Understanding the thermal ceiling in portable power",
-        "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-        "published": "Wed, 09 Sep 2026 08:18:13 +0000"
-      },
-      {
-        "title": "What OpenAI’s latest controversy tells us about the future of math",
-        "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-        "published": "Wed, 09 Sep 2026 03:10:08 +0000"
-      },
-      {
-        "title": "The Download: our 35 Innovators Under 35 this year",
-        "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-        "published": "Tue, 08 Sep 2026 12:10:00 +0000"
-      },
-      {
-        "title": "This founder is teaching chips how to recycle (their energy)",
-        "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-        "published": "Tue, 08 Sep 2026 10:36:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "The ECB is virtually certain to raise rates. Wall Street is bracing for what comes next.",
-        "link": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 09:27:00 GMT"
+        "title": "How to create a ‘forever paycheck’ without paying for an annuity",
+        "link": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 20:13:00 GMT"
       },
       {
-        "title": "This is the advice comedian Tiffany Haddish got that helped her build a real-estate portfolio of 17 properties",
-        "link": "https://www.marketwatch.com/story/this-is-the-advice-comedian-tiffany-haddish-got-that-helped-her-build-a-real-estate-portfolio-of-17-properties-0d981f1e?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 09:04:00 GMT"
+        "title": "Stocks are sliding as this ‘negative risk trinity’ spooks investors",
+        "link": "https://www.marketwatch.com/story/stocks-are-sliding-as-this-negative-risk-trinity-spooks-investors-4dd1927e?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 20:06:00 GMT"
       },
       {
-        "title": "Running the numbers on Trump’s $5,000 dividend proposal, from its cost to the impact on average American’s finances",
-        "link": "https://www.marketwatch.com/story/running-the-numbers-on-trumps-5-000-dividend-proposal-from-its-cost-to-the-impact-on-average-americans-finances-a708cba5?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 08:47:00 GMT"
+        "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+        "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 20:00:00 GMT"
       },
       {
-        "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
-        "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 07:29:00 GMT"
+        "title": "It’s not just Hormuz. Another war is providing fresh price shocks to fuel and food.",
+        "link": "https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 19:38:00 GMT"
       },
       {
-        "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
-        "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 03:00:00 GMT"
+        "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
+        "link": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 19:21:00 GMT"
       },
       {
-        "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
-        "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 02:04:00 GMT"
+        "title": "Would you buy stock in a company whose own scientists think the product might kill you?",
+        "link": "https://www.marketwatch.com/story/would-you-buy-stock-in-a-company-whose-own-scientists-think-the-product-might-kill-you-f8bc04c3?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 19:07:00 GMT"
       },
       {
-        "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
-        "link": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 22:51:00 GMT"
+        "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+        "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 19:00:00 GMT"
       },
       {
-        "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-        "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 22:30:00 GMT"
+        "title": "Treasury yields surge after poor 30-year auction and new buyback operation fail to calm market",
+        "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 18:37:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
-        "link": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
-        "published": "Thu, 10 Sep 2026 09:42:59 +0000"
+        "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+        "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+        "published": "Thu, 10 Sep 2026 19:01:30 +0000"
       },
       {
-        "title": "Live updates: Treasury yields climb further as Brent crude tops $102 and tech futures slip",
-        "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
-        "published": "Thu, 10 Sep 2026 07:45:46 +0000"
+        "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
+        "link": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
+        "published": "Thu, 10 Sep 2026 17:07:59 +0000"
       },
       {
-        "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
-        "link": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
-        "published": "Thu, 10 Sep 2026 07:01:44 +0000"
+        "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+        "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+        "published": "Thu, 10 Sep 2026 17:03:34 +0000"
       },
       {
-        "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
-        "link": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
-        "published": "Thu, 10 Sep 2026 06:13:45 +0000"
+        "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
+        "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
+        "published": "Thu, 10 Sep 2026 16:10:03 +0000"
       },
       {
-        "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
-        "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
-        "published": "Thu, 10 Sep 2026 05:30:15 +0000"
+        "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+        "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
+        "published": "Thu, 10 Sep 2026 15:53:24 +0000"
       },
       {
-        "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-        "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
-        "published": "Thu, 10 Sep 2026 05:05:41 +0000"
+        "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
+        "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+        "published": "Thu, 10 Sep 2026 15:14:49 +0000"
       },
       {
-        "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
-        "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
-        "published": "Wed, 09 Sep 2026 16:11:07 +0000"
+        "title": "Crypto for Advisors: Hyperliquid and the future of finance",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
+        "published": "Thu, 10 Sep 2026 15:00:16 +0000"
       },
       {
-        "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
-        "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
-        "published": "Wed, 09 Sep 2026 16:05:11 +0000"
+        "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
+        "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
+        "published": "Thu, 10 Sep 2026 14:30:00 +0000"
       }
     ]
   },
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 223.67,
-        "per": 28.565773,
-        "pbv": 23.586418,
+        "price": 218.36,
+        "per": 27.570707,
+        "pbv": 23.026468,
         "roe": 1.17211,
         "roa": 0.53572,
         "der": 16.971,
@@ -205,14 +205,14 @@
         "fcf": 41809874944,
         "revenue_growth": 1.059,
         "earnings_growth": 1.278,
-        "dividend_yield": 0.00447,
+        "dividend_yield": 0.00458,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 161.63,
-        "per": 27.86724,
-        "pbv": 12.394939,
+        "price": 153.17,
+        "per": 26.272728,
+        "pbv": 11.746165,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -220,14 +220,14 @@
         "fcf": -24536750080,
         "revenue_growth": 0.206,
         "earnings_growth": 0.219,
-        "dividend_yield": 0.01237,
+        "dividend_yield": 0.01306,
         "valuation_flag": "fair relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 315.34,
-        "per": 36.245975,
-        "pbv": 42.845108,
+        "price": 326.57,
+        "per": 37.40779,
+        "pbv": 44.370926,
         "roe": 1.4875101,
         "roa": 0.27082002,
         "der": 78.445,
@@ -235,14 +235,14 @@
         "fcf": 107721875456,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
-        "dividend_yield": 0.00342,
+        "dividend_yield": 0.00331,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 367.81,
-        "per": 343.74765,
-        "pbv": 16.722437,
+        "price": 363.56,
+        "per": 339.7757,
+        "pbv": 16.529211,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 252.4,
-        "per": 20.654663,
-        "pbv": 4.9339275,
+        "price": 251.89,
+        "per": 20.280998,
+        "pbv": 4.9239583,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 491.65,
-        "per": 27.543417,
-        "pbv": 8.254008,
+        "price": 492.44,
+        "per": 27.433983,
+        "pbv": 8.267271,
         "roe": 0.34039003,
         "roa": 0.14088,
         "der": 29.118,
@@ -280,14 +280,14 @@
         "fcf": 16545500160,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
-        "dividend_yield": 0.0074,
+        "dividend_yield": 0.00739,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 328.38,
-        "per": 16.83137,
-        "pbv": 6.4519806,
+        "price": 330.39,
+        "per": 16.577522,
+        "pbv": 6.491473,
         "roe": 0.48676,
         "roa": 0.12958999,
         "der": 18.859,
@@ -295,14 +295,14 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.00268,
+        "dividend_yield": 0.00266,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 653.69,
-        "per": 23.098587,
-        "pbv": 6.3762193,
+        "price": 644.38,
+        "per": 24.279577,
+        "pbv": 6.285408,
         "roe": 0.29848,
         "roa": 0.14591,
         "der": 42.997,
@@ -310,14 +310,14 @@
         "fcf": 21553625088,
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
-        "dividend_yield": 0.00321,
+        "dividend_yield": 0.00326,
         "valuation_flag": "fair relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 169.53,
-        "per": 144.89745,
-        "pbv": 41.67404,
+        "price": 165.86,
+        "per": 141.7607,
+        "pbv": 40.77188,
         "roe": 0.38097,
         "roa": 0.17292999,
         "der": 2.139,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 106.24,
+        "price": 100.32,
         "per": null,
-        "pbv": 6.120168,
+        "pbv": 5.7791348,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1729.52,
-        "per": 59.88643,
-        "pbv": 1454.3373,
+        "price": 1687.43,
+        "per": 57.06561,
+        "pbv": 1418.9932,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -355,14 +355,14 @@
         "fcf": 8437675008,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
-        "dividend_yield": 0.00525,
+        "dividend_yield": 0.00538,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 435.36,
-        "per": 32.465324,
-        "pbv": 89.09289,
+        "price": 428.03,
+        "per": 31.61226,
+        "pbv": 87.592865,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -370,16 +370,16 @@
         "fcf": 730826014720,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.00937,
+        "dividend_yield": 0.00953,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1072.03,
-        "per": 26.249512,
-        "pbv": 2.884096,
+        "price": 1062.4,
+        "per": 25.477219,
+        "pbv": 2.8581882,
         "roe": 0.122779995,
         "roa": 0.03737,
         "der": 23.192,
@@ -387,14 +387,14 @@
         "fcf": 7578124800,
         "revenue_growth": 0.306,
         "earnings_growth": 0.196,
-        "dividend_yield": 0.02138,
+        "dividend_yield": 0.02157,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 62.67,
-        "per": 14.406897,
-        "pbv": 1.592954,
+        "price": 62.56,
+        "per": 14.448037,
+        "pbv": 1.5901582,
         "roe": 0.111990005,
         "roa": 0.00969,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.168,
         "earnings_growth": 0.341,
-        "dividend_yield": 0.02042,
+        "dividend_yield": 0.02046,
         "valuation_flag": "data tidak cukup"
       }
     },
