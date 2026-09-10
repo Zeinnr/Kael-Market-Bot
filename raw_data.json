@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:15:05.701348Z",
+  "generated_at": "2026-09-10T10:09:20.892588Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-09-04",
-      "value": 4.78,
-      "previous_value": 4.77,
-      "change_pct": 0.21
+      "date": "2026-09-08",
+      "value": 4.8,
+      "previous_value": null,
+      "change_pct": null
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -65,6 +65,16 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "God told them to sell crypto. Their investors lost everything.",
+        "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+        "published": "Thu, 10 Sep 2026 09:00:00 +0000"
+      },
+      {
+        "title": "Healthcare AI’s next test is integration",
+        "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+        "published": "Thu, 10 Sep 2026 08:58:01 +0000"
+      },
       {
         "title": "The Download: OpenAI’s turning point for math and a battery record",
         "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
@@ -94,61 +104,81 @@
         "title": "This founder is teaching chips how to recycle (their energy)",
         "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
         "published": "Tue, 08 Sep 2026 10:36:00 +0000"
-      },
-      {
-        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-        "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-        "published": "Tue, 08 Sep 2026 10:34:00 +0000"
-      },
-      {
-        "title": "This founder is making cheaper, cleaner steel",
-        "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-        "published": "Tue, 08 Sep 2026 10:33:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban.",
-        "link": "https://www.marketwatch.com/story/canadian-whisky-on-the-rocks-crown-royal-is-set-to-avoid-trumps-new-ban-2953bea3?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 19:40:00 GMT"
+        "title": "The ECB is virtually certain to raise rates. Wall Street is bracing for what comes next.",
+        "link": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 09:27:00 GMT"
       },
       {
-        "title": "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’",
-        "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 19:27:00 GMT"
+        "title": "This is the advice comedian Tiffany Haddish got that helped her build a real-estate portfolio of 17 properties",
+        "link": "https://www.marketwatch.com/story/this-is-the-advice-comedian-tiffany-haddish-got-that-helped-her-build-a-real-estate-portfolio-of-17-properties-0d981f1e?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 09:04:00 GMT"
       },
       {
-        "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
-        "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 17:30:00 GMT"
+        "title": "Running the numbers on Trump’s $5,000 dividend proposal, from its cost to the impact on average American’s finances",
+        "link": "https://www.marketwatch.com/story/running-the-numbers-on-trumps-5-000-dividend-proposal-from-its-cost-to-the-impact-on-average-americans-finances-a708cba5?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 08:47:00 GMT"
       },
       {
-        "title": "I have two sons. Should I allow one son to build a $400,000 house on my land?",
-        "link": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 17:30:00 GMT"
+        "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+        "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 07:29:00 GMT"
       },
       {
-        "title": "These are the 10 biggest retirement fears — and what you can do about them",
-        "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 16:38:00 GMT"
+        "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+        "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 03:00:00 GMT"
       },
       {
-        "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
-        "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 16:19:00 GMT"
+        "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+        "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 02:04:00 GMT"
       },
       {
-        "title": "Fed rate hike hinges on two key inflation reports in the next two days",
-        "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 16:18:00 GMT"
+        "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
+        "link": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
+        "published": "Wed, 09 Sep 2026 22:51:00 GMT"
       },
       {
-        "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
-        "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 16:09:00 GMT"
+        "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+        "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+        "published": "Wed, 09 Sep 2026 22:30:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
+        "link": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
+        "published": "Thu, 10 Sep 2026 09:42:59 +0000"
+      },
+      {
+        "title": "Live updates: Treasury yields climb further as Brent crude tops $102 and tech futures slip",
+        "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
+        "published": "Thu, 10 Sep 2026 07:45:46 +0000"
+      },
+      {
+        "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
+        "link": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
+        "published": "Thu, 10 Sep 2026 07:01:44 +0000"
+      },
+      {
+        "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
+        "link": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
+        "published": "Thu, 10 Sep 2026 06:13:45 +0000"
+      },
+      {
+        "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
+        "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
+        "published": "Thu, 10 Sep 2026 05:30:15 +0000"
+      },
+      {
+        "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
+        "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
+        "published": "Thu, 10 Sep 2026 05:05:41 +0000"
+      },
       {
         "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
         "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
@@ -158,36 +188,6 @@
         "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
         "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
         "published": "Wed, 09 Sep 2026 16:05:11 +0000"
-      },
-      {
-        "title": "Tether pushes into private credit with $400 million fund with Fasanara",
-        "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
-        "published": "Wed, 09 Sep 2026 15:51:25 +0000"
-      },
-      {
-        "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-        "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-        "published": "Wed, 09 Sep 2026 15:30:00 +0000"
-      },
-      {
-        "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
-        "link": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
-        "published": "Wed, 09 Sep 2026 15:24:01 +0000"
-      },
-      {
-        "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
-        "published": "Wed, 09 Sep 2026 14:58:07 +0000"
-      },
-      {
-        "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
-        "link": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
-        "published": "Wed, 09 Sep 2026 14:00:00 +0000"
-      },
-      {
-        "title": "PayPal expands stablecoin rails with custom token issuance platform",
-        "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
-        "published": "Wed, 09 Sep 2026 14:00:00 +0000"
       }
     ]
   },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 223.67,
-        "per": 28.312658,
+        "per": 28.565773,
         "pbv": 23.586418,
         "roe": 1.17211,
         "roa": 0.53572,
@@ -210,9 +210,9 @@
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 161.72,
-        "per": 27.73928,
-        "pbv": 12.40184,
+        "price": 161.63,
+        "per": 27.86724,
+        "pbv": 12.394939,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 315.34,
-        "per": 36.12142,
+        "per": 36.245975,
         "pbv": 42.845108,
         "roe": 1.4875101,
         "roa": 0.27082002,
@@ -256,7 +256,7 @@
       "AMZN": {
         "name": "Amazon.com, Inc.",
         "price": 252.4,
-        "per": 20.289389,
+        "per": 20.654663,
         "pbv": 4.9339275,
         "roe": 0.30558002,
         "roa": 0.06589,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 491.65,
-        "per": 27.420523,
+        "per": 27.543417,
         "pbv": 8.254008,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 328.38,
-        "per": 16.48494,
+        "per": 16.83137,
         "pbv": 6.4519806,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 653.69,
-        "per": 24.611822,
+        "per": 23.098587,
         "pbv": 6.3762193,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -316,7 +316,7 @@
       "PLTR": {
         "name": "Palantir Technologies Inc.",
         "price": 169.53,
-        "per": 143.6695,
+        "per": 144.89745,
         "pbv": 41.67404,
         "roe": 0.38097,
         "roa": 0.17292999,
@@ -346,7 +346,7 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1729.52,
-        "per": 58.68748,
+        "per": 59.88643,
         "pbv": 1454.3373,
         "roe": 0.53942,
         "roa": 0.16454001,
@@ -360,9 +360,9 @@
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 435.56,
-        "per": 32.215977,
-        "pbv": 89.13382,
+        "price": 435.36,
+        "per": 32.465324,
+        "pbv": 89.09289,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -377,9 +377,9 @@
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1072.51,
-        "per": 25.701174,
-        "pbv": 2.8853872,
+        "price": 1072.03,
+        "per": 26.249512,
+        "pbv": 2.884096,
         "roe": 0.122779995,
         "roa": 0.03737,
         "der": 23.192,
@@ -387,14 +387,14 @@
         "fcf": 7578124800,
         "revenue_growth": 0.306,
         "earnings_growth": 0.196,
-        "dividend_yield": 0.02137,
+        "dividend_yield": 0.02138,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 62.69,
-        "per": 14.47806,
-        "pbv": 1.5934625,
+        "price": 62.67,
+        "per": 14.406897,
+        "pbv": 1.592954,
         "roe": 0.111990005,
         "roa": 0.00969,
         "der": null,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 719.18,
+        "price": 718.29,
         "dividend_yield": 0.0042,
         "ytd_return": 16.99566,
         "expense_ratio": null,
-        "three_year_return": 0.2527411
+        "three_year_return": 0.2518096
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 770.33105,
+        "price": 765.8613,
         "dividend_yield": 0.0098,
         "ytd_return": 13.07293,
         "expense_ratio": null,
-        "three_year_return": 0.21579969
+        "three_year_return": 0.2129612
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 708.12,
+        "price": 704.01,
         "dividend_yield": 0.0104,
         "ytd_return": 13.11347,
         "expense_ratio": null,
-        "three_year_return": 0.2167323
+        "three_year_return": 0.213917
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 379.76,
+        "price": 377.55,
         "dividend_yield": 0.010299999,
         "ytd_return": 13.44794,
         "expense_ratio": null,
-        "three_year_return": 0.2132689
+        "three_year_return": 0.2105584
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.2127,
+        "price": 56.8774,
         "dividend_yield": 0.0797,
         "ytd_return": 5.36343,
         "expense_ratio": null,
-        "three_year_return": 0.0961761
+        "three_year_return": 0.093672104
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.8642,
+        "price": 59.8468,
         "dividend_yield": 0.1084,
         "ytd_return": 10.96428,
         "expense_ratio": null,
-        "three_year_return": 0.1983485
+        "three_year_return": 0.19796659
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 82.16838,
+        "price": 82.17241,
         "dividend_yield": 0.0473,
         "ytd_return": -2.88047,
         "expense_ratio": null,
-        "three_year_return": -0.0024146
+        "three_year_return": -0.0037252
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 96.94272,
+        "price": 96.90806,
         "dividend_yield": 0.0405,
         "ytd_return": -0.22523,
         "expense_ratio": null,
-        "three_year_return": 0.043404497
+        "three_year_return": 0.0428642
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.9,
+        "price": 71.88,
         "dividend_yield": 0.0404,
         "ytd_return": -0.18909,
         "expense_ratio": null,
-        "three_year_return": 0.0431561
+        "three_year_return": 0.042768102
       }
     }
   }
