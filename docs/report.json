@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:16:24.267040Z",
+  "generated_at": "2026-09-12T09:42:02.974034Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-09-09",
-      "value": 4.83,
-      "previous_value": 4.8,
-      "change_pct": 0.63
+      "date": "2026-09-10",
+      "value": 4.95,
+      "previous_value": 4.83,
+      "change_pct": 2.48
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -65,6 +65,11 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "Roundtables: AI’s apocalypse crisis",
+        "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+        "published": "Fri, 11 Sep 2026 20:05:06 +0000"
+      },
       {
         "title": "The Download: biotech’s future and cheaper, cleaner steel",
         "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
@@ -99,56 +104,56 @@
         "title": "God told them to sell crypto. Their investors lost everything.",
         "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
         "published": "Thu, 10 Sep 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Healthcare AI’s next test is integration",
-        "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-        "published": "Thu, 10 Sep 2026 08:58:01 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Your Social Security COLA could go up another $71 a month in 2027. That’s not necessarily good news.",
-        "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
-        "published": "Fri, 11 Sep 2026 20:08:00 GMT"
+        "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+        "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+        "published": "Fri, 11 Sep 2026 23:54:00 GMT"
       },
       {
-        "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
-        "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-        "published": "Fri, 11 Sep 2026 20:00:00 GMT"
+        "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+        "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+        "published": "Fri, 11 Sep 2026 22:06:00 GMT"
       },
       {
-        "title": "The Houthis have opened a new front in the Middle East oil war that’s pushing up prices",
-        "link": "https://www.marketwatch.com/story/the-houthis-have-created-a-new-front-in-the-middle-east-oil-war-thats-pushing-up-prices-816a224a?mod=mw_rss_topstories",
-        "published": "Fri, 11 Sep 2026 19:58:00 GMT"
+        "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
+        "link": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
+        "published": "Fri, 11 Sep 2026 21:16:00 GMT"
       },
       {
-        "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
-        "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-        "published": "Fri, 11 Sep 2026 19:45:00 GMT"
+        "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+        "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+        "published": "Fri, 11 Sep 2026 21:00:00 GMT"
+      },
+      {
+        "title": "Tesla could transform the trucking business — and capitalize on high diesel prices",
+        "link": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
+        "published": "Fri, 11 Sep 2026 20:49:00 GMT"
+      },
+      {
+        "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
+        "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+        "published": "Fri, 11 Sep 2026 20:45:00 GMT"
       },
       {
         "title": "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.",
         "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
-        "published": "Fri, 11 Sep 2026 19:30:00 GMT"
+        "published": "Fri, 11 Sep 2026 20:44:00 GMT"
       },
       {
-        "title": "Oracle shook off fears about AI spending, but its stock still turns south",
-        "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
-        "published": "Fri, 11 Sep 2026 19:21:00 GMT"
-      },
-      {
-        "title": "Are AI-written resumes more likely to get you a job? The answer may surprise you.",
-        "link": "https://www.marketwatch.com/story/are-ai-written-resumes-more-likely-to-get-you-a-job-the-answer-may-surprise-you-ae408827?mod=mw_rss_topstories",
-        "published": "Fri, 11 Sep 2026 18:32:00 GMT"
-      },
-      {
-        "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
-        "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
-        "published": "Fri, 11 Sep 2026 18:09:00 GMT"
+        "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+        "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+        "published": "Fri, 11 Sep 2026 20:30:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+        "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+        "published": "Fri, 11 Sep 2026 23:47:51 +0000"
+      },
       {
         "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
         "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
@@ -183,11 +188,6 @@
         "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
         "link": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
         "published": "Fri, 11 Sep 2026 11:20:26 +0000"
-      },
-      {
-        "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
-        "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
-        "published": "Fri, 11 Sep 2026 11:04:12 +0000"
       }
     ]
   },
@@ -210,9 +210,9 @@
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 150.255,
-        "per": 23.550941,
-        "pbv": 11.522623,
+        "price": 150.28,
+        "per": 23.968102,
+        "pbv": 11.52454,
         "roe": 0.53376,
         "roa": 0.06505,
         "der": 388.87,
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 332.27,
-        "per": 38.104355,
+        "per": 38.148106,
         "pbv": 45.14538,
         "roe": 1.4875101,
         "roa": 0.27082002,
@@ -241,7 +241,7 @@
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 365.44,
-        "per": 335.26605,
+        "per": 332.21817,
         "pbv": 16.614685,
         "roe": 0.046669997,
         "roa": 0.019299999,
@@ -256,7 +256,7 @@
       "AMZN": {
         "name": "Amazon.com, Inc.",
         "price": 256.78,
-        "per": 20.674719,
+        "per": 20.658085,
         "pbv": 5.0195484,
         "roe": 0.30558002,
         "roa": 0.06589,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 495.63,
-        "per": 27.580969,
+        "per": 27.39801,
         "pbv": 8.320827,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 335.45,
-        "per": 16.83986,
+        "per": 16.83141,
         "pbv": 6.5908914,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 648.03,
-        "per": 24.407911,
+        "per": 24.270786,
         "pbv": 6.321011,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -316,7 +316,7 @@
       "PLTR": {
         "name": "Palantir Technologies Inc.",
         "price": 167.23,
-        "per": 141.72034,
+        "per": 140.5294,
         "pbv": 41.108654,
         "roe": 0.38097,
         "roa": 0.17292999,
@@ -346,8 +346,8 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1698.3,
-        "per": 57.511005,
-        "pbv": 1428.134,
+        "per": 57.472084,
+        "pbv": 1427.3237,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -361,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 433.24,
-        "per": 31.926308,
+        "per": 31.55426,
         "pbv": 88.65905,
         "roe": 0.39969003,
         "roa": 0.19002001,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1079.65,
-        "per": 25.85988,
+        "per": 25.44544,
         "pbv": 2.904596,
         "roe": 0.122779995,
         "roa": 0.03737,
@@ -409,11 +409,11 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 716.19,
+        "price": 708.51,
         "dividend_yield": 0.0042,
         "ytd_return": 16.99566,
         "expense_ratio": null,
-        "three_year_return": 0.25061768
+        "three_year_return": 0.2461672
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
@@ -421,39 +421,39 @@
         "dividend_yield": 0.0098,
         "ytd_return": 13.07293,
         "expense_ratio": null,
-        "three_year_return": 0.2110791
+        "three_year_return": 0.2086544
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 700.62,
+        "price": 696.6,
         "dividend_yield": 0.0104,
         "ytd_return": 13.11347,
         "expense_ratio": null,
-        "three_year_return": 0.21207519
+        "three_year_return": 0.2096376
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 375.49,
+        "price": 373.15,
         "dividend_yield": 0.010299999,
         "ytd_return": 13.44794,
         "expense_ratio": null,
-        "three_year_return": 0.2083745
+        "three_year_return": 0.2058811
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 56.5341,
+        "price": 56.2622,
         "dividend_yield": 0.0797,
         "ytd_return": 5.36343,
         "expense_ratio": null,
-        "three_year_return": 0.0915526
+        "three_year_return": 0.0897477
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.7464,
+        "price": 59.2656,
         "dividend_yield": 0.1084,
         "ytd_return": 10.96428,
         "expense_ratio": null,
-        "three_year_return": 0.19749929
+        "three_year_return": 0.1942856
       }
     },
     "bonds": {
@@ -463,7 +463,7 @@
         "dividend_yield": 0.0473,
         "ytd_return": -2.88047,
         "expense_ratio": null,
-        "three_year_return": -0.0056276
+        "three_year_return": -0.0094954
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
@@ -471,15 +471,15 @@
         "dividend_yield": 0.0405,
         "ytd_return": -0.22523,
         "expense_ratio": null,
-        "three_year_return": 0.042074397
+        "three_year_return": 0.039806
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.72,
+        "price": 71.27,
         "dividend_yield": 0.0404,
         "ytd_return": -0.18909,
         "expense_ratio": null,
-        "three_year_return": 0.0419939
+        "three_year_return": 0.0397617
       }
     }
   },
@@ -520,24 +520,24 @@
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "per": 20.674719
+        "per": 20.658085
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "per": 16.83986
+        "per": 16.83141
       }
     ],
     "most_overvalued": [
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "per": 335.26605
+        "per": 332.21817
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "per": 141.72034
+        "per": 140.5294
       }
     ],
     "equity_ranking": [
@@ -580,7 +580,7 @@
       {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "composite_score": 0.028,
+        "composite_score": 0.029,
         "components_used": 9
       },
       {
@@ -604,7 +604,7 @@
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.416,
+        "composite_score": -0.417,
         "components_used": 9
       },
       {
@@ -666,6 +666,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CexGTnTYgfEmUTzdGeHKR\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CeyKu3LZ24ZdUcamPWiDR\"}"
   }
 }
