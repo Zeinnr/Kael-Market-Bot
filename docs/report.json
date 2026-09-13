@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T19:56:23.457866Z",
+  "generated_at": "2026-09-13T10:43:20.228483Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,11 @@
     ],
     "markets": [
       {
+        "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
+        "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
+        "published": "Sat, 12 Sep 2026 21:50:00 GMT"
+      },
+      {
         "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
         "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
         "published": "Sat, 12 Sep 2026 17:20:00 GMT"
@@ -141,21 +146,26 @@
         "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
         "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
         "published": "Fri, 11 Sep 2026 22:06:00 GMT"
-      },
-      {
-        "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
-        "link": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
-        "published": "Fri, 11 Sep 2026 21:16:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "OpenAI IPO won't happen this year, says Sam Altman",
+        "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
+        "published": "Sat, 12 Sep 2026 21:09:31 +0000"
+      },
+      {
+        "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+        "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+        "published": "Sat, 12 Sep 2026 21:09:06 +0000"
+      },
       {
         "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
         "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
         "published": "Sat, 12 Sep 2026 18:51:04 +0000"
       },
       {
-        "title": "Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees",
+        "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
         "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
         "published": "Sat, 12 Sep 2026 18:43:33 +0000"
       },
@@ -178,16 +188,6 @@
         "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
         "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
         "published": "Sat, 12 Sep 2026 10:11:01 +0000"
-      },
-      {
-        "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
-        "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-        "published": "Fri, 11 Sep 2026 23:47:51 +0000"
-      },
-      {
-        "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
-        "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
-        "published": "Fri, 11 Sep 2026 17:12:45 +0000"
       }
     ]
   },
@@ -362,7 +362,7 @@
         "name": "Taiwan Semiconductor Manufactur",
         "price": 433.24,
         "per": 31.94985,
-        "pbv": 88.65905,
+        "pbv": 88.4878,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 708.51,
+        "price": 714.99,
         "dividend_yield": 0.0042,
         "ytd_return": 16.99566,
         "expense_ratio": null,
-        "three_year_return": 0.2461672
+        "three_year_return": 0.24491449
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 762.1857,
+        "price": 764.3512,
         "dividend_yield": 0.0098,
         "ytd_return": 13.07293,
         "expense_ratio": null,
-        "three_year_return": 0.2086544
+        "three_year_return": 0.2094335
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 696.6,
+        "price": 702.62,
         "dividend_yield": 0.0104,
         "ytd_return": 13.11347,
         "expense_ratio": null,
-        "three_year_return": 0.2096376
+        "three_year_return": 0.21040331
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 373.15,
+        "price": 376.31,
         "dividend_yield": 0.010299999,
         "ytd_return": 13.44794,
         "expense_ratio": null,
-        "three_year_return": 0.2058811
+        "three_year_return": 0.20665859
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 56.2622,
+        "price": 56.6398,
         "dividend_yield": 0.0797,
         "ytd_return": 5.36343,
         "expense_ratio": null,
-        "three_year_return": 0.0897477
+        "three_year_return": 0.0908122
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.2656,
+        "price": 59.7568,
         "dividend_yield": 0.1084,
         "ytd_return": 10.96428,
         "expense_ratio": null,
-        "three_year_return": 0.1942856
+        "three_year_return": 0.194207
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 81.70946,
+        "price": 80.81934,
         "dividend_yield": 0.0473,
         "ytd_return": -2.88047,
         "expense_ratio": null,
-        "three_year_return": -0.0094954
+        "three_year_return": -0.0067362
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 96.68628,
+        "price": 95.93898,
         "dividend_yield": 0.0405,
         "ytd_return": -0.22523,
         "expense_ratio": null,
-        "three_year_return": 0.039806
+        "three_year_return": 0.0399516
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.27,
+        "price": 71.19,
         "dividend_yield": 0.0404,
         "ytd_return": -0.18909,
         "expense_ratio": null,
-        "three_year_return": 0.0397617
+        "three_year_return": 0.0400559
       }
     }
   },
@@ -666,6 +666,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cez8kBYdrU63PFRGcywsp\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf1JP22UrCPenanC2TVQR\"}"
   }
 }
