@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:14:02.909534Z",
+  "generated_at": "2026-09-15T10:35:02.619793Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+        "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+        "published": "Tue, 15 Sep 2026 10:00:00 +0000"
+      },
+      {
         "title": "The AI industry has taken a doomer turn. What now?",
         "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
         "published": "Mon, 14 Sep 2026 17:54:22 +0000"
@@ -86,6 +91,11 @@
         "published": "Mon, 14 Sep 2026 12:10:00 +0000"
       },
       {
+        "title": "Roundtables: Could AI really kill us all?",
+        "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+        "published": "Fri, 11 Sep 2026 20:05:06 +0000"
+      },
+      {
         "title": "The Download: biotech’s future and cheaper, cleaner steel",
         "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
         "published": "Fri, 11 Sep 2026 12:10:00 +0000"
@@ -94,100 +104,90 @@
         "title": "Meet the under-35s shaping the future of biotech",
         "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
         "published": "Fri, 11 Sep 2026 09:00:00 +0000"
-      },
-      {
-        "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-        "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-        "published": "Thu, 10 Sep 2026 12:10:00 +0000"
-      },
-      {
-        "title": "Powering AI is an architecture problem",
-        "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-        "published": "Thu, 10 Sep 2026 11:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
-        "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
-        "published": "Mon, 14 Sep 2026 21:11:00 GMT"
+        "title": "When people with student debt try to save for retirement, they fall behind early and never catch up",
+        "link": "https://www.marketwatch.com/story/when-people-with-student-debt-try-to-save-for-retirement-they-fall-behind-early-and-never-catch-up-074b4b28?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 10:00:00 GMT"
       },
       {
-        "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
-        "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
-        "published": "Mon, 14 Sep 2026 21:11:00 GMT"
+        "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+        "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 09:15:00 GMT"
       },
       {
-        "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
-        "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-        "published": "Mon, 14 Sep 2026 21:00:00 GMT"
+        "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike",
+        "link": "https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 09:05:00 GMT"
       },
       {
-        "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
-        "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-        "published": "Mon, 14 Sep 2026 20:56:00 GMT"
+        "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+        "link": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 07:29:00 GMT"
       },
       {
-        "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
-        "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
-        "published": "Mon, 14 Sep 2026 20:47:00 GMT"
+        "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+        "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 00:15:00 GMT"
       },
       {
-        "title": "The 10 most overvalued housing markets in America",
-        "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
-        "published": "Mon, 14 Sep 2026 20:35:00 GMT"
+        "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+        "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 00:01:00 GMT"
       },
       {
-        "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-        "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-        "published": "Mon, 14 Sep 2026 20:30:00 GMT"
+        "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+        "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+        "published": "Mon, 14 Sep 2026 23:19:00 GMT"
       },
       {
-        "title": "Saudi Arabia may be just days away from not being able to export much oil",
-        "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
-        "published": "Mon, 14 Sep 2026 20:05:00 GMT"
+        "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
+        "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
+        "published": "Mon, 14 Sep 2026 21:57:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
-        "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
-        "published": "Mon, 14 Sep 2026 21:05:13 +0000"
+        "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+        "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
+        "published": "Tue, 15 Sep 2026 10:27:55 +0000"
       },
       {
-        "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
-        "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
-        "published": "Mon, 14 Sep 2026 19:21:58 +0000"
+        "title": "Nigel Farage-backed Stack BTC eyes $16 million gold dealer deal to fund bitcoin buy",
+        "link": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
+        "published": "Tue, 15 Sep 2026 10:06:40 +0000"
       },
       {
-        "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
-        "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
-        "published": "Mon, 14 Sep 2026 18:34:09 +0000"
+        "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
+        "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
+        "published": "Tue, 15 Sep 2026 09:30:58 +0000"
       },
       {
-        "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
-        "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
-        "published": "Mon, 14 Sep 2026 17:51:20 +0000"
+        "title": "Live updates: Bitcoin slides to $77,000 as Senate votes on Clarity Act",
+        "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
+        "published": "Tue, 15 Sep 2026 06:37:24 +0000"
       },
       {
-        "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
-        "link": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
-        "published": "Mon, 14 Sep 2026 15:57:01 +0000"
+        "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
+        "link": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
+        "published": "Tue, 15 Sep 2026 05:58:41 +0000"
       },
       {
-        "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
-        "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
-        "published": "Mon, 14 Sep 2026 15:10:29 +0000"
+        "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+        "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
+        "published": "Tue, 15 Sep 2026 05:12:06 +0000"
       },
       {
-        "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
-        "link": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
-        "published": "Mon, 14 Sep 2026 14:37:56 +0000"
+        "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
+        "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+        "published": "Tue, 15 Sep 2026 04:34:10 +0000"
       },
       {
-        "title": "Don’t let perfect be the enemy of Clarity",
-        "link": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
-        "published": "Mon, 14 Sep 2026 14:34:56 +0000"
+        "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
+        "link": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
+        "published": "Tue, 15 Sep 2026 04:09:01 +0000"
       }
     ]
   },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 210.96,
-        "per": 26.703798,
+        "per": 26.67004,
         "pbv": 22.246126,
         "roe": 1.17211,
         "roa": 0.53572,
@@ -256,7 +256,7 @@
       "AMZN": {
         "name": "Amazon.com, Inc.",
         "price": 253.54,
-        "per": 20.397425,
+        "per": 20.413849,
         "pbv": 4.9562125,
         "roe": 0.30558002,
         "roa": 0.06589,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 345.71,
-        "per": 17.34621,
+        "per": 17.363636,
         "pbv": 6.7924786,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 665.6,
-        "per": 25.050808,
+        "per": 25.06024,
         "pbv": 6.4923916,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -346,8 +346,8 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1575.15,
-        "per": 53.30457,
-        "pbv": 1327.509,
+        "per": 53.467415,
+        "pbv": 1328.3792,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -361,8 +361,8 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 418.01,
-        "per": 30.826696,
-        "pbv": 85.37713,
+        "per": 30.963705,
+        "pbv": 85.54236,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1065.6,
-        "per": 25.505026,
+        "per": 25.511131,
         "pbv": 2.8667972,
         "roe": 0.122779995,
         "roa": 0.03737,
@@ -520,12 +520,12 @@
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "per": 20.397425
+        "per": 20.413849
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "per": 17.34621
+        "per": 17.363636
       }
     ],
     "most_overvalued": [
@@ -562,7 +562,7 @@
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.239,
+        "composite_score": 0.238,
         "components_used": 9
       },
       {
@@ -666,6 +666,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf42HUmJB4Gga3Ws3amk7\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cf55NAkZws6HnoHRX9FaA\"}"
   }
 }
