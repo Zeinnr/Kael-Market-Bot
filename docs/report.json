@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:49:58.948025Z",
+  "generated_at": "2026-09-20T10:12:31.573162Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,21 @@
     ],
     "markets": [
       {
+        "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+        "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+        "published": "Sun, 20 Sep 2026 01:45:00 GMT"
+      },
+      {
+        "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+        "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+        "published": "Sun, 20 Sep 2026 01:30:00 GMT"
+      },
+      {
+        "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+        "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+        "published": "Sun, 20 Sep 2026 01:03:00 GMT"
+      },
+      {
         "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
         "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
         "published": "Sat, 19 Sep 2026 18:57:00 GMT"
@@ -131,21 +146,6 @@
         "title": "These are the 10 biggest retirement fears — and what you can do about them",
         "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
         "published": "Sat, 19 Sep 2026 17:21:00 GMT"
-      },
-      {
-        "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
-        "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
-        "published": "Sat, 19 Sep 2026 16:45:00 GMT"
-      },
-      {
-        "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-        "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
-        "published": "Sat, 19 Sep 2026 16:19:00 GMT"
-      },
-      {
-        "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-        "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-        "published": "Sat, 19 Sep 2026 16:15:00 GMT"
       }
     ],
     "crypto": [
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 716.93,
+        "price": 721.72,
         "dividend_yield": 0.0042,
         "ytd_return": 16.99566,
         "expense_ratio": null,
-        "three_year_return": 0.2529599
+        "three_year_return": 0.2551585
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 762.6331,
+        "price": 762.0114,
         "dividend_yield": 0.0098,
         "ytd_return": 13.07293,
         "expense_ratio": null,
-        "three_year_return": 0.2116991
+        "three_year_return": 0.2119804
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 701.05,
+        "price": 702.22,
         "dividend_yield": 0.0104,
         "ytd_return": 13.11347,
         "expense_ratio": null,
-        "three_year_return": 0.2128096
+        "three_year_return": 0.21279699
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 375.3,
+        "price": 375.67,
         "dividend_yield": 0.010299999,
         "ytd_return": 13.44794,
         "expense_ratio": null,
-        "three_year_return": 0.2088486
+        "three_year_return": 0.20890881
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 56.21,
+        "price": 56.2213,
         "dividend_yield": 0.0797,
         "ytd_return": 5.36343,
         "expense_ratio": null,
-        "three_year_return": 0.0894882
+        "three_year_return": 0.088961095
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.922,
+        "price": 60.264,
         "dividend_yield": 0.1084,
         "ytd_return": 10.96428,
         "expense_ratio": null,
-        "three_year_return": 0.19879909
+        "three_year_return": 0.2000656
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 81.75508,
+        "price": 81.15524,
         "dividend_yield": 0.0473,
         "ytd_return": -2.88047,
         "expense_ratio": null,
-        "three_year_return": -0.0004216
+        "three_year_return": -0.004474
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 96.28758,
+        "price": 95.90445,
         "dividend_yield": 0.0405,
         "ytd_return": -0.22523,
         "expense_ratio": null,
-        "three_year_return": 0.0418679
+        "three_year_return": 0.0400243
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.43,
+        "price": 71.16,
         "dividend_yield": 0.0404,
         "ytd_return": -0.18909,
         "expense_ratio": null,
-        "three_year_return": 0.0417615
+        "three_year_return": 0.0400808
       }
     }
   },
@@ -666,6 +666,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfDNvFDbuLN5XUEVYBL3c\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfEWhACZBtGys7PTNYp47\"}"
   }
 }
