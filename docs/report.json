@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:12:31.573162Z",
+  "generated_at": "2026-09-20T20:04:10.014188Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,47 +108,62 @@
     ],
     "markets": [
       {
+        "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+        "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+        "published": "Sun, 20 Sep 2026 17:30:00 GMT"
+      },
+      {
+        "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+        "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+        "published": "Sun, 20 Sep 2026 16:30:00 GMT"
+      },
+      {
+        "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+        "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+        "published": "Sun, 20 Sep 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
+        "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+        "published": "Sun, 20 Sep 2026 14:08:00 GMT"
+      },
+      {
         "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
         "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-        "published": "Sun, 20 Sep 2026 01:45:00 GMT"
+        "published": "Sun, 20 Sep 2026 14:00:00 GMT"
       },
       {
-        "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-        "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-        "published": "Sun, 20 Sep 2026 01:30:00 GMT"
+        "title": "China is chasing SpaceX and setting its sights on the global space economy",
+        "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
+        "published": "Sun, 20 Sep 2026 13:53:00 GMT"
       },
       {
-        "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-        "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-        "published": "Sun, 20 Sep 2026 01:03:00 GMT"
+        "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+        "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+        "published": "Sun, 20 Sep 2026 13:16:00 GMT"
       },
       {
-        "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
-        "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-        "published": "Sat, 19 Sep 2026 18:57:00 GMT"
-      },
-      {
-        "title": "90% of retirees are making this miscalculation with their savings",
-        "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
-        "published": "Sat, 19 Sep 2026 18:40:00 GMT"
-      },
-      {
-        "title": "Many young investors can’t afford to invest without their parents’ help",
-        "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-        "published": "Sat, 19 Sep 2026 18:22:00 GMT"
-      },
-      {
-        "title": "The future of retirement? Work until you die.",
-        "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-        "published": "Sat, 19 Sep 2026 17:53:00 GMT"
-      },
-      {
-        "title": "These are the 10 biggest retirement fears — and what you can do about them",
-        "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
-        "published": "Sat, 19 Sep 2026 17:21:00 GMT"
+        "title": "Record diesel prices are exposing pain points in the stock market and economy",
+        "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+        "published": "Sun, 20 Sep 2026 13:00:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+        "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+        "published": "Sun, 20 Sep 2026 14:54:48 +0000"
+      },
+      {
+        "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+        "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+        "published": "Sun, 20 Sep 2026 12:00:00 +0000"
+      },
+      {
+        "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+        "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+        "published": "Sun, 20 Sep 2026 12:00:00 +0000"
+      },
       {
         "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
         "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
@@ -173,21 +188,6 @@
         "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
         "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
         "published": "Sat, 19 Sep 2026 12:00:00 +0000"
-      },
-      {
-        "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
-        "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
-        "published": "Sat, 19 Sep 2026 12:00:00 +0000"
-      },
-      {
-        "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-        "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
-        "published": "Fri, 18 Sep 2026 15:16:37 +0000"
-      },
-      {
-        "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-        "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-        "published": "Fri, 18 Sep 2026 15:06:31 +0000"
       }
     ]
   },
@@ -666,6 +666,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfEWhACZBtGys7PTNYp47\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfFHou3Ank5w2tswgtLkz\"}"
   }
 }
