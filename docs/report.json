@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:58:57.754454Z",
+  "generated_at": "2026-09-25T10:42:07.296074Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,16 @@
     ],
     "ai_tech": [
       {
+        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+        "published": "Fri, 25 Sep 2026 09:16:25 +0000"
+      },
+      {
+        "title": "Young organs may not be a fountain of youth for recipients",
+        "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+        "published": "Fri, 25 Sep 2026 09:00:00 +0000"
+      },
+      {
         "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
         "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
         "published": "Thu, 24 Sep 2026 12:10:00 +0000"
@@ -94,100 +104,90 @@
         "title": "Smart glasses are already causing havoc in India",
         "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
         "published": "Wed, 23 Sep 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-        "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-        "published": "Tue, 22 Sep 2026 13:42:05 +0000"
-      },
-      {
-        "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-        "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-        "published": "Tue, 22 Sep 2026 12:10:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Costco earnings beat expectations, thanks to tariff refunds",
+        "title": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company’s stock soaring",
+        "link": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
+        "published": "Fri, 25 Sep 2026 09:11:00 GMT"
+      },
+      {
+        "title": "The low-key California property portfolio of ‘Wednesday’ star Jenna Ortega",
+        "link": "https://www.marketwatch.com/story/the-low-key-california-property-portfolio-of-wednesday-star-jenna-ortega-1e0c80cb?mod=mw_rss_topstories",
+        "published": "Fri, 25 Sep 2026 09:01:00 GMT"
+      },
+      {
+        "title": "Akamai’s stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
+        "link": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
+        "published": "Fri, 25 Sep 2026 08:42:00 GMT"
+      },
+      {
+        "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+        "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 23:35:00 GMT"
+      },
+      {
+        "title": "3 things Micron investors need to watch as the stakes get higher",
+        "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 23:28:00 GMT"
+      },
+      {
+        "title": "The S&P 500’s newest tech stock is now its best performer",
+        "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 23:26:00 GMT"
+      },
+      {
+        "title": "Costco’s results beat expectations. Here’s why investors are still cautious.",
         "link": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 20:54:00 GMT"
+        "published": "Thu, 24 Sep 2026 23:23:00 GMT"
       },
       {
-        "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
-        "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 20:50:00 GMT"
-      },
-      {
-        "title": "Stop trying to beat the market: Even the richest Americans can’t do it consistently",
-        "link": "https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 20:20:00 GMT"
-      },
-      {
-        "title": "Oracle’s stock is falling as investors fear a data-center setback",
-        "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 20:12:00 GMT"
-      },
-      {
-        "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
-        "link": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 19:42:00 GMT"
-      },
-      {
-        "title": "I’m afraid of ‘starving to death.’ Social Security stopped our checks due to a hacked bank account. What can we do?",
-        "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 19:40:00 GMT"
-      },
-      {
-        "title": "The government canceled her student loans due to a scam — but $72,000 is still on her credit report",
-        "link": "https://www.marketwatch.com/story/the-government-canceled-her-student-loans-due-to-a-scam-but-72-000-is-still-on-her-credit-report-4889733b?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 19:19:00 GMT"
-      },
-      {
-        "title": "The case against buying and holding stocks for the long term",
-        "link": "https://www.marketwatch.com/story/the-case-against-buying-and-holding-stocks-for-the-long-term-a7fd79bb?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 19:06:00 GMT"
+        "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
+        "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 23:16:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
-        "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
-        "published": "Thu, 24 Sep 2026 20:13:25 +0000"
+        "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+        "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+        "published": "Fri, 25 Sep 2026 09:59:45 +0000"
       },
       {
-        "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
-        "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
-        "published": "Thu, 24 Sep 2026 20:05:00 +0000"
+        "title": "Bitcoin ETFs have erased a $5.8 billion hole",
+        "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+        "published": "Fri, 25 Sep 2026 09:13:01 +0000"
       },
       {
-        "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
-        "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
-        "published": "Thu, 24 Sep 2026 20:04:46 +0000"
+        "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+        "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+        "published": "Fri, 25 Sep 2026 08:58:03 +0000"
       },
       {
-        "title": "The stock token debate, and the gap nobody can close alone",
-        "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
-        "published": "Thu, 24 Sep 2026 20:03:21 +0000"
+        "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+        "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+        "published": "Fri, 25 Sep 2026 07:09:11 +0000"
       },
       {
-        "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
-        "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
-        "published": "Thu, 24 Sep 2026 18:46:58 +0000"
+        "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
+        "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
+        "published": "Fri, 25 Sep 2026 04:29:34 +0000"
       },
       {
-        "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-        "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-        "published": "Thu, 24 Sep 2026 15:48:20 +0000"
+        "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+        "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+        "published": "Thu, 24 Sep 2026 22:41:44 +0000"
       },
       {
-        "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
-        "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
-        "published": "Thu, 24 Sep 2026 15:26:34 +0000"
+        "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+        "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+        "published": "Thu, 24 Sep 2026 22:28:49 +0000"
       },
       {
-        "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
-        "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-        "published": "Thu, 24 Sep 2026 15:07:18 +0000"
+        "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+        "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+        "published": "Thu, 24 Sep 2026 21:59:32 +0000"
       }
     ]
   },
@@ -196,7 +196,7 @@
       "NVDA": {
         "name": "NVIDIA Corporation",
         "price": 224.58,
-        "per": 28.35606,
+        "per": 28.39191,
         "pbv": 23.682379,
         "roe": 1.17211,
         "roa": 0.53572,
@@ -211,8 +211,8 @@
       "ORCL": {
         "name": "Oracle Corporation",
         "price": 139.54,
-        "per": 21.871471,
-        "pbv": 6.8261423,
+        "per": 22.68943,
+        "pbv": 10.70092,
         "roe": 0.41192,
         "roa": 0.06357,
         "der": 251.716,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 339.01,
-        "per": 17.010035,
+        "per": 16.807636,
         "pbv": 6.660838,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 777.59,
-        "per": 29.276733,
+        "per": 28.011168,
         "pbv": 7.5847645,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -346,8 +346,8 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1722.5,
-        "per": 59.13148,
-        "pbv": 1471.1716,
+        "per": 59.87139,
+        "pbv": 1479.716,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -361,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 451.15,
-        "per": 33.567707,
+        "per": 33.44329,
         "pbv": 92.27735,
         "roe": 0.39969003,
         "roa": 0.19002001,
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1073.45,
-        "per": 25.74838,
+        "per": 25.70522,
         "pbv": 2.887916,
         "roe": 0.122779995,
         "roa": 0.03737,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 747.47,
+        "price": 741.11,
         "dividend_yield": 0.0042,
         "ytd_return": 16.99566,
         "expense_ratio": null,
-        "three_year_return": 0.2854043
+        "three_year_return": 0.2818115
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 773.44293,
+        "price": 767.6102,
         "dividend_yield": 0.0098,
         "ytd_return": 13.07293,
         "expense_ratio": null,
-        "three_year_return": 0.2304859
+        "three_year_return": 0.2275248
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 712.76,
+        "price": 707.38,
         "dividend_yield": 0.0104,
         "ytd_return": 13.11347,
         "expense_ratio": null,
-        "three_year_return": 0.2314943
+        "three_year_return": 0.2285038
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 381.23,
+        "price": 378.18,
         "dividend_yield": 0.010299999,
         "ytd_return": 13.44794,
         "expense_ratio": null,
-        "three_year_return": 0.22751051
+        "three_year_return": 0.22423929
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 56.7468,
+        "price": 56.5538,
         "dividend_yield": 0.0797,
         "ytd_return": 5.36343,
         "expense_ratio": null,
-        "three_year_return": 0.099656
+        "three_year_return": 0.0986214
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 61.1734,
+        "price": 61.065,
         "dividend_yield": 0.1084,
         "ytd_return": 10.96428,
         "expense_ratio": null,
-        "three_year_return": 0.2179237
+        "three_year_return": 0.2174589
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 81.72895,
+        "price": 80.43966,
         "dividend_yield": 0.0473,
         "ytd_return": -2.88047,
         "expense_ratio": null,
-        "three_year_return": 0.0050004
+        "three_year_return": -0.0003139
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 96.20111,
+        "price": 95.39817,
         "dividend_yield": 0.0405,
         "ytd_return": -0.22523,
         "expense_ratio": null,
-        "three_year_return": 0.0431842
+        "three_year_return": 0.0401406
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.38,
+        "price": 70.8,
         "dividend_yield": 0.0404,
         "ytd_return": -0.18909,
         "expense_ratio": null,
-        "three_year_return": 0.043044
+        "three_year_return": 0.0401144
       }
     }
   },
@@ -520,7 +520,7 @@
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "per": 21.871471
+        "per": 22.68943
       },
       {
         "ticker": "AMZN",
@@ -530,7 +530,7 @@
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "per": 17.010035
+        "per": 16.807636
       }
     ],
     "most_overvalued": [
@@ -555,7 +555,7 @@
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.54,
+        "composite_score": 0.541,
         "components_used": 8
       },
       {
@@ -567,7 +567,7 @@
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.225,
+        "composite_score": 0.226,
         "components_used": 9
       },
       {
@@ -603,19 +603,19 @@
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "composite_score": -0.198,
+        "composite_score": -0.197,
         "components_used": 9
       },
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.354,
+        "composite_score": -0.356,
         "components_used": 9
       },
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.466,
+        "composite_score": -0.467,
         "components_used": 9
       },
       {
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfNwDuumJpkZ4yVYZUmCK\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CfQ1zdF8RGk9krD7Uz7Ah\"}"
   }
 }
