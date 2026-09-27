@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:27:04.164273Z",
+  "generated_at": "2026-09-27T10:56:15.732686Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -212,7 +212,7 @@
         "name": "Oracle Corporation",
         "price": 137.1,
         "per": 21.489029,
-        "pbv": 6.7067804,
+        "pbv": 10.513804,
         "roe": 0.41192,
         "roa": 0.06357,
         "der": 251.716,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 516.17,
-        "per": 28.739979,
+        "per": 28.723984,
         "pbv": 8.665659,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1743.94,
         "per": 60.23972,
-        "pbv": 1499.0164,
+        "pbv": 1496.8582,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -362,7 +362,7 @@
         "name": "Taiwan Semiconductor Manufactur",
         "price": 450.61,
         "per": 33.552494,
-        "pbv": 92.1669,
+        "pbv": 92.533676,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 741.32,
+        "price": 744.46,
         "dividend_yield": 0.0042,
         "ytd_return": 16.99566,
         "expense_ratio": null,
-        "three_year_return": 0.28174812
+        "three_year_return": 0.28167918
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 767.4363,
+        "price": 771.35333,
         "dividend_yield": 0.0098,
         "ytd_return": 13.07293,
         "expense_ratio": null,
-        "three_year_return": 0.22718889
+        "three_year_return": 0.22768989
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 707.21,
+        "price": 710.83,
         "dividend_yield": 0.0104,
         "ytd_return": 13.11347,
         "expense_ratio": null,
-        "three_year_return": 0.2281507
+        "three_year_return": 0.22864719
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 378.06,
+        "price": 379.82,
         "dividend_yield": 0.010299999,
         "ytd_return": 13.44794,
         "expense_ratio": null,
-        "three_year_return": 0.2240774
+        "three_year_return": 0.2242581
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 56.5121,
+        "price": 56.7321,
         "dividend_yield": 0.0797,
         "ytd_return": 5.36343,
         "expense_ratio": null,
-        "three_year_return": 0.0982977
+        "three_year_return": 0.09890661
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 61.0846,
+        "price": 61.2344,
         "dividend_yield": 0.1084,
         "ytd_return": 10.96428,
         "expense_ratio": null,
-        "three_year_return": 0.21752541
+        "three_year_return": 0.21674761
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 79.39343,
+        "price": 79.28127,
         "dividend_yield": 0.0473,
         "ytd_return": -2.88047,
         "expense_ratio": null,
-        "three_year_return": -0.0046397997
+        "three_year_return": 0.0032403
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 94.92522,
+        "price": 95.1136,
         "dividend_yield": 0.0405,
         "ytd_return": -0.22523,
         "expense_ratio": null,
-        "three_year_return": 0.0384663
+        "three_year_return": 0.0418332
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 70.46,
+        "price": 70.59,
         "dividend_yield": 0.0404,
         "ytd_return": -0.18909,
         "expense_ratio": null,
-        "three_year_return": 0.0383488
+        "three_year_return": 0.0418012
       }
     }
   }
