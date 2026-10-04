@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:25:14.884974Z",
+  "generated_at": "2026-10-04T11:25:57.808858Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,16 @@
     ],
     "markets": [
       {
+        "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+        "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+        "published": "Sun, 04 Oct 2026 00:02:00 GMT"
+      },
+      {
+        "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+        "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+        "published": "Sat, 03 Oct 2026 23:58:00 GMT"
+      },
+      {
         "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
         "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
         "published": "Sat, 03 Oct 2026 20:00:00 GMT"
@@ -136,16 +146,6 @@
         "title": "Switching jobs to get higher pay works best in these industries",
         "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
         "published": "Sat, 03 Oct 2026 16:42:00 GMT"
-      },
-      {
-        "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-        "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-        "published": "Sat, 03 Oct 2026 16:00:00 GMT"
-      },
-      {
-        "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-        "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-        "published": "Sat, 03 Oct 2026 15:42:00 GMT"
       }
     ],
     "crypto": [
@@ -362,7 +362,7 @@
         "name": "Taiwan Semiconductor Manufactur",
         "price": 472.78,
         "per": 35.334827,
-        "pbv": 97.21941,
+        "pbv": 97.33423,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 741.88,
+        "price": 749.38,
         "dividend_yield": 0.0042,
         "ytd_return": 16.99566,
         "expense_ratio": null,
-        "three_year_return": 0.2818544
+        "three_year_return": 0.28262898
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 763.77515,
+        "price": 769.44183,
         "dividend_yield": 0.0098,
         "ytd_return": 13.07293,
         "expense_ratio": null,
-        "three_year_return": 0.22828871
+        "three_year_return": 0.2314724
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 702.03,
+        "price": 707.24,
         "dividend_yield": 0.0104,
         "ytd_return": 13.11347,
         "expense_ratio": null,
-        "three_year_return": 0.2293825
+        "three_year_return": 0.2324346
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 375.13,
+        "price": 377.96,
         "dividend_yield": 0.010299999,
         "ytd_return": 13.44794,
         "expense_ratio": null,
-        "three_year_return": 0.2243277
+        "three_year_return": 0.22791651
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 55.9043,
+        "price": 56.1011,
         "dividend_yield": 0.0797,
         "ytd_return": 5.36343,
         "expense_ratio": null,
-        "three_year_return": 0.1006997
+        "three_year_return": 0.1034415
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 60.78,
+        "price": 61.0353,
         "dividend_yield": 0.1084,
         "ytd_return": 10.96428,
         "expense_ratio": null,
-        "three_year_return": 0.21912189
+        "three_year_return": 0.21783331
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 77.67995,
+        "price": 77.42227,
         "dividend_yield": 0.0473,
         "ytd_return": -2.88047,
         "expense_ratio": null,
-        "three_year_return": -0.00042989998
+        "three_year_return": 0.0042001
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 94.39586,
+        "price": 94.20042,
         "dividend_yield": 0.0405,
         "ytd_return": -0.22523,
         "expense_ratio": null,
-        "three_year_return": 0.0414537
+        "three_year_return": 0.0432476
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 70.06,
+        "price": 69.91,
         "dividend_yield": 0.0404,
         "ytd_return": -0.18909,
         "expense_ratio": null,
-        "three_year_return": 0.041210197
+        "three_year_return": 0.0428511
       }
     }
   },
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cffvw3Hrw61mCuAkVyVCM\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cfh7cmzQ3d5MYQa1sPCui\"}"
   }
 }
