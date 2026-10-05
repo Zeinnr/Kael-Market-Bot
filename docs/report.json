@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:43:22.950496Z",
+  "generated_at": "2026-10-05T12:51:17.295861Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,21 @@
     ],
     "ai_tech": [
       {
+        "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+        "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+        "published": "Mon, 05 Oct 2026 12:10:00 +0000"
+      },
+      {
+        "title": "People really hate AI, so why can’t they get enough?",
+        "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+        "published": "Mon, 05 Oct 2026 08:00:00 +0000"
+      },
+      {
+        "title": "EmTech Future 2026: When AI Meets Everything",
+        "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+        "published": "Mon, 05 Oct 2026 04:00:00 +0000"
+      },
+      {
         "title": "Redefining enterprise intelligence with autonomous AI",
         "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
         "published": "Fri, 02 Oct 2026 15:49:04 +0000"
@@ -89,105 +104,90 @@
         "title": "The Download: AI “mind-reading” and creative uses for small batteries",
         "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
         "published": "Thu, 01 Oct 2026 12:10:00 +0000"
-      },
-      {
-        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-        "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-        "published": "Thu, 01 Oct 2026 10:32:24 +0000"
-      },
-      {
-        "title": "How smaller, distributed batteries could help the grid",
-        "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-        "published": "Thu, 01 Oct 2026 10:00:00 +0000"
-      },
-      {
-        "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-        "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-        "published": "Wed, 30 Sep 2026 12:10:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-        "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-        "published": "Sun, 04 Oct 2026 20:31:00 GMT"
+        "title": "Go ahead and get that poetry degree. Republican law won’t prevent people with humanities majors from getting student loans.",
+        "link": "https://www.marketwatch.com/story/go-ahead-and-get-that-poetry-degree-republican-law-wont-prevent-people-with-humanities-majors-from-getting-student-loans-f94587cf?mod=mw_rss_topstories",
+        "published": "Mon, 05 Oct 2026 12:30:00 GMT"
       },
       {
-        "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-        "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-        "published": "Sun, 04 Oct 2026 20:00:00 GMT"
+        "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+        "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+        "published": "Mon, 05 Oct 2026 11:40:00 GMT"
+      },
+      {
+        "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
+        "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+        "published": "Mon, 05 Oct 2026 11:27:00 GMT"
+      },
+      {
+        "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
+        "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
+        "published": "Mon, 05 Oct 2026 11:19:00 GMT"
       },
       {
         "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
         "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-        "published": "Sun, 04 Oct 2026 19:30:00 GMT"
+        "published": "Mon, 05 Oct 2026 11:15:00 GMT"
       },
       {
-        "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-        "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-        "published": "Sun, 04 Oct 2026 19:08:00 GMT"
+        "title": "Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
+        "link": "https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories",
+        "published": "Mon, 05 Oct 2026 10:46:00 GMT"
       },
       {
-        "title": "Corporate America has never been this upbeat about future profits",
-        "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
-        "published": "Sun, 04 Oct 2026 14:00:00 GMT"
+        "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
+        "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+        "published": "Mon, 05 Oct 2026 10:39:00 GMT"
       },
       {
-        "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
-        "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
-        "published": "Sun, 04 Oct 2026 13:00:00 GMT"
-      },
-      {
-        "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
-        "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-        "published": "Sun, 04 Oct 2026 12:00:00 GMT"
-      },
-      {
-        "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-        "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
-        "published": "Sun, 04 Oct 2026 00:02:00 GMT"
+        "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says one major bank.",
+        "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
+        "published": "Mon, 05 Oct 2026 10:33:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "There's an election next month: State of Crypto",
-        "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-        "published": "Sun, 04 Oct 2026 18:30:00 +0000"
+        "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
+        "link": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
+        "published": "Mon, 05 Oct 2026 12:28:35 +0000"
       },
       {
-        "title": "Crypto poured years into new products. The next challenge is keeping users",
-        "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-        "published": "Sun, 04 Oct 2026 14:00:00 +0000"
+        "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+        "published": "Mon, 05 Oct 2026 11:14:35 +0000"
       },
       {
-        "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
-        "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-        "published": "Sun, 04 Oct 2026 13:00:00 +0000"
+        "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
+        "link": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
+        "published": "Mon, 05 Oct 2026 11:08:03 +0000"
       },
       {
-        "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-        "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-        "published": "Sat, 03 Oct 2026 16:00:00 +0000"
+        "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
+        "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+        "published": "Mon, 05 Oct 2026 10:58:03 +0000"
       },
       {
-        "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-        "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-        "published": "Sat, 03 Oct 2026 16:00:00 +0000"
+        "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
+        "link": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
+        "published": "Mon, 05 Oct 2026 10:44:55 +0000"
       },
       {
-        "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-        "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-        "published": "Sat, 03 Oct 2026 15:00:00 +0000"
+        "title": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
+        "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
+        "published": "Mon, 05 Oct 2026 10:39:57 +0000"
       },
       {
-        "title": "Crypto's Sisyphean struggle",
-        "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
-        "published": "Sat, 03 Oct 2026 13:00:00 +0000"
+        "title": "Cardano's ADA leads gains in narrow range-bound market",
+        "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+        "published": "Mon, 05 Oct 2026 10:37:30 +0000"
       },
       {
-        "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-        "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
-        "published": "Sat, 03 Oct 2026 13:00:00 +0000"
+        "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
+        "link": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
+        "published": "Mon, 05 Oct 2026 09:37:13 +0000"
       }
     ]
   },
@@ -212,7 +212,7 @@
         "name": "Oracle Corporation",
         "price": 142.3,
         "per": 22.304075,
-        "pbv": 6.9611588,
+        "pbv": 10.912577,
         "roe": 0.41192,
         "roa": 0.06357,
         "der": 251.716,
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 333.69,
-        "per": 38.31114,
+        "per": 38.2672,
         "pbv": 45.338314,
         "roe": 1.4875101,
         "roa": 0.27082002,
@@ -241,7 +241,7 @@
       "TSLA": {
         "name": "Tesla, Inc.",
         "price": 370.59,
-        "per": 346.34576,
+        "per": 343.1389,
         "pbv": 16.84883,
         "roe": 0.046669997,
         "roa": 0.019299999,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 517.53,
-        "per": 28.815704,
+        "per": 28.831755,
         "pbv": 8.688492,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -286,7 +286,7 @@
       "GOOG": {
         "name": "Alphabet Inc.",
         "price": 340.35,
-        "per": 17.068707,
+        "per": 17.07727,
         "pbv": 6.687166,
         "roe": 0.48676,
         "roa": 0.12958999,
@@ -301,7 +301,7 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 728.08,
-        "per": 27.402334,
+        "per": 27.433308,
         "pbv": 7.1018343,
         "roe": 0.29848,
         "roa": 0.14591,
@@ -316,7 +316,7 @@
       "PLTR": {
         "name": "Palantir Technologies Inc.",
         "price": 188.75,
-        "per": 161.3248,
+        "per": 162.71552,
         "pbv": 46.398724,
         "roe": 0.38097,
         "roa": 0.17292999,
@@ -346,8 +346,8 @@
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
         "price": 1867.31,
-        "per": 64.92733,
-        "pbv": 1623.1832,
+        "per": 60.607273,
+        "pbv": 1621.9719,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -361,7 +361,7 @@
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
         "price": 472.78,
-        "per": 35.334827,
+        "per": 34.359013,
         "pbv": 97.33423,
         "roe": 0.39969003,
         "roa": 0.19002001,
@@ -370,7 +370,7 @@
         "fcf": 730826014720,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.00861,
+        "dividend_yield": 0.008,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
@@ -378,7 +378,7 @@
       "BLK": {
         "name": "BlackRock, Inc.",
         "price": 1059.63,
-        "per": 25.38036,
+        "per": 25.362135,
         "pbv": 2.850736,
         "roe": 0.122779995,
         "roa": 0.03737,
@@ -530,50 +530,50 @@
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "per": 17.068707
+        "per": 17.07727
       }
     ],
     "most_overvalued": [
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "per": 346.34576
+        "per": 343.1389
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "per": 161.3248
+        "per": 162.71552
       }
     ],
     "equity_ranking": [
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.098,
+        "composite_score": 1.099,
         "components_used": 9
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.541,
+        "composite_score": 0.538,
         "components_used": 8
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": 0.371,
+        "composite_score": 0.372,
         "components_used": 9
       },
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.219,
+        "composite_score": 0.211,
         "components_used": 9
       },
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.144,
+        "composite_score": 0.145,
         "components_used": 9
       },
       {
@@ -591,19 +591,19 @@
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "composite_score": -0.024,
+        "composite_score": -0.023,
         "components_used": 9
       },
       {
         "ticker": "BAC",
         "name": "Bank of America Corporation",
-        "composite_score": -0.024,
+        "composite_score": -0.023,
         "components_used": 8
       },
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "composite_score": -0.189,
+        "composite_score": -0.188,
         "components_used": 9
       },
       {
@@ -615,7 +615,7 @@
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.478,
+        "composite_score": -0.472,
         "components_used": 9
       },
       {
@@ -627,7 +627,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -0.855,
+        "composite_score": -0.854,
         "components_used": 8
       }
     ],
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cfhr8A3tGzhMyw3iyQLwW\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cfj7w4nSvUGMVkNPUwHuX\"}"
   }
 }
