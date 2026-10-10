@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:04:13.777370Z",
+  "generated_at": "2026-10-10T11:29:10.125950Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,31 @@
     ],
     "markets": [
       {
+        "title": "S&P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the index",
+        "link": "https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories",
+        "published": "Sat, 10 Oct 2026 11:00:00 GMT"
+      },
+      {
+        "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+        "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+        "published": "Sat, 10 Oct 2026 11:00:00 GMT"
+      },
+      {
+        "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+        "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+        "published": "Sat, 10 Oct 2026 10:30:00 GMT"
+      },
+      {
+        "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+        "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+        "published": "Fri, 09 Oct 2026 23:15:00 GMT"
+      },
+      {
+        "title": "How to provide guaranteed retirement income while paying no commissions",
+        "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+        "published": "Fri, 09 Oct 2026 22:41:00 GMT"
+      },
+      {
         "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
         "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
         "published": "Fri, 09 Oct 2026 22:00:00 GMT"
@@ -121,34 +146,34 @@
         "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
         "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
         "published": "Fri, 09 Oct 2026 21:27:00 GMT"
-      },
-      {
-        "title": "Microsoft is nearing a big milestone that solidifies its revival",
-        "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-        "published": "Fri, 09 Oct 2026 21:24:00 GMT"
-      },
-      {
-        "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-        "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-        "published": "Fri, 09 Oct 2026 21:15:00 GMT"
-      },
-      {
-        "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-        "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-        "published": "Fri, 09 Oct 2026 21:07:00 GMT"
-      },
-      {
-        "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-        "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-        "published": "Fri, 09 Oct 2026 21:00:00 GMT"
-      },
-      {
-        "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-        "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-        "published": "Fri, 09 Oct 2026 20:15:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
+        "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+        "published": "Sat, 10 Oct 2026 11:00:00 +0000"
+      },
+      {
+        "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+        "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+        "published": "Sat, 10 Oct 2026 05:43:00 +0000"
+      },
+      {
+        "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+        "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+        "published": "Sat, 10 Oct 2026 04:44:35 +0000"
+      },
+      {
+        "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+        "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+        "published": "Sat, 10 Oct 2026 04:20:07 +0000"
+      },
+      {
+        "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+        "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+        "published": "Sat, 10 Oct 2026 03:00:00 +0000"
+      },
       {
         "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
         "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
@@ -163,31 +188,6 @@
         "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
         "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
         "published": "Fri, 09 Oct 2026 14:55:23 +0000"
-      },
-      {
-        "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-        "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
-        "published": "Fri, 09 Oct 2026 14:47:27 +0000"
-      },
-      {
-        "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-        "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-        "published": "Fri, 09 Oct 2026 12:23:54 +0000"
-      },
-      {
-        "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-        "link": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-        "published": "Fri, 09 Oct 2026 11:39:05 +0000"
-      },
-      {
-        "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-        "published": "Fri, 09 Oct 2026 11:09:04 +0000"
-      },
-      {
-        "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-        "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-        "published": "Fri, 09 Oct 2026 10:44:22 +0000"
       }
     ]
   },
@@ -212,7 +212,7 @@
         "name": "Oracle Corporation",
         "price": 141.4,
         "per": 22.163008,
-        "pbv": 10.843558,
+        "pbv": 6.9171314,
         "roe": 0.41192,
         "roa": 0.06357,
         "der": 251.716,
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 535.07,
-        "per": 29.808912,
+        "per": 29.111536,
         "pbv": 8.98296,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1780.34,
         "per": 57.784485,
-        "pbv": 1546.8269,
+        "pbv": 1546.4285,
         "roe": 0.53942,
         "roa": 0.16454001,
         "der": 9.092,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 759.5,
+        "price": 747.41,
         "dividend_yield": 0.0042,
         "ytd_return": 20.8292,
         "expense_ratio": null,
-        "three_year_return": 0.2842893
+        "three_year_return": 0.2774454
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 779.0856,
+        "price": 773.76697,
         "dividend_yield": 0.0099,
         "ytd_return": 12.67538,
         "expense_ratio": null,
-        "three_year_return": 0.2343486
+        "three_year_return": 0.23161751
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 716.11,
+        "price": 711.23,
         "dividend_yield": 0.0106,
         "ytd_return": 12.71956,
         "expense_ratio": null,
-        "three_year_return": 0.23546341
+        "three_year_return": 0.23262791
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 382.48,
+        "price": 379.56,
         "dividend_yield": 0.0106,
         "ytd_return": 12.58111,
         "expense_ratio": null,
-        "three_year_return": 0.2312201
+        "three_year_return": 0.2280147
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 56.5504,
+        "price": 56.6777,
         "dividend_yield": 0.081599995,
         "ytd_return": 3.6467,
         "expense_ratio": null,
-        "three_year_return": 0.1059708
+        "three_year_return": 0.1068178
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 61.2321,
+        "price": 60.9112,
         "dividend_yield": 0.1105,
         "ytd_return": 14.19387,
         "expense_ratio": null,
-        "three_year_return": 0.2167224
+        "three_year_return": 0.2145998
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 77.23877,
+        "price": 77.83483,
         "dividend_yield": 0.05,
         "ytd_return": -7.99832,
         "expense_ratio": null,
-        "three_year_return": 0.0117061995
+        "three_year_return": 0.014274401
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 94.29128,
+        "price": 94.59531,
         "dividend_yield": 0.0419,
         "ytd_return": -2.84047,
         "expense_ratio": null,
-        "three_year_return": 0.045076597
+        "three_year_return": 0.0460724
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 69.98,
+        "price": 70.21,
         "dividend_yield": 0.0417,
         "ytd_return": -2.74919,
         "expense_ratio": null,
-        "three_year_return": 0.044914298
+        "three_year_return": 0.045908198
       }
     }
   }
