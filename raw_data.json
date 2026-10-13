@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:59:49.816313Z",
+  "generated_at": "2026-10-13T13:03:38.992663Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,21 @@
     ],
     "ai_tech": [
       {
+        "title": "The Download: open model trade-offs and geothermal power’s promise",
+        "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+        "published": "Tue, 13 Oct 2026 12:00:00 +0000"
+      },
+      {
+        "title": "Open models have real benefits. Do they outweigh the risks?",
+        "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+        "published": "Tue, 13 Oct 2026 10:00:00 +0000"
+      },
+      {
+        "title": "AI labs are buying data from dead startups to train their models",
+        "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+        "published": "Tue, 13 Oct 2026 09:00:00 +0000"
+      },
+      {
         "title": "The Download: moon city problems and drone traffic controllers",
         "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
         "published": "Mon, 12 Oct 2026 12:10:00 +0000"
@@ -89,105 +104,90 @@
         "title": "We’re putting too much faith in AI’s ability to say no",
         "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
         "published": "Fri, 09 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Job titles of the future: Delivery drone air traffic controller",
-        "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-        "published": "Fri, 09 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-        "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-        "published": "Fri, 09 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-        "published": "Fri, 09 Oct 2026 00:08:24 +0000"
       }
     ],
     "markets": [
       {
+        "title": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
+        "link": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 12:44:00 GMT"
+      },
+      {
+        "title": "Fund managers retain surprising optimism in the face of stagnant stock market and tumultuous bond market",
+        "link": "https://www.marketwatch.com/story/fund-managers-retain-surprising-optimism-in-the-face-of-stagnant-stock-market-and-tumultuous-bond-market-3d9763dd?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 12:40:00 GMT"
+      },
+      {
+        "title": "Here’s how much extra money could be in your monthly Social Security check next year",
+        "link": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 12:37:00 GMT"
+      },
+      {
+        "title": "Why the world’s No. 1 fund manager has just changed its mind on bonds for the first time in six years",
+        "link": "https://www.marketwatch.com/story/why-the-worlds-number-one-fund-manager-has-just-changed-its-mind-on-bonds-for-the-first-time-in-six-years-4b1b5490?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 12:04:00 GMT"
+      },
+      {
+        "title": "The South Korean stock market is in free fall, and these are the reasons",
+        "link": "https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 11:44:00 GMT"
+      },
+      {
+        "title": "Six Flags’ stock slumps near 52-week lows after fatal incident",
+        "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 11:31:00 GMT"
+      },
+      {
         "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
         "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-        "published": "Mon, 12 Oct 2026 23:31:00 GMT"
+        "published": "Tue, 13 Oct 2026 11:15:00 GMT"
       },
       {
-        "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-        "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-        "published": "Mon, 12 Oct 2026 23:15:00 GMT"
-      },
-      {
-        "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
-        "link": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
-        "published": "Mon, 12 Oct 2026 22:27:00 GMT"
-      },
-      {
-        "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-        "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-        "published": "Mon, 12 Oct 2026 22:00:00 GMT"
-      },
-      {
-        "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
-        "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
-        "published": "Mon, 12 Oct 2026 22:00:00 GMT"
-      },
-      {
-        "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-        "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
-        "published": "Mon, 12 Oct 2026 21:19:00 GMT"
-      },
-      {
-        "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
-        "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
-        "published": "Mon, 12 Oct 2026 20:46:00 GMT"
-      },
-      {
-        "title": "Microsoft hits a big milestone that solidifies its revival",
-        "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-        "published": "Mon, 12 Oct 2026 20:40:00 GMT"
+        "title": "A SpaceX launch shortage is fueling a $100 billion investing spree",
+        "link": "https://www.marketwatch.com/story/a-spacex-launch-shortage-is-fueling-a-100-billion-investing-spree-25b7d043?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 11:06:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
-        "link": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
-        "published": "Mon, 12 Oct 2026 16:18:03 +0000"
+        "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+        "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+        "published": "Tue, 13 Oct 2026 11:58:04 +0000"
       },
       {
-        "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-        "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
-        "published": "Mon, 12 Oct 2026 15:27:09 +0000"
+        "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+        "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+        "published": "Tue, 13 Oct 2026 11:56:04 +0000"
       },
       {
-        "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
-        "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
-        "published": "Mon, 12 Oct 2026 15:00:00 +0000"
+        "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+        "published": "Tue, 13 Oct 2026 11:26:45 +0000"
       },
       {
-        "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-        "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-        "published": "Mon, 12 Oct 2026 12:09:09 +0000"
+        "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+        "published": "Tue, 13 Oct 2026 11:06:39 +0000"
       },
       {
-        "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
-        "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-        "published": "Mon, 12 Oct 2026 12:01:53 +0000"
+        "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+        "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+        "published": "Tue, 13 Oct 2026 11:02:47 +0000"
       },
       {
-        "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-        "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
-        "published": "Mon, 12 Oct 2026 11:21:11 +0000"
+        "title": "Live updates: Bitcoin continues in tight range near $83,000, recovering from overnight slide",
+        "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+        "published": "Tue, 13 Oct 2026 10:46:57 +0000"
       },
       {
-        "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-        "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-        "published": "Mon, 12 Oct 2026 11:02:38 +0000"
+        "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+        "published": "Tue, 13 Oct 2026 10:38:51 +0000"
       },
       {
-        "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-        "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
-        "published": "Mon, 12 Oct 2026 10:57:37 +0000"
+        "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+        "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+        "published": "Tue, 13 Oct 2026 09:27:47 +0000"
       }
     ]
   },
@@ -212,7 +212,7 @@
         "name": "Oracle Corporation",
         "price": 137.39,
         "per": 21.534483,
-        "pbv": 10.536043,
+        "pbv": 6.720967,
         "roe": 0.41192,
         "roa": 0.06357,
         "der": 251.716,
@@ -362,7 +362,7 @@
         "name": "Taiwan Semiconductor Manufactur",
         "price": 444.35,
         "per": 32.292877,
-        "pbv": 91.48116,
+        "pbv": 91.58933,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
