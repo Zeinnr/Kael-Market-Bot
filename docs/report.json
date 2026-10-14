@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:07:50.694063Z",
+  "generated_at": "2026-10-14T10:44:51.665284Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "The US military’s race to make fake blood",
+        "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+        "published": "Wed, 14 Oct 2026 09:00:00 +0000"
+      },
+      {
         "title": "The Download: open model trade-offs and geothermal power’s promise",
         "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
         "published": "Tue, 13 Oct 2026 12:00:00 +0000"
@@ -99,95 +104,90 @@
         "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
         "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
         "published": "Fri, 09 Oct 2026 12:10:00 +0000"
-      },
-      {
-        "title": "We’re putting too much faith in AI’s ability to say no",
-        "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-        "published": "Fri, 09 Oct 2026 09:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-        "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 21:02:00 GMT"
+        "title": "BlackRock now has assets equal to half the size of the U.S. economy after 15% growth",
+        "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+        "published": "Wed, 14 Oct 2026 10:41:00 GMT"
+      },
+      {
+        "title": "My wife says we can’t afford to retire, so I vetoed her $8,000 trip to Italy. We have $4 million saved. Do I keep working?",
+        "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+        "published": "Wed, 14 Oct 2026 10:16:00 GMT"
+      },
+      {
+        "title": "The truth about being a landlord in retirement",
+        "link": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
+        "published": "Wed, 14 Oct 2026 10:00:00 GMT"
+      },
+      {
+        "title": "Investors have made big bets on tech stocks. Why one strategist just downgraded the sector.",
+        "link": "https://www.marketwatch.com/story/investors-have-made-big-bets-on-tech-stocks-why-one-strategist-just-downgraded-the-sector-4c893077?mod=mw_rss_topstories",
+        "published": "Wed, 14 Oct 2026 10:00:00 GMT"
+      },
+      {
+        "title": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
+        "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+        "published": "Wed, 14 Oct 2026 09:15:00 GMT"
+      },
+      {
+        "title": "‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
+        "link": "https://www.marketwatch.com/story/sopranos-star-steven-van-zandt-is-selling-his-greenwich-village-penthouse-for-19-million-ad250720?mod=mw_rss_topstories",
+        "published": "Wed, 14 Oct 2026 09:03:00 GMT"
+      },
+      {
+        "title": "Chip bellwether ASML says customers are already asking to place orders — for 2030",
+        "link": "https://www.marketwatch.com/story/chip-bellwether-asml-says-customers-are-already-asking-to-place-orders-for-2030-b3aa1a90?mod=mw_rss_topstories",
+        "published": "Wed, 14 Oct 2026 08:41:00 GMT"
       },
       {
         "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
         "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 21:01:00 GMT"
-      },
-      {
-        "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
-        "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 20:42:00 GMT"
-      },
-      {
-        "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
-        "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 20:41:00 GMT"
-      },
-      {
-        "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
-        "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 20:32:00 GMT"
-      },
-      {
-        "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-        "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 20:30:00 GMT"
-      },
-      {
-        "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
-        "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 20:29:00 GMT"
-      },
-      {
-        "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
-        "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 20:27:00 GMT"
+        "published": "Wed, 14 Oct 2026 01:31:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-        "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-        "published": "Tue, 13 Oct 2026 21:52:00 +0000"
+        "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+        "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
+        "published": "Wed, 14 Oct 2026 10:38:47 +0000"
       },
       {
-        "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-        "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-        "published": "Tue, 13 Oct 2026 15:52:09 +0000"
+        "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+        "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+        "published": "Wed, 14 Oct 2026 09:45:53 +0000"
       },
       {
-        "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-        "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-        "published": "Tue, 13 Oct 2026 15:24:52 +0000"
+        "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+        "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+        "published": "Wed, 14 Oct 2026 08:48:11 +0000"
       },
       {
-        "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-        "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-        "published": "Tue, 13 Oct 2026 11:58:04 +0000"
+        "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+        "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+        "published": "Wed, 14 Oct 2026 08:10:07 +0000"
       },
       {
-        "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-        "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
-        "published": "Tue, 13 Oct 2026 11:56:04 +0000"
+        "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+        "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+        "published": "Wed, 14 Oct 2026 05:44:51 +0000"
       },
       {
-        "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
-        "published": "Tue, 13 Oct 2026 11:26:45 +0000"
+        "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+        "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+        "published": "Wed, 14 Oct 2026 05:24:12 +0000"
       },
       {
-        "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
-        "published": "Tue, 13 Oct 2026 11:06:39 +0000"
+        "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+        "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+        "published": "Wed, 14 Oct 2026 04:11:16 +0000"
       },
       {
-        "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
-        "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
-        "published": "Tue, 13 Oct 2026 11:02:47 +0000"
+        "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+        "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+        "published": "Wed, 14 Oct 2026 03:50:54 +0000"
       }
     ]
   },
@@ -205,7 +205,7 @@
         "fcf": 41809874944,
         "revenue_growth": 1.059,
         "earnings_growth": 1.278,
-        "dividend_yield": 0.00438,
+        "dividend_yield": 0.00123,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
@@ -235,7 +235,7 @@
         "fcf": 107721875456,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
-        "dividend_yield": 0.00316,
+        "dividend_yield": 0.00308,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 543.45,
-        "per": 30.275764,
+        "per": 30.616901,
         "pbv": 9.123647,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -280,7 +280,7 @@
         "fcf": 16545500160,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
-        "dividend_yield": 0.00721,
+        "dividend_yield": 0.0067,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
@@ -295,7 +295,7 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.00252,
+        "dividend_yield": 0.00243,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
@@ -355,7 +355,7 @@
         "fcf": 8437675008,
         "revenue_growth": 0.213,
         "earnings_growth": 0.285,
-        "dividend_yield": 0.00529,
+        "dividend_yield": 0.0025,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
@@ -370,7 +370,7 @@
         "fcf": 730826014720,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": 0.00847,
+        "dividend_yield": 0.05841,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
@@ -387,7 +387,7 @@
         "fcf": 7578124800,
         "revenue_growth": 0.306,
         "earnings_growth": 0.196,
-        "dividend_yield": 0.0215,
+        "dividend_yield": 0.02052,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
@@ -402,84 +402,84 @@
         "fcf": null,
         "revenue_growth": 0.168,
         "earnings_growth": 0.341,
-        "dividend_yield": 0.02372,
+        "dividend_yield": 0.02076,
         "valuation_flag": "data tidak cukup"
       }
     },
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 751.23,
+        "price": 745.91,
         "dividend_yield": 0.0042,
         "ytd_return": 20.8292,
         "expense_ratio": null,
-        "three_year_return": 0.2773758
+        "three_year_return": 0.2705231
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 778.4496,
+        "price": 778.0192,
         "dividend_yield": 0.0099,
         "ytd_return": 12.67538,
         "expense_ratio": null,
-        "three_year_return": 0.2314515
+        "three_year_return": 0.2299058
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 715.54,
+        "price": 715.14,
         "dividend_yield": 0.0106,
         "ytd_return": 12.71956,
         "expense_ratio": null,
-        "three_year_return": 0.2323804
+        "three_year_return": 0.2307441
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 381.94,
+        "price": 381.51,
         "dividend_yield": 0.0106,
         "ytd_return": 12.58111,
         "expense_ratio": null,
-        "three_year_return": 0.2280058
+        "three_year_return": 0.2267701
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 56.7739,
+        "price": 56.991,
         "dividend_yield": 0.081599995,
         "ytd_return": 3.6467,
         "expense_ratio": null,
-        "three_year_return": 0.1055254
+        "three_year_return": 0.105514005
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 61.0877,
+        "price": 60.9475,
         "dividend_yield": 0.1105,
         "ytd_return": 14.19387,
         "expense_ratio": null,
-        "three_year_return": 0.2142039
+        "three_year_return": 0.21024999
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 77.89702,
+        "price": 78.01013,
         "dividend_yield": 0.05,
         "ytd_return": -7.99832,
         "expense_ratio": null,
-        "three_year_return": 0.0069351
+        "three_year_return": 0.0099983
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 94.56814,
+        "price": 94.58164,
         "dividend_yield": 0.0419,
         "ytd_return": -2.84047,
         "expense_ratio": null,
-        "three_year_return": 0.0423412
+        "three_year_return": 0.0443471
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 70.19,
+        "price": 70.21,
         "dividend_yield": 0.0417,
         "ytd_return": -2.74919,
         "expense_ratio": null,
-        "three_year_return": 0.042384
+        "three_year_return": 0.044288803
       }
     }
   },
@@ -498,6 +498,12 @@
         "group": "etf"
       },
       {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufactur",
+        "dividend_yield": 0.05841,
+        "group": "big_tech"
+      },
+      {
         "ticker": "TLT",
         "name": "iShares 20+ Year Treasury Bond ETF",
         "dividend_yield": 0.05,
@@ -507,12 +513,6 @@
         "ticker": "AGG",
         "name": "iShares Core U.S. Aggregate Bond ETF",
         "dividend_yield": 0.0419,
-        "group": "bonds"
-      },
-      {
-        "ticker": "BND",
-        "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "dividend_yield": 0.0417,
         "group": "bonds"
       }
     ],
@@ -549,7 +549,13 @@
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.101,
+        "composite_score": 1.095,
+        "components_used": 9
+      },
+      {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufactur",
+        "composite_score": 0.535,
         "components_used": 9
       },
       {
@@ -561,19 +567,13 @@
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": 0.37,
-        "components_used": 9
-      },
-      {
-        "ticker": "TSM",
-        "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.221,
+        "composite_score": 0.399,
         "components_used": 9
       },
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.142,
+        "composite_score": 0.166,
         "components_used": 9
       },
       {
@@ -583,39 +583,39 @@
         "components_used": 8
       },
       {
-        "ticker": "BLK",
-        "name": "BlackRock, Inc.",
-        "composite_score": 0.009,
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation",
+        "composite_score": -0.043,
         "components_used": 9
       },
       {
-        "ticker": "BAC",
-        "name": "Bank of America Corporation",
-        "composite_score": -0.023,
-        "components_used": 8
-      },
-      {
-        "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "composite_score": -0.03,
+        "ticker": "BLK",
+        "name": "BlackRock, Inc.",
+        "composite_score": -0.125,
         "components_used": 9
       },
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "composite_score": -0.192,
+        "composite_score": -0.164,
         "components_used": 9
+      },
+      {
+        "ticker": "BAC",
+        "name": "Bank of America Corporation",
+        "composite_score": -0.209,
+        "components_used": 8
       },
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.36,
+        "composite_score": -0.425,
         "components_used": 9
       },
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.458,
+        "composite_score": -0.47,
         "components_used": 9
       },
       {
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cfzzqy5knZSMW155Z52Zf\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cg1za9CGP7fiRdCtS6had\"}"
   }
 }
