@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:20:22.859456Z",
+  "generated_at": "2026-10-17T09:49:18.189859Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,47 +108,57 @@
     ],
     "markets": [
       {
+        "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+        "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 21:59:00 GMT"
+      },
+      {
+        "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+        "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 21:43:00 GMT"
+      },
+      {
+        "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+        "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 21:35:00 GMT"
+      },
+      {
+        "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+        "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 21:30:00 GMT"
+      },
+      {
+        "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+        "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 21:21:00 GMT"
+      },
+      {
+        "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+        "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 21:15:00 GMT"
+      },
+      {
+        "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+        "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 20:58:00 GMT"
+      },
+      {
         "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
         "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
         "published": "Fri, 16 Oct 2026 20:05:00 GMT"
-      },
-      {
-        "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-        "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 19:46:00 GMT"
-      },
-      {
-        "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-        "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 19:45:00 GMT"
-      },
-      {
-        "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
-        "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 19:45:00 GMT"
-      },
-      {
-        "title": "The COLA wars are coming for Social Security",
-        "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 19:45:00 GMT"
-      },
-      {
-        "title": "Microsoft wants to make AI cheaper. Will investors actually see the savings?",
-        "link": "https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 19:35:00 GMT"
-      },
-      {
-        "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-        "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 19:00:00 GMT"
-      },
-      {
-        "title": "AI investors have woken up to the bond market’s warning signs",
-        "link": "https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 18:52:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+        "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+        "published": "Sat, 17 Oct 2026 06:39:48 +0000"
+      },
+      {
+        "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+        "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+        "published": "Sat, 17 Oct 2026 02:30:00 +0000"
+      },
       {
         "title": "Big Tech's AI auditors will only see what they're shown",
         "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
@@ -178,16 +188,6 @@
         "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
         "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
         "published": "Fri, 16 Oct 2026 10:41:03 +0000"
-      },
-      {
-        "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-        "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-        "published": "Fri, 16 Oct 2026 10:24:30 +0000"
-      },
-      {
-        "title": "Live updates: Crypto gives up more ground as AI selloff picks up steam",
-        "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-        "published": "Fri, 16 Oct 2026 09:48:14 +0000"
       }
     ]
   },
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1641.52,
         "per": 40.391735,
-        "pbv": 1414.4501,
+        "pbv": 1412.1921,
         "roe": 0.65636003,
         "roa": 0.18277,
         "der": 8.897,
@@ -362,7 +362,7 @@
         "name": "Taiwan Semiconductor Manufactur",
         "price": 412.61,
         "per": 26.740763,
-        "pbv": 64.37868,
+        "pbv": 78.64929,
         "roe": 0.39969003,
         "roa": 0.19002001,
         "der": 16.504,
@@ -370,7 +370,7 @@
         "fcf": 730826014720,
         "revenue_growth": 0.36,
         "earnings_growth": 0.774,
-        "dividend_yield": null,
+        "dividend_yield": 0.01454,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 728.54,
+        "price": 728.17,
         "dividend_yield": 0.0042,
         "ytd_return": 20.8292,
         "expense_ratio": null,
-        "three_year_return": 0.2660737
+        "three_year_return": 0.2655234
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 769.24976,
+        "price": 771.8012,
         "dividend_yield": 0.0099,
         "ytd_return": 12.67538,
         "expense_ratio": null,
-        "three_year_return": 0.2274521
+        "three_year_return": 0.2286153
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 707.08,
+        "price": 709.43,
         "dividend_yield": 0.0106,
         "ytd_return": 12.71956,
         "expense_ratio": null,
-        "three_year_return": 0.2284725
+        "three_year_return": 0.2296291
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 376.73,
+        "price": 378.46,
         "dividend_yield": 0.0106,
         "ytd_return": 12.58111,
         "expense_ratio": null,
-        "three_year_return": 0.2240265
+        "three_year_return": 0.2256914
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 56.8686,
+        "price": 57.1767,
         "dividend_yield": 0.081599995,
         "ytd_return": 3.6467,
         "expense_ratio": null,
-        "three_year_return": 0.1050004
+        "three_year_return": 0.1068754
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 60.0679,
+        "price": 60.0978,
         "dividend_yield": 0.1105,
         "ytd_return": 14.19387,
         "expense_ratio": null,
-        "three_year_return": 0.2078828
+        "three_year_return": 0.20794979
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 78.84632,
+        "price": 79.99363,
         "dividend_yield": 0.05,
         "ytd_return": -7.99832,
         "expense_ratio": null,
-        "three_year_return": 0.0076345
+        "three_year_return": 0.0122118
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 94.86387,
+        "price": 95.37311,
         "dividend_yield": 0.0419,
         "ytd_return": -2.84047,
         "expense_ratio": null,
-        "three_year_return": 0.0434452
+        "three_year_return": 0.0456049
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 70.4,
+        "price": 70.78,
         "dividend_yield": 0.0417,
         "ytd_return": -2.74919,
         "expense_ratio": null,
-        "three_year_return": 0.0434241
+        "three_year_return": 0.0454457
       }
     }
   },
@@ -549,7 +549,7 @@
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.053,
+        "composite_score": 1.044,
         "components_used": 9
       },
       {
@@ -561,25 +561,25 @@
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": 0.34,
+        "composite_score": 0.33,
         "components_used": 9
       },
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.243,
-        "components_used": 8
+        "composite_score": 0.276,
+        "components_used": 9
       },
       {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "composite_score": 0.117,
+        "composite_score": 0.115,
         "components_used": 7
       },
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.106,
+        "composite_score": 0.096,
         "components_used": 9
       },
       {
@@ -591,37 +591,37 @@
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "composite_score": -0.056,
+        "composite_score": -0.064,
         "components_used": 9
       },
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.144,
+        "composite_score": -0.153,
         "components_used": 9
       },
       {
         "ticker": "BAC",
         "name": "Bank of America Corporation",
-        "composite_score": -0.163,
+        "composite_score": -0.162,
         "components_used": 8
       },
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "composite_score": -0.212,
+        "composite_score": -0.222,
         "components_used": 9
       },
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.371,
+        "composite_score": -0.375,
         "components_used": 9
       },
       {
         "ticker": "INTC",
         "name": "Intel Corporation",
-        "composite_score": -0.815,
+        "composite_score": -0.814,
         "components_used": 6
       },
       {
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cg6Y5RAeS9YTzmgQZBUtU\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cg7bmAdzRksnHkzKty9kZ\"}"
   }
 }
