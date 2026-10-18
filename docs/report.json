@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:54:37.029218Z",
+  "generated_at": "2026-10-18T10:01:32.881970Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,11 @@
     ],
     "markets": [
       {
+        "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+        "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+        "published": "Sat, 17 Oct 2026 20:53:00 GMT"
+      },
+      {
         "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
         "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
         "published": "Sat, 17 Oct 2026 18:52:00 GMT"
@@ -141,14 +146,19 @@
         "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
         "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
         "published": "Sat, 17 Oct 2026 12:30:00 GMT"
-      },
-      {
-        "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-        "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
-        "published": "Sat, 17 Oct 2026 12:01:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+        "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+        "published": "Sun, 18 Oct 2026 07:13:32 +0000"
+      },
+      {
+        "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+        "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+        "published": "Sun, 18 Oct 2026 01:06:35 +0000"
+      },
       {
         "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
         "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
@@ -178,16 +188,6 @@
         "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
         "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
         "published": "Sat, 17 Oct 2026 02:30:00 +0000"
-      },
-      {
-        "title": "Big Tech's AI auditors will only see what they're shown",
-        "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-        "published": "Fri, 16 Oct 2026 14:58:22 +0000"
-      },
-      {
-        "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-        "published": "Fri, 16 Oct 2026 11:15:00 +0000"
       }
     ]
   },
@@ -347,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1641.52,
         "per": 40.391735,
-        "pbv": 1412.1921,
+        "pbv": 1408.8876,
         "roe": 0.65636003,
         "roa": 0.18277,
         "der": 8.897,
@@ -409,77 +409,77 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 728.17,
+        "price": 709.97,
         "dividend_yield": 0.0042,
         "ytd_return": 20.8292,
         "expense_ratio": null,
-        "three_year_return": 0.2655234
+        "three_year_return": 0.2501942
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 771.8012,
+        "price": 763.37445,
         "dividend_yield": 0.0099,
         "ytd_return": 12.67538,
         "expense_ratio": null,
-        "three_year_return": 0.2286153
+        "three_year_return": 0.2198038
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 709.43,
+        "price": 701.68,
         "dividend_yield": 0.0106,
         "ytd_return": 12.71956,
         "expense_ratio": null,
-        "three_year_return": 0.2296291
+        "three_year_return": 0.2208489
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 378.46,
+        "price": 374.06,
         "dividend_yield": 0.0106,
         "ytd_return": 12.58111,
         "expense_ratio": null,
-        "three_year_return": 0.2256914
+        "three_year_return": 0.21628611
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.1767,
+        "price": 57.0407,
         "dividend_yield": 0.081599995,
         "ytd_return": 3.6467,
         "expense_ratio": null,
-        "three_year_return": 0.1068754
+        "three_year_return": 0.10287771
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 60.0978,
+        "price": 58.8137,
         "dividend_yield": 0.1105,
         "ytd_return": 14.19387,
         "expense_ratio": null,
-        "three_year_return": 0.20794979
+        "three_year_return": 0.19604759
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 79.99363,
+        "price": 79.98491,
         "dividend_yield": 0.05,
         "ytd_return": -7.99832,
         "expense_ratio": null,
-        "three_year_return": 0.0122118
+        "three_year_return": 0.0180403
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 95.37311,
+        "price": 95.39841,
         "dividend_yield": 0.0419,
         "ytd_return": -2.84047,
         "expense_ratio": null,
-        "three_year_return": 0.0456049
+        "three_year_return": 0.047437802
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 70.78,
+        "price": 70.81,
         "dividend_yield": 0.0417,
         "ytd_return": -2.74919,
         "expense_ratio": null,
-        "three_year_return": 0.0454457
+        "three_year_return": 0.0473077
       }
     }
   },
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cg8PvPD97Y6ZAhEnZ3uXq\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cg9WWEoX6XHTGenDgCLsu\"}"
   }
 }
