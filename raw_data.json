@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:24:34.703433Z",
+  "generated_at": "2026-10-19T21:53:41.764863Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-10-15",
-      "value": 5.1,
-      "previous_value": 5.19,
-      "change_pct": -1.73
+      "date": "2026-10-16",
+      "value": 5.09,
+      "previous_value": 5.1,
+      "change_pct": -0.2
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -65,6 +65,21 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "Making the internet better for AI agents might make it worse for everyone else",
+        "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+        "published": "Mon, 19 Oct 2026 18:22:47 +0000"
+      },
+      {
+        "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+        "published": "Mon, 19 Oct 2026 17:45:55 +0000"
+      },
+      {
+        "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+        "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+        "published": "Mon, 19 Oct 2026 12:10:00 +0000"
+      },
       {
         "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
         "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
@@ -89,73 +104,78 @@
         "title": "The Download: failed social media bans, and extending pets’ lives",
         "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
         "published": "Fri, 16 Oct 2026 12:10:00 +0000"
-      },
-      {
-        "title": "This implant can restore sight for patients with macular degeneration",
-        "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-        "published": "Fri, 16 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Love is infrastructure",
-        "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-        "published": "Fri, 16 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-        "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-        "published": "Fri, 16 Oct 2026 09:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
+        "title": "When should you dump your target-date funds?",
+        "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+        "published": "Mon, 19 Oct 2026 21:37:00 GMT"
+      },
+      {
+        "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+        "link": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+        "published": "Mon, 19 Oct 2026 21:36:00 GMT"
+      },
+      {
+        "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
         "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 11:00:00 GMT"
+        "published": "Mon, 19 Oct 2026 21:30:00 GMT"
       },
       {
-        "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-        "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 10:36:00 GMT"
+        "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+        "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+        "published": "Mon, 19 Oct 2026 21:15:00 GMT"
       },
       {
-        "title": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 10:23:00 GMT"
+        "title": "Micron and other chip stocks spring back to life after bruising selloff",
+        "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+        "published": "Mon, 19 Oct 2026 21:06:00 GMT"
       },
       {
-        "title": "Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
-        "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 09:58:00 GMT"
+        "title": "SpaceX earnings will be all about AI — for better or for worse",
+        "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+        "published": "Mon, 19 Oct 2026 21:02:00 GMT"
       },
       {
-        "title": "France and the U.S. share the same debt trap. Only one has a global lifeline.",
-        "link": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 09:30:00 GMT"
+        "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+        "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+        "published": "Mon, 19 Oct 2026 21:00:00 GMT"
       },
       {
-        "title": "Kelly Clarkson’s expensive purchases: A multi-million dollar real-estate portfolio that spans the country",
-        "link": "https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 09:03:00 GMT"
-      },
-      {
-        "title": "The Beach Boys’ Mike Love goes the extra mile to protect the land around $43 million Lake Tahoe estate",
-        "link": "https://www.marketwatch.com/story/the-beach-boys-mike-love-goes-the-extra-mile-to-protect-the-land-around-43-million-lake-tahoe-estate-06c5606e?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 09:01:00 GMT"
-      },
-      {
-        "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-        "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-        "published": "Sun, 18 Oct 2026 17:00:00 GMT"
+        "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
+        "link": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
+        "published": "Mon, 19 Oct 2026 21:00:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal",
+        "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+        "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+        "published": "Mon, 19 Oct 2026 20:21:13 +0000"
+      },
+      {
+        "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+        "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+        "published": "Mon, 19 Oct 2026 16:47:00 +0000"
+      },
+      {
+        "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+        "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
+        "published": "Mon, 19 Oct 2026 14:58:40 +0000"
+      },
+      {
+        "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+        "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
+        "published": "Mon, 19 Oct 2026 12:16:58 +0000"
+      },
+      {
+        "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
         "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
         "published": "Mon, 19 Oct 2026 11:15:00 +0000"
       },
       {
-        "title": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound",
+        "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
         "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
         "published": "Mon, 19 Oct 2026 11:05:54 +0000"
       },
@@ -165,29 +185,9 @@
         "published": "Mon, 19 Oct 2026 10:26:33 +0000"
       },
       {
-        "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+        "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
         "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
         "published": "Mon, 19 Oct 2026 10:03:47 +0000"
-      },
-      {
-        "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-        "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-        "published": "Mon, 19 Oct 2026 09:32:38 +0000"
-      },
-      {
-        "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-        "link": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
-        "published": "Mon, 19 Oct 2026 09:15:00 +0000"
-      },
-      {
-        "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-        "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-        "published": "Mon, 19 Oct 2026 09:12:39 +0000"
-      },
-      {
-        "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-        "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-        "published": "Mon, 19 Oct 2026 06:23:16 +0000"
       }
     ]
   },
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 214.13,
-        "per": 27.070797,
-        "pbv": 22.580408,
+        "price": 217.09,
+        "per": 27.445007,
+        "pbv": 22.892544,
         "roe": 1.17211,
         "roa": 0.53572,
         "der": 16.971,
@@ -205,14 +205,14 @@
         "fcf": 41809874944,
         "revenue_growth": 1.059,
         "earnings_growth": 1.278,
-        "dividend_yield": 0.00467,
+        "dividend_yield": 0.00461,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 128.23,
-        "per": 20.098745,
-        "pbv": 6.2728696,
+        "price": 129.59,
+        "per": 20.31191,
+        "pbv": 6.3393993,
         "roe": 0.41192,
         "roa": 0.06357,
         "der": 251.716,
@@ -220,14 +220,14 @@
         "fcf": -45853626368,
         "revenue_growth": 0.296,
         "earnings_growth": 0.545,
-        "dividend_yield": 0.0156,
+        "dividend_yield": 0.01543,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 343.46,
-        "per": 39.38761,
-        "pbv": 46.66576,
+        "price": 342.94,
+        "per": 39.32798,
+        "pbv": 46.595108,
         "roe": 1.4875101,
         "roa": 0.27082002,
         "der": 78.445,
@@ -235,14 +235,14 @@
         "fcf": 107721875456,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
-        "dividend_yield": 0.00314,
+        "dividend_yield": 0.00315,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 354.72,
-        "per": 328.44443,
-        "pbv": 16.1273,
+        "price": 368.06,
+        "per": 340.7963,
+        "pbv": 16.733803,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 250.0,
-        "per": 20.11263,
-        "pbv": 4.8870125,
+        "price": 262.45,
+        "per": 21.11424,
+        "pbv": 5.130386,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 529.05,
-        "per": 29.473536,
-        "pbv": 8.881894,
+        "price": 533.52,
+        "per": 29.722563,
+        "pbv": 8.956939,
         "roe": 0.34039003,
         "roa": 0.14088,
         "der": 29.118,
@@ -280,14 +280,14 @@
         "fcf": 16545500160,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
-        "dividend_yield": 0.00741,
+        "dividend_yield": 0.00735,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 336.91,
-        "per": 16.904667,
-        "pbv": 6.6195774,
+        "price": 340.16,
+        "per": 17.067738,
+        "pbv": 6.683433,
         "roe": 0.48676,
         "roa": 0.12958999,
         "der": 18.859,
@@ -295,14 +295,14 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.00261,
+        "dividend_yield": 0.00259,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 709.325,
-        "per": 26.726639,
-        "pbv": 6.9188943,
+        "price": 705.44,
+        "per": 26.580256,
+        "pbv": 6.880999,
         "roe": 0.29848,
         "roa": 0.14591,
         "der": 42.997,
@@ -310,14 +310,14 @@
         "fcf": 21553625088,
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
-        "dividend_yield": 0.00296,
+        "dividend_yield": 0.00298,
         "valuation_flag": "fair relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 186.03,
-        "per": 160.3707,
-        "pbv": 45.73009,
+        "price": 194.15,
+        "per": 167.37068,
+        "pbv": 47.726154,
         "roe": 0.38097,
         "roa": 0.17292999,
         "der": 2.139,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 89.85,
+        "price": 92.03,
         "per": null,
-        "pbv": 5.1759896,
+        "pbv": 5.301573,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1641.52,
-        "per": 40.391735,
-        "pbv": 1409.389,
+        "price": 1647.12,
+        "per": 40.52953,
+        "pbv": 1415.4822,
         "roe": 0.65636003,
         "roa": 0.18277,
         "der": 8.897,
@@ -355,14 +355,14 @@
         "fcf": 10374124544,
         "revenue_growth": 0.552,
         "earnings_growth": 1.359,
-        "dividend_yield": 0.00553,
+        "dividend_yield": 0.00551,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 412.61,
-        "per": 26.740763,
-        "pbv": 78.64929,
+        "price": 420.22,
+        "per": 27.23396,
+        "pbv": 80.24787,
         "roe": 0.41854998,
         "roa": 0.20581,
         "der": 11.619,
@@ -370,16 +370,16 @@
         "fcf": 1203071877120,
         "revenue_growth": 0.509,
         "earnings_growth": 0.687,
-        "dividend_yield": 0.00914,
+        "dividend_yield": 0.00897,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1134.38,
-        "per": 25.828325,
-        "pbv": 3.051837,
+        "price": 1124.6,
+        "per": 25.605648,
+        "pbv": 3.0255256,
         "roe": null,
         "roa": null,
         "der": 23.192,
@@ -387,14 +387,14 @@
         "fcf": null,
         "revenue_growth": 0.191,
         "earnings_growth": 0.254,
-        "dividend_yield": 0.0202,
+        "dividend_yield": 0.02038,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 51.23,
-        "per": 12.22673,
-        "pbv": 1.3050567,
+        "price": 50.39,
+        "per": 12.026253,
+        "pbv": 1.283658,
         "roe": 0.1073,
         "roa": 0.00944,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.071,
         "earnings_growth": -0.143,
-        "dividend_yield": 0.02499,
+        "dividend_yield": 0.0254,
         "valuation_flag": "data tidak cukup"
       }
     },
