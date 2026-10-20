@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:53:42.249267Z",
+  "generated_at": "2026-10-20T10:31:42.683405Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,21 @@
     ],
     "ai_tech": [
       {
+        "title": "How to study a swiftly melting climate disaster",
+        "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+        "published": "Tue, 20 Oct 2026 10:00:00 +0000"
+      },
+      {
+        "title": "A visit to Samsung’s massive new semiconductor hub",
+        "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+        "published": "Tue, 20 Oct 2026 09:00:00 +0000"
+      },
+      {
+        "title": "These startups hope “blended” food will cut our appetite for red meat",
+        "link": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+        "published": "Tue, 20 Oct 2026 09:00:00 +0000"
+      },
+      {
         "title": "Making the internet better for AI agents might make it worse for everyone else",
         "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
         "published": "Mon, 19 Oct 2026 18:22:47 +0000"
@@ -89,66 +104,71 @@
         "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
         "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
         "published": "Mon, 19 Oct 2026 09:08:05 +0000"
-      },
-      {
-        "title": "How far can we push computing?",
-        "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-        "published": "Mon, 19 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-        "published": "Fri, 16 Oct 2026 18:00:00 +0000"
-      },
-      {
-        "title": "The Download: failed social media bans, and extending pets’ lives",
-        "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-        "published": "Fri, 16 Oct 2026 12:10:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "When should you dump your target-date funds?",
-        "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 21:37:00 GMT"
-      },
-      {
-        "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
-        "link": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 21:36:00 GMT"
-      },
-      {
-        "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
-        "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 21:30:00 GMT"
+        "title": "Strategist Tom Lee says he’s buying the AI stock dip, and Cisco holds the key",
+        "link": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
+        "published": "Tue, 20 Oct 2026 10:15:00 GMT"
       },
       {
         "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
         "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 21:15:00 GMT"
+        "published": "Tue, 20 Oct 2026 10:00:00 GMT"
       },
       {
-        "title": "Micron and other chip stocks spring back to life after bruising selloff",
-        "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 21:06:00 GMT"
+        "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
+        "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+        "published": "Tue, 20 Oct 2026 09:30:00 GMT"
       },
       {
-        "title": "SpaceX earnings will be all about AI — for better or for worse",
-        "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 21:02:00 GMT"
+        "title": "My unmarried partner of 17 years left me his $1.1 million home. His three children are livid. Should I share my inheritance?",
+        "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+        "published": "Tue, 20 Oct 2026 09:30:00 GMT"
       },
       {
-        "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
-        "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 21:00:00 GMT"
+        "title": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade",
+        "link": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories",
+        "published": "Tue, 20 Oct 2026 09:30:00 GMT"
       },
       {
-        "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
-        "link": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
-        "published": "Mon, 19 Oct 2026 21:00:00 GMT"
+        "title": "The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen and actress Hailee Steinfeld",
+        "link": "https://www.marketwatch.com/story/the-multi-million-dollar-real-estate-portfolio-of-buffalo-bills-qb-josh-allen-and-actress-hailee-steinfeld-58a9bd62?mod=mw_rss_topstories",
+        "published": "Tue, 20 Oct 2026 09:02:00 GMT"
+      },
+      {
+        "title": "It’s a rough housing market, and Goldman Sachs expects it to get worse",
+        "link": "https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac?mod=mw_rss_topstories",
+        "published": "Tue, 20 Oct 2026 08:13:00 GMT"
+      },
+      {
+        "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
+        "link": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+        "published": "Mon, 19 Oct 2026 21:58:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+        "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+        "published": "Tue, 20 Oct 2026 10:22:55 +0000"
+      },
+      {
+        "title": "Live updates: Market jitters persist as the AI selloff deepens",
+        "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+        "published": "Tue, 20 Oct 2026 10:14:19 +0000"
+      },
+      {
+        "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
+        "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
+        "published": "Tue, 20 Oct 2026 09:32:24 +0000"
+      },
+      {
+        "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+        "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
+        "published": "Tue, 20 Oct 2026 08:24:01 +0000"
+      },
       {
         "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
         "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
@@ -168,26 +188,6 @@
         "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
         "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
         "published": "Mon, 19 Oct 2026 12:16:58 +0000"
-      },
-      {
-        "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-        "published": "Mon, 19 Oct 2026 11:15:00 +0000"
-      },
-      {
-        "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
-        "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-        "published": "Mon, 19 Oct 2026 11:05:54 +0000"
-      },
-      {
-        "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-        "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
-        "published": "Mon, 19 Oct 2026 10:26:33 +0000"
-      },
-      {
-        "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
-        "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-        "published": "Mon, 19 Oct 2026 10:03:47 +0000"
       }
     ]
   },
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 533.52,
-        "per": 29.722563,
+        "per": 29.476244,
         "pbv": 8.956939,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -671,6 +671,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgCLcvJa1Ngm3wQD7VT2T\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgDLRUitGYeWZsFZyZu6q\"}"
   }
 }
