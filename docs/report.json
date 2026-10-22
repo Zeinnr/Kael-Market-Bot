@@ -1,37 +1,61 @@
 {
-  "generated_at": "2026-10-21T21:04:39.162811Z",
+  "generated_at": "2026-10-22T10:45:36.962344Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "date": "2026-09-01",
+      "value": 336.298,
+      "previous_value": 334.131,
+      "change_pct": 0.65
     },
     "PAYEMS": {
       "label": "Nonfarm Payrolls (Jobs Report)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "date": "2026-09-01",
+      "value": 159044.0,
+      "previous_value": 159015.0,
+      "change_pct": 0.02
     },
     "UNRATE": {
       "label": "Tingkat Pengangguran",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "date": "2026-09-01",
+      "value": 4.2,
+      "previous_value": 4.1,
+      "change_pct": 2.44
     },
     "FEDFUNDS": {
       "label": "Fed Funds Rate",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "date": "2026-09-01",
+      "value": 3.75,
+      "previous_value": 3.63,
+      "change_pct": 3.31
     },
     "PCEPI": {
       "label": "PCE Price Index (Indikator favorit Fed)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "date": "2026-08-01",
+      "value": 131.579,
+      "previous_value": 131.172,
+      "change_pct": 0.31
     },
     "RSAFS": {
       "label": "Retail Sales",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "date": "2026-09-01",
+      "value": 745021.0,
+      "previous_value": 739322.0,
+      "change_pct": 0.77
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "date": "2026-10-20",
+      "value": 5.12,
+      "previous_value": 5.15,
+      "change_pct": -0.58
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "date": "2026-04-01",
+      "value": 32563.03,
+      "previous_value": 31906.274,
+      "change_pct": 2.06
     }
   },
   "raw_news": {
@@ -41,6 +65,21 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "Making the case for context-aware AI",
+        "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+        "published": "Thu, 22 Oct 2026 10:00:00 +0000"
+      },
+      {
+        "title": "Three things you should know about permafrost",
+        "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+        "published": "Thu, 22 Oct 2026 10:00:00 +0000"
+      },
+      {
+        "title": "AI’s hidden storage bill: What inference leaves behind",
+        "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "published": "Thu, 22 Oct 2026 08:41:18 +0000"
+      },
       {
         "title": "The Download: introducing the Impossible issue",
         "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
@@ -65,105 +104,90 @@
         "title": "Interspecies communication",
         "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
         "published": "Wed, 21 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Cleaning up PFAS",
-        "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
-        "published": "Wed, 21 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Solid-state batteries",
-        "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
-        "published": "Wed, 21 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Eliminating traffic deaths",
-        "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
-        "published": "Wed, 21 Oct 2026 09:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-        "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 21:00:00 GMT"
+        "title": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
+        "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 09:55:00 GMT"
       },
       {
-        "title": "7 healthcare stocks that stand out as investors pay up for the sector",
-        "link": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 20:59:00 GMT"
+        "title": "A top strategist has a warning for retail investors chasing the AI rally",
+        "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 09:07:00 GMT"
       },
       {
-        "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
-        "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 20:37:00 GMT"
+        "title": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
+        "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 09:04:00 GMT"
       },
       {
-        "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-        "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 20:31:00 GMT"
+        "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
+        "link": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 09:03:00 GMT"
       },
       {
-        "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-        "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 20:18:00 GMT"
+        "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+        "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 08:47:00 GMT"
       },
       {
-        "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-        "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 20:15:00 GMT"
+        "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+        "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 08:46:00 GMT"
       },
       {
-        "title": "SpaceX’s massive AI targets will test the limits of reality",
-        "link": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 20:15:00 GMT"
+        "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
+        "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 03:15:00 GMT"
       },
       {
         "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
         "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 20:01:00 GMT"
+        "published": "Thu, 22 Oct 2026 01:50:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
-        "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
-        "published": "Wed, 21 Oct 2026 16:23:44 +0000"
+        "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+        "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+        "published": "Thu, 22 Oct 2026 10:18:28 +0000"
       },
       {
-        "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-        "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-        "published": "Wed, 21 Oct 2026 15:22:46 +0000"
+        "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+        "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+        "published": "Thu, 22 Oct 2026 09:54:26 +0000"
       },
       {
-        "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-        "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-        "published": "Wed, 21 Oct 2026 15:09:22 +0000"
+        "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+        "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+        "published": "Thu, 22 Oct 2026 08:49:08 +0000"
       },
       {
-        "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-        "published": "Wed, 21 Oct 2026 15:00:53 +0000"
+        "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+        "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+        "published": "Thu, 22 Oct 2026 06:24:10 +0000"
       },
       {
-        "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-        "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-        "published": "Wed, 21 Oct 2026 12:12:36 +0000"
+        "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+        "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+        "published": "Thu, 22 Oct 2026 05:24:58 +0000"
       },
       {
-        "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-        "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-        "published": "Wed, 21 Oct 2026 12:10:39 +0000"
+        "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+        "published": "Thu, 22 Oct 2026 04:41:59 +0000"
       },
       {
-        "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-        "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-        "published": "Wed, 21 Oct 2026 12:00:00 +0000"
+        "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+        "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+        "published": "Thu, 22 Oct 2026 04:36:20 +0000"
       },
       {
-        "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-        "published": "Wed, 21 Oct 2026 11:15:00 +0000"
+        "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+        "published": "Thu, 22 Oct 2026 03:51:34 +0000"
       }
     ]
   },
@@ -218,7 +242,7 @@
         "name": "Tesla, Inc.",
         "price": 386.47,
         "per": 357.8426,
-        "pbv": 17.57081,
+        "pbv": 17.64945,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -277,8 +301,8 @@
       "META": {
         "name": "Meta Platforms, Inc.",
         "price": 697.52,
-        "per": 26.28184,
-        "pbv": 6.803746,
+        "per": 23.798021,
+        "pbv": 8.1232605,
         "roe": 0.29848,
         "roa": 0.14591,
         "der": 42.997,
@@ -323,7 +347,7 @@
         "name": "ASML Holding N.V. - New York Re",
         "price": 1676.69,
         "per": 41.257133,
-        "pbv": 1442.3071,
+        "pbv": 1440.7526,
         "roe": 0.65636003,
         "roa": 0.18277,
         "der": 8.897,
@@ -385,69 +409,69 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 717.32,
+        "price": 725.4,
         "dividend_yield": 0.0042,
         "ytd_return": 20.8292,
         "expense_ratio": null,
-        "three_year_return": 0.2660775
+        "three_year_return": 0.2720055
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 768.66895,
+        "price": 773.11804,
         "dividend_yield": 0.0099,
         "ytd_return": 12.67538,
         "expense_ratio": null,
-        "three_year_return": 0.23063
+        "three_year_return": 0.237092
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 706.55,
+        "price": 710.64,
         "dividend_yield": 0.0106,
         "ytd_return": 12.71956,
         "expense_ratio": null,
-        "three_year_return": 0.2315622
+        "three_year_return": 0.2380031
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 376.97,
+        "price": 379.15,
         "dividend_yield": 0.0106,
         "ytd_return": 12.58111,
         "expense_ratio": null,
-        "three_year_return": 0.227286
+        "three_year_return": 0.2340798
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.3691,
+        "price": 57.3414,
         "dividend_yield": 0.081599995,
         "ytd_return": 3.6467,
         "expense_ratio": null,
-        "three_year_return": 0.1083761
+        "three_year_return": 0.1136075
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.4162,
+        "price": 59.9485,
         "dividend_yield": 0.1105,
         "ytd_return": 14.19387,
         "expense_ratio": null,
-        "three_year_return": 0.2071607
+        "three_year_return": 0.21159849
       }
     },
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 80.08973,
+        "price": 80.22067,
         "dividend_yield": 0.05,
         "ytd_return": -7.99832,
         "expense_ratio": null,
-        "three_year_return": 0.0293715
+        "three_year_return": 0.0303101
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 95.29874,
+        "price": 95.30157,
         "dividend_yield": 0.0419,
         "ytd_return": -2.84047,
         "expense_ratio": null,
-        "three_year_return": 0.0519371
+        "three_year_return": 0.0512667
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
@@ -455,7 +479,7 @@
         "dividend_yield": 0.0417,
         "ytd_return": -2.74919,
         "expense_ratio": null,
-        "three_year_return": 0.0515764
+        "three_year_return": 0.051060602
       }
     }
   },
@@ -520,7 +544,7 @@
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.039,
+        "composite_score": 1.038,
         "components_used": 9
       },
       {
@@ -538,19 +562,19 @@
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.274,
+        "composite_score": 0.273,
         "components_used": 9
       },
       {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "composite_score": 0.121,
+        "composite_score": 0.12,
         "components_used": 7
       },
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.101,
+        "composite_score": 0.1,
         "components_used": 9
       },
       {
@@ -574,19 +598,19 @@
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.152,
+        "composite_score": -0.153,
         "components_used": 9
       },
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "composite_score": -0.218,
+        "composite_score": -0.216,
         "components_used": 9
       },
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.37,
+        "composite_score": -0.371,
         "components_used": 9
       },
       {
@@ -642,6 +666,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgG4VoVke5PSAU9f4nomg\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgH96ooZMDSZocxBFNDmB\"}"
   }
 }
