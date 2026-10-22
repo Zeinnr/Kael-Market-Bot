@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:45:36.522136Z",
+  "generated_at": "2026-10-22T21:02:08.999320Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-10-20",
-      "value": 5.12,
-      "previous_value": 5.15,
-      "change_pct": -0.58
+      "date": "2026-10-21",
+      "value": 5.13,
+      "previous_value": 5.12,
+      "change_pct": 0.2
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -65,6 +65,16 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "The Foundations of Scalable AI",
+        "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "published": "Thu, 22 Oct 2026 18:48:04 +0000"
+      },
+      {
+        "title": "The Download: computing’s next leap and permafrost’s climate threat",
+        "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+        "published": "Thu, 22 Oct 2026 12:10:00 +0000"
+      },
       {
         "title": "Making the case for context-aware AI",
         "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -94,100 +104,90 @@
         "title": "Nuclear-powered spaceships",
         "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
         "published": "Wed, 21 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Exercise in a pill",
-        "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
-        "published": "Wed, 21 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "Interspecies communication",
-        "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-        "published": "Wed, 21 Oct 2026 09:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
-        "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 09:55:00 GMT"
+        "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+        "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 20:46:00 GMT"
       },
       {
-        "title": "A top strategist has a warning for retail investors chasing the AI rally",
-        "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 09:07:00 GMT"
+        "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
+        "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 20:14:00 GMT"
       },
       {
-        "title": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
-        "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 09:04:00 GMT"
+        "title": "Is getting a wedding band from Quince a bad idea? ‘It’s a third of the price.’",
+        "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 19:25:00 GMT"
       },
       {
-        "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
-        "link": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 09:03:00 GMT"
-      },
-      {
-        "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
-        "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 08:47:00 GMT"
-      },
-      {
-        "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
-        "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 08:46:00 GMT"
-      },
-      {
-        "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
-        "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 03:15:00 GMT"
+        "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+        "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 17:29:00 GMT"
       },
       {
         "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
         "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 01:50:00 GMT"
+        "published": "Thu, 22 Oct 2026 17:24:00 GMT"
+      },
+      {
+        "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+        "link": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 17:21:00 GMT"
+      },
+      {
+        "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+        "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 17:16:00 GMT"
+      },
+      {
+        "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
+        "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 16:48:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-        "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-        "published": "Thu, 22 Oct 2026 10:18:28 +0000"
+        "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+        "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
+        "published": "Thu, 22 Oct 2026 18:30:57 +0000"
       },
       {
-        "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
-        "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-        "published": "Thu, 22 Oct 2026 09:54:26 +0000"
+        "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+        "link": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+        "published": "Thu, 22 Oct 2026 15:40:25 +0000"
       },
       {
-        "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
-        "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
-        "published": "Thu, 22 Oct 2026 08:49:08 +0000"
+        "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+        "published": "Thu, 22 Oct 2026 14:58:31 +0000"
       },
       {
-        "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-        "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-        "published": "Thu, 22 Oct 2026 06:24:10 +0000"
+        "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+        "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+        "published": "Thu, 22 Oct 2026 14:37:12 +0000"
       },
       {
-        "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-        "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-        "published": "Thu, 22 Oct 2026 05:24:58 +0000"
+        "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+        "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+        "published": "Thu, 22 Oct 2026 13:00:00 +0000"
       },
       {
-        "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-        "published": "Thu, 22 Oct 2026 04:41:59 +0000"
+        "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+        "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+        "published": "Thu, 22 Oct 2026 12:14:29 +0000"
       },
       {
-        "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-        "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-        "published": "Thu, 22 Oct 2026 04:36:20 +0000"
+        "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+        "published": "Thu, 22 Oct 2026 11:20:04 +0000"
       },
       {
-        "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-        "published": "Thu, 22 Oct 2026 03:51:34 +0000"
+        "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+        "published": "Thu, 22 Oct 2026 10:50:04 +0000"
       }
     ]
   },
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 221.97,
-        "per": 28.061947,
-        "pbv": 23.40715,
+        "price": 212.21,
+        "per": 26.828068,
+        "pbv": 22.377941,
         "roe": 1.17211,
         "roa": 0.53572,
         "der": 16.971,
@@ -205,14 +205,14 @@
         "fcf": 41809874944,
         "revenue_growth": 1.059,
         "earnings_growth": 1.278,
-        "dividend_yield": 0.00451,
+        "dividend_yield": 0.00471,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 129.13,
-        "per": 20.239813,
-        "pbv": 6.316897,
+        "price": 125.54,
+        "per": 19.677116,
+        "pbv": 6.141278,
         "roe": 0.41192,
         "roa": 0.06357,
         "der": 251.716,
@@ -220,14 +220,14 @@
         "fcf": -45853626368,
         "revenue_growth": 0.296,
         "earnings_growth": 0.545,
-        "dividend_yield": 0.01549,
+        "dividend_yield": 0.01593,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 343.99,
-        "per": 39.44839,
-        "pbv": 46.73777,
+        "price": 348.22,
+        "per": 39.933487,
+        "pbv": 47.3125,
         "roe": 1.4875101,
         "roa": 0.27082002,
         "der": 78.445,
@@ -235,14 +235,14 @@
         "fcf": 107721875456,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
-        "dividend_yield": 0.00314,
+        "dividend_yield": 0.0031,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 386.47,
-        "per": 357.8426,
-        "pbv": 17.64945,
+        "price": 374.58,
+        "per": 346.8333,
+        "pbv": 17.106453,
         "roe": 0.046669997,
         "roa": 0.019299999,
         "der": 18.373,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 262.37,
-        "per": 21.107803,
-        "pbv": 5.128822,
+        "price": 250.38,
+        "per": 20.143202,
+        "pbv": 4.8944407,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 532.95,
-        "per": 29.690807,
-        "pbv": 8.947369,
+        "price": 521.08,
+        "per": 29.029526,
+        "pbv": 8.748091,
         "roe": 0.34039003,
         "roa": 0.14088,
         "der": 29.118,
@@ -280,14 +280,14 @@
         "fcf": 16545500160,
         "revenue_growth": 0.177,
         "earnings_growth": 0.317,
-        "dividend_yield": 0.00736,
+        "dividend_yield": 0.00752,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 330.95,
-        "per": 16.60562,
-        "pbv": 6.5024757,
+        "price": 320.76,
+        "per": 16.09433,
+        "pbv": 6.3022637,
         "roe": 0.48676,
         "roa": 0.12958999,
         "der": 18.859,
@@ -295,14 +295,14 @@
         "fcf": 22665000960,
         "revenue_growth": 0.242,
         "earnings_growth": 2.94,
-        "dividend_yield": 0.00266,
+        "dividend_yield": 0.00274,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 697.52,
-        "per": 23.798021,
-        "pbv": 8.1232605,
+        "price": 648.85,
+        "per": 22.137495,
+        "pbv": 7.5564537,
         "roe": 0.29848,
         "roa": 0.14591,
         "der": 42.997,
@@ -310,14 +310,14 @@
         "fcf": 21553625088,
         "revenue_growth": 0.28,
         "earnings_growth": -0.134,
-        "dividend_yield": 0.00301,
+        "dividend_yield": 0.00324,
         "valuation_flag": "fair relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 201.72,
-        "per": 173.89656,
-        "pbv": 49.587025,
+        "price": 196.19,
+        "per": 169.12932,
+        "pbv": 48.227634,
         "roe": 0.38097,
         "roa": 0.17292999,
         "der": 2.139,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 92.96,
+        "price": 85.49,
         "per": null,
-        "pbv": 5.3551474,
+        "pbv": 4.924823,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1676.69,
-        "per": 41.257133,
-        "pbv": 1440.7526,
+        "price": 1560.54,
+        "per": 38.399117,
+        "pbv": 1340.9468,
         "roe": 0.65636003,
         "roa": 0.18277,
         "der": 8.897,
@@ -355,14 +355,14 @@
         "fcf": 10374124544,
         "revenue_growth": 0.552,
         "earnings_growth": 1.359,
-        "dividend_yield": 0.00542,
+        "dividend_yield": 0.00582,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 431.89,
-        "per": 27.990278,
-        "pbv": 82.96053,
+        "price": 412.35,
+        "per": 26.723915,
+        "pbv": 79.207146,
         "roe": 0.41854998,
         "roa": 0.20581,
         "der": 11.619,
@@ -370,16 +370,16 @@
         "fcf": 1203071877120,
         "revenue_growth": 0.509,
         "earnings_growth": 0.687,
-        "dividend_yield": 0.00873,
+        "dividend_yield": 0.00914,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1149.6,
-        "per": 26.174864,
-        "pbv": 3.0927835,
+        "price": 1137.29,
+        "per": 25.894583,
+        "pbv": 3.0596657,
         "roe": null,
         "roa": null,
         "der": 23.192,
@@ -387,14 +387,14 @@
         "fcf": null,
         "revenue_growth": 0.191,
         "earnings_growth": 0.254,
-        "dividend_yield": 0.01994,
+        "dividend_yield": 0.02015,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 50.78,
-        "per": 12.119331,
-        "pbv": 1.293593,
+        "price": 51.08,
+        "per": 12.190931,
+        "pbv": 1.3012356,
         "roe": 0.1073,
         "roa": 0.00944,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.071,
         "earnings_growth": -0.143,
-        "dividend_yield": 0.02521,
+        "dividend_yield": 0.02506,
         "valuation_flag": "data tidak cukup"
       }
     },
