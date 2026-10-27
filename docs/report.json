@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:08:22.781185Z",
+  "generated_at": "2026-10-27T11:10:31.035069Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "How solid-state transformers could help power the AI boom",
+        "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+        "published": "Tue, 27 Oct 2026 09:00:00 +0000"
+      },
+      {
         "title": "Will the real Anthropic please stand up",
         "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
         "published": "Mon, 26 Oct 2026 17:45:43 +0000"
@@ -99,95 +104,90 @@
         "title": "The Foundations of Scalable AI",
         "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
         "published": "Thu, 22 Oct 2026 18:48:04 +0000"
-      },
-      {
-        "title": "The Download: computing’s next leap and permafrost’s climate threat",
-        "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-        "published": "Thu, 22 Oct 2026 12:10:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Options traders are seizing control of the S&P 500",
-        "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 22:03:00 GMT"
+        "title": "Dividend stocks are having an excellent October as tech sector struggles",
+        "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 11:06:00 GMT"
       },
       {
-        "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
-        "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 22:00:00 GMT"
+        "title": "SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook",
+        "link": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 11:06:00 GMT"
       },
       {
-        "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-        "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 21:55:00 GMT"
+        "title": "AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes",
+        "link": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 11:00:00 GMT"
       },
       {
-        "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
-        "link": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 21:46:00 GMT"
+        "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+        "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 10:15:00 GMT"
       },
       {
-        "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-        "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 21:44:00 GMT"
+        "title": "Customers are chasing higher-rate products. That’s bad news for banks like HSBC.",
+        "link": "https://www.marketwatch.com/story/customers-are-chasing-higher-rate-products-and-thats-bad-news-for-banks-like-hsbc-3a6ec793?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 10:02:00 GMT"
       },
       {
-        "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
-        "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 21:04:00 GMT"
+        "title": "Designer Betsey Johnson takes $7 million SoCal home off the market",
+        "link": "https://www.marketwatch.com/story/designer-betsey-johnson-takes-7-million-socal-home-off-the-market-1f027f0e?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 09:02:00 GMT"
       },
       {
-        "title": "With the Anthropic IPO, the devil is in the details",
-        "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 20:50:00 GMT"
+        "title": "The impressive real estate portfolio of sitcom producer Chuck Lorre of ‘Big Bang Theory’ and ‘Two and a Half Men’ fame",
+        "link": "https://www.marketwatch.com/story/the-impressive-real-estate-portfolio-of-sitcom-producer-chuck-lorre-of-big-bang-theory-and-two-and-a-half-men-fame-f8e43ed4?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 08:58:00 GMT"
       },
       {
-        "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-        "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 20:15:00 GMT"
+        "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+        "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 04:01:00 GMT"
       }
     ],
     "crypto": [
       {
+        "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+        "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+        "published": "Tue, 27 Oct 2026 10:57:51 +0000"
+      },
+      {
+        "title": "Now is the time to accumulate bitcoin, Galaxy says",
+        "link": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
+        "published": "Tue, 27 Oct 2026 09:42:46 +0000"
+      },
+      {
+        "title": "An AI label alone no longer wins lenders, JPMorgan says",
+        "link": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
+        "published": "Tue, 27 Oct 2026 08:24:39 +0000"
+      },
+      {
+        "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+        "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+        "published": "Tue, 27 Oct 2026 07:44:04 +0000"
+      },
+      {
+        "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+        "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+        "published": "Tue, 27 Oct 2026 07:09:56 +0000"
+      },
+      {
+        "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+        "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+        "published": "Tue, 27 Oct 2026 06:14:41 +0000"
+      },
+      {
+        "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+        "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+        "published": "Tue, 27 Oct 2026 04:28:49 +0000"
+      },
+      {
         "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
         "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
         "published": "Mon, 26 Oct 2026 16:05:12 +0000"
-      },
-      {
-        "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-        "link": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-        "published": "Mon, 26 Oct 2026 15:59:55 +0000"
-      },
-      {
-        "title": "OCC calls on community banks to enter the stablecoin payments market",
-        "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-        "published": "Mon, 26 Oct 2026 15:45:51 +0000"
-      },
-      {
-        "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-        "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-        "published": "Mon, 26 Oct 2026 14:51:07 +0000"
-      },
-      {
-        "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-        "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-        "published": "Mon, 26 Oct 2026 14:23:41 +0000"
-      },
-      {
-        "title": "AI giant Anthropic files for blockbuster IPO",
-        "link": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-        "published": "Mon, 26 Oct 2026 13:22:09 +0000"
-      },
-      {
-        "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-        "published": "Mon, 26 Oct 2026 11:53:07 +0000"
-      },
-      {
-        "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-        "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-        "published": "Mon, 26 Oct 2026 11:24:33 +0000"
       }
     ]
   },
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 532.6,
-        "per": 29.671307,
+        "per": 29.215578,
         "pbv": 8.941492,
         "roe": 0.34039003,
         "roa": 0.14088,
@@ -551,7 +551,7 @@
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": 0.3,
+        "composite_score": 0.299,
         "components_used": 9
       },
       {
@@ -587,7 +587,7 @@
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "composite_score": -0.068,
+        "composite_score": -0.067,
         "components_used": 9
       },
       {
@@ -599,7 +599,7 @@
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.167,
+        "composite_score": -0.168,
         "components_used": 9
       },
       {
@@ -661,6 +661,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgRcQF5EiG31tpUDLyDfA\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgSe3XFUwAG19fyRJrcoR\"}"
   }
 }
