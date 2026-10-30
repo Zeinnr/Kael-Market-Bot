@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:46:33.340956Z",
+  "generated_at": "2026-10-30T21:50:18.768668Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-10-28",
-      "value": 5.05,
-      "previous_value": 4.99,
-      "change_pct": 1.2
+      "date": "2026-10-29",
+      "value": 4.98,
+      "previous_value": 5.05,
+      "change_pct": -1.39
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -65,6 +65,11 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+        "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+        "published": "Fri, 30 Oct 2026 11:30:00 +0000"
+      },
       {
         "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
         "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
@@ -99,56 +104,76 @@
         "title": "Pairing industrial AI autonomy and human control",
         "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
         "published": "Wed, 28 Oct 2026 12:00:00 +0000"
-      },
-      {
-        "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-        "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-        "published": "Tue, 27 Oct 2026 12:10:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Amazon’s and Intel’s stocks are set to plunge. But Wall Street’s October winners may surprise you.",
-        "link": "https://www.marketwatch.com/story/amazons-and-intels-stocks-are-set-to-plunge-but-wall-streets-october-winners-may-surprise-you-4d74e4d4?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 11:32:00 GMT"
+        "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+        "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 21:30:00 GMT"
       },
       {
-        "title": "Why Intel’s stock is sinking toward its worst day in two years — and a $128 billion wipeout",
+        "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+        "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 21:23:00 GMT"
+      },
+      {
+        "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+        "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 20:52:00 GMT"
+      },
+      {
+        "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
         "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 11:27:00 GMT"
+        "published": "Fri, 30 Oct 2026 20:48:00 GMT"
       },
       {
-        "title": "AI could hit consumers’ ability to manage their debt. Here’s the trade.",
-        "link": "https://www.marketwatch.com/story/ai-could-hit-consumers-ability-to-manage-their-debt-heres-the-trade-43d1787e?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 11:09:00 GMT"
+        "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+        "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 20:42:00 GMT"
       },
       {
-        "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-        "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 11:01:00 GMT"
+        "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+        "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 20:29:00 GMT"
       },
       {
-        "title": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses",
-        "link": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 10:34:00 GMT"
+        "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+        "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 20:28:00 GMT"
       },
       {
-        "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-        "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 10:15:00 GMT"
-      },
-      {
-        "title": "Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack",
-        "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 09:50:00 GMT"
-      },
-      {
-        "title": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
-        "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 09:15:00 GMT"
+        "title": "The selloff in tech stocks is shifting into overdrive",
+        "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 20:26:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+        "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+        "published": "Fri, 30 Oct 2026 19:55:00 +0000"
+      },
+      {
+        "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+        "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+        "published": "Fri, 30 Oct 2026 16:31:17 +0000"
+      },
+      {
+        "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+        "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
+        "published": "Fri, 30 Oct 2026 14:13:34 +0000"
+      },
+      {
+        "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+        "link": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
+        "published": "Fri, 30 Oct 2026 12:13:02 +0000"
+      },
+      {
+        "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
+        "published": "Fri, 30 Oct 2026 11:51:26 +0000"
+      },
       {
         "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
         "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
@@ -163,31 +188,6 @@
         "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
         "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
         "published": "Fri, 30 Oct 2026 09:41:07 +0000"
-      },
-      {
-        "title": "Live updates: Binance finds more breaches in $6.3 billion hack; AI spending fears hit tech",
-        "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-        "published": "Fri, 30 Oct 2026 08:36:52 +0000"
-      },
-      {
-        "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
-        "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
-        "published": "Fri, 30 Oct 2026 07:54:07 +0000"
-      },
-      {
-        "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-        "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-        "published": "Fri, 30 Oct 2026 06:22:00 +0000"
-      },
-      {
-        "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-        "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
-        "published": "Fri, 30 Oct 2026 05:45:27 +0000"
-      },
-      {
-        "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-        "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-        "published": "Fri, 30 Oct 2026 05:43:07 +0000"
       }
     ]
   },
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 213.66,
-        "per": 27.01138,
-        "pbv": 22.530846,
+        "price": 204.64,
+        "per": 25.87105,
+        "pbv": 21.57967,
         "roe": 1.17211,
         "roa": 0.53572,
         "der": 16.971,
@@ -205,14 +205,14 @@
         "fcf": 41809874944,
         "revenue_growth": 1.059,
         "earnings_growth": 1.278,
-        "dividend_yield": 0.00468,
+        "dividend_yield": 0.00489,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 139.56,
-        "per": 21.874607,
-        "pbv": 6.827121,
+        "price": 130.67,
+        "per": 20.48119,
+        "pbv": 6.392232,
         "roe": 0.41192,
         "roa": 0.06357,
         "der": 251.716,
@@ -220,14 +220,14 @@
         "fcf": -45853626368,
         "revenue_growth": 0.296,
         "earnings_growth": 0.545,
-        "dividend_yield": 0.01433,
+        "dividend_yield": 0.01531,
         "valuation_flag": "fair relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 348.91,
-        "per": 40.012615,
-        "pbv": 47.40625,
+        "price": 344.63,
+        "per": 39.52179,
+        "pbv": 46.82473,
         "roe": 1.4875101,
         "roa": 0.27082002,
         "der": 78.445,
@@ -235,14 +235,14 @@
         "fcf": 107721875456,
         "revenue_growth": 0.164,
         "earnings_growth": 0.287,
-        "dividend_yield": 0.0031,
+        "dividend_yield": 0.00313,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 403.3,
-        "per": 443.1868,
-        "pbv": 17.854612,
+        "price": 399.81,
+        "per": 439.35162,
+        "pbv": 17.700108,
         "roe": 0.03844,
         "roa": 0.01345,
         "der": 18.295,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 243.79,
-        "per": 19.613031,
-        "pbv": 6.364277,
+        "price": 240.35,
+        "per": 19.336283,
+        "pbv": 6.274474,
         "roe": 0.30558002,
         "roa": 0.06589,
         "der": 45.617,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 530.14,
-        "per": 27.669104,
-        "pbv": 8.368298,
+        "price": 521.91,
+        "per": 27.239561,
+        "pbv": 8.238385,
         "roe": 0.34221,
         "roa": 0.14408,
         "der": 12.157,
@@ -280,14 +280,14 @@
         "fcf": 13808749568,
         "revenue_growth": 0.188,
         "earnings_growth": 0.323,
-        "dividend_yield": 0.00739,
+        "dividend_yield": 0.00751,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 282.32,
-        "per": 14.742559,
-        "pbv": 5.262648,
+        "price": 278.22,
+        "per": 14.52846,
+        "pbv": 5.1862206,
         "roe": 0.44286,
         "roa": 0.12743,
         "der": 20.946,
@@ -295,14 +295,14 @@
         "fcf": 5517000192,
         "revenue_growth": 0.247,
         "earnings_growth": -0.26,
-        "dividend_yield": 0.00312,
+        "dividend_yield": 0.00316,
         "valuation_flag": "undervalued relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 624.52,
-        "per": 21.307405,
-        "pbv": 5.860351,
+        "price": 614.99,
+        "per": 20.982258,
+        "pbv": 5.770923,
         "roe": 0.32264,
         "roa": 0.14577,
         "der": 42.161,
@@ -310,14 +310,14 @@
         "fcf": 16848499712,
         "revenue_growth": 0.261,
         "earnings_growth": 2.648,
-        "dividend_yield": 0.00336,
+        "dividend_yield": 0.00341,
         "valuation_flag": "fair relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 196.42,
-        "per": 169.32759,
-        "pbv": 48.284172,
+        "price": 184.11,
+        "per": 158.71552,
+        "pbv": 45.258114,
         "roe": 0.38097,
         "roa": 0.17292999,
         "der": 2.139,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 92.07,
+        "price": 65.76,
         "per": null,
-        "pbv": 4.023335,
+        "pbv": 2.8736234,
         "roe": -0.10715,
         "roa": 0.0141199995,
         "der": 48.997,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1675.7,
-        "per": 41.232777,
-        "pbv": 1438.838,
+        "price": 1565.9,
+        "per": 38.531006,
+        "pbv": 1344.5585,
         "roe": 0.65636003,
         "roa": 0.18277,
         "der": 8.897,
@@ -355,14 +355,14 @@
         "fcf": 10374124544,
         "revenue_growth": 0.552,
         "earnings_growth": 1.359,
-        "dividend_yield": 0.00556,
+        "dividend_yield": 0.00595,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 431.81,
-        "per": 27.985094,
-        "pbv": 82.407745,
+        "price": 406.13,
+        "per": 26.320803,
+        "pbv": 77.506905,
         "roe": 0.41854998,
         "roa": 0.20581,
         "der": 11.619,
@@ -370,16 +370,16 @@
         "fcf": 1203071877120,
         "revenue_growth": 0.509,
         "earnings_growth": 0.687,
-        "dividend_yield": 0.00873,
+        "dividend_yield": 0.00928,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1176.24,
-        "per": 26.781422,
-        "pbv": 3.1644533,
+        "price": 1147.54,
+        "per": 26.127962,
+        "pbv": 3.0872414,
         "roe": null,
         "roa": null,
         "der": 23.192,
@@ -387,14 +387,14 @@
         "fcf": null,
         "revenue_growth": 0.191,
         "earnings_growth": 0.254,
-        "dividend_yield": 0.01949,
+        "dividend_yield": 0.01997,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 51.14,
-        "per": 12.205251,
-        "pbv": 1.3027639,
+        "price": 50.01,
+        "per": 11.93556,
+        "pbv": 1.2739778,
         "roe": 0.1073,
         "roa": 0.00944,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.071,
         "earnings_growth": -0.143,
-        "dividend_yield": 0.02503,
+        "dividend_yield": 0.02559,
         "valuation_flag": "data tidak cukup"
       }
     },
@@ -413,7 +413,7 @@
         "dividend_yield": 0.0042,
         "ytd_return": 20.8292,
         "expense_ratio": null,
-        "three_year_return": 0.288051
+        "three_year_return": 0.28194532
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
@@ -421,7 +421,7 @@
         "dividend_yield": 0.0099,
         "ytd_return": 12.67538,
         "expense_ratio": null,
-        "three_year_return": 0.2493166
+        "three_year_return": 0.2477239
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
@@ -429,7 +429,7 @@
         "dividend_yield": 0.0106,
         "ytd_return": 12.71956,
         "expense_ratio": null,
-        "three_year_return": 0.2503125
+        "three_year_return": 0.248796
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
@@ -437,7 +437,7 @@
         "dividend_yield": 0.0106,
         "ytd_return": 12.58111,
         "expense_ratio": null,
-        "three_year_return": 0.24710551
+        "three_year_return": 0.24608499
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
@@ -445,7 +445,7 @@
         "dividend_yield": 0.081599995,
         "ytd_return": 3.6467,
         "expense_ratio": null,
-        "three_year_return": 0.1225624
+        "three_year_return": 0.1256801
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
@@ -453,7 +453,7 @@
         "dividend_yield": 0.1105,
         "ytd_return": 14.19387,
         "expense_ratio": null,
-        "three_year_return": 0.2243138
+        "three_year_return": 0.21967569
       }
     },
     "bonds": {
@@ -463,7 +463,7 @@
         "dividend_yield": 0.05,
         "ytd_return": -7.99832,
         "expense_ratio": null,
-        "three_year_return": 0.029346
+        "three_year_return": 0.031459898
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
@@ -471,7 +471,7 @@
         "dividend_yield": 0.0419,
         "ytd_return": -2.84047,
         "expense_ratio": null,
-        "three_year_return": 0.051299702
+        "three_year_return": 0.052249
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
@@ -479,7 +479,7 @@
         "dividend_yield": 0.0417,
         "ytd_return": -2.74919,
         "expense_ratio": null,
-        "three_year_return": 0.0510334
+        "three_year_return": 0.051967602
       }
     }
   },
@@ -520,19 +520,19 @@
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "per": 14.742559
+        "per": 14.52846
       }
     ],
     "most_overvalued": [
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "per": 443.1868
+        "per": 439.35162
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "per": 169.32759
+        "per": 158.71552
       }
     ],
     "equity_ranking": [
@@ -545,67 +545,67 @@
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.515,
+        "composite_score": 0.524,
         "components_used": 8
       },
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.284,
+        "composite_score": 0.288,
         "components_used": 9
       },
       {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "composite_score": 0.137,
+        "composite_score": 0.133,
         "components_used": 7
       },
       {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
-        "composite_score": 0.122,
+        "composite_score": 0.12,
         "components_used": 9
       },
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.115,
+        "composite_score": 0.111,
         "components_used": 9
       },
       {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "composite_score": 0.02,
+        "composite_score": 0.019,
         "components_used": 8
       },
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "composite_score": 0.0,
+        "composite_score": -0.003,
         "components_used": 9
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": -0.049,
+        "composite_score": -0.052,
         "components_used": 9
       },
       {
         "ticker": "BAC",
         "name": "Bank of America Corporation",
-        "composite_score": -0.122,
+        "composite_score": -0.127,
         "components_used": 8
       },
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.141,
+        "composite_score": -0.137,
         "components_used": 9
       },
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.372,
+        "composite_score": -0.364,
         "components_used": 9
       },
       {
@@ -617,7 +617,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -1.048,
+        "composite_score": -1.052,
         "components_used": 8
       }
     ],
@@ -661,6 +661,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgYNDeSkZX27FCkBhCPQo\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgZAFzkoJYbJ945BFbPjq\"}"
   }
 }
