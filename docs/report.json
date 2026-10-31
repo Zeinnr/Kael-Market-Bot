@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:50:18.768668Z",
+  "generated_at": "2026-10-31T11:19:45.444007Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,21 @@
     ],
     "markets": [
       {
+        "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+        "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+        "published": "Sat, 31 Oct 2026 04:30:00 GMT"
+      },
+      {
+        "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+        "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 23:14:00 GMT"
+      },
+      {
+        "title": "This cybersecurity stock will be the next to join the S&P 500",
+        "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 22:20:00 GMT"
+      },
+      {
         "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
         "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
         "published": "Fri, 30 Oct 2026 21:30:00 GMT"
@@ -131,24 +146,19 @@
         "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
         "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
         "published": "Fri, 30 Oct 2026 20:42:00 GMT"
-      },
-      {
-        "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-        "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 20:29:00 GMT"
-      },
-      {
-        "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-        "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 20:28:00 GMT"
-      },
-      {
-        "title": "The selloff in tech stocks is shifting into overdrive",
-        "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 20:26:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+        "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+        "published": "Sat, 31 Oct 2026 05:01:32 +0000"
+      },
+      {
+        "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+        "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+        "published": "Sat, 31 Oct 2026 00:48:56 +0000"
+      },
       {
         "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
         "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
@@ -178,16 +188,6 @@
         "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
         "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
         "published": "Fri, 30 Oct 2026 11:35:16 +0000"
-      },
-      {
-        "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-        "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-        "published": "Fri, 30 Oct 2026 11:09:24 +0000"
-      },
-      {
-        "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-        "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-        "published": "Fri, 30 Oct 2026 09:41:07 +0000"
       }
     ]
   },
@@ -256,15 +256,15 @@
       "AMZN": {
         "name": "Amazon.com, Inc.",
         "price": 240.35,
-        "per": 19.336283,
-        "pbv": 6.274474,
-        "roe": 0.30558002,
-        "roa": 0.06589,
-        "der": 45.617,
-        "npm": 0.1744,
-        "fcf": 3219124992,
-        "revenue_growth": 0.196,
-        "earnings_growth": 2.423,
+        "per": 19.430073,
+        "pbv": 4.23472,
+        "roe": 0.27416,
+        "roa": 0.06618,
+        "der": 44.32,
+        "npm": 0.16900998,
+        "fcf": -11545749504,
+        "revenue_growth": 0.121,
+        "earnings_growth": -0.031,
         "dividend_yield": null,
         "valuation_flag": "fair relatif ke peer group"
       },
@@ -275,9 +275,9 @@
         "pbv": 8.238385,
         "roe": 0.34221,
         "roa": 0.14408,
-        "der": 12.157,
+        "der": 28.465,
         "npm": 0.41169998,
-        "fcf": 13808749568,
+        "fcf": 2994125056,
         "revenue_growth": 0.188,
         "earnings_growth": 0.323,
         "dividend_yield": 0.00751,
@@ -290,11 +290,11 @@
         "pbv": 5.1862206,
         "roe": 0.44286,
         "roa": 0.12743,
-        "der": 20.946,
+        "der": 22.187,
         "npm": 0.50031,
-        "fcf": 5517000192,
+        "fcf": -1162499968,
         "revenue_growth": 0.247,
-        "earnings_growth": -0.26,
+        "earnings_growth": -0.253,
         "dividend_yield": 0.00316,
         "valuation_flag": "undervalued relatif ke peer group"
       },
@@ -333,13 +333,13 @@
         "price": 65.76,
         "per": null,
         "pbv": 2.8736234,
-        "roe": -0.10715,
-        "roa": 0.0141199995,
-        "der": 48.997,
-        "npm": -0.19794,
-        "fcf": 4866375168,
-        "revenue_growth": 0.254,
-        "earnings_growth": null,
+        "roe": -0.0962,
+        "roa": 0.01783,
+        "der": 38.108,
+        "npm": -0.20089,
+        "fcf": 670374976,
+        "revenue_growth": 0.209,
+        "earnings_growth": -0.333,
         "dividend_yield": null,
         "valuation_flag": "data tidak cukup"
       },
@@ -409,7 +409,7 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 715.18,
+        "price": 690.49,
         "dividend_yield": 0.0042,
         "ytd_return": 20.8292,
         "expense_ratio": null,
@@ -417,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 769.50635,
+        "price": 755.58594,
         "dividend_yield": 0.0099,
         "ytd_return": 12.67538,
         "expense_ratio": null,
@@ -425,7 +425,7 @@
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 707.33,
+        "price": 694.53,
         "dividend_yield": 0.0106,
         "ytd_return": 12.71956,
         "expense_ratio": null,
@@ -433,7 +433,7 @@
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 378.32,
+        "price": 371.51,
         "dividend_yield": 0.0106,
         "ytd_return": 12.58111,
         "expense_ratio": null,
@@ -441,7 +441,7 @@
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.9244,
+        "price": 57.5388,
         "dividend_yield": 0.081599995,
         "ytd_return": 3.6467,
         "expense_ratio": null,
@@ -449,7 +449,7 @@
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 59.3486,
+        "price": 57.5556,
         "dividend_yield": 0.1105,
         "ytd_return": 14.19387,
         "expense_ratio": null,
@@ -459,7 +459,7 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 81.44277,
+        "price": 81.80163,
         "dividend_yield": 0.05,
         "ytd_return": -7.99832,
         "expense_ratio": null,
@@ -467,7 +467,7 @@
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 96.17487,
+        "price": 96.44908,
         "dividend_yield": 0.0419,
         "ytd_return": -2.84047,
         "expense_ratio": null,
@@ -475,7 +475,7 @@
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.35,
+        "price": 71.56,
         "dividend_yield": 0.0417,
         "ytd_return": -2.74919,
         "expense_ratio": null,
@@ -539,85 +539,85 @@
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.04,
+        "composite_score": 1.077,
         "components_used": 9
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.524,
+        "composite_score": 0.576,
         "components_used": 8
       },
       {
         "ticker": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "composite_score": 0.288,
+        "composite_score": 0.321,
+        "components_used": 9
+      },
+      {
+        "ticker": "META",
+        "name": "Meta Platforms, Inc.",
+        "composite_score": 0.175,
         "components_used": 9
       },
       {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "composite_score": 0.133,
+        "composite_score": 0.173,
         "components_used": 7
-      },
-      {
-        "ticker": "META",
-        "name": "Meta Platforms, Inc.",
-        "composite_score": 0.12,
-        "components_used": 9
       },
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.111,
+        "composite_score": 0.142,
         "components_used": 9
-      },
-      {
-        "ticker": "AMZN",
-        "name": "Amazon.com, Inc.",
-        "composite_score": 0.019,
-        "components_used": 8
       },
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "composite_score": -0.003,
+        "composite_score": -0.0,
         "components_used": 9
       },
       {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "composite_score": -0.052,
+        "composite_score": -0.028,
+        "components_used": 9
+      },
+      {
+        "ticker": "ASML",
+        "name": "ASML Holding N.V. - New York Re",
+        "composite_score": -0.097,
         "components_used": 9
       },
       {
         "ticker": "BAC",
         "name": "Bank of America Corporation",
-        "composite_score": -0.127,
+        "composite_score": -0.097,
         "components_used": 8
       },
       {
-        "ticker": "ASML",
-        "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.137,
-        "components_used": 9
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "composite_score": -0.298,
+        "components_used": 8
       },
       {
         "ticker": "ORCL",
         "name": "Oracle Corporation",
-        "composite_score": -0.364,
+        "composite_score": -0.334,
         "components_used": 9
       },
       {
         "ticker": "INTC",
         "name": "Intel Corporation",
-        "composite_score": -0.812,
-        "components_used": 6
+        "composite_score": -0.826,
+        "components_used": 7
       },
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -1.052,
+        "composite_score": -1.023,
         "components_used": 8
       }
     ],
@@ -661,6 +661,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgZAFzkoJYbJ945BFbPjq\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgaDz41HB3u6VHV7REUbD\"}"
   }
 }
