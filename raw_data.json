@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:50:21.897069Z",
+  "generated_at": "2026-11-01T12:10:42.769655Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -150,6 +150,16 @@
     ],
     "crypto": [
       {
+        "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+        "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+        "published": "Sun, 01 Nov 2026 10:35:42 +0000"
+      },
+      {
+        "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+        "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+        "published": "Sun, 01 Nov 2026 01:10:05 +0000"
+      },
+      {
         "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
         "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
         "published": "Sat, 31 Oct 2026 18:00:00 +0000"
@@ -178,16 +188,6 @@
         "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
         "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
         "published": "Sat, 31 Oct 2026 14:40:29 +0000"
-      },
-      {
-        "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
-        "link": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
-        "published": "Sat, 31 Oct 2026 14:00:00 +0000"
-      },
-      {
-        "title": "18 years in, what has Bitcoin truly done?",
-        "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-        "published": "Sat, 31 Oct 2026 13:00:00 +0000"
       }
     ]
   },
@@ -262,7 +262,7 @@
         "roa": 0.06618,
         "der": 44.32,
         "npm": 0.16900998,
-        "fcf": -11545749504,
+        "fcf": -11139749888,
         "revenue_growth": 0.121,
         "earnings_growth": -0.031,
         "dividend_yield": null,
@@ -413,7 +413,7 @@
         "dividend_yield": 0.0042,
         "ytd_return": 20.8292,
         "expense_ratio": null,
-        "three_year_return": 0.28194532
+        "three_year_return": 0.2601979
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
@@ -421,7 +421,7 @@
         "dividend_yield": 0.0099,
         "ytd_return": 12.67538,
         "expense_ratio": null,
-        "three_year_return": 0.2477239
+        "three_year_return": 0.2328269
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
@@ -429,7 +429,7 @@
         "dividend_yield": 0.0106,
         "ytd_return": 12.71956,
         "expense_ratio": null,
-        "three_year_return": 0.248796
+        "three_year_return": 0.2339674
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
@@ -437,7 +437,7 @@
         "dividend_yield": 0.0106,
         "ytd_return": 12.58111,
         "expense_ratio": null,
-        "three_year_return": 0.24608499
+        "three_year_return": 0.2313451
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
@@ -445,7 +445,7 @@
         "dividend_yield": 0.081599995,
         "ytd_return": 3.6467,
         "expense_ratio": null,
-        "three_year_return": 0.1256801
+        "three_year_return": 0.115323804
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
@@ -453,7 +453,7 @@
         "dividend_yield": 0.1105,
         "ytd_return": 14.19387,
         "expense_ratio": null,
-        "three_year_return": 0.21967569
+        "three_year_return": 0.20021
       }
     },
     "bonds": {
@@ -463,7 +463,7 @@
         "dividend_yield": 0.05,
         "ytd_return": -7.99832,
         "expense_ratio": null,
-        "three_year_return": 0.031459898
+        "three_year_return": 0.0361787
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
@@ -471,7 +471,7 @@
         "dividend_yield": 0.0419,
         "ytd_return": -2.84047,
         "expense_ratio": null,
-        "three_year_return": 0.052249
+        "three_year_return": 0.054078102
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
@@ -479,7 +479,7 @@
         "dividend_yield": 0.0417,
         "ytd_return": -2.74919,
         "expense_ratio": null,
-        "three_year_return": 0.051967602
+        "three_year_return": 0.0537977
       }
     }
   }
