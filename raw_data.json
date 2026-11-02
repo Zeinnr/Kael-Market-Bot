@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:32:18.737165Z",
+  "generated_at": "2026-11-02T13:59:28.291893Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,21 @@
     ],
     "ai_tech": [
       {
+        "title": "Stop counting tokens, start counting what ships",
+        "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+        "published": "Mon, 02 Nov 2026 13:10:32 +0000"
+      },
+      {
+        "title": "The Download: the agentic web arrives and the drive for safer roads",
+        "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+        "published": "Mon, 02 Nov 2026 13:10:00 +0000"
+      },
+      {
+        "title": "The agentic web is here",
+        "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+        "published": "Mon, 02 Nov 2026 09:35:19 +0000"
+      },
+      {
         "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
         "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
         "published": "Fri, 30 Oct 2026 11:30:00 +0000"
@@ -89,105 +104,90 @@
         "title": "Our climate models have a big, dangerous blind spot",
         "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
         "published": "Thu, 29 Oct 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Creating AI value with enterprise context",
-        "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-        "published": "Wed, 28 Oct 2026 20:32:02 +0000"
-      },
-      {
-        "title": "The Download: dead startups fueling AI and interspecies communication",
-        "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-        "published": "Wed, 28 Oct 2026 12:10:00 +0000"
-      },
-      {
-        "title": "Pairing industrial AI autonomy and human control",
-        "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-        "published": "Wed, 28 Oct 2026 12:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-        "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-        "published": "Sun, 01 Nov 2026 20:00:00 GMT"
+        "title": "Oil prices could average $130 a barrel next year, according to Goldman Sachs",
+        "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 13:46:00 GMT"
       },
       {
-        "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-        "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-        "published": "Sun, 01 Nov 2026 19:20:00 GMT"
+        "title": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+        "link": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 13:44:00 GMT"
       },
       {
         "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
         "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-        "published": "Sun, 01 Nov 2026 17:30:00 GMT"
+        "published": "Mon, 02 Nov 2026 13:15:00 GMT"
       },
       {
-        "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-        "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-        "published": "Sun, 01 Nov 2026 17:05:00 GMT"
-      },
-      {
-        "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-        "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-        "published": "Sun, 01 Nov 2026 16:35:00 GMT"
-      },
-      {
-        "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-        "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-        "published": "Sun, 01 Nov 2026 15:00:00 GMT"
+        "title": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
+        "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 12:26:00 GMT"
       },
       {
         "title": "This is the biggest threat to the AI-powered bull market",
         "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-        "published": "Sun, 01 Nov 2026 14:00:00 GMT"
+        "published": "Mon, 02 Nov 2026 12:23:00 GMT"
       },
       {
-        "title": "America is doing better than you think. Your algorithm is just hiding it.",
+        "title": "America is doing better than you think — just ask those in the bottom half of household wealth",
         "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-        "published": "Sun, 01 Nov 2026 13:00:00 GMT"
+        "published": "Mon, 02 Nov 2026 12:22:00 GMT"
+      },
+      {
+        "title": "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal",
+        "link": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 12:20:00 GMT"
+      },
+      {
+        "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+        "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 12:15:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-        "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
-        "published": "Sun, 01 Nov 2026 19:30:00 +0000"
+        "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+        "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+        "published": "Mon, 02 Nov 2026 12:37:24 +0000"
       },
       {
-        "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-        "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
-        "published": "Sun, 01 Nov 2026 17:00:00 +0000"
+        "title": "Bitcoin's 'volatility curve' has a midterm bump",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+        "published": "Mon, 02 Nov 2026 12:30:17 +0000"
       },
       {
-        "title": "The key races to watch for the 2026 election",
-        "link": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
-        "published": "Sun, 01 Nov 2026 15:00:00 +0000"
+        "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+        "link": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+        "published": "Mon, 02 Nov 2026 11:57:45 +0000"
       },
       {
-        "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-        "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
-        "published": "Sun, 01 Nov 2026 15:00:00 +0000"
+        "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+        "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+        "published": "Mon, 02 Nov 2026 11:30:00 +0000"
       },
       {
-        "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
-        "link": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
-        "published": "Sun, 01 Nov 2026 14:00:00 +0000"
+        "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+        "link": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
+        "published": "Mon, 02 Nov 2026 09:33:20 +0000"
       },
       {
-        "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
-        "link": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
-        "published": "Sun, 01 Nov 2026 13:00:00 +0000"
+        "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+        "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+        "published": "Mon, 02 Nov 2026 09:04:49 +0000"
       },
       {
-        "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-        "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-        "published": "Sun, 01 Nov 2026 10:35:42 +0000"
+        "title": "Live updates: Bitcoin posts small rise as Binance records $6 billion outflows after starting withdrawals",
+        "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+        "published": "Mon, 02 Nov 2026 08:49:30 +0000"
       },
       {
-        "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-        "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-        "published": "Sun, 01 Nov 2026 01:10:05 +0000"
+        "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+        "link": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
+        "published": "Mon, 02 Nov 2026 08:41:28 +0000"
       }
     ]
   },
@@ -260,9 +260,9 @@
         "pbv": 4.23472,
         "roe": 0.27416,
         "roa": 0.06618,
-        "der": 44.32,
+        "der": 49.681,
         "npm": 0.16900998,
-        "fcf": -11139749888,
+        "fcf": -34731749376,
         "revenue_growth": 0.121,
         "earnings_growth": -0.031,
         "dividend_yield": null,
@@ -337,9 +337,9 @@
         "roa": 0.01783,
         "der": 38.108,
         "npm": -0.20089,
-        "fcf": 670374976,
+        "fcf": 806499968,
         "revenue_growth": 0.209,
-        "earnings_growth": -0.333,
+        "earnings_growth": -0.327,
         "dividend_yield": null,
         "valuation_flag": "data tidak cukup"
       },
@@ -400,8 +400,8 @@
         "der": null,
         "npm": 0.28064,
         "fcf": null,
-        "revenue_growth": 0.071,
-        "earnings_growth": -0.143,
+        "revenue_growth": 0.034,
+        "earnings_growth": -0.125,
         "dividend_yield": 0.02559,
         "valuation_flag": "data tidak cukup"
       }
