@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:14:46.677095Z",
+  "generated_at": "2026-11-03T13:08:18.047885Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,16 @@
     ],
     "ai_tech": [
       {
+        "title": "How “reverse game theory” could keep AI agents in check",
+        "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+        "published": "Tue, 03 Nov 2026 10:43:41 +0000"
+      },
+      {
+        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+        "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+        "published": "Tue, 03 Nov 2026 04:18:47 +0000"
+      },
+      {
         "title": "Raising the quality of insights in agentic analytics",
         "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
         "published": "Mon, 02 Nov 2026 17:00:00 +0000"
@@ -94,100 +104,90 @@
         "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
         "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
         "published": "Fri, 30 Oct 2026 09:00:00 +0000"
-      },
-      {
-        "title": "The Download: AI agent tracking and climate feedback loops",
-        "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-        "published": "Thu, 29 Oct 2026 12:10:00 +0000"
-      },
-      {
-        "title": "We urgently need to monitor AI agents’ actions in real time",
-        "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-        "published": "Thu, 29 Oct 2026 10:11:12 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
-        "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 00:03:00 GMT"
+        "title": "3 signs cash-strapped consumers are nearing a ‘spend-pocalypse’ that would hurt the economy",
+        "link": "https://www.marketwatch.com/story/3-signs-cash-strapped-consumers-are-nearing-a-spend-pocalypse-that-would-hurt-the-economy-2ab4c3dd?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 13:00:00 GMT"
       },
       {
-        "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
-        "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 23:39:00 GMT"
+        "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+        "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 12:59:00 GMT"
       },
       {
-        "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
-        "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 22:03:00 GMT"
+        "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+        "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 12:30:00 GMT"
+      },
+      {
+        "title": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
+        "link": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 12:28:00 GMT"
       },
       {
         "title": "Wall Street’s most hated stocks are faring far better than its favorites",
         "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 21:45:00 GMT"
+        "published": "Tue, 03 Nov 2026 12:22:00 GMT"
       },
       {
-        "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-        "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 21:35:00 GMT"
+        "title": "What analysts are telling us while Apple’s stock falls after earnings report",
+        "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 12:20:00 GMT"
       },
       {
         "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
         "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 21:30:00 GMT"
+        "published": "Tue, 03 Nov 2026 12:15:00 GMT"
       },
       {
-        "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
-        "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 21:29:00 GMT"
-      },
-      {
-        "title": "Palantir earnings reveal a major AI turning point",
-        "link": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 21:09:00 GMT"
+        "title": "The stock market loves gridlock. But midterm elections won’t resolve two big money fights.",
+        "link": "https://www.marketwatch.com/story/the-stock-market-loves-gridlock-but-midterm-elections-wont-resolve-two-big-money-fights-97ed4f64?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 12:12:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Big crypto wants the one thing it can’t buy: your vote",
-        "link": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
-        "published": "Mon, 02 Nov 2026 21:38:53 +0000"
+        "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
+        "link": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
+        "published": "Tue, 03 Nov 2026 12:57:28 +0000"
       },
       {
-        "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-        "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
-        "published": "Mon, 02 Nov 2026 18:13:57 +0000"
+        "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
+        "published": "Tue, 03 Nov 2026 12:30:09 +0000"
       },
       {
-        "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
-        "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
-        "published": "Mon, 02 Nov 2026 17:21:04 +0000"
+        "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+        "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+        "published": "Tue, 03 Nov 2026 12:01:05 +0000"
       },
       {
-        "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
-        "link": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
-        "published": "Mon, 02 Nov 2026 16:41:46 +0000"
+        "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+        "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+        "published": "Tue, 03 Nov 2026 11:28:00 +0000"
       },
       {
-        "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-        "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
-        "published": "Mon, 02 Nov 2026 15:53:29 +0000"
+        "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+        "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+        "published": "Tue, 03 Nov 2026 11:12:12 +0000"
       },
       {
-        "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
-        "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
-        "published": "Mon, 02 Nov 2026 15:26:43 +0000"
+        "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+        "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+        "published": "Tue, 03 Nov 2026 10:15:53 +0000"
       },
       {
-        "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
-        "link": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
-        "published": "Mon, 02 Nov 2026 15:18:55 +0000"
+        "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+        "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
+        "published": "Tue, 03 Nov 2026 09:50:16 +0000"
       },
       {
-        "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
-        "link": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
-        "published": "Mon, 02 Nov 2026 15:05:24 +0000"
+        "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+        "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+        "published": "Tue, 03 Nov 2026 09:40:32 +0000"
       }
     ]
   },
@@ -226,7 +226,7 @@
       "AAPL": {
         "name": "Apple Inc.",
         "price": 338.32,
-        "per": 38.798164,
+        "per": 37.674835,
         "pbv": 45.967392,
         "roe": 1.4875101,
         "roa": 0.27082002,
@@ -316,7 +316,7 @@
       "PLTR": {
         "name": "Palantir Technologies Inc.",
         "price": 178.34,
-        "per": 153.74138,
+        "per": 159.23213,
         "pbv": 43.839725,
         "roe": 0.38097,
         "roa": 0.17292999,
@@ -409,7 +409,7 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 690.49,
+        "price": 680.87,
         "dividend_yield": 0.0042,
         "ytd_return": 20.8292,
         "expense_ratio": null,
@@ -417,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 755.58594,
+        "price": 751.7718,
         "dividend_yield": 0.0099,
         "ytd_return": 12.67538,
         "expense_ratio": null,
@@ -425,7 +425,7 @@
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 694.53,
+        "price": 691.02,
         "dividend_yield": 0.0106,
         "ytd_return": 12.71956,
         "expense_ratio": null,
@@ -433,7 +433,7 @@
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 371.51,
+        "price": 369.83,
         "dividend_yield": 0.0106,
         "ytd_return": 12.58111,
         "expense_ratio": null,
@@ -441,7 +441,7 @@
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.5388,
+        "price": 57.3434,
         "dividend_yield": 0.081599995,
         "ytd_return": 3.6467,
         "expense_ratio": null,
@@ -449,7 +449,7 @@
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 57.5556,
+        "price": 56.1951,
         "dividend_yield": 0.1105,
         "ytd_return": 14.19387,
         "expense_ratio": null,
@@ -459,7 +459,7 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 81.80163,
+        "price": 81.68713,
         "dividend_yield": 0.05,
         "ytd_return": -7.99832,
         "expense_ratio": null,
@@ -467,7 +467,7 @@
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 96.44908,
+        "price": 96.18579,
         "dividend_yield": 0.0419,
         "ytd_return": -2.84047,
         "expense_ratio": null,
@@ -475,7 +475,7 @@
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.56,
+        "price": 71.34,
         "dividend_yield": 0.0417,
         "ytd_return": -2.74919,
         "expense_ratio": null,
@@ -526,20 +526,20 @@
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "per": 153.74138
+        "per": 159.23213
       }
     ],
     "equity_ranking": [
       {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "composite_score": 1.074,
+        "composite_score": 1.075,
         "components_used": 9
       },
       {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "composite_score": 0.582,
+        "composite_score": 0.577,
         "components_used": 8
       },
       {
@@ -563,7 +563,7 @@
       {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "composite_score": 0.143,
+        "composite_score": 0.145,
         "components_used": 9
       },
       {
@@ -611,7 +611,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -1.022,
+        "composite_score": -1.02,
         "components_used": 8
       }
     ],
@@ -655,6 +655,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cgf2hhERJfq1w1HiVifrB\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cgg3gstCxzs5yB8Jn4Wct\"}"
   }
 }
