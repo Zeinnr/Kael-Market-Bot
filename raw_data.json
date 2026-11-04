@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:44:31.789092Z",
+  "generated_at": "2026-11-04T13:23:06.768922Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "Securing the agentic enterprise with data lineage",
+        "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+        "published": "Wed, 04 Nov 2026 13:00:00 +0000"
+      },
+      {
         "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
         "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
         "published": "Tue, 03 Nov 2026 13:10:00 +0000"
@@ -99,95 +104,90 @@
         "title": "The agentic web is here",
         "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
         "published": "Mon, 02 Nov 2026 09:35:19 +0000"
-      },
-      {
-        "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-        "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-        "published": "Fri, 30 Oct 2026 11:30:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "AI’s control over the bond market is growing — even rivaling war and elections",
-        "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 22:06:00 GMT"
+        "title": "Datadog’s stock extends steep declines in the wake of earnings",
+        "link": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 13:03:00 GMT"
       },
       {
-        "title": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
-        "link": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 21:30:00 GMT"
+        "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+        "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 13:00:00 GMT"
       },
       {
-        "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
-        "link": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 21:27:00 GMT"
+        "title": "Think the Fed will be done after two more rate hikes? How Friday’s jobs report may trigger a major market repricing.",
+        "link": "https://www.marketwatch.com/story/think-the-fed-will-be-done-after-two-more-rate-hikes-how-fridays-jobs-report-may-trigger-a-major-market-repricing-6aca874c?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 13:00:00 GMT"
       },
       {
-        "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-        "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 21:13:00 GMT"
+        "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
+        "link": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 12:50:00 GMT"
       },
       {
-        "title": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
-        "link": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 21:04:00 GMT"
-      },
-      {
-        "title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
-        "link": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 20:46:00 GMT"
+        "title": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
+        "link": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 12:27:00 GMT"
       },
       {
         "title": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
         "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 20:00:00 GMT"
+        "published": "Wed, 04 Nov 2026 12:16:00 GMT"
       },
       {
-        "title": "An overlooked energy source could solve AI’s power crunch — and these 2 stocks are prime plays",
-        "link": "https://www.marketwatch.com/story/an-overlooked-energy-source-could-solve-ais-power-crunch-and-these-2-stocks-are-prime-plays-bc5d988a?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 19:57:00 GMT"
+        "title": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
+        "link": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 11:10:00 GMT"
+      },
+      {
+        "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+        "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 10:15:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
-        "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
-        "published": "Tue, 03 Nov 2026 22:14:44 +0000"
+        "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+        "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+        "published": "Wed, 04 Nov 2026 13:00:00 +0000"
       },
       {
-        "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-        "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
-        "published": "Tue, 03 Nov 2026 16:55:10 +0000"
+        "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+        "link": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+        "published": "Wed, 04 Nov 2026 12:49:56 +0000"
       },
       {
-        "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
-        "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
-        "published": "Tue, 03 Nov 2026 16:49:56 +0000"
+        "title": "Circle beats earnings and revenue estimates on soaring USDC transaction volume",
+        "link": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
+        "published": "Wed, 04 Nov 2026 12:33:54 +0000"
       },
       {
-        "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
-        "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
-        "published": "Tue, 03 Nov 2026 16:17:51 +0000"
+        "title": "Here's how analysts are reacting to the new blue Congress",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
+        "published": "Wed, 04 Nov 2026 12:14:11 +0000"
       },
       {
-        "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
-        "link": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
-        "published": "Tue, 03 Nov 2026 16:12:35 +0000"
+        "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+        "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
+        "published": "Wed, 04 Nov 2026 10:38:58 +0000"
       },
       {
-        "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-        "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
-        "published": "Tue, 03 Nov 2026 15:02:13 +0000"
+        "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+        "link": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
+        "published": "Wed, 04 Nov 2026 10:18:50 +0000"
       },
       {
-        "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
-        "link": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
-        "published": "Tue, 03 Nov 2026 14:53:19 +0000"
+        "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
+        "link": "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
+        "published": "Wed, 04 Nov 2026 10:03:33 +0000"
       },
       {
-        "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
-        "link": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
-        "published": "Tue, 03 Nov 2026 14:42:30 +0000"
+        "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+        "link": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
+        "published": "Wed, 04 Nov 2026 09:22:58 +0000"
       }
     ]
   },
@@ -227,14 +227,14 @@
         "name": "Apple Inc.",
         "price": 331.9,
         "per": 36.95991,
-        "pbv": 45.095108,
-        "roe": 1.4875101,
-        "roa": 0.27082002,
-        "der": 78.445,
-        "npm": 0.27618998,
-        "fcf": 107721875456,
-        "revenue_growth": 0.164,
-        "earnings_growth": 0.287,
+        "pbv": 43.031246,
+        "roe": 1.42257,
+        "roa": 0.25868,
+        "der": 71.468,
+        "npm": 0.27604,
+        "fcf": 107912372224,
+        "revenue_growth": 0.117,
+        "earnings_growth": 0.142,
         "dividend_yield": 0.00325,
         "valuation_flag": "fair relatif ke peer group"
       },
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 520.99,
-        "per": 27.191545,
+        "per": 26.473068,
         "pbv": 8.223864,
         "roe": 0.34221,
         "roa": 0.14408,
@@ -316,15 +316,15 @@
       "PLTR": {
         "name": "Palantir Technologies Inc.",
         "price": 175.4,
-        "per": 123.521126,
+        "per": 125.28571,
         "pbv": 56.782127,
-        "roe": 0.38097,
-        "roa": 0.17292999,
-        "der": 2.139,
-        "npm": 0.49005002,
-        "fcf": 2159104512,
-        "revenue_growth": 0.928,
-        "earnings_growth": 2.154,
+        "roe": 0.40907001,
+        "roa": 0.19313999,
+        "der": 1.986,
+        "npm": 0.50343,
+        "fcf": 2652487680,
+        "revenue_growth": 0.959,
+        "earnings_growth": 1.444,
         "dividend_yield": null,
         "valuation_flag": "fair relatif ke peer group"
       },
@@ -409,7 +409,7 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 680.87,
+        "price": 685.5,
         "dividend_yield": 0.0042,
         "ytd_return": 20.8292,
         "expense_ratio": null,
@@ -417,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 751.7718,
+        "price": 754.5177,
         "dividend_yield": 0.0099,
         "ytd_return": 12.67538,
         "expense_ratio": null,
@@ -425,7 +425,7 @@
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 691.02,
+        "price": 693.55,
         "dividend_yield": 0.0106,
         "ytd_return": 12.71956,
         "expense_ratio": null,
@@ -433,7 +433,7 @@
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 369.83,
+        "price": 371.2,
         "dividend_yield": 0.0106,
         "ytd_return": 12.58111,
         "expense_ratio": null,
@@ -441,7 +441,7 @@
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.3434,
+        "price": 57.3569,
         "dividend_yield": 0.081599995,
         "ytd_return": 3.6467,
         "expense_ratio": null,
@@ -449,7 +449,7 @@
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 56.1951,
+        "price": 56.5739,
         "dividend_yield": 0.1105,
         "ytd_return": 14.19387,
         "expense_ratio": null,
@@ -459,7 +459,7 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 81.68713,
+        "price": 81.06078,
         "dividend_yield": 0.05,
         "ytd_return": -7.99832,
         "expense_ratio": null,
@@ -467,7 +467,7 @@
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 96.18579,
+        "price": 95.95748,
         "dividend_yield": 0.0419,
         "ytd_return": -2.84047,
         "expense_ratio": null,
@@ -475,7 +475,7 @@
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.34,
+        "price": 71.17,
         "dividend_yield": 0.0417,
         "ytd_return": -2.74919,
         "expense_ratio": null,
