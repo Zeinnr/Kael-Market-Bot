@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:16:00.161261Z",
+  "generated_at": "2026-11-08T12:19:51.396623Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,11 @@
     ],
     "markets": [
       {
+        "title": "This market signal called the tech selloff. Now it’s sending another warning.",
+        "link": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
+        "published": "Sun, 08 Nov 2026 12:00:00 GMT"
+      },
+      {
         "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
         "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
         "published": "Sat, 07 Nov 2026 20:48:00 GMT"
@@ -141,11 +146,6 @@
         "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
         "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
         "published": "Sat, 07 Nov 2026 17:04:00 GMT"
-      },
-      {
-        "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-        "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-        "published": "Sat, 07 Nov 2026 17:01:00 GMT"
       }
     ],
     "crypto": [
@@ -413,7 +413,7 @@
         "dividend_yield": 0.0045,
         "ytd_return": 12.803,
         "expense_ratio": null,
-        "three_year_return": 0.21407591
+        "three_year_return": 0.2180559
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
@@ -421,7 +421,7 @@
         "dividend_yield": 0.01,
         "ytd_return": 11.68683,
         "expense_ratio": null,
-        "three_year_return": 0.2047158
+        "three_year_return": 0.2050457
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
@@ -429,7 +429,7 @@
         "dividend_yield": 0.0107,
         "ytd_return": 11.73498,
         "expense_ratio": null,
-        "three_year_return": 0.2057367
+        "three_year_return": 0.2061655
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
@@ -437,7 +437,7 @@
         "dividend_yield": 0.0106,
         "ytd_return": 11.76882,
         "expense_ratio": null,
-        "three_year_return": 0.2025337
+        "three_year_return": 0.20393169
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
@@ -445,7 +445,7 @@
         "dividend_yield": 0.0793,
         "ytd_return": 6.80874,
         "expense_ratio": null,
-        "three_year_return": 0.1007127
+        "three_year_return": 0.1000841
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
@@ -453,7 +453,7 @@
         "dividend_yield": 0.1196,
         "ytd_return": 8.35251,
         "expense_ratio": null,
-        "three_year_return": 0.1616309
+        "three_year_return": 0.1642798
       }
     },
     "bonds": {
@@ -463,7 +463,7 @@
         "dividend_yield": 0.0476,
         "ytd_return": -2.92049,
         "expense_ratio": null,
-        "three_year_return": 0.0206199
+        "three_year_return": 0.0238997
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
@@ -471,7 +471,7 @@
         "dividend_yield": 0.041100003,
         "ytd_return": -0.47632,
         "expense_ratio": null,
-        "three_year_return": 0.048200596
+        "three_year_return": 0.049696498
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
@@ -479,7 +479,7 @@
         "dividend_yield": 0.041100003,
         "ytd_return": -0.4284,
         "expense_ratio": null,
-        "three_year_return": 0.0480363
+        "three_year_return": 0.0492491
       }
     }
   }
