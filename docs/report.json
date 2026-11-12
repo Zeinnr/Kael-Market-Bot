@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:54:18.740713Z",
+  "generated_at": "2026-11-12T14:06:52.506022Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,11 @@
     ],
     "ai_tech": [
       {
+        "title": "The Download: COP31’s climate challenge and the quest for immortality",
+        "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+        "published": "Thu, 12 Nov 2026 13:10:00 +0000"
+      },
+      {
         "title": "What to know about this year’s UN climate talks",
         "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
         "published": "Wed, 11 Nov 2026 17:00:00 +0000"
@@ -99,95 +104,90 @@
         "title": "The Download: empty AI climate claims, and an Nvidia investigation",
         "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
         "published": "Mon, 09 Nov 2026 13:15:00 +0000"
-      },
-      {
-        "title": "Innovating with AI in the special chemicals industry",
-        "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-        "published": "Mon, 09 Nov 2026 13:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-        "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 23:30:00 GMT"
+        "title": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50.",
+        "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 13:38:00 GMT"
       },
       {
-        "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-        "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 23:08:00 GMT"
+        "title": "Wendy’s rejects a takeover offer, scales back breakfast and still sees its stock surge",
+        "link": "https://www.marketwatch.com/story/wendys-rejects-a-takeover-offer-scales-back-breakfast-and-still-sees-its-stock-surge-4e398cde?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 13:05:00 GMT"
       },
       {
-        "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-        "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 22:30:00 GMT"
+        "title": "The world’s most sophisticated drug companies are putting billions into vaccines — despite the political environment",
+        "link": "https://www.marketwatch.com/story/the-worlds-most-sophisticated-drug-companies-are-putting-billions-into-vaccines-despite-the-political-environment-8dcbf276?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 13:00:00 GMT"
       },
       {
-        "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
-        "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 22:05:00 GMT"
+        "title": "How the U.S. government’s equity holdings have surged during Trump’s second term — in one chart",
+        "link": "https://www.marketwatch.com/story/how-the-u-s-governments-equity-holdings-have-surged-during-trumps-second-term-in-one-chart-b598c369?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 13:00:00 GMT"
       },
       {
-        "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
-        "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 21:55:00 GMT"
+        "title": "The ‘bank of Nvidia’ is in jeopardy, threatening the entire AI boom",
+        "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 12:55:00 GMT"
       },
       {
-        "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
-        "link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 21:42:00 GMT"
+        "title": "Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man",
+        "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 12:29:00 GMT"
       },
       {
-        "title": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
-        "link": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 21:40:00 GMT"
+        "title": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait",
+        "link": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 11:34:00 GMT"
       },
       {
-        "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
-        "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 21:21:00 GMT"
+        "title": "Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
+        "link": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 10:57:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
-        "published": "Wed, 11 Nov 2026 16:00:45 +0000"
+        "title": "Nvidia shares plunge 10% to June 2025 levels as Jensen Huang resigns",
+        "link": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+        "published": "Thu, 12 Nov 2026 13:57:53 +0000"
       },
       {
-        "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
-        "link": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
-        "published": "Wed, 11 Nov 2026 13:00:00 +0000"
+        "title": "Bitcoin weakness erases September's bullish signal",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+        "published": "Thu, 12 Nov 2026 12:15:00 +0000"
       },
       {
-        "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
-        "link": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
-        "published": "Wed, 11 Nov 2026 12:57:36 +0000"
+        "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+        "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+        "published": "Thu, 12 Nov 2026 12:04:42 +0000"
       },
       {
-        "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-        "link": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-        "published": "Wed, 11 Nov 2026 12:21:24 +0000"
+        "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+        "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+        "published": "Thu, 12 Nov 2026 11:43:41 +0000"
       },
       {
-        "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-        "link": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
-        "published": "Wed, 11 Nov 2026 12:19:30 +0000"
+        "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+        "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+        "published": "Thu, 12 Nov 2026 11:30:00 +0000"
       },
       {
-        "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-        "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-        "published": "Wed, 11 Nov 2026 11:37:04 +0000"
+        "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+        "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+        "published": "Thu, 12 Nov 2026 10:42:06 +0000"
       },
       {
-        "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
-        "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
-        "published": "Wed, 11 Nov 2026 10:51:34 +0000"
+        "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+        "link": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+        "published": "Thu, 12 Nov 2026 10:32:35 +0000"
       },
       {
-        "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-        "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-        "published": "Wed, 11 Nov 2026 10:45:49 +0000"
+        "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+        "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+        "published": "Thu, 12 Nov 2026 10:10:48 +0000"
       }
     ]
   },
@@ -409,7 +409,7 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 674.83,
+        "price": 690.23,
         "dividend_yield": 0.0045,
         "ytd_return": 12.803,
         "expense_ratio": null,
@@ -417,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 749.85956,
+        "price": 759.6635,
         "dividend_yield": 0.01,
         "ytd_return": 11.68683,
         "expense_ratio": null,
@@ -425,7 +425,7 @@
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 689.28,
+        "price": 698.3,
         "dividend_yield": 0.0107,
         "ytd_return": 11.73498,
         "expense_ratio": null,
@@ -433,7 +433,7 @@
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 369.48,
+        "price": 374.21,
         "dividend_yield": 0.0106,
         "ytd_return": 11.76882,
         "expense_ratio": null,
@@ -441,7 +441,7 @@
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.6402,
+        "price": 58.2256,
         "dividend_yield": 0.0793,
         "ytd_return": 6.80874,
         "expense_ratio": null,
@@ -449,7 +449,7 @@
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 55.7935,
+        "price": 56.9189,
         "dividend_yield": 0.1196,
         "ytd_return": 8.35251,
         "expense_ratio": null,
@@ -459,7 +459,7 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 80.85681,
+        "price": 80.86893,
         "dividend_yield": 0.0476,
         "ytd_return": -2.92049,
         "expense_ratio": null,
@@ -467,7 +467,7 @@
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 95.85796,
+        "price": 95.76739,
         "dividend_yield": 0.041100003,
         "ytd_return": -0.47632,
         "expense_ratio": null,
@@ -475,7 +475,7 @@
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.11,
+        "price": 71.05,
         "dividend_yield": 0.041100003,
         "ytd_return": -0.4284,
         "expense_ratio": null,
@@ -650,6 +650,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Cgx3RRKw1TtDcwKmt79L5\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CgyASBJvTWVQ6xR8mEX9f\"}"
   }
 }
