@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:04:32.342998Z",
+  "generated_at": "2026-11-14T12:37:19.309791Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,14 +108,29 @@
     ],
     "markets": [
       {
+        "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+        "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+        "published": "Sat, 14 Nov 2026 12:00:00 GMT"
+      },
+      {
+        "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+        "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+        "published": "Sat, 14 Nov 2026 02:42:00 GMT"
+      },
+      {
+        "title": "14 dividend stocks selected for long-term growth",
+        "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+        "published": "Sat, 14 Nov 2026 01:58:00 GMT"
+      },
+      {
+        "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+        "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+        "published": "Fri, 13 Nov 2026 23:12:00 GMT"
+      },
+      {
         "title": "4 expert tips for signing up for Medicare",
         "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
         "published": "Fri, 13 Nov 2026 22:45:00 GMT"
-      },
-      {
-        "title": "FAA declares rare nationwide ground stop on flights, with nearly 10,000 canceled so far",
-        "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-        "published": "Fri, 13 Nov 2026 22:44:00 GMT"
       },
       {
         "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
@@ -131,24 +146,19 @@
         "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
         "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
         "published": "Fri, 13 Nov 2026 22:00:00 GMT"
-      },
-      {
-        "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-        "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-        "published": "Fri, 13 Nov 2026 21:32:00 GMT"
-      },
-      {
-        "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-        "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
-        "published": "Fri, 13 Nov 2026 21:26:00 GMT"
-      },
-      {
-        "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
-        "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
-        "published": "Fri, 13 Nov 2026 21:10:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+        "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+        "published": "Sat, 14 Nov 2026 04:30:00 +0000"
+      },
+      {
+        "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+        "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+        "published": "Fri, 13 Nov 2026 23:30:00 +0000"
+      },
       {
         "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
         "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
@@ -178,16 +188,6 @@
         "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
         "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
         "published": "Fri, 13 Nov 2026 11:52:25 +0000"
-      },
-      {
-        "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-        "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-        "published": "Fri, 13 Nov 2026 09:16:58 +0000"
-      },
-      {
-        "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-        "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-        "published": "Fri, 13 Nov 2026 07:05:29 +0000"
       }
     ]
   },
@@ -271,7 +271,7 @@
       "MSFT": {
         "name": "Microsoft Corporation",
         "price": 523.88,
-        "per": 27.34238,
+        "per": 27.299635,
         "pbv": 8.269483,
         "roe": 0.34221,
         "roa": 0.14408,
@@ -409,7 +409,7 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 688.22,
+        "price": 679.85,
         "dividend_yield": 0.0045,
         "ytd_return": 12.803,
         "expense_ratio": null,
@@ -417,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 757.0365,
+        "price": 754.06366,
         "dividend_yield": 0.01,
         "ytd_return": 11.68683,
         "expense_ratio": null,
@@ -425,7 +425,7 @@
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 695.88,
+        "price": 693.15,
         "dividend_yield": 0.0107,
         "ytd_return": 11.73498,
         "expense_ratio": null,
@@ -433,7 +433,7 @@
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 372.5,
+        "price": 371.09,
         "dividend_yield": 0.0106,
         "ytd_return": 11.76882,
         "expense_ratio": null,
@@ -441,7 +441,7 @@
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 58.0308,
+        "price": 57.961,
         "dividend_yield": 0.0793,
         "ytd_return": 6.80874,
         "expense_ratio": null,
@@ -449,7 +449,7 @@
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 56.7713,
+        "price": 56.2109,
         "dividend_yield": 0.1196,
         "ytd_return": 8.35251,
         "expense_ratio": null,
@@ -459,7 +459,7 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 79.71092,
+        "price": 79.31373,
         "dividend_yield": 0.0476,
         "ytd_return": -2.92049,
         "expense_ratio": null,
@@ -467,7 +467,7 @@
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 95.19836,
+        "price": 95.04785,
         "dividend_yield": 0.041100003,
         "ytd_return": -0.47632,
         "expense_ratio": null,
@@ -475,7 +475,7 @@
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 70.64,
+        "price": 70.53,
         "dividend_yield": 0.041100003,
         "ytd_return": -0.4284,
         "expense_ratio": null,
@@ -650,6 +650,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ch1mF7Bu3oQSU2HmCUBY8\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011Ch2qDw6cmo6yy3EbYJ6k3\"}"
   }
 }
