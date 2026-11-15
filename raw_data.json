@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T21:51:20.528305Z",
+  "generated_at": "2026-11-15T13:03:21.620397Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,21 @@
     ],
     "markets": [
       {
+        "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+        "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+        "published": "Sun, 15 Nov 2026 13:00:00 GMT"
+      },
+      {
+        "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
+        "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
+        "published": "Sun, 15 Nov 2026 12:30:00 GMT"
+      },
+      {
+        "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+        "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+        "published": "Sun, 15 Nov 2026 00:33:00 GMT"
+      },
+      {
         "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
         "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
         "published": "Sat, 14 Nov 2026 21:31:00 GMT"
@@ -116,11 +131,6 @@
         "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
         "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
         "published": "Sat, 14 Nov 2026 21:00:00 GMT"
-      },
-      {
-        "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-        "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-        "published": "Sat, 14 Nov 2026 20:00:00 GMT"
       },
       {
         "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
@@ -136,21 +146,16 @@
         "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
         "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
         "published": "Sat, 14 Nov 2026 18:00:00 GMT"
-      },
-      {
-        "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-        "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-        "published": "Sat, 14 Nov 2026 17:50:00 GMT"
-      },
-      {
-        "title": "The trillion-dollar mistake corporate America is making about retirement",
-        "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-        "published": "Sat, 14 Nov 2026 17:50:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+        "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+        "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+        "published": "Sun, 15 Nov 2026 02:50:57 +0000"
+      },
+      {
+        "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
         "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
         "published": "Sat, 14 Nov 2026 16:33:29 +0000"
       },
@@ -183,11 +188,6 @@
         "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
         "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
         "published": "Sat, 14 Nov 2026 04:30:00 +0000"
-      },
-      {
-        "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-        "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-        "published": "Fri, 13 Nov 2026 23:30:00 +0000"
       }
     ]
   },
