@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:21:43.767727Z",
+  "generated_at": "2026-11-17T15:01:34.650764Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -38,10 +38,10 @@
     },
     "RSAFS": {
       "label": "Retail Sales",
-      "date": "2026-09-01",
-      "value": 745021.0,
-      "previous_value": 739322.0,
-      "change_pct": 0.77
+      "date": "2026-10-01",
+      "value": 748220.0,
+      "previous_value": 746637.0,
+      "change_pct": 0.21
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
@@ -65,6 +65,11 @@
       }
     ],
     "ai_tech": [
+      {
+        "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+        "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+        "published": "Tue, 17 Nov 2026 13:10:00 +0000"
+      },
       {
         "title": "The open-source movement wants Jensen Huang back",
         "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
@@ -99,58 +104,90 @@
         "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
         "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
         "published": "Fri, 13 Nov 2026 10:00:00 +0000"
-      },
-      {
-        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-        "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-        "published": "Thu, 12 Nov 2026 20:16:24 +0000"
       }
     ],
     "markets": [
       {
-        "error": "HTTP Error 400: Bad Request"
+        "title": "SpaceX got a vote of confidence from Nvidia ahead of Jensen Huang’s exit",
+        "link": "https://www.marketwatch.com/story/spacex-got-a-vote-of-confidence-from-nvidia-ahead-of-jensen-huangs-exit-6fe52365?mod=mw_rss_topstories",
+        "published": "Tue, 17 Nov 2026 14:46:00 GMT"
+      },
+      {
+        "title": "I tried TikTok’s viral ‘corporate slop lunch hacks’ — and finally escaped the $20 desk salad",
+        "link": "https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories",
+        "published": "Tue, 17 Nov 2026 14:41:00 GMT"
+      },
+      {
+        "title": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble? Nope.",
+        "link": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
+        "published": "Tue, 17 Nov 2026 14:32:00 GMT"
+      },
+      {
+        "title": "Nvidia investors will be clamoring for these answers during today’s historic earnings call",
+        "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
+        "published": "Tue, 17 Nov 2026 14:24:00 GMT"
+      },
+      {
+        "title": "The biggest financial decision of your life isn’t an investment — it’s your spouse",
+        "link": "https://www.marketwatch.com/story/the-biggest-financial-decision-of-your-life-isnt-an-investment-its-your-spouse-1cbb8680?mod=mw_rss_topstories",
+        "published": "Tue, 17 Nov 2026 14:10:00 GMT"
+      },
+      {
+        "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+        "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+        "published": "Tue, 17 Nov 2026 14:05:00 GMT"
+      },
+      {
+        "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+        "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+        "published": "Tue, 17 Nov 2026 13:15:00 GMT"
+      },
+      {
+        "title": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
+        "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+        "published": "Tue, 17 Nov 2026 12:46:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-        "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
-        "published": "Mon, 16 Nov 2026 21:51:04 +0000"
+        "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+        "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+        "published": "Tue, 17 Nov 2026 13:02:56 +0000"
       },
       {
-        "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
-        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-        "published": "Mon, 16 Nov 2026 20:35:21 +0000"
+        "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+        "link": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+        "published": "Tue, 17 Nov 2026 13:00:00 +0000"
       },
       {
-        "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
-        "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
-        "published": "Mon, 16 Nov 2026 18:54:19 +0000"
+        "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+        "published": "Tue, 17 Nov 2026 12:16:53 +0000"
       },
       {
-        "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
-        "link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-        "published": "Mon, 16 Nov 2026 16:41:42 +0000"
+        "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+        "link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+        "published": "Tue, 17 Nov 2026 12:00:55 +0000"
       },
       {
-        "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-        "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-        "published": "Mon, 16 Nov 2026 15:54:11 +0000"
+        "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+        "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+        "published": "Tue, 17 Nov 2026 11:36:07 +0000"
       },
       {
-        "title": "German parliament proposes crypto seizures without criminal charges",
-        "link": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
-        "published": "Mon, 16 Nov 2026 15:44:59 +0000"
+        "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+        "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+        "published": "Tue, 17 Nov 2026 11:29:51 +0000"
       },
       {
-        "title": "Solana drops ‘beta’ label after more than six years",
-        "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-        "published": "Mon, 16 Nov 2026 13:03:16 +0000"
+        "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
+        "link": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+        "published": "Tue, 17 Nov 2026 11:25:58 +0000"
       },
       {
-        "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-        "published": "Mon, 16 Nov 2026 12:55:46 +0000"
+        "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+        "link": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+        "published": "Tue, 17 Nov 2026 10:48:12 +0000"
       }
     ]
   },
@@ -158,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 156.14,
-        "per": 19.73957,
-        "pbv": 16.465254,
+        "price": 155.37,
+        "per": 19.642225,
+        "pbv": 16.384056,
         "roe": 1.17211,
         "roa": 0.53572,
         "der": 16.971,
@@ -168,14 +205,14 @@
         "fcf": 41809874944,
         "revenue_growth": 1.059,
         "earnings_growth": 1.278,
-        "dividend_yield": 0.0064,
+        "dividend_yield": 0.00644,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 119.09,
-        "per": 18.666143,
-        "pbv": 5.8251805,
+        "price": 117.99,
+        "per": 18.49373,
+        "pbv": 5.771375,
         "roe": 0.41192,
         "roa": 0.06357,
         "der": 251.716,
@@ -183,14 +220,14 @@
         "fcf": -45853626368,
         "revenue_growth": 0.296,
         "earnings_growth": 0.545,
-        "dividend_yield": 0.01679,
+        "dividend_yield": 0.01695,
         "valuation_flag": "fair relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 352.78,
-        "per": 39.28508,
-        "pbv": 45.738365,
+        "price": 354.84,
+        "per": 39.514477,
+        "pbv": 46.005447,
         "roe": 1.42257,
         "roa": 0.25868,
         "der": 84.286,
@@ -198,14 +235,14 @@
         "fcf": 105658376192,
         "revenue_growth": 0.117,
         "earnings_growth": 0.141,
-        "dividend_yield": 0.00306,
+        "dividend_yield": 0.00304,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 379.74,
-        "per": 417.2967,
-        "pbv": 16.81158,
+        "price": 381.88,
+        "per": 419.64835,
+        "pbv": 16.906322,
         "roe": 0.03844,
         "roa": 0.01345,
         "der": 18.295,
@@ -218,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 257.75,
-        "per": 20.836702,
-        "pbv": 4.5412903,
+        "price": 259.17,
+        "per": 20.951496,
+        "pbv": 4.5663095,
         "roe": 0.27416,
         "roa": 0.06618,
         "der": 49.681,
@@ -233,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 517.99,
-        "per": 27.03497,
-        "pbv": 8.176508,
+        "price": 511.315,
+        "per": 26.686586,
+        "pbv": 8.071143,
         "roe": 0.34221,
         "roa": 0.14408,
         "der": 28.465,
@@ -243,14 +280,14 @@
         "fcf": 2994125056,
         "revenue_growth": 0.188,
         "earnings_growth": 0.323,
-        "dividend_yield": 0.00757,
+        "dividend_yield": 0.00767,
         "valuation_flag": "fair relatif ke peer group"
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 281.26,
-        "per": 14.687207,
-        "pbv": 5.242889,
+        "price": 280.36,
+        "per": 14.640208,
+        "pbv": 5.226112,
         "roe": 0.44286,
         "roa": 0.12743,
         "der": 22.187,
@@ -258,14 +295,14 @@
         "fcf": -1162499968,
         "revenue_growth": 0.247,
         "earnings_growth": -0.253,
-        "dividend_yield": 0.00313,
+        "dividend_yield": 0.00314,
         "valuation_flag": "fair relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 626.41,
-        "per": 21.371885,
-        "pbv": 5.8780856,
+        "price": 624.1301,
+        "per": 21.294102,
+        "pbv": 5.8566923,
         "roe": 0.32264,
         "roa": 0.14577,
         "der": 42.161,
@@ -273,14 +310,14 @@
         "fcf": 16848499712,
         "revenue_growth": 0.261,
         "earnings_growth": 2.648,
-        "dividend_yield": 0.00335,
+        "dividend_yield": 0.00336,
         "valuation_flag": "fair relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 160.39,
-        "per": 112.95071,
-        "pbv": 34.41107,
+        "price": 160.05,
+        "per": 112.71127,
+        "pbv": 34.338127,
         "roe": 0.40907001,
         "roa": 0.19313999,
         "der": 1.986,
@@ -293,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 55.47,
+        "price": 54.59,
         "per": null,
-        "pbv": 2.5631902,
+        "pbv": 2.5220692,
         "roe": -0.0962,
         "roa": 0.01783,
         "der": 38.108,
@@ -308,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1406.79,
-        "per": 34.6159,
-        "pbv": 1207.9388,
+        "price": 1403.31,
+        "per": 34.530266,
+        "pbv": 1204.9507,
         "roe": 0.65636003,
         "roa": 0.18277,
         "der": 8.897,
@@ -318,31 +355,31 @@
         "fcf": 10374124544,
         "revenue_growth": 0.552,
         "earnings_growth": 1.359,
-        "dividend_yield": 0.00662,
+        "dividend_yield": 0.00663,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 373.45,
-        "per": 24.202852,
-        "pbv": 71.27017,
-        "roe": 0.41854998,
+        "price": 366.71,
+        "per": 23.766039,
+        "pbv": 70.438255,
+        "roe": 0.4186,
         "roa": 0.20581,
-        "der": 11.619,
+        "der": 15.188,
         "npm": 0.51116,
-        "fcf": 1203071877120,
+        "fcf": 1042594725888,
         "revenue_growth": 0.509,
         "earnings_growth": 0.687,
-        "dividend_yield": 0.0101,
+        "dividend_yield": 0.01028,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1197.97,
-        "per": 27.276184,
-        "pbv": 3.1861413,
+        "price": 1200.49,
+        "per": 27.333563,
+        "pbv": 3.1928437,
         "roe": 0.11607,
         "roa": 0.03847,
         "der": 22.11,
@@ -350,14 +387,14 @@
         "fcf": 8455499776,
         "revenue_growth": 0.191,
         "earnings_growth": 0.254,
-        "dividend_yield": 0.01913,
+        "dividend_yield": 0.01909,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 50.08,
-        "per": 11.952268,
-        "pbv": 1.275761,
+        "price": 50.01,
+        "per": 11.93556,
+        "pbv": 1.2739778,
         "roe": 0.1073,
         "roa": 0.00944,
         "der": null,
@@ -365,14 +402,14 @@
         "fcf": null,
         "revenue_growth": 0.034,
         "earnings_growth": -0.125,
-        "dividend_yield": 0.02556,
+        "dividend_yield": 0.02559,
         "valuation_flag": "data tidak cukup"
       }
     },
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 679.85,
+        "price": 661.69,
         "dividend_yield": 0.0045,
         "ytd_return": 12.803,
         "expense_ratio": null,
@@ -380,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 754.06366,
+        "price": 739.723,
         "dividend_yield": 0.01,
         "ytd_return": 11.68683,
         "expense_ratio": null,
@@ -388,7 +425,7 @@
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 693.15,
+        "price": 679.96,
         "dividend_yield": 0.0107,
         "ytd_return": 11.73498,
         "expense_ratio": null,
@@ -396,7 +433,7 @@
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 371.09,
+        "price": 364.08,
         "dividend_yield": 0.0106,
         "ytd_return": 11.76882,
         "expense_ratio": null,
@@ -404,7 +441,7 @@
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 57.961,
+        "price": 57.1903,
         "dividend_yield": 0.0793,
         "ytd_return": 6.80874,
         "expense_ratio": null,
@@ -412,7 +449,7 @@
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 56.2109,
+        "price": 54.8411,
         "dividend_yield": 0.1196,
         "ytd_return": 8.35251,
         "expense_ratio": null,
@@ -422,7 +459,7 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 79.31373,
+        "price": 79.34918,
         "dividend_yield": 0.0476,
         "ytd_return": -2.92049,
         "expense_ratio": null,
@@ -430,7 +467,7 @@
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 95.04785,
+        "price": 95.17208,
         "dividend_yield": 0.041100003,
         "ytd_return": -0.47632,
         "expense_ratio": null,
@@ -438,7 +475,7 @@
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 70.53,
+        "price": 70.62,
         "dividend_yield": 0.041100003,
         "ytd_return": -0.4284,
         "expense_ratio": null,
