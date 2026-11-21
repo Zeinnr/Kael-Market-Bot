@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:31:25.037693Z",
+  "generated_at": "2026-11-21T13:49:02.207442Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -108,6 +108,31 @@
     ],
     "markets": [
       {
+        "title": "Nvidia’s nonstop drama is keeping buyers away from a historically cheap stock",
+        "link": "https://www.marketwatch.com/story/nvidias-nonstop-drama-is-keeping-buyers-away-from-a-historically-cheap-stock-604022da?mod=mw_rss_topstories",
+        "published": "Sat, 21 Nov 2026 13:30:00 GMT"
+      },
+      {
+        "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+        "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+        "published": "Sat, 21 Nov 2026 13:00:00 GMT"
+      },
+      {
+        "title": "Larry McDonald survived Lehman’s collapse. Now he warns the credit market is signaling a growth shock for stocks.",
+        "link": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories",
+        "published": "Sat, 21 Nov 2026 12:31:00 GMT"
+      },
+      {
+        "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
+        "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+        "published": "Sat, 21 Nov 2026 12:00:00 GMT"
+      },
+      {
+        "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+        "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+        "published": "Sat, 21 Nov 2026 03:20:00 GMT"
+      },
+      {
         "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
         "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
         "published": "Fri, 20 Nov 2026 22:46:00 GMT"
@@ -121,34 +146,29 @@
         "title": "These stocks were crushed the most this week as the tech wreck accelerated",
         "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
         "published": "Fri, 20 Nov 2026 22:44:00 GMT"
-      },
-      {
-        "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-        "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-        "published": "Fri, 20 Nov 2026 21:58:00 GMT"
-      },
-      {
-        "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-        "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-        "published": "Fri, 20 Nov 2026 21:39:00 GMT"
-      },
-      {
-        "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-        "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-        "published": "Fri, 20 Nov 2026 21:39:00 GMT"
-      },
-      {
-        "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-        "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-        "published": "Fri, 20 Nov 2026 21:36:00 GMT"
-      },
-      {
-        "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
-        "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-        "published": "Fri, 20 Nov 2026 21:34:00 GMT"
       }
     ],
     "crypto": [
+      {
+        "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+        "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+        "published": "Sat, 21 Nov 2026 12:30:00 +0000"
+      },
+      {
+        "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+        "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+        "published": "Sat, 21 Nov 2026 06:16:42 +0000"
+      },
+      {
+        "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+        "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+        "published": "Sat, 21 Nov 2026 05:59:19 +0000"
+      },
+      {
+        "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+        "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+        "published": "Sat, 21 Nov 2026 04:10:07 +0000"
+      },
       {
         "title": "Kalshi races to get ahead of New York order that could shut down exchange",
         "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
@@ -168,26 +188,6 @@
         "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
         "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
         "published": "Fri, 20 Nov 2026 14:54:30 +0000"
-      },
-      {
-        "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-        "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-        "published": "Fri, 20 Nov 2026 14:38:30 +0000"
-      },
-      {
-        "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-        "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-        "published": "Fri, 20 Nov 2026 14:25:57 +0000"
-      },
-      {
-        "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-        "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-        "published": "Fri, 20 Nov 2026 13:35:33 +0000"
-      },
-      {
-        "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-        "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-        "published": "Fri, 20 Nov 2026 13:30:22 +0000"
       }
     ]
   },
@@ -409,7 +409,7 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 645.24,
+        "price": 609.11,
         "dividend_yield": 0.0045,
         "ytd_return": 12.803,
         "expense_ratio": null,
@@ -417,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 715.90753,
+        "price": 689.507,
         "dividend_yield": 0.01,
         "ytd_return": 11.68683,
         "expense_ratio": null,
@@ -459,7 +459,7 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 80.31198,
+        "price": 81.38467,
         "dividend_yield": 0.0476,
         "ytd_return": -2.92049,
         "expense_ratio": null,
@@ -467,7 +467,7 @@
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 95.60166,
+        "price": 96.16455,
         "dividend_yield": 0.041100003,
         "ytd_return": -0.47632,
         "expense_ratio": null,
@@ -475,7 +475,7 @@
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 70.93,
+        "price": 71.33,
         "dividend_yield": 0.041100003,
         "ytd_return": -0.4284,
         "expense_ratio": null,
