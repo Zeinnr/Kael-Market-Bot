@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:37:06.369485Z",
+  "generated_at": "2026-11-25T01:47:36.710315Z",
   "economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -45,10 +45,10 @@
     },
     "DGS10": {
       "label": "US 10-Year Treasury Yield",
-      "date": "2026-11-20",
+      "date": "2026-11-23",
       "value": 4.92,
-      "previous_value": 5.04,
-      "change_pct": -2.38
+      "previous_value": 4.92,
+      "change_pct": 0.0
     },
     "GDP": {
       "label": "GDP (Kuartalan)",
@@ -108,49 +108,54 @@
     ],
     "markets": [
       {
-        "title": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
-        "link": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
-        "published": "Tue, 24 Nov 2026 16:24:00 GMT"
+        "title": "Dell’s stock rises as the AI boom helps sales more than double",
+        "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+        "published": "Wed, 25 Nov 2026 01:11:00 GMT"
       },
       {
-        "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-        "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-        "published": "Tue, 24 Nov 2026 16:23:00 GMT"
+        "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+        "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+        "published": "Wed, 25 Nov 2026 00:30:00 GMT"
       },
       {
-        "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-        "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-        "published": "Tue, 24 Nov 2026 16:18:00 GMT"
+        "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+        "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+        "published": "Wed, 25 Nov 2026 00:05:00 GMT"
       },
       {
-        "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
-        "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
-        "published": "Tue, 24 Nov 2026 16:08:00 GMT"
+        "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+        "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+        "published": "Tue, 24 Nov 2026 23:11:00 GMT"
       },
       {
-        "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-        "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-        "published": "Tue, 24 Nov 2026 15:30:00 GMT"
-      },
-      {
-        "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-        "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-        "published": "Tue, 24 Nov 2026 15:21:00 GMT"
+        "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+        "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+        "published": "Tue, 24 Nov 2026 21:53:00 GMT"
       },
       {
         "title": "Anthropic’s stock just broke below its IPO price for the first time",
         "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-        "published": "Tue, 24 Nov 2026 15:21:00 GMT"
+        "published": "Tue, 24 Nov 2026 21:46:00 GMT"
       },
       {
-        "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-        "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-        "published": "Tue, 24 Nov 2026 15:00:00 GMT"
+        "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+        "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+        "published": "Tue, 24 Nov 2026 21:45:00 GMT"
+      },
+      {
+        "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+        "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+        "published": "Tue, 24 Nov 2026 21:31:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation another story",
+        "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
+        "link": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
+        "published": "Tue, 24 Nov 2026 17:50:08 +0000"
+      },
+      {
+        "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
         "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
         "published": "Tue, 24 Nov 2026 16:00:25 +0000"
       },
@@ -170,7 +175,7 @@
         "published": "Tue, 24 Nov 2026 12:47:49 +0000"
       },
       {
-        "title": "Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture",
+        "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
         "link": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
         "published": "Tue, 24 Nov 2026 12:47:40 +0000"
       },
@@ -183,11 +188,6 @@
         "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
         "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
         "published": "Tue, 24 Nov 2026 12:04:39 +0000"
-      },
-      {
-        "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
-        "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
-        "published": "Tue, 24 Nov 2026 11:31:56 +0000"
       }
     ]
   },
@@ -195,9 +195,9 @@
     "big_tech": {
       "NVDA": {
         "name": "NVIDIA Corporation",
-        "price": 150.71,
-        "per": 16.18797,
-        "pbv": 13.624119,
+        "price": 155.38,
+        "per": 16.68958,
+        "pbv": 14.046285,
         "roe": 1.17364,
         "roa": 0.56036,
         "der": 14.306,
@@ -205,14 +205,14 @@
         "fcf": 99241377792,
         "revenue_growth": 1.032,
         "earnings_growth": 1.077,
-        "dividend_yield": 0.00664,
+        "dividend_yield": 0.00644,
         "valuation_flag": "fair relatif ke peer group"
       },
       "ORCL": {
         "name": "Oracle Corporation",
-        "price": 108.515,
-        "per": 17.008621,
-        "pbv": 5.3079143,
+        "price": 109.5,
+        "per": 17.16301,
+        "pbv": 5.356095,
         "roe": 0.41192,
         "roa": 0.06357,
         "der": 251.716,
@@ -220,14 +220,14 @@
         "fcf": -45853626368,
         "revenue_growth": 0.296,
         "earnings_growth": 0.545,
-        "dividend_yield": 0.01843,
+        "dividend_yield": 0.01826,
         "valuation_flag": "fair relatif ke peer group"
       },
       "AAPL": {
         "name": "Apple Inc.",
-        "price": 351.4,
-        "per": 39.131405,
-        "pbv": 45.559444,
+        "price": 354.07,
+        "per": 39.428734,
+        "pbv": 45.905617,
         "roe": 1.42257,
         "roa": 0.25868,
         "der": 84.286,
@@ -235,14 +235,14 @@
         "fcf": 105658376192,
         "revenue_growth": 0.117,
         "earnings_growth": 0.141,
-        "dividend_yield": 0.00307,
+        "dividend_yield": 0.00305,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSLA": {
         "name": "Tesla, Inc.",
-        "price": 376.105,
-        "per": 413.3022,
-        "pbv": 16.650656,
+        "price": 384.68,
+        "per": 422.72525,
+        "pbv": 17.030281,
         "roe": 0.03844,
         "roa": 0.01345,
         "der": 18.295,
@@ -255,9 +255,9 @@
       },
       "AMZN": {
         "name": "Amazon.com, Inc.",
-        "price": 251.125,
-        "per": 20.301132,
-        "pbv": 4.4245644,
+        "price": 252.29,
+        "per": 20.395311,
+        "pbv": 4.4450903,
         "roe": 0.27416,
         "roa": 0.06618,
         "der": 49.681,
@@ -270,9 +270,9 @@
       },
       "MSFT": {
         "name": "Microsoft Corporation",
-        "price": 495.99,
-        "per": 25.882046,
-        "pbv": 7.827816,
+        "price": 496.13,
+        "per": 25.89405,
+        "pbv": 7.8314466,
         "roe": 0.34221,
         "roa": 0.14408,
         "der": 28.465,
@@ -285,9 +285,9 @@
       },
       "GOOG": {
         "name": "Alphabet Inc.",
-        "price": 275.435,
-        "per": 14.383029,
-        "pbv": 5.1343064,
+        "price": 276.58,
+        "per": 14.44282,
+        "pbv": 5.1556497,
         "roe": 0.44286,
         "roa": 0.12743,
         "der": 22.187,
@@ -295,14 +295,14 @@
         "fcf": -1162499968,
         "revenue_growth": 0.247,
         "earnings_growth": -0.253,
-        "dividend_yield": 0.00319,
+        "dividend_yield": 0.00318,
         "valuation_flag": "fair relatif ke peer group"
       },
       "META": {
         "name": "Meta Platforms, Inc.",
-        "price": 587.26,
-        "per": 20.036165,
-        "pbv": 5.5107117,
+        "price": 589.82,
+        "per": 20.123508,
+        "pbv": 5.5347342,
         "roe": 0.32264,
         "roa": 0.14577,
         "der": 42.161,
@@ -310,14 +310,14 @@
         "fcf": 16848499712,
         "revenue_growth": 0.261,
         "earnings_growth": 2.648,
-        "dividend_yield": 0.00358,
+        "dividend_yield": 0.00356,
         "valuation_flag": "fair relatif ke peer group"
       },
       "PLTR": {
         "name": "Palantir Technologies Inc.",
-        "price": 160.585,
-        "per": 113.088036,
-        "pbv": 34.45291,
+        "price": 161.18,
+        "per": 113.50704,
+        "pbv": 34.580563,
         "roe": 0.40907001,
         "roa": 0.19313999,
         "der": 1.986,
@@ -330,9 +330,9 @@
       },
       "INTC": {
         "name": "Intel Corporation",
-        "price": 53.66,
+        "price": 54.8,
         "per": null,
-        "pbv": 2.4795525,
+        "pbv": 2.5322304,
         "roe": -0.0962,
         "roa": 0.01783,
         "der": 38.108,
@@ -345,9 +345,9 @@
       },
       "ASML": {
         "name": "ASML Holding N.V. - New York Re",
-        "price": 1317.47,
-        "per": 32.41806,
-        "pbv": 1131.2443,
+        "price": 1336.06,
+        "per": 32.875496,
+        "pbv": 1147.2065,
         "roe": 0.65636003,
         "roa": 0.18277,
         "der": 8.897,
@@ -355,14 +355,14 @@
         "fcf": 10374124544,
         "revenue_growth": 0.552,
         "earnings_growth": 1.359,
-        "dividend_yield": 0.00707,
+        "dividend_yield": 0.00697,
         "valuation_flag": "fair relatif ke peer group"
       },
       "TSM": {
         "name": "Taiwan Semiconductor Manufactur",
-        "price": 342.905,
-        "per": 22.223267,
-        "pbv": 65.86575,
+        "price": 349.2,
+        "per": 22.631239,
+        "pbv": 67.07491,
         "roe": 0.4186,
         "roa": 0.20581,
         "der": 15.188,
@@ -370,16 +370,16 @@
         "fcf": 1042594725888,
         "revenue_growth": 0.509,
         "earnings_growth": 0.687,
-        "dividend_yield": 0.01099,
+        "dividend_yield": 0.0108,
         "valuation_flag": "fair relatif ke peer group"
       }
     },
     "financials": {
       "BLK": {
         "name": "BlackRock, Inc.",
-        "price": 1134.42,
-        "per": 25.829237,
-        "pbv": 3.0171227,
+        "price": 1146.03,
+        "per": 26.09358,
+        "pbv": 3.048001,
         "roe": 0.11607,
         "roa": 0.03847,
         "der": 22.11,
@@ -387,14 +387,14 @@
         "fcf": 8455499776,
         "revenue_growth": 0.191,
         "earnings_growth": 0.254,
-        "dividend_yield": 0.0202,
+        "dividend_yield": 0.02,
         "valuation_flag": "data tidak cukup"
       },
       "BAC": {
         "name": "Bank of America Corporation",
-        "price": 48.368,
-        "per": 11.543675,
-        "pbv": 1.2321488,
+        "price": 48.56,
+        "per": 11.5894985,
+        "pbv": 1.2370399,
         "roe": 0.1073,
         "roa": 0.00944,
         "der": null,
@@ -402,7 +402,7 @@
         "fcf": null,
         "revenue_growth": 0.034,
         "earnings_growth": -0.125,
-        "dividend_yield": 0.02646,
+        "dividend_yield": 0.02636,
         "valuation_flag": "data tidak cukup"
       }
     },
@@ -413,7 +413,7 @@
         "dividend_yield": 0.0045,
         "ytd_return": 12.803,
         "expense_ratio": null,
-        "three_year_return": 0.16559419
+        "three_year_return": 0.1928657
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
@@ -421,7 +421,7 @@
         "dividend_yield": 0.01,
         "ytd_return": 11.68683,
         "expense_ratio": null,
-        "three_year_return": 0.1633708
+        "three_year_return": 0.1806926
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
@@ -429,7 +429,7 @@
         "dividend_yield": 0.0107,
         "ytd_return": 11.73498,
         "expense_ratio": null,
-        "three_year_return": 0.165134
+        "three_year_return": 0.18154961
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
@@ -437,7 +437,7 @@
         "dividend_yield": 0.0106,
         "ytd_return": 11.76882,
         "expense_ratio": null,
-        "three_year_return": 0.1626578
+        "three_year_return": 0.17917441
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
@@ -445,7 +445,7 @@
         "dividend_yield": 0.0793,
         "ytd_return": 6.80874,
         "expense_ratio": null,
-        "three_year_return": 0.0821177
+        "three_year_return": 0.0908389
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
@@ -453,7 +453,7 @@
         "dividend_yield": 0.1196,
         "ytd_return": 8.35251,
         "expense_ratio": null,
-        "three_year_return": 0.12803951
+        "three_year_return": 0.1501421
       }
     },
     "bonds": {
@@ -463,7 +463,7 @@
         "dividend_yield": 0.0476,
         "ytd_return": -2.92049,
         "expense_ratio": null,
-        "three_year_return": 0.0074054003
+        "three_year_return": 0.0073571
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
@@ -471,7 +471,7 @@
         "dividend_yield": 0.041100003,
         "ytd_return": -0.47632,
         "expense_ratio": null,
-        "three_year_return": 0.0420181
+        "three_year_return": 0.0416521
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
@@ -479,7 +479,7 @@
         "dividend_yield": 0.041100003,
         "ytd_return": -0.4284,
         "expense_ratio": null,
-        "three_year_return": 0.0418179
+        "three_year_return": 0.0411795
       }
     }
   }
