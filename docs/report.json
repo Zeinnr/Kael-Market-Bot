@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:22:51.666075Z",
+  "generated_at": "2026-11-26T15:55:03.181977Z",
   "raw_economic_data": {
     "CPIAUCSL": {
       "label": "CPI (Inflasi Konsumen)",
@@ -66,6 +66,16 @@
     ],
     "ai_tech": [
       {
+        "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+        "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+        "published": "Thu, 26 Nov 2026 13:10:00 +0000"
+      },
+      {
+        "title": "The next generation of bionic hands is here—and they can feel",
+        "link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+        "published": "Thu, 26 Nov 2026 09:59:00 +0000"
+      },
+      {
         "title": "How data centers are driving a US natural-gas boom",
         "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
         "published": "Wed, 25 Nov 2026 17:00:00 +0000"
@@ -94,100 +104,90 @@
         "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
         "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
         "published": "Mon, 23 Nov 2026 17:36:08 +0000"
-      },
-      {
-        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-        "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-        "published": "Mon, 23 Nov 2026 13:10:00 +0000"
-      },
-      {
-        "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-        "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-        "published": "Mon, 23 Nov 2026 11:00:00 +0000"
       }
     ],
     "markets": [
       {
-        "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+        "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
         "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-        "published": "Thu, 26 Nov 2026 01:15:00 GMT"
+        "published": "Thu, 26 Nov 2026 15:30:00 GMT"
       },
       {
-        "title": "Why this stock-market selloff is probably going to get worse before it gets better",
-        "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-        "published": "Thu, 26 Nov 2026 00:33:00 GMT"
+        "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+        "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+        "published": "Thu, 26 Nov 2026 15:13:00 GMT"
       },
       {
-        "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-        "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 23:30:00 GMT"
+        "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+        "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "published": "Thu, 26 Nov 2026 14:35:00 GMT"
       },
       {
-        "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-        "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 23:30:00 GMT"
+        "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+        "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+        "published": "Thu, 26 Nov 2026 14:00:00 GMT"
       },
       {
-        "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-        "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 23:00:00 GMT"
+        "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+        "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+        "published": "Thu, 26 Nov 2026 13:41:00 GMT"
       },
       {
-        "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-        "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 22:45:00 GMT"
+        "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+        "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+        "published": "Thu, 26 Nov 2026 13:24:00 GMT"
       },
       {
-        "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-        "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 22:16:00 GMT"
+        "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+        "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+        "published": "Thu, 26 Nov 2026 13:06:00 GMT"
       },
       {
-        "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-        "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-        "published": "Wed, 25 Nov 2026 22:11:00 GMT"
+        "title": "Capital preservation rather than chasing the market is how hedge funds are negotiating this volatility",
+        "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
+        "published": "Thu, 26 Nov 2026 12:37:00 GMT"
       }
     ],
     "crypto": [
       {
-        "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
-        "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
-        "published": "Wed, 25 Nov 2026 18:24:47 +0000"
+        "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+        "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+        "published": "Thu, 26 Nov 2026 14:05:58 +0000"
       },
       {
-        "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-        "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
-        "published": "Wed, 25 Nov 2026 17:38:33 +0000"
+        "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+        "link": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+        "published": "Thu, 26 Nov 2026 12:38:51 +0000"
       },
       {
-        "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
-        "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
-        "published": "Wed, 25 Nov 2026 16:02:31 +0000"
+        "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+        "published": "Thu, 26 Nov 2026 12:14:46 +0000"
       },
       {
-        "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
-        "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
-        "published": "Wed, 25 Nov 2026 16:02:07 +0000"
+        "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
+        "link": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
+        "published": "Thu, 26 Nov 2026 11:27:50 +0000"
       },
       {
-        "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
-        "published": "Wed, 25 Nov 2026 15:59:44 +0000"
+        "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+        "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+        "published": "Thu, 26 Nov 2026 11:17:22 +0000"
       },
       {
-        "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
-        "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
-        "published": "Wed, 25 Nov 2026 14:47:17 +0000"
+        "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+        "link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+        "published": "Thu, 26 Nov 2026 10:56:08 +0000"
       },
       {
-        "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
-        "link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
-        "published": "Wed, 25 Nov 2026 12:18:46 +0000"
+        "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+        "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+        "published": "Thu, 26 Nov 2026 10:40:33 +0000"
       },
       {
-        "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-        "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-        "published": "Wed, 25 Nov 2026 11:57:50 +0000"
+        "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+        "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+        "published": "Thu, 26 Nov 2026 08:01:33 +0000"
       }
     ]
   },
@@ -244,10 +244,10 @@
         "per": 417.73627,
         "pbv": 16.82929,
         "roe": 0.03844,
-        "roa": 0.01345,
+        "roa": 0.01512,
         "der": 18.295,
         "npm": 0.031070001,
-        "fcf": 4967249920,
+        "fcf": 5210999808,
         "revenue_growth": -0.002,
         "earnings_growth": -0.436,
         "dividend_yield": null,
@@ -409,7 +409,7 @@
     "etf": {
       "QQQ": {
         "name": "Invesco QQQ Trust",
-        "price": 637.95,
+        "price": 633.91,
         "dividend_yield": 0.0045,
         "ytd_return": 12.803,
         "expense_ratio": null,
@@ -417,7 +417,7 @@
       },
       "SPY": {
         "name": "State Street SPDR S&P 500 ETF Trust",
-        "price": 718.51355,
+        "price": 716.705,
         "dividend_yield": 0.01,
         "ytd_return": 11.68683,
         "expense_ratio": null,
@@ -425,7 +425,7 @@
       },
       "VOO": {
         "name": "Vanguard S&P 500 ETF",
-        "price": 660.44,
+        "price": 658.78,
         "dividend_yield": 0.0107,
         "ytd_return": 11.73498,
         "expense_ratio": null,
@@ -433,7 +433,7 @@
       },
       "VTI": {
         "name": "Vanguard Morningstar Total Stock Market ETF",
-        "price": 353.7,
+        "price": 353.31,
         "dividend_yield": 0.0106,
         "ytd_return": 11.76882,
         "expense_ratio": null,
@@ -441,7 +441,7 @@
       },
       "JEPI": {
         "name": "JPMorgan Equity Premium Income ETF",
-        "price": 55.9936,
+        "price": 56.0677,
         "dividend_yield": 0.0793,
         "ytd_return": 6.80874,
         "expense_ratio": null,
@@ -449,7 +449,7 @@
       },
       "JEPQ": {
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "price": 53.0373,
+        "price": 52.6836,
         "dividend_yield": 0.1196,
         "ytd_return": 8.35251,
         "expense_ratio": null,
@@ -459,7 +459,7 @@
     "bonds": {
       "TLT": {
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "price": 81.46347,
+        "price": 82.19389,
         "dividend_yield": 0.0476,
         "ytd_return": -2.92049,
         "expense_ratio": null,
@@ -467,7 +467,7 @@
       },
       "AGG": {
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "price": 96.18419,
+        "price": 96.49654,
         "dividend_yield": 0.041100003,
         "ytd_return": -0.47632,
         "expense_ratio": null,
@@ -475,7 +475,7 @@
       },
       "BND": {
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
-        "price": 71.34,
+        "price": 71.57,
         "dividend_yield": 0.041100003,
         "ytd_return": -0.4284,
         "expense_ratio": null,
@@ -558,7 +558,7 @@
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "composite_score": 0.013,
+        "composite_score": 0.012,
         "components_used": 9
       },
       {
@@ -576,7 +576,7 @@
       {
         "ticker": "ASML",
         "name": "ASML Holding N.V. - New York Re",
-        "composite_score": -0.055,
+        "composite_score": -0.056,
         "components_used": 9
       },
       {
@@ -606,7 +606,7 @@
       {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "composite_score": -1.02,
+        "composite_score": -1.018,
         "components_used": 8
       }
     ],
@@ -650,6 +650,6 @@
     ]
   },
   "analysis": {
-    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChQfVsoo6AJxGx7dUuJ9y\"}"
+    "error": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChRp1TV68yCtYfEpVvzcN\"}"
   }
 }
